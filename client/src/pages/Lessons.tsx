@@ -5,6 +5,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { LanguageSwitcher } from "@/components/LanguageSwitcher";
+import { useTranslation } from "react-i18next";
 import { 
   Sparkles, 
   BookOpen, 
@@ -27,20 +29,21 @@ const fadeInUp = {
 };
 
 const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const;
-const categories = [
-  { id: 'all', label: 'All Topics' },
-  { id: 'daily_conversation', label: 'Daily Conversation' },
-  { id: 'business', label: 'Business' },
-  { id: 'travel', label: 'Travel' },
-  { id: 'academic', label: 'Academic' },
-  { id: 'social', label: 'Social' },
-  { id: 'culture', label: 'Culture' },
-  { id: 'idioms', label: 'Idioms' },
-  { id: 'pronunciation', label: 'Pronunciation' }
+const categoryIds = [
+  'all',
+  'daily_conversation',
+  'business',
+  'travel',
+  'academic',
+  'social',
+  'culture',
+  'idioms',
+  'pronunciation'
 ] as const;
 
 export default function Lessons() {
   const { isAuthenticated } = useAuth();
+  const { t } = useTranslation();
   const [selectedLevel, setSelectedLevel] = useState<string>('all');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
@@ -67,18 +70,9 @@ export default function Lessons() {
     return colors[level] || 'badge-a1';
   };
 
-  const categoryLabel = (cat: string) => {
-    const labels: Record<string, string> = {
-      'daily_conversation': 'Daily Conversation',
-      'business': 'Business',
-      'travel': 'Travel',
-      'academic': 'Academic',
-      'social': 'Social',
-      'culture': 'Culture',
-      'idioms': 'Idioms',
-      'pronunciation': 'Pronunciation'
-    };
-    return labels[cat] || cat;
+  const getCategoryLabel = (cat: string) => {
+    if (cat === 'all') return t('lessons.allTopics');
+    return t(`lessons.categories.${cat}`);
   };
 
   return (
@@ -97,28 +91,31 @@ export default function Lessons() {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <span className="text-lg font-semibold" style={{ fontFamily: "'Playfair Display', serif" }}>
-                Prize2Pride
+                {t("common.appName")}
               </span>
             </Link>
           </div>
           
           <div className="hidden md:flex items-center gap-6">
             <Link href="/lessons" className="text-foreground font-medium">
-              Lessons
+              {t("nav.lessons")}
             </Link>
             <Link href="/practice" className="text-muted-foreground hover:text-foreground transition-colors">
-              Practice
+              {t("nav.practice")}
             </Link>
             <Link href="/vocabulary" className="text-muted-foreground hover:text-foreground transition-colors">
-              Vocabulary
+              {t("nav.vocabulary")}
             </Link>
           </div>
 
-          {isAuthenticated && (
-            <Link href="/dashboard">
-              <Button variant="outline">Dashboard</Button>
-            </Link>
-          )}
+          <div className="flex items-center gap-3">
+            <LanguageSwitcher />
+            {isAuthenticated && (
+              <Link href="/dashboard">
+                <Button variant="outline">{t("nav.dashboard")}</Button>
+              </Link>
+            )}
+          </div>
         </div>
       </nav>
 
@@ -131,10 +128,10 @@ export default function Lessons() {
           variants={fadeInUp}
         >
           <h1 className="text-3xl font-bold mb-2" style={{ fontFamily: "'Playfair Display', serif" }}>
-            Lesson Library
+            {t("lessons.title")}
           </h1>
           <p className="text-muted-foreground">
-            Explore our comprehensive collection of American English lessons
+            {t("lessons.subtitle")}
           </p>
         </motion.div>
 
@@ -149,7 +146,7 @@ export default function Lessons() {
           <div className="relative max-w-md">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <Input
-              placeholder="Search lessons..."
+              placeholder={t("lessons.searchPlaceholder")}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="pl-10"
@@ -164,7 +161,7 @@ export default function Lessons() {
               onClick={() => setSelectedLevel('all')}
               className={selectedLevel === 'all' ? 'gradient-navy text-white' : ''}
             >
-              All Levels
+              {t("lessons.allLevels")}
             </Button>
             {levels.map(level => (
               <Button
@@ -182,13 +179,13 @@ export default function Lessons() {
           {/* Category Tabs */}
           <Tabs value={selectedCategory} onValueChange={setSelectedCategory}>
             <TabsList className="flex-wrap h-auto gap-1 bg-transparent p-0">
-              {categories.map(cat => (
+              {categoryIds.map(cat => (
                 <TabsTrigger
-                  key={cat.id}
-                  value={cat.id}
+                  key={cat}
+                  value={cat}
                   className="data-[state=active]:bg-primary data-[state=active]:text-primary-foreground rounded-full px-4"
                 >
-                  {cat.label}
+                  {getCategoryLabel(cat)}
                 </TabsTrigger>
               ))}
             </TabsList>
@@ -230,7 +227,7 @@ export default function Lessons() {
                           {lesson.level}
                         </Badge>
                         <Badge variant="outline" className="text-xs">
-                          {categoryLabel(lesson.category)}
+                          {t(`lessons.categories.${lesson.category}`)}
                         </Badge>
                       </div>
                       
@@ -245,11 +242,11 @@ export default function Lessons() {
                       <div className="flex items-center justify-between text-sm text-muted-foreground">
                         <div className="flex items-center gap-1">
                           <Clock className="w-4 h-4" />
-                          <span>{lesson.duration} min</span>
+                          <span>{lesson.duration} {t("lessons.duration")}</span>
                         </div>
                         <div className="flex items-center gap-1">
                           <Zap className="w-4 h-4 text-primary" />
-                          <span>{lesson.xpReward} XP</span>
+                          <span>{lesson.xpReward} {t("lessons.xpReward")}</span>
                         </div>
                       </div>
                     </CardContent>
@@ -262,11 +259,11 @@ export default function Lessons() {
           <Card className="card-premium">
             <CardContent className="p-12 text-center">
               <BookOpen className="w-16 h-16 mx-auto mb-4 text-muted-foreground/30" />
-              <h3 className="text-xl font-semibold mb-2">No lessons found</h3>
+              <h3 className="text-xl font-semibold mb-2">{t("lessons.noLessons")}</h3>
               <p className="text-muted-foreground mb-6">
                 {searchQuery 
-                  ? "Try adjusting your search or filters"
-                  : "No lessons available for the selected filters"}
+                  ? t("lessons.noLessonsHint")
+                  : t("lessons.noLessonsHint")}
               </p>
               <Button 
                 variant="outline" 
@@ -276,7 +273,7 @@ export default function Lessons() {
                   setSearchQuery('');
                 }}
               >
-                Clear Filters
+                {t("lessons.clearFilters")}
               </Button>
             </CardContent>
           </Card>

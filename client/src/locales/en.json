@@ -1,0 +1,228 @@
+{
+  "common": {
+    "appName": "Prize2Pride",
+    "tagline": "Master American English with AI-Powered Learning",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "next": "Next",
+    "previous": "Previous",
+    "back": "Back",
+    "continue": "Continue",
+    "start": "Start",
+    "finish": "Finish",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "none": "None",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "nav": {
+    "home": "Home",
+    "lessons": "Lessons",
+    "practice": "Practice",
+    "vocabulary": "Vocabulary",
+    "achievements": "Achievements",
+    "dashboard": "Dashboard",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "getStarted": "Get Started Free",
+    "goToDashboard": "Go to Dashboard"
+  },
+  "home": {
+    "heroTitle": "Transform Your English,",
+    "heroTitleHighlight": "Transform Your Life",
+    "heroDescription": "Experience the most sophisticated American English learning platform. Interactive scenarios, AI-powered avatars, and personalized learning paths designed for your success.",
+    "startLearning": "Start Learning Free",
+    "watchDemo": "Watch Demo",
+    "stats": {
+      "lessons": "Interactive Lessons",
+      "avatars": "AI Avatars",
+      "vocabulary": "Vocabulary Words"
+    },
+    "features": {
+      "title": "Everything You Need to Excel",
+      "subtitle": "Our comprehensive platform combines cutting-edge AI technology with proven language learning methodologies.",
+      "interactiveScenarios": {
+        "title": "Interactive Scenarios",
+        "description": "Practice real-world American English conversations in immersive simulated scenarios"
+      },
+      "aiAvatars": {
+        "title": "AI Avatar Guides",
+        "description": "Learn with animated autonomous avatars that provide personalized feedback and guidance"
+      },
+      "gamifiedLearning": {
+        "title": "Gamified Learning",
+        "description": "Earn XP, unlock achievements, and track your progress through engaging challenges"
+      },
+      "structuredCurriculum": {
+        "title": "Structured Curriculum",
+        "description": "Lessons organized by proficiency levels (A1-C2) and practical topic categories"
+      },
+      "listeningAndSpeaking": {
+        "title": "Listening & Speaking",
+        "description": "Develop your comprehension and pronunciation with audio exercises"
+      },
+      "spacedRepetition": {
+        "title": "Spaced Repetition",
+        "description": "Master vocabulary with our intelligent flashcard system for lasting retention"
+      }
+    },
+    "levels": {
+      "title": "Structured Learning Path",
+      "subtitle": "Progress through internationally recognized proficiency levels",
+      "A1": "Beginner",
+      "A2": "Elementary",
+      "B1": "Intermediate",
+      "B2": "Upper Intermediate",
+      "C1": "Advanced",
+      "C2": "Mastery"
+    },
+    "testimonials": {
+      "title": "What Our Learners Say",
+      "subtitle": "Join thousands of successful English learners"
+    },
+    "cta": {
+      "title": "Ready to Transform Your English?",
+      "subtitle": "Join thousands of learners who have already started their journey to English mastery.",
+      "button": "Start Your Free Journey"
+    }
+  },
+  "lessons": {
+    "title": "Lesson Library",
+    "subtitle": "Explore our comprehensive collection of American English lessons",
+    "searchPlaceholder": "Search lessons...",
+    "allLevels": "All Levels",
+    "allTopics": "All Topics",
+    "noLessons": "No lessons found",
+    "noLessonsHint": "Try adjusting your search or filters",
+    "clearFilters": "Clear Filters",
+    "duration": "min",
+    "xpReward": "XP",
+    "categories": {
+      "daily_conversation": "Daily Conversation",
+      "business": "Business",
+      "travel": "Travel",
+      "academic": "Academic",
+      "social": "Social",
+      "culture": "Culture",
+      "idioms": "Idioms",
+      "pronunciation": "Pronunciation"
+    }
+  },
+  "lessonDetail": {
+    "startLesson": "Start Lesson",
+    "continueLesson": "Continue Lesson",
+    "reviewLesson": "Review Lesson",
+    "completed": "Completed",
+    "progress": "Progress",
+    "exercises": "Exercises",
+    "content": "Content",
+    "scenario": "Scenario",
+    "dialogue": "Dialogue",
+    "tip": "Tip",
+    "explanation": "Explanation"
+  },
+  "practice": {
+    "title": "Conversation Practice",
+    "subtitle": "Practice speaking with our AI avatars in real-world scenarios",
+    "selectScenario": "Select a Scenario",
+    "selectAvatar": "Choose Your Avatar",
+    "startConversation": "Start Conversation",
+    "endConversation": "End Conversation",
+    "yourMessage": "Type your message...",
+    "send": "Send",
+    "feedback": "Feedback",
+    "score": "Score",
+    "xpEarned": "XP Earned"
+  },
+  "vocabulary": {
+    "title": "Vocabulary Builder",
+    "subtitle": "Build your vocabulary with our intelligent flashcard system",
+    "myCollection": "My Collection",
+    "allWords": "All Words",
+    "dueForReview": "Due for Review",
+    "addToCollection": "Add to Collection",
+    "removeFromCollection": "Remove",
+    "showAnswer": "Show Answer",
+    "rateYourself": "How well did you know this?",
+    "ratings": {
+      "0": "Complete blackout",
+      "1": "Incorrect, but remembered",
+      "2": "Incorrect, but easy to recall",
+      "3": "Correct with difficulty",
+      "4": "Correct with hesitation",
+      "5": "Perfect response"
+    },
+    "word": "Word",
+    "definition": "Definition",
+    "pronunciation": "Pronunciation",
+    "partOfSpeech": "Part of Speech",
+    "example": "Example",
+    "status": {
+      "new": "New",
+      "learning": "Learning",
+      "review": "Review",
+      "mastered": "Mastered"
+    }
+  },
+  "achievements": {
+    "title": "Achievements",
+    "subtitle": "Track your accomplishments and earn badges",
+    "unlocked": "Unlocked",
+    "locked": "Locked",
+    "progress": "Progress",
+    "categories": {
+      "lessons": "Lessons",
+      "vocabulary": "Vocabulary",
+      "streak": "Streak",
+      "level": "Level",
+      "special": "Special"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "yourProgress": "Your Progress",
+    "todaysGoal": "Today's Goal",
+    "currentStreak": "Current Streak",
+    "days": "days",
+    "totalXP": "Total XP",
+    "level": "Level",
+    "lessonsCompleted": "Lessons Completed",
+    "wordsLearned": "Words Learned",
+    "achievementsUnlocked": "Achievements Unlocked",
+    "recommendedLessons": "Recommended for You",
+    "continueWhere": "Continue Where You Left Off",
+    "recentActivity": "Recent Activity",
+    "viewAll": "View All"
+  },
+  "profile": {
+    "title": "Profile",
+    "settings": "Settings",
+    "preferredLevel": "Preferred Level",
+    "nativeLanguage": "Native Language",
+    "learningGoals": "Learning Goals",
+    "notifications": "Notifications",
+    "theme": "Theme",
+    "language": "Language"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "es": "Español",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "zh": "中文"
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "unauthorized": "Unauthorized",
+    "serverError": "Server error",
+    "networkError": "Network error",
+    "tryAgain": "Try again"
+  }
+}

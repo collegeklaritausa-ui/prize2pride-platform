@@ -1,0 +1,228 @@
+{
+  "common": {
+    "appName": "Prize2Pride",
+    "tagline": "Maîtrisez l'anglais américain avec l'apprentissage assisté par IA",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "submit": "Soumettre",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "back": "Retour",
+    "continue": "Continuer",
+    "start": "Commencer",
+    "finish": "Terminer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "all": "Tout",
+    "none": "Aucun",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "nav": {
+    "home": "Accueil",
+    "lessons": "Leçons",
+    "practice": "Pratique",
+    "vocabulary": "Vocabulaire",
+    "achievements": "Réalisations",
+    "dashboard": "Tableau de bord",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "getStarted": "Commencer gratuitement",
+    "goToDashboard": "Aller au tableau de bord"
+  },
+  "home": {
+    "heroTitle": "Transformez votre anglais,",
+    "heroTitleHighlight": "Transformez votre vie",
+    "heroDescription": "Découvrez la plateforme d'apprentissage de l'anglais américain la plus sophistiquée. Scénarios interactifs, avatars IA et parcours d'apprentissage personnalisés conçus pour votre réussite.",
+    "startLearning": "Commencer gratuitement",
+    "watchDemo": "Voir la démo",
+    "stats": {
+      "lessons": "Leçons interactives",
+      "avatars": "Avatars IA",
+      "vocabulary": "Mots de vocabulaire"
+    },
+    "features": {
+      "title": "Tout ce dont vous avez besoin pour exceller",
+      "subtitle": "Notre plateforme complète combine une technologie IA de pointe avec des méthodologies d'apprentissage des langues éprouvées.",
+      "interactiveScenarios": {
+        "title": "Scénarios interactifs",
+        "description": "Pratiquez des conversations en anglais américain dans des scénarios immersifs simulés"
+      },
+      "aiAvatars": {
+        "title": "Guides avatars IA",
+        "description": "Apprenez avec des avatars autonomes animés qui fournissent des commentaires et des conseils personnalisés"
+      },
+      "gamifiedLearning": {
+        "title": "Apprentissage ludique",
+        "description": "Gagnez des XP, débloquez des réalisations et suivez vos progrès grâce à des défis engageants"
+      },
+      "structuredCurriculum": {
+        "title": "Programme structuré",
+        "description": "Leçons organisées par niveaux de compétence (A1-C2) et catégories thématiques pratiques"
+      },
+      "listeningAndSpeaking": {
+        "title": "Écoute et expression orale",
+        "description": "Développez votre compréhension et votre prononciation avec des exercices audio"
+      },
+      "spacedRepetition": {
+        "title": "Répétition espacée",
+        "description": "Maîtrisez le vocabulaire avec notre système intelligent de cartes mémoire pour une rétention durable"
+      }
+    },
+    "levels": {
+      "title": "Parcours d'apprentissage structuré",
+      "subtitle": "Progressez à travers des niveaux de compétence reconnus internationalement",
+      "A1": "Débutant",
+      "A2": "Élémentaire",
+      "B1": "Intermédiaire",
+      "B2": "Intermédiaire supérieur",
+      "C1": "Avancé",
+      "C2": "Maîtrise"
+    },
+    "testimonials": {
+      "title": "Ce que disent nos apprenants",
+      "subtitle": "Rejoignez des milliers d'apprenants d'anglais qui ont réussi"
+    },
+    "cta": {
+      "title": "Prêt à transformer votre anglais ?",
+      "subtitle": "Rejoignez des milliers d'apprenants qui ont déjà commencé leur voyage vers la maîtrise de l'anglais.",
+      "button": "Commencez votre voyage gratuit"
+    }
+  },
+  "lessons": {
+    "title": "Bibliothèque de leçons",
+    "subtitle": "Explorez notre collection complète de leçons d'anglais américain",
+    "searchPlaceholder": "Rechercher des leçons...",
+    "allLevels": "Tous les niveaux",
+    "allTopics": "Tous les sujets",
+    "noLessons": "Aucune leçon trouvée",
+    "noLessonsHint": "Essayez d'ajuster votre recherche ou vos filtres",
+    "clearFilters": "Effacer les filtres",
+    "duration": "min",
+    "xpReward": "XP",
+    "categories": {
+      "daily_conversation": "Conversation quotidienne",
+      "business": "Affaires",
+      "travel": "Voyage",
+      "academic": "Académique",
+      "social": "Social",
+      "culture": "Culture",
+      "idioms": "Expressions idiomatiques",
+      "pronunciation": "Prononciation"
+    }
+  },
+  "lessonDetail": {
+    "startLesson": "Commencer la leçon",
+    "continueLesson": "Continuer la leçon",
+    "reviewLesson": "Réviser la leçon",
+    "completed": "Terminé",
+    "progress": "Progression",
+    "exercises": "Exercices",
+    "content": "Contenu",
+    "scenario": "Scénario",
+    "dialogue": "Dialogue",
+    "tip": "Conseil",
+    "explanation": "Explication"
+  },
+  "practice": {
+    "title": "Pratique de conversation",
+    "subtitle": "Pratiquez la conversation avec nos avatars IA dans des scénarios réels",
+    "selectScenario": "Sélectionnez un scénario",
+    "selectAvatar": "Choisissez votre avatar",
+    "startConversation": "Commencer la conversation",
+    "endConversation": "Terminer la conversation",
+    "yourMessage": "Tapez votre message...",
+    "send": "Envoyer",
+    "feedback": "Commentaires",
+    "score": "Score",
+    "xpEarned": "XP gagnés"
+  },
+  "vocabulary": {
+    "title": "Constructeur de vocabulaire",
+    "subtitle": "Enrichissez votre vocabulaire avec notre système intelligent de cartes mémoire",
+    "myCollection": "Ma collection",
+    "allWords": "Tous les mots",
+    "dueForReview": "À réviser",
+    "addToCollection": "Ajouter à la collection",
+    "removeFromCollection": "Supprimer",
+    "showAnswer": "Afficher la réponse",
+    "rateYourself": "Comment avez-vous connu ce mot ?",
+    "ratings": {
+      "0": "Trou de mémoire complet",
+      "1": "Incorrect, mais je m'en souviens",
+      "2": "Incorrect, mais facile à rappeler",
+      "3": "Correct avec difficulté",
+      "4": "Correct avec hésitation",
+      "5": "Réponse parfaite"
+    },
+    "word": "Mot",
+    "definition": "Définition",
+    "pronunciation": "Prononciation",
+    "partOfSpeech": "Partie du discours",
+    "example": "Exemple",
+    "status": {
+      "new": "Nouveau",
+      "learning": "En apprentissage",
+      "review": "À réviser",
+      "mastered": "Maîtrisé"
+    }
+  },
+  "achievements": {
+    "title": "Réalisations",
+    "subtitle": "Suivez vos accomplissements et gagnez des badges",
+    "unlocked": "Débloqué",
+    "locked": "Verrouillé",
+    "progress": "Progression",
+    "categories": {
+      "lessons": "Leçons",
+      "vocabulary": "Vocabulaire",
+      "streak": "Série",
+      "level": "Niveau",
+      "special": "Spécial"
+    }
+  },
+  "dashboard": {
+    "welcome": "Bon retour",
+    "yourProgress": "Votre progression",
+    "todaysGoal": "Objectif du jour",
+    "currentStreak": "Série actuelle",
+    "days": "jours",
+    "totalXP": "XP total",
+    "level": "Niveau",
+    "lessonsCompleted": "Leçons terminées",
+    "wordsLearned": "Mots appris",
+    "achievementsUnlocked": "Réalisations débloquées",
+    "recommendedLessons": "Recommandé pour vous",
+    "continueWhere": "Continuez là où vous vous êtes arrêté",
+    "recentActivity": "Activité récente",
+    "viewAll": "Voir tout"
+  },
+  "profile": {
+    "title": "Profil",
+    "settings": "Paramètres",
+    "preferredLevel": "Niveau préféré",
+    "nativeLanguage": "Langue maternelle",
+    "learningGoals": "Objectifs d'apprentissage",
+    "notifications": "Notifications",
+    "theme": "Thème",
+    "language": "Langue"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "es": "Español",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "zh": "中文"
+  },
+  "errors": {
+    "notFound": "Page non trouvée",
+    "unauthorized": "Non autorisé",
+    "serverError": "Erreur serveur",
+    "networkError": "Erreur réseau",
+    "tryAgain": "Réessayer"
+  }
+}

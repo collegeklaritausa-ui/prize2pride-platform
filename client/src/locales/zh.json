@@ -1,0 +1,228 @@
+{
+  "common": {
+    "appName": "Prize2Pride",
+    "tagline": "用AI驱动的学习掌握美式英语",
+    "loading": "加载中...",
+    "error": "发生错误",
+    "save": "保存",
+    "cancel": "取消",
+    "submit": "提交",
+    "next": "下一步",
+    "previous": "上一步",
+    "back": "返回",
+    "continue": "继续",
+    "start": "开始",
+    "finish": "完成",
+    "search": "搜索",
+    "filter": "筛选",
+    "all": "全部",
+    "none": "无",
+    "yes": "是",
+    "no": "否"
+  },
+  "nav": {
+    "home": "首页",
+    "lessons": "课程",
+    "practice": "练习",
+    "vocabulary": "词汇",
+    "achievements": "成就",
+    "dashboard": "仪表板",
+    "signIn": "登录",
+    "signOut": "退出",
+    "getStarted": "免费开始",
+    "goToDashboard": "前往仪表板"
+  },
+  "home": {
+    "heroTitle": "改变你的英语，",
+    "heroTitleHighlight": "改变你的人生",
+    "heroDescription": "体验最先进的美式英语学习平台。互动场景、AI驱动的虚拟形象和为您的成功量身定制的个性化学习路径。",
+    "startLearning": "免费开始学习",
+    "watchDemo": "观看演示",
+    "stats": {
+      "lessons": "互动课程",
+      "avatars": "AI虚拟形象",
+      "vocabulary": "词汇量"
+    },
+    "features": {
+      "title": "卓越所需的一切",
+      "subtitle": "我们的综合平台将尖端AI技术与经过验证的语言学习方法相结合。",
+      "interactiveScenarios": {
+        "title": "互动场景",
+        "description": "在沉浸式模拟场景中练习真实的美式英语对话"
+      },
+      "aiAvatars": {
+        "title": "AI虚拟形象导师",
+        "description": "与提供个性化反馈和指导的动画自主虚拟形象一起学习"
+      },
+      "gamifiedLearning": {
+        "title": "游戏化学习",
+        "description": "赚取经验值，解锁成就，通过引人入胜的挑战追踪您的进度"
+      },
+      "structuredCurriculum": {
+        "title": "结构化课程",
+        "description": "按能力等级（A1-C2）和实用主题类别组织的课程"
+      },
+      "listeningAndSpeaking": {
+        "title": "听力与口语",
+        "description": "通过音频练习提高您的理解力和发音"
+      },
+      "spacedRepetition": {
+        "title": "间隔重复",
+        "description": "使用我们的智能闪卡系统掌握词汇，实现持久记忆"
+      }
+    },
+    "levels": {
+      "title": "结构化学习路径",
+      "subtitle": "通过国际认可的能力等级进步",
+      "A1": "入门级",
+      "A2": "基础级",
+      "B1": "中级",
+      "B2": "中高级",
+      "C1": "高级",
+      "C2": "精通级"
+    },
+    "testimonials": {
+      "title": "学员评价",
+      "subtitle": "加入数千名成功的英语学习者"
+    },
+    "cta": {
+      "title": "准备好改变你的英语了吗？",
+      "subtitle": "加入数千名已经开始英语精通之旅的学习者。",
+      "button": "开始您的免费之旅"
+    }
+  },
+  "lessons": {
+    "title": "课程库",
+    "subtitle": "探索我们全面的美式英语课程集合",
+    "searchPlaceholder": "搜索课程...",
+    "allLevels": "所有级别",
+    "allTopics": "所有主题",
+    "noLessons": "未找到课程",
+    "noLessonsHint": "尝试调整您的搜索或筛选条件",
+    "clearFilters": "清除筛选",
+    "duration": "分钟",
+    "xpReward": "经验值",
+    "categories": {
+      "daily_conversation": "日常对话",
+      "business": "商务",
+      "travel": "旅行",
+      "academic": "学术",
+      "social": "社交",
+      "culture": "文化",
+      "idioms": "习语",
+      "pronunciation": "发音"
+    }
+  },
+  "lessonDetail": {
+    "startLesson": "开始课程",
+    "continueLesson": "继续课程",
+    "reviewLesson": "复习课程",
+    "completed": "已完成",
+    "progress": "进度",
+    "exercises": "练习",
+    "content": "内容",
+    "scenario": "场景",
+    "dialogue": "对话",
+    "tip": "提示",
+    "explanation": "解释"
+  },
+  "practice": {
+    "title": "对话练习",
+    "subtitle": "在真实场景中与我们的AI虚拟形象练习口语",
+    "selectScenario": "选择场景",
+    "selectAvatar": "选择您的虚拟形象",
+    "startConversation": "开始对话",
+    "endConversation": "结束对话",
+    "yourMessage": "输入您的消息...",
+    "send": "发送",
+    "feedback": "反馈",
+    "score": "分数",
+    "xpEarned": "获得的经验值"
+  },
+  "vocabulary": {
+    "title": "词汇构建器",
+    "subtitle": "使用我们的智能闪卡系统构建您的词汇量",
+    "myCollection": "我的收藏",
+    "allWords": "所有单词",
+    "dueForReview": "待复习",
+    "addToCollection": "添加到收藏",
+    "removeFromCollection": "移除",
+    "showAnswer": "显示答案",
+    "rateYourself": "您对这个词的掌握程度如何？",
+    "ratings": {
+      "0": "完全忘记",
+      "1": "错误，但记起来了",
+      "2": "错误，但容易回忆",
+      "3": "正确但有困难",
+      "4": "正确但有犹豫",
+      "5": "完美回答"
+    },
+    "word": "单词",
+    "definition": "定义",
+    "pronunciation": "发音",
+    "partOfSpeech": "词性",
+    "example": "例句",
+    "status": {
+      "new": "新词",
+      "learning": "学习中",
+      "review": "复习",
+      "mastered": "已掌握"
+    }
+  },
+  "achievements": {
+    "title": "成就",
+    "subtitle": "追踪您的成就并获得徽章",
+    "unlocked": "已解锁",
+    "locked": "未解锁",
+    "progress": "进度",
+    "categories": {
+      "lessons": "课程",
+      "vocabulary": "词汇",
+      "streak": "连续",
+      "level": "等级",
+      "special": "特殊"
+    }
+  },
+  "dashboard": {
+    "welcome": "欢迎回来",
+    "yourProgress": "您的进度",
+    "todaysGoal": "今日目标",
+    "currentStreak": "当前连续天数",
+    "days": "天",
+    "totalXP": "总经验值",
+    "level": "等级",
+    "lessonsCompleted": "已完成课程",
+    "wordsLearned": "已学单词",
+    "achievementsUnlocked": "已解锁成就",
+    "recommendedLessons": "为您推荐",
+    "continueWhere": "继续上次的学习",
+    "recentActivity": "最近活动",
+    "viewAll": "查看全部"
+  },
+  "profile": {
+    "title": "个人资料",
+    "settings": "设置",
+    "preferredLevel": "首选级别",
+    "nativeLanguage": "母语",
+    "learningGoals": "学习目标",
+    "notifications": "通知",
+    "theme": "主题",
+    "language": "语言"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "es": "Español",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "zh": "中文"
+  },
+  "errors": {
+    "notFound": "页面未找到",
+    "unauthorized": "未授权",
+    "serverError": "服务器错误",
+    "networkError": "网络错误",
+    "tryAgain": "重试"
+  }
+}

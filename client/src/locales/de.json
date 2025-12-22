@@ -1,0 +1,228 @@
+{
+  "common": {
+    "appName": "Prize2Pride",
+    "tagline": "Meistere amerikanisches Englisch mit KI-gestütztem Lernen",
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "submit": "Absenden",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "back": "Zurück",
+    "continue": "Fortfahren",
+    "start": "Starten",
+    "finish": "Beenden",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "all": "Alle",
+    "none": "Keine",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "nav": {
+    "home": "Startseite",
+    "lessons": "Lektionen",
+    "practice": "Übung",
+    "vocabulary": "Vokabeln",
+    "achievements": "Erfolge",
+    "dashboard": "Dashboard",
+    "signIn": "Anmelden",
+    "signOut": "Abmelden",
+    "getStarted": "Kostenlos starten",
+    "goToDashboard": "Zum Dashboard"
+  },
+  "home": {
+    "heroTitle": "Transformiere dein Englisch,",
+    "heroTitleHighlight": "Transformiere dein Leben",
+    "heroDescription": "Erlebe die fortschrittlichste Lernplattform für amerikanisches Englisch. Interaktive Szenarien, KI-gestützte Avatare und personalisierte Lernpfade für deinen Erfolg.",
+    "startLearning": "Kostenlos lernen starten",
+    "watchDemo": "Demo ansehen",
+    "stats": {
+      "lessons": "Interaktive Lektionen",
+      "avatars": "KI-Avatare",
+      "vocabulary": "Vokabeln"
+    },
+    "features": {
+      "title": "Alles was du brauchst um zu glänzen",
+      "subtitle": "Unsere umfassende Plattform kombiniert modernste KI-Technologie mit bewährten Sprachlernmethoden.",
+      "interactiveScenarios": {
+        "title": "Interaktive Szenarien",
+        "description": "Übe reale amerikanische Englisch-Konversationen in immersiven simulierten Szenarien"
+      },
+      "aiAvatars": {
+        "title": "KI-Avatar-Guides",
+        "description": "Lerne mit animierten autonomen Avataren, die personalisiertes Feedback und Anleitung bieten"
+      },
+      "gamifiedLearning": {
+        "title": "Gamifiziertes Lernen",
+        "description": "Verdiene XP, schalte Erfolge frei und verfolge deinen Fortschritt durch spannende Herausforderungen"
+      },
+      "structuredCurriculum": {
+        "title": "Strukturierter Lehrplan",
+        "description": "Lektionen organisiert nach Kompetenzstufen (A1-C2) und praktischen Themenkategorien"
+      },
+      "listeningAndSpeaking": {
+        "title": "Hören & Sprechen",
+        "description": "Entwickle dein Verständnis und deine Aussprache mit Audio-Übungen"
+      },
+      "spacedRepetition": {
+        "title": "Verteilte Wiederholung",
+        "description": "Meistere Vokabeln mit unserem intelligenten Karteikartensystem für dauerhaftes Behalten"
+      }
+    },
+    "levels": {
+      "title": "Strukturierter Lernpfad",
+      "subtitle": "Fortschritt durch international anerkannte Kompetenzstufen",
+      "A1": "Anfänger",
+      "A2": "Grundstufe",
+      "B1": "Mittelstufe",
+      "B2": "Obere Mittelstufe",
+      "C1": "Fortgeschritten",
+      "C2": "Meisterschaft"
+    },
+    "testimonials": {
+      "title": "Was unsere Lernenden sagen",
+      "subtitle": "Schließe dich Tausenden erfolgreichen Englischlernenden an"
+    },
+    "cta": {
+      "title": "Bereit dein Englisch zu transformieren?",
+      "subtitle": "Schließe dich Tausenden von Lernenden an, die bereits ihre Reise zur Englischmeisterschaft begonnen haben.",
+      "button": "Starte deine kostenlose Reise"
+    }
+  },
+  "lessons": {
+    "title": "Lektionsbibliothek",
+    "subtitle": "Entdecke unsere umfassende Sammlung von amerikanischen Englisch-Lektionen",
+    "searchPlaceholder": "Lektionen suchen...",
+    "allLevels": "Alle Stufen",
+    "allTopics": "Alle Themen",
+    "noLessons": "Keine Lektionen gefunden",
+    "noLessonsHint": "Versuche deine Suche oder Filter anzupassen",
+    "clearFilters": "Filter löschen",
+    "duration": "Min",
+    "xpReward": "XP",
+    "categories": {
+      "daily_conversation": "Alltagsgespräche",
+      "business": "Business",
+      "travel": "Reisen",
+      "academic": "Akademisch",
+      "social": "Sozial",
+      "culture": "Kultur",
+      "idioms": "Redewendungen",
+      "pronunciation": "Aussprache"
+    }
+  },
+  "lessonDetail": {
+    "startLesson": "Lektion starten",
+    "continueLesson": "Lektion fortsetzen",
+    "reviewLesson": "Lektion wiederholen",
+    "completed": "Abgeschlossen",
+    "progress": "Fortschritt",
+    "exercises": "Übungen",
+    "content": "Inhalt",
+    "scenario": "Szenario",
+    "dialogue": "Dialog",
+    "tip": "Tipp",
+    "explanation": "Erklärung"
+  },
+  "practice": {
+    "title": "Konversationsübung",
+    "subtitle": "Übe das Sprechen mit unseren KI-Avataren in realen Szenarien",
+    "selectScenario": "Wähle ein Szenario",
+    "selectAvatar": "Wähle deinen Avatar",
+    "startConversation": "Gespräch starten",
+    "endConversation": "Gespräch beenden",
+    "yourMessage": "Schreibe deine Nachricht...",
+    "send": "Senden",
+    "feedback": "Feedback",
+    "score": "Punktzahl",
+    "xpEarned": "Verdiente XP"
+  },
+  "vocabulary": {
+    "title": "Vokabeltrainer",
+    "subtitle": "Baue deinen Wortschatz mit unserem intelligenten Karteikartensystem auf",
+    "myCollection": "Meine Sammlung",
+    "allWords": "Alle Wörter",
+    "dueForReview": "Zur Wiederholung",
+    "addToCollection": "Zur Sammlung hinzufügen",
+    "removeFromCollection": "Entfernen",
+    "showAnswer": "Antwort zeigen",
+    "rateYourself": "Wie gut kanntest du dieses Wort?",
+    "ratings": {
+      "0": "Totaler Blackout",
+      "1": "Falsch, aber erinnert",
+      "2": "Falsch, aber leicht zu erinnern",
+      "3": "Richtig mit Schwierigkeit",
+      "4": "Richtig mit Zögern",
+      "5": "Perfekte Antwort"
+    },
+    "word": "Wort",
+    "definition": "Definition",
+    "pronunciation": "Aussprache",
+    "partOfSpeech": "Wortart",
+    "example": "Beispiel",
+    "status": {
+      "new": "Neu",
+      "learning": "Lernend",
+      "review": "Wiederholung",
+      "mastered": "Gemeistert"
+    }
+  },
+  "achievements": {
+    "title": "Erfolge",
+    "subtitle": "Verfolge deine Errungenschaften und verdiene Abzeichen",
+    "unlocked": "Freigeschaltet",
+    "locked": "Gesperrt",
+    "progress": "Fortschritt",
+    "categories": {
+      "lessons": "Lektionen",
+      "vocabulary": "Vokabeln",
+      "streak": "Serie",
+      "level": "Stufe",
+      "special": "Spezial"
+    }
+  },
+  "dashboard": {
+    "welcome": "Willkommen zurück",
+    "yourProgress": "Dein Fortschritt",
+    "todaysGoal": "Heutiges Ziel",
+    "currentStreak": "Aktuelle Serie",
+    "days": "Tage",
+    "totalXP": "Gesamt-XP",
+    "level": "Stufe",
+    "lessonsCompleted": "Abgeschlossene Lektionen",
+    "wordsLearned": "Gelernte Wörter",
+    "achievementsUnlocked": "Freigeschaltete Erfolge",
+    "recommendedLessons": "Für dich empfohlen",
+    "continueWhere": "Mach weiter wo du aufgehört hast",
+    "recentActivity": "Letzte Aktivität",
+    "viewAll": "Alle anzeigen"
+  },
+  "profile": {
+    "title": "Profil",
+    "settings": "Einstellungen",
+    "preferredLevel": "Bevorzugte Stufe",
+    "nativeLanguage": "Muttersprache",
+    "learningGoals": "Lernziele",
+    "notifications": "Benachrichtigungen",
+    "theme": "Design",
+    "language": "Sprache"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "es": "Español",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "zh": "中文"
+  },
+  "errors": {
+    "notFound": "Seite nicht gefunden",
+    "unauthorized": "Nicht autorisiert",
+    "serverError": "Serverfehler",
+    "networkError": "Netzwerkfehler",
+    "tryAgain": "Erneut versuchen"
+  }
+}

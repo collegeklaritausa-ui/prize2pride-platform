@@ -1,0 +1,228 @@
+{
+  "common": {
+    "appName": "Prize2Pride",
+    "tagline": "أتقن الإنجليزية الأمريكية مع التعلم المدعوم بالذكاء الاصطناعي",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "submit": "إرسال",
+    "next": "التالي",
+    "previous": "السابق",
+    "back": "رجوع",
+    "continue": "متابعة",
+    "start": "ابدأ",
+    "finish": "إنهاء",
+    "search": "بحث",
+    "filter": "تصفية",
+    "all": "الكل",
+    "none": "لا شيء",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "lessons": "الدروس",
+    "practice": "التدريب",
+    "vocabulary": "المفردات",
+    "achievements": "الإنجازات",
+    "dashboard": "لوحة التحكم",
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج",
+    "getStarted": "ابدأ مجاناً",
+    "goToDashboard": "الذهاب إلى لوحة التحكم"
+  },
+  "home": {
+    "heroTitle": "حوّل إنجليزيتك،",
+    "heroTitleHighlight": "حوّل حياتك",
+    "heroDescription": "اختبر أكثر منصات تعلم الإنجليزية الأمريكية تطوراً. سيناريوهات تفاعلية، أفاتارات مدعومة بالذكاء الاصطناعي، ومسارات تعلم مخصصة مصممة لنجاحك.",
+    "startLearning": "ابدأ التعلم مجاناً",
+    "watchDemo": "شاهد العرض التوضيحي",
+    "stats": {
+      "lessons": "دروس تفاعلية",
+      "avatars": "أفاتارات ذكاء اصطناعي",
+      "vocabulary": "كلمات مفردات"
+    },
+    "features": {
+      "title": "كل ما تحتاجه للتفوق",
+      "subtitle": "تجمع منصتنا الشاملة بين تقنية الذكاء الاصطناعي المتطورة ومنهجيات تعلم اللغات المثبتة.",
+      "interactiveScenarios": {
+        "title": "سيناريوهات تفاعلية",
+        "description": "تدرب على محادثات الإنجليزية الأمريكية الواقعية في سيناريوهات محاكاة غامرة"
+      },
+      "aiAvatars": {
+        "title": "مرشدون أفاتار بالذكاء الاصطناعي",
+        "description": "تعلم مع أفاتارات متحركة مستقلة تقدم ملاحظات وإرشادات مخصصة"
+      },
+      "gamifiedLearning": {
+        "title": "تعلم مُلعَب",
+        "description": "اكسب نقاط الخبرة، افتح الإنجازات، وتتبع تقدمك من خلال تحديات جذابة"
+      },
+      "structuredCurriculum": {
+        "title": "منهج منظم",
+        "description": "دروس منظمة حسب مستويات الكفاءة (A1-C2) وفئات المواضيع العملية"
+      },
+      "listeningAndSpeaking": {
+        "title": "الاستماع والتحدث",
+        "description": "طور فهمك ونطقك مع تمارين صوتية"
+      },
+      "spacedRepetition": {
+        "title": "التكرار المتباعد",
+        "description": "أتقن المفردات مع نظام البطاقات التعليمية الذكي للاحتفاظ الدائم"
+      }
+    },
+    "levels": {
+      "title": "مسار تعلم منظم",
+      "subtitle": "تقدم عبر مستويات الكفاءة المعترف بها دولياً",
+      "A1": "مبتدئ",
+      "A2": "أساسي",
+      "B1": "متوسط",
+      "B2": "فوق المتوسط",
+      "C1": "متقدم",
+      "C2": "إتقان"
+    },
+    "testimonials": {
+      "title": "ماذا يقول متعلمونا",
+      "subtitle": "انضم إلى آلاف متعلمي الإنجليزية الناجحين"
+    },
+    "cta": {
+      "title": "مستعد لتحويل إنجليزيتك؟",
+      "subtitle": "انضم إلى آلاف المتعلمين الذين بدأوا رحلتهم نحو إتقان الإنجليزية.",
+      "button": "ابدأ رحلتك المجانية"
+    }
+  },
+  "lessons": {
+    "title": "مكتبة الدروس",
+    "subtitle": "استكشف مجموعتنا الشاملة من دروس الإنجليزية الأمريكية",
+    "searchPlaceholder": "ابحث في الدروس...",
+    "allLevels": "جميع المستويات",
+    "allTopics": "جميع المواضيع",
+    "noLessons": "لم يتم العثور على دروس",
+    "noLessonsHint": "حاول تعديل البحث أو الفلاتر",
+    "clearFilters": "مسح الفلاتر",
+    "duration": "دقيقة",
+    "xpReward": "نقاط خبرة",
+    "categories": {
+      "daily_conversation": "المحادثة اليومية",
+      "business": "الأعمال",
+      "travel": "السفر",
+      "academic": "أكاديمي",
+      "social": "اجتماعي",
+      "culture": "الثقافة",
+      "idioms": "التعبيرات الاصطلاحية",
+      "pronunciation": "النطق"
+    }
+  },
+  "lessonDetail": {
+    "startLesson": "ابدأ الدرس",
+    "continueLesson": "تابع الدرس",
+    "reviewLesson": "راجع الدرس",
+    "completed": "مكتمل",
+    "progress": "التقدم",
+    "exercises": "التمارين",
+    "content": "المحتوى",
+    "scenario": "السيناريو",
+    "dialogue": "الحوار",
+    "tip": "نصيحة",
+    "explanation": "شرح"
+  },
+  "practice": {
+    "title": "تدريب المحادثة",
+    "subtitle": "تدرب على التحدث مع أفاتاراتنا الذكية في سيناريوهات واقعية",
+    "selectScenario": "اختر سيناريو",
+    "selectAvatar": "اختر أفاتارك",
+    "startConversation": "ابدأ المحادثة",
+    "endConversation": "إنهاء المحادثة",
+    "yourMessage": "اكتب رسالتك...",
+    "send": "إرسال",
+    "feedback": "الملاحظات",
+    "score": "النتيجة",
+    "xpEarned": "نقاط الخبرة المكتسبة"
+  },
+  "vocabulary": {
+    "title": "بناء المفردات",
+    "subtitle": "ابنِ مفرداتك مع نظام البطاقات التعليمية الذكي",
+    "myCollection": "مجموعتي",
+    "allWords": "جميع الكلمات",
+    "dueForReview": "للمراجعة",
+    "addToCollection": "أضف إلى المجموعة",
+    "removeFromCollection": "إزالة",
+    "showAnswer": "أظهر الإجابة",
+    "rateYourself": "كيف كانت معرفتك بهذه الكلمة؟",
+    "ratings": {
+      "0": "نسيان تام",
+      "1": "خاطئ، لكن تذكرت",
+      "2": "خاطئ، لكن سهل التذكر",
+      "3": "صحيح بصعوبة",
+      "4": "صحيح مع تردد",
+      "5": "إجابة مثالية"
+    },
+    "word": "كلمة",
+    "definition": "التعريف",
+    "pronunciation": "النطق",
+    "partOfSpeech": "نوع الكلمة",
+    "example": "مثال",
+    "status": {
+      "new": "جديد",
+      "learning": "قيد التعلم",
+      "review": "للمراجعة",
+      "mastered": "متقن"
+    }
+  },
+  "achievements": {
+    "title": "الإنجازات",
+    "subtitle": "تتبع إنجازاتك واكسب الشارات",
+    "unlocked": "مفتوح",
+    "locked": "مقفل",
+    "progress": "التقدم",
+    "categories": {
+      "lessons": "الدروس",
+      "vocabulary": "المفردات",
+      "streak": "السلسلة",
+      "level": "المستوى",
+      "special": "خاص"
+    }
+  },
+  "dashboard": {
+    "welcome": "مرحباً بعودتك",
+    "yourProgress": "تقدمك",
+    "todaysGoal": "هدف اليوم",
+    "currentStreak": "السلسلة الحالية",
+    "days": "أيام",
+    "totalXP": "إجمالي نقاط الخبرة",
+    "level": "المستوى",
+    "lessonsCompleted": "الدروس المكتملة",
+    "wordsLearned": "الكلمات المتعلمة",
+    "achievementsUnlocked": "الإنجازات المفتوحة",
+    "recommendedLessons": "موصى به لك",
+    "continueWhere": "تابع من حيث توقفت",
+    "recentActivity": "النشاط الأخير",
+    "viewAll": "عرض الكل"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "preferredLevel": "المستوى المفضل",
+    "nativeLanguage": "اللغة الأم",
+    "learningGoals": "أهداف التعلم",
+    "notifications": "الإشعارات",
+    "theme": "المظهر",
+    "language": "اللغة"
+  },
+  "languages": {
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية",
+    "es": "Español",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "zh": "中文"
+  },
+  "errors": {
+    "notFound": "الصفحة غير موجودة",
+    "unauthorized": "غير مصرح",
+    "serverError": "خطأ في الخادم",
+    "networkError": "خطأ في الشبكة",
+    "tryAgain": "حاول مرة أخرى"
+  }
+}
