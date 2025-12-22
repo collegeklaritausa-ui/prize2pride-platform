@@ -1,8 +1,10 @@
-import { int, mysqlEnum, mysqlTable, text, timestamp, varchar, boolean, json } from "drizzle-orm/mysql-core";
+import { int, mysqlEnum, mysqlTable, text, timestamp, varchar, boolean, json, index, uniqueIndex } from "drizzle-orm/mysql-core";
 
 /**
  * Core user table backing auth flow.
  */
+import { index, uniqueIndex } from "drizzle-orm/mysql-core";
+
 export const users = mysqlTable("users", {
   id: int("id").autoincrement().primaryKey(),
   openId: varchar("openId", { length: 64 }).notNull().unique(),
@@ -70,7 +72,10 @@ export const lessons = mysqlTable("lessons", {
   isPublished: boolean("isPublished").default(true).notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
   updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+}, (table) => ({
+  levelIdx: index("lessons_level_idx").on(table.level),
+  categoryIdx: index("lessons_category_idx").on(table.category),
+}));
 
 export type Lesson = typeof lessons.$inferSelect;
 export type InsertLesson = typeof lessons.$inferInsert;
@@ -87,7 +92,9 @@ export const lessonContent = mysqlTable("lesson_content", {
   avatarId: varchar("avatarId", { length: 64 }), // Which avatar presents this content
   order: int("order").default(0).notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  lessonIdIdx: index("lesson_content_lessonId_idx").on(table.lessonId),
+}));
 
 export type LessonContent = typeof lessonContent.$inferSelect;
 export type InsertLessonContent = typeof lessonContent.$inferInsert;
@@ -107,7 +114,9 @@ export const exercises = mysqlTable("exercises", {
   xpReward: int("xpReward").default(10).notNull(),
   order: int("order").default(0).notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  lessonIdIdx: index("exercises_lessonId_idx").on(table.lessonId),
+}));
 
 export type Exercise = typeof exercises.$inferSelect;
 export type InsertExercise = typeof exercises.$inferInsert;
@@ -126,7 +135,10 @@ export const userLessonProgress = mysqlTable("user_lesson_progress", {
   startedAt: timestamp("startedAt"),
   completedAt: timestamp("completedAt"),
   lastAccessedAt: timestamp("lastAccessedAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  userIdIdx: index("user_lesson_progress_userId_idx").on(table.userId),
+  userLessonIdx: uniqueIndex("user_lesson_progress_user_lesson_idx").on(table.userId, table.lessonId),
+}));
 
 export type UserLessonProgress = typeof userLessonProgress.$inferSelect;
 export type InsertUserLessonProgress = typeof userLessonProgress.$inferInsert;
@@ -142,7 +154,10 @@ export const userExerciseAttempts = mysqlTable("user_exercise_attempts", {
   isCorrect: boolean("isCorrect").notNull(),
   xpEarned: int("xpEarned").default(0).notNull(),
   attemptedAt: timestamp("attemptedAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  userIdIdx: index("user_exercise_attempts_userId_idx").on(table.userId),
+  exerciseIdIdx: index("user_exercise_attempts_exerciseId_idx").on(table.exerciseId),
+}));
 
 export type UserExerciseAttempt = typeof userExerciseAttempts.$inferSelect;
 export type InsertUserExerciseAttempt = typeof userExerciseAttempts.$inferInsert;
@@ -161,7 +176,9 @@ export const vocabulary = mysqlTable("vocabulary", {
   level: mysqlEnum("level", ["A1", "A2", "B1", "B2", "C1", "C2"]).notNull(),
   category: varchar("category", { length: 64 }),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  levelIdx: index("vocabulary_level_idx").on(table.level),
+}));
 
 export type Vocabulary = typeof vocabulary.$inferSelect;
 export type InsertVocabulary = typeof vocabulary.$inferInsert;
@@ -181,7 +198,11 @@ export const userVocabulary = mysqlTable("user_vocabulary", {
   lastReviewedAt: timestamp("lastReviewedAt"),
   status: mysqlEnum("status", ["new", "learning", "review", "mastered"]).default("new").notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  userIdIdx: index("user_vocabulary_userId_idx").on(table.userId),
+  reviewDateIdx: index("user_vocabulary_review_date_idx").on(table.nextReviewDate),
+  userVocabIdx: uniqueIndex("user_vocabulary_user_vocab_idx").on(table.userId, table.vocabularyId),
+}));
 
 export type UserVocabulary = typeof userVocabulary.$inferSelect;
 export type InsertUserVocabulary = typeof userVocabulary.$inferInsert;
@@ -198,7 +219,9 @@ export const achievements = mysqlTable("achievements", {
   requirement: text("requirement").notNull(), // JSON describing unlock condition
   category: mysqlEnum("category", ["lessons", "vocabulary", "streak", "level", "special"]).notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  categoryIdx: index("achievements_category_idx").on(table.category),
+}));
 
 export type Achievement = typeof achievements.$inferSelect;
 export type InsertAchievement = typeof achievements.$inferInsert;
@@ -211,7 +234,10 @@ export const userAchievements = mysqlTable("user_achievements", {
   userId: int("userId").notNull(),
   achievementId: int("achievementId").notNull(),
   unlockedAt: timestamp("unlockedAt").defaultNow().notNull(),
-});
+}, (table) => ({
+  userIdIdx: index("user_achievements_userId_idx").on(table.userId),
+  userAchievementIdx: uniqueIndex("user_achievements_user_achievement_idx").on(table.userId, table.achievementId),
+}));
 
 export type UserAchievement = typeof userAchievements.$inferSelect;
 export type InsertUserAchievement = typeof userAchievements.$inferInsert;
@@ -230,7 +256,9 @@ export const conversationSessions = mysqlTable("conversation_sessions", {
   xpEarned: int("xpEarned").default(0).notNull(),
   startedAt: timestamp("startedAt").defaultNow().notNull(),
   endedAt: timestamp("endedAt"),
-});
+}, (table) => ({
+  userIdIdx: index("conversation_sessions_userId_idx").on(table.userId),
+}));
 
 export type ConversationSession = typeof conversationSessions.$inferSelect;
 export type InsertConversationSession = typeof conversationSessions.$inferInsert;

@@ -52,11 +52,13 @@ export const appRouter = router({
     getById: publicProcedure
       .input(z.object({ id: z.number() }))
       .query(async ({ input }) => {
-        const lesson = await db.getLessonById(input.id);
+        const [lesson, content, exercises] = await Promise.all([
+          db.getLessonById(input.id),
+          db.getLessonContent(input.id),
+          db.getLessonExercises(input.id),
+        ]);
+
         if (!lesson) return null;
-        
-        const content = await db.getLessonContent(input.id);
-        const exercises = await db.getLessonExercises(input.id);
         
         return { lesson, content, exercises };
       }),
