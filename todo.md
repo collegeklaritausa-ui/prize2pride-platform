@@ -35,5 +35,5 @@
 ## Testing & Deployment
 
 - [x] Vitest tests for backend procedures
-- [ ] Push to GitHub repository
+- [x] Push to GitHub repository
 
