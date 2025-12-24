@@ -1,0 +1,73 @@
+{
+  "id": "GM-B1-00028",
+  "number": 28,
+  "title": "Mastering American English Verb Tenses: The Path to Grammar Greatness",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and correctly use the 12 major verb tenses in American English.",
+    "Distinguish between simple, continuous, perfect, and perfect continuous tenses.",
+    "Formulate sentences accurately in various tenses to express time and aspect.",
+    "Recognize common mistakes and learn how to avoid them when using verb tenses.",
+    "Enhance fluency and precision in spoken and written American English through tense mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "tense",
+      "definition": "A grammatical category that locates the action or state of a verb in time, such as past, present, or future.",
+      "example": "In the sentence 'She is running,' 'is running' is in the present continuous tense."
+    },
+    {
+      "word": "aspect",
+      "definition": "A grammatical feature that expresses how an action relates to time, such as completed or ongoing.",
+      "example": "The difference between 'I eat' and 'I am eating' reflects aspect—habitual vs. ongoing action."
+    },
+    {
+      "word": "perfect tense",
+      "definition": "A verb form used to describe actions that are completed relative to a certain point in time.",
+      "example": "He has finished his homework."
+    },
+    {
+      "word": "continuous tense",
+      "definition": "A verb form indicating ongoing or continuous action.",
+      "example": "They are studying for their exams."
+    },
+    {
+      "word": "regular verb",
+      "definition": "A verb that forms its past tense and past participle by adding '-ed' or '-d' to the base form.",
+      "example": "talk → talked, walk → walked."
+    }
+  ],
+  "content": "Welcome to the ultimate guide to mastering American English verb tenses! As a language god in the making, understanding how to navigate the 12 major verb tenses is crucial. These tenses include: present simple, present continuous, present perfect, present perfect continuous, past simple, past continuous, past perfect, past perfect continuous, future simple, future continuous, future perfect, and future perfect continuous.\n\n**Simple Tenses:** Use these for general truths, habitual actions, or completed actions. \n- Example: 'I walk to school every day.'\n- Past: 'I walked yesterday.'\n- Future: 'I will walk tomorrow.'\n\n**Continuous Tenses:** Indicate ongoing actions. \n- Example: 'She is reading now.'\n- Past continuous: 'She was reading when I called.'\n- Future continuous: 'She will be reading at 8 pm.'\n\n**Perfect Tenses:** Show completed actions relative to a time point.\n- Example: 'They have finished their homework.'\n- Past perfect: 'They had finished before dinner.'\n- Future perfect: 'They will have finished by then.'\n\n**Perfect Continuous Tenses:** Emphasize the duration of ongoing actions up to a point.\n- Example: 'He has been working for three hours.'\n- Past perfect continuous: 'He had been working before he took a break.'\n- Future perfect continuous: 'He will have been working for five hours by noon.'\n\nMastering these tenses allows you to express time with precision, fluency, and nuance—key traits of a true American English GOD!\n\nRemember, practice makes perfect. Try forming sentences in each tense to solidify your understanding and elevate your mastery!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb tense for the sentence: 'I ___ (study) for three hours when she arrived.'",
+      "answer": "had been studying"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct tense: 'She ___ (finish) her project by next week.'",
+      "answer": "will have finished"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake in this sentence: 'He do his homework every day.'",
+      "answer": "He does his homework every day."
+    },
+    {
+      "type": "matching",
+      "question": "Match the tense to its correct description:\nA. Present Perfect\nB. Past Continuous\nC. Future Simple\n\n1. An action that will happen in the future.\n2. An action completed at an unspecified time in the past.\n3. An ongoing action at a specific time in the past.",
+      "answer": {
+        "A": "2",
+        "B": "3",
+        "C": "1"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, the use of tense can often reflect the speaker's perspective on time—whether emphasizing progress, completion, or habitual actions. Americans tend to favor clear, direct communication, making accurate tense usage vital for effective expression. Additionally, in storytelling and everyday conversations, the nuanced use of tenses can add emphasis or clarity, helping you sound more natural and confident in your American English mastery journey.",
+  "createdAt": "2025-12-24T04:16:14.702Z"
+}

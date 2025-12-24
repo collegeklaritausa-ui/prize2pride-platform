@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00020",
+  "number": 20,
+  "title": "Mastering Present Tense: Your First Step to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of the present simple tense",
+    "Identify when to use the present simple tense in everyday situations",
+    "Formulate positive and negative sentences in the present simple tense",
+    "Use the present simple tense with regular and irregular verbs",
+    "Practice speaking and writing sentences using the present simple tense"
+  ],
+  "vocabulary": [
+    {
+      "word": "verb",
+      "definition": "A word that describes an action, state, or occurrence.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "present simple tense",
+      "definition": "A verb tense used to describe habits, general truths, and routines.",
+      "example": "I eat breakfast at 7 am."
+    },
+    {
+      "word": "subject",
+      "definition": "The person or thing performing the action of the verb.",
+      "example": "They play soccer."
+    }
+  ],
+  "content": "Welcome to the first step in becoming a god of American English grammar! Today, we focus on the present simple tense, which is essential for expressing daily routines, facts, and habits.\n\n**What is the Present Simple Tense?**\nThe present simple tense is formed using the base form of the verb for most subjects. For third person singular (he, she, it), add an -s or -es.\n\n**Examples:**\n- I work at a bank.\n- She watches TV every evening.\n- They go to school.\n\n**When to Use the Present Simple:**\n- To express habits or routines: \"I brush my teeth twice a day.\"\n- To state facts or general truths: \"The sun rises in the east.\"\n- For scheduled events in the near future: \"The train leaves at 6 pm.\"\n\n**Forming Sentences:**\n- Positive: Subject + base verb (+ s/es for he, she, it)\n  - I play, She plays\n- Negative: Subject + do/does not + base verb\n  - I do not (don't) play, She does not (doesn't) play\n- Questions: Do/Does + subject + base verb?\n  - Do you like pizza? Does he go to school?\n\nPractice makes perfect! Use these rules to create your own sentences about your daily routines and facts.\n\nRemember: Mastery of the present simple tense is key to speaking confidently about everyday life in American English.",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "She ____ (to read) a book every night.",
+      "answer": "reads"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct sentence:",
+      "answer": "They play soccer on weekends."
+    },
+    {
+      "type": "translation",
+      "question": "Translate to English: 'Él come manzanas.'",
+      "answer": "He eats apples."
+    },
+    {
+      "type": "write-sentence",
+      "question": "Write a sentence about your daily routine using the present simple tense.",
+      "answer": "I go to school every day."
+    }
+  ],
+  "culturalNotes": "In American culture, daily routines and punctuality are valued highly. Using the present simple tense correctly helps you share your habits and connect with others. Americans often talk about their schedules, hobbies, and routines, so mastering this tense is essential for everyday conversations and understanding American TV shows, movies, and social interactions.",
+  "createdAt": "2025-12-24T04:15:39.419Z"
+}

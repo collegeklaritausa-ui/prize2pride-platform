@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00086",
+  "number": 86,
+  "title": "Mastering Conditionals: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of zero and first conditionals in American English.",
+    "Identify and use 'if' clauses correctly in everyday situations.",
+    "Practice forming positive and negative conditional sentences.",
+    "Gain confidence in speaking and writing simple conditionals.",
+    "Discover how conditionals are used in American culture and conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that expresses a condition and its result.",
+      "example": "If it rains, I will stay inside."
+    },
+    {
+      "word": "if clause",
+      "definition": "The part of the sentence that starts with 'if' and states the condition.",
+      "example": "If you study, you will pass the test."
+    },
+    {
+      "word": "result clause",
+      "definition": "The part of the sentence that describes what happens if the condition is true.",
+      "example": "You will succeed."
+    }
+  ],
+  "content": "Welcome to the lesson on conditionals, a fundamental part of American English! Conditionals help us talk about real and possible situations. There are mainly two types at the elementary level:\n\n1. Zero Conditional: Used for facts or general truths. Structure: If + present simple, + present simple.\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Used for real future possibilities. Structure: If + present simple, + will + verb.\n   - Example: If it rains tomorrow, we will stay home.\n\nLet's look at some examples:\n- Zero Conditional: If you add sugar to tea, it tastes sweet.\n- First Conditional: If you study hard, you will pass the test.\n\nRemember, in American English, the 'if' clause can sometimes come at the end of the sentence:\n- You will stay inside if it rains.\n\nPractice forming these sentences in positive and negative forms:\n- Positive Zero Conditional: If you cook dinner, I help set the table.\n- Negative Zero Conditional: If you don’t water plants, they die.\n- Positive First Conditional: If you go to the park, I will join you.\n- Negative First Conditional: If you don’t study, you won’t pass.\n\nUsing conditionals correctly helps in daily conversations, giving advice, making plans, or talking about facts. Keep practicing to become a true GOD of American English conditionals!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence: If you ____ (study), you ____ (pass) the test.",
+      "answer": "study, will pass"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Which sentence is a correct first conditional?",
+      "answer": "If it rains, I will bring an umbrella."
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite using the 'if' at the end: You will be happy if you try.",
+      "answer": "You will be happy if you try."
+    },
+    {
+      "type": "true/false",
+      "question": "The zero conditional is used for possible future events. True or False?",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in everyday conversations for giving advice, making promises, or talking about facts. Phrases like 'If you need help, just ask' or 'If you see John, tell him to call me' are common. Understanding and using conditionals correctly helps you sound natural and confident in American social and professional settings.",
+  "createdAt": "2025-12-24T04:20:22.642Z"
+}

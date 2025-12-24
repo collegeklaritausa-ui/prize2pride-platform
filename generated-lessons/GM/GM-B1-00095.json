@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00095",
+  "number": 95,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Explain the different types of conditionals in American English",
+    "Identify and correctly use first, second, and third conditionals in context",
+    "Construct complex sentences using conditionals to express real and unreal situations",
+    "Distinguish between formal and informal conditional expressions",
+    "Apply conditionals accurately in spoken and written American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure expressing that one thing depends on another.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Relating to situations that are imagined or not real.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "real condition",
+      "definition": "A condition that is likely to happen or is true.",
+      "example": "If you study hard, you will pass the exam."
+    },
+    {
+      "word": "unreal condition",
+      "definition": "A condition that is unlikely, impossible, or contrary to reality.",
+      "example": "If I had wings, I could fly."
+    }
+  ],
+  "content": "Conditionals are essential in American English for expressing possibilities, hypotheses, and consequences. There are primarily three types:\n\n1. **First Conditional** (Real possibility): Used when the condition is likely to happen. \n   - Structure: If + present simple, ... will + base verb\n   - Example: If you study, you will pass the test.\n\n2. **Second Conditional** (Unreal or unlikely present/future): Used for hypothetical situations in the present or future.\n   - Structure: If + past simple, ... would + base verb\n   - Example: If I were taller, I would play basketball.\n\n3. **Third Conditional** (Unreal past): Used to talk about hypothetical situations in the past.\n   - Structure: If + past perfect, ... would have + past participle\n   - Example: If she had left earlier, she would have caught the bus.\n\nIn conversational American English, conditionals often blend formal structures with casual phrases. For instance, \"If I were you\" is a common way to give advice, even in informal settings.\n\nUnderstanding the nuances of conditionals allows you to express yourself more precisely and confidently, whether you're making plans, giving advice, or discussing hypothetical scenarios.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form for the sentence: 'If it ___ tomorrow, we will stay indoors.'",
+      "answer": "rains"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'If I ___ (be) you, I would take the job.'",
+      "answer": "were"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence using the third conditional: 'She didn’t study, so she failed the exam.'",
+      "answer": "If she had studied, she would have passed the exam."
+    },
+    {
+      "type": "sentence creation",
+      "question": "Create a sentence using the second conditional to talk about a dream you have.",
+      "answer": "If I had a million dollars, I would buy a house by the beach."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in everyday speech to give advice, make promises, or discuss future plans and hypothetical situations. Phrases like 'If I were you' are common and are often used to offer friendly suggestions. Understanding these expressions helps non-native speakers blend seamlessly into American social and professional settings, making communication more natural and effective.",
+  "createdAt": "2025-12-24T04:20:55.028Z"
+}

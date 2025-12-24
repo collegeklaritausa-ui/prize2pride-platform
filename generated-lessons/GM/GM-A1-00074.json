@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00074",
+  "number": 74,
+  "title": "Mastering Conditionals: Your First Step to English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic structure of zero and first conditionals in American English",
+    "Identify when to use each type of conditional in everyday conversations",
+    "Form correct zero and first conditional sentences",
+    "Apply conditionals to real-life situations to improve communication",
+    "Gain confidence in incorporating conditionals into speech and writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "a sentence that expresses a situation and its result, often starting with 'if'",
+      "example": "If it rains, we will stay indoors."
+    },
+    {
+      "word": "zero conditional",
+      "definition": "a conditional that talks about general truths or facts",
+      "example": "If you heat water to 100°C, it boils."
+    },
+    {
+      "word": "first conditional",
+      "definition": "a conditional used for real and possible future situations",
+      "example": "If I study tonight, I will pass the test."
+    }
+  ],
+  "content": "Welcome to the world of conditionals! Conditionals help us talk about real or possible situations and their outcomes. There are mainly two types suitable for beginners:\n\n1. Zero Conditional:\n- Used to describe facts or things that are always true.\n- Structure: If + present simple, present simple.\n- Example: If you don’t water plants, they die.\n\n2. First Conditional:\n- Used to talk about real possibilities in the future.\n- Structure: If + present simple, will + base verb.\n- Example: If it rains tomorrow, we will cancel the picnic.\n\nPractice makes perfect! Try creating your own sentences using these structures. Remember, in zero conditionals, both parts use the present simple. In first conditionals, the second part uses 'will' plus the base verb.\n\nUnderstanding these will help you describe facts and future plans clearly in American English. Now, go ahead and practice the examples below!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence: If you ______ (study) hard, you ______ (pass) the exam.",
+      "answer": "study; will pass"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct sentence:\nA) If it rains, I will stay home.\nB) If it rained, I stay home.\nC) If it rains, I stay home.",
+      "answer": "A) If it rains, I will stay home."
+    },
+    {
+      "type": "sentence creation",
+      "question": "Create a zero conditional sentence about water boiling.",
+      "answer": "If water reaches 100°C, it boils."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are frequently used in everyday conversations, especially when discussing plans, weather, and facts. Using correct conditional sentences helps you sound more natural and confident. Americans often speak casually, so mastering conditionals will make your communication more fluent and expressive in social and professional settings.",
+  "createdAt": "2025-12-24T04:19:42.731Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00025",
+  "number": 25,
+  "title": "Mastering Verb Tenses: Unlocking the Power of Time in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and correctly use the present simple, present continuous, and present perfect tenses.",
+    "Differentiate between simple and continuous tenses in various contexts.",
+    "Construct sentences using appropriate verb tenses for clarity and accuracy.",
+    "Recognize common errors in verb tense usage and correct them.",
+    "Apply verb tenses confidently in both written and spoken American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A grammatical form of a verb that indicates the time at which an action occurs.",
+      "example": "In the sentence 'She is reading,' 'is reading' is in the present continuous tense."
+    },
+    {
+      "word": "Present Simple",
+      "definition": "A tense used to describe habitual actions, general truths, and facts.",
+      "example": "He works at the cafe every morning."
+    },
+    {
+      "word": "Present Continuous",
+      "definition": "A tense used to describe actions happening right now or around the current time.",
+      "example": "They are playing soccer in the park."
+    },
+    {
+      "word": "Present Perfect",
+      "definition": "A tense used to describe actions that happened at an unspecified time before now or that started in the past and continue to the present.",
+      "example": "I have visited New York three times."
+    }
+  ],
+  "content": "In American English, mastering verb tenses is essential for expressing time accurately and clearly. The three present tenses—simple, continuous, and perfect—are foundational:\n\n1. Present Simple: Use for habitual actions, facts, and general truths. Example: 'She drives to work every day.'\n2. Present Continuous: Use for actions happening right now or temporary situations. Example: 'I am studying for my exam.'\n3. Present Perfect: Use for actions that occurred at an unspecified time or have relevance to the present. Example: 'They have finished their homework.'\n\nUnderstanding the subtle differences helps prevent common errors. For instance, confusing 'I work here' with 'I am working here' can change the meaning from a routine to a current activity.\n\nPractice with real-life scenarios to internalize these tenses. For example, describe your daily routine using the present simple, what you're doing right now with the present continuous, and recent experiences with the present perfect.\n\nRemember, consistent practice and exposure will make you a true GOD of American English verb tenses!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct verb tense: 'Yesterday, I ____ (visit) my grandma.'",
+      "answer": "visited"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct tense: 'Right now, she ____ (cook) dinner.'",
+      "answer": "is cooking"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the error: 'I have go to the gym every morning.'",
+      "answer": "I go to the gym every morning."
+    },
+    {
+      "type": "Create a sentence",
+      "question": "Use the present perfect tense to write a sentence about your recent experiences.",
+      "answer": "I have traveled to three different states this year."
+    }
+  ],
+  "culturalNotes": "In American culture, the use of specific verb tenses can reflect cultural emphasis on routine, punctuality, and progress. For example, Americans often use the present perfect to highlight achievements or experiences that contribute to personal growth. Understanding these nuances can help non-native speakers communicate more naturally and be better understood in diverse social and professional settings.",
+  "createdAt": "2025-12-24T04:16:00.841Z"
+}

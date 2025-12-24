@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00016",
+  "number": 16,
+  "title": "Mastering Simple Present Tense: The Building Block of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the structure of the simple present tense",
+    "Identify when to use the simple present tense in everyday situations",
+    "Form sentences using the simple present tense correctly",
+    "Differentiate between singular and plural subjects in the simple present tense",
+    "Build confidence to use the simple present tense in speaking and writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb",
+      "definition": "A word that describes an action or state of being.",
+      "example": "Run, eat, is, am, are"
+    },
+    {
+      "word": "Present Tense",
+      "definition": "A verb tense that describes actions happening now or regularly.",
+      "example": "She walks to school every day."
+    }
+  ],
+  "content": "Welcome to your journey towards becoming a GOD of American English! Today, we'll focus on the simple present tense, the foundation for talking about routines, facts, and general truths.\n\nThe simple present tense is formed using the base form of the verb for most subjects. For third person singular (he, she, it), add an -s or -es to the verb.\n\nExamples:\n- I/You/We/They **work** at the store.\n- He/She/It **works** at the store.\n\nUse the simple present tense when:\n- Talking about routines: \"I wake up at 7 am.\"\n- Stating facts: \"The sun rises in the east.\"\n- Describing habits: \"They play soccer on weekends.\"\n\nLet's look at some sentence structures:\n- Affirmative: Subject + base verb (+s/es for third person singular)\n- Negative: Subject + do/does not + base verb\n- Question: Do/Does + subject + base verb?\n\nExamples:\n- Affirmative: She **likes** chocolate.\n- Negative: They **do not** like rain.\n- Question: **Does** he work here?\n\nRemember, always match the verb form with the subject for correct grammar!\n\nNow, practice by transforming these statements into questions or negatives using the simple present tense.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct sentence in the simple present tense:",
+      "answer": "A. She walk to school every day.\nB. She walks to school every day.\nC. She walking to school every day."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "He ______ (play) basketball on weekends.",
+      "answer": "plays"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence in negative form: They like pizza.",
+      "answer": "They do not like pizza."
+    },
+    {
+      "type": "Question Formation",
+      "question": "Form a question: She works at the library.",
+      "answer": "Does she work at the library?"
+    }
+  ],
+  "culturalNotes": "In American culture, routines and habits are often discussed using the simple present tense. For example, talking about daily activities like 'I go to the gym every morning' reflects the American emphasis on consistency and personal routine. Understanding this tense helps you connect with everyday conversations and cultural norms around work, leisure, and social habits.",
+  "createdAt": "2025-12-24T04:15:26.912Z"
+}

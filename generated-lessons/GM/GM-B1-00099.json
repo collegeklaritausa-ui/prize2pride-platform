@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00099",
+  "number": 99,
+  "title": "Mastering Conditionals: Unlock the Power of 'If' in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different types of conditionals used in American English",
+    "Identify and correctly use zero, first, second, and third conditionals",
+    "Differentiate between real and hypothetical situations in conditional sentences",
+    "Formulate complex conditional sentences with correct grammar",
+    "Apply conditionals confidently in both written and spoken American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure expressing a condition and its result.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Relating to an imagined or possible situation that is not real.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "certainty",
+      "definition": "The state of being sure or confident about something.",
+      "example": "Zero conditionals express certainty or general truths."
+    }
+  ],
+  "content": "In American English, conditionals are essential for expressing possibilities, hypotheses, and results based on different situations. There are four main types:\n\n1. Zero Conditional – Used for universal truths and facts.\n   - Structure: If + present simple, + present simple\n   - Example: If you heat ice, it melts.\n\n2. First Conditional – Used for real future possibilities.\n   - Structure: If + present simple, + will + base verb\n   - Example: If it rains tomorrow, we will stay indoors.\n\n3. Second Conditional – Used for hypothetical or unlikely present or future situations.\n   - Structure: If + past simple, + would + base verb\n   - Example: If I won the lottery, I would buy a house.\n\n4. Third Conditional – Used for hypothetical past situations.\n   - Structure: If + past perfect, + would have + past participle\n   - Example: If I had studied harder, I would have passed the test.\n\nUnderstanding these conditionals allows you to express reality, possibility, and imagination effectively. Remember, in spoken American English, contractions are common, such as \"If it’s cold, I’ll wear a jacket.\" Also, pay attention to the use of 'were' in second conditionals for formal correctness and 'was' in casual speech.\n\nUsing conditionals confidently enhances your ability to communicate complex ideas clearly and convincingly in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If she ____ the question, she would understand better.'",
+      "answer": "answered"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'If I ____ (be) taller, I could play basketball professionally.'",
+      "answer": "were"
+    },
+    {
+      "type": "true/false",
+      "question": "The sentence 'If I will see her, I will tell her' is correct in American English.",
+      "answer": "False"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence in third conditional form: 'I didn’t go to the party because I was busy.'",
+      "answer": "If I had gone to the party, I wouldn't have been busy."
+    },
+    {
+      "type": "application",
+      "question": "Create a sentence using the second conditional to talk about an unlikely future scenario.",
+      "answer": "If I found a million dollars, I would start my own business."
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals is common in everyday conversation and media, often reflecting optimism, possibilities, or hypothetical scenarios. For example, Americans frequently use 'If I were you...' to give advice, showcasing the flexible and pragmatic approach to language. Understanding conditionals helps in both formal and informal settings, such as business negotiations, storytelling, and casual conversations, making you more effective and persuasive in American English.",
+  "createdAt": "2025-12-24T04:21:10.941Z"
+}

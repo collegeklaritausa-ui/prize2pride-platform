@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00091",
+  "number": 91,
+  "title": "Mastering Conditionals: Unlock the Secrets of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Define and identify zero, first, second, and third conditionals in context",
+    "Understand the structure and usage of each conditional type",
+    "Apply conditionals accurately in both spoken and written American English",
+    "Recognize common mistakes and how to avoid them",
+    "Develop the ability to create complex sentences using conditionals"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional",
+      "definition": "A grammatical structure used to express actions or events that depend on certain conditions.",
+      "example": "If it rains, I will stay indoors."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Related to an imagined or non-real situation.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "Real condition",
+      "definition": "A condition that is possible or likely to happen.",
+      "example": "If you finish your homework, you can watch TV."
+    }
+  ],
+  "content": "In American English, conditionals are essential for expressing possibilities, hypotheses, and consequences. There are four main types:\n\n1. Zero Conditional: Used for general truths or facts.\n   - Structure: If + present simple, ... present simple\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Used for real and possible future situations.\n   - Structure: If + present simple, ... will + base verb\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional: Used for hypothetical or unlikely present or future situations.\n   - Structure: If + past simple, ... would + base verb\n   - Example: If I won the lottery, I would buy a house.\n\n4. Third Conditional: Used for past situations that did not happen.\n   - Structure: If + past perfect, ... would have + past participle\n   - Example: If I had studied harder, I would have passed the test.\n\nNote: American English often uses contractions in speech and writing, such as 'if it's' instead of 'if it is'.\n\nUnderstanding these conditionals enables you to communicate complex ideas, express regrets, or describe possible scenarios with clarity and confidence in American English.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct conditional form: \"If she __________ (study) more, she __________ (pass) the exam.\"",
+      "answer": "studies, will pass"
+    },
+    {
+      "type": "Identify the conditional type",
+      "question": "Identify the type of conditional used: \"If I had known about the party, I would have gone.\"",
+      "answer": "Third Conditional"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence using the second conditional: \"He doesn't have a car, so he can't go to the beach.\"",
+      "answer": "If he had a car, he would go to the beach."
+    },
+    {
+      "type": "Create",
+      "question": "Write a sentence using the first conditional to talk about tomorrow's weather.",
+      "answer": "If it is sunny tomorrow, we will go to the park."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often reflect optimism and practicality, especially in everyday conversations. Americans frequently use the first conditional to discuss plans and future possibilities, emphasizing proactive attitudes. Additionally, in informal speech, contractions and colloquial expressions are common, making conditionals sound natural and friendly. Understanding the use of conditionals can help you sound more fluent and culturally aware when engaging in American social and professional settings.",
+  "createdAt": "2025-12-24T04:20:39.328Z"
+}

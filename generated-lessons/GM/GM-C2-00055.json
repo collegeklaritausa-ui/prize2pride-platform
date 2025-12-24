@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00055",
+  "number": 55,
+  "title": "Mastering Verb Tenses: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate all 12 tense forms of English verbs.",
+    "Construct grammatically correct sentences using various verb tenses.",
+    "Recognize common errors in tense usage and correct them.",
+    "Apply verb tense rules to both written and spoken American English.",
+    "Develop an intuitive sense of tense consistency for natural communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action or state of a verb in time, such as past, present, or future.",
+      "example": "In the sentence 'She runs every morning,' 'runs' is in the present tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "A grammatical feature that expresses how an action relates to time, such as ongoing, completed, or habitual.",
+      "example": "The phrase 'I am eating' shows the present continuous aspect."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A tense that indicates completed actions or states relative to a point in time.",
+      "example": "She has finished her homework."
+    },
+    {
+      "word": "Progressive (or Continuous) Tense",
+      "definition": "A tense that expresses ongoing actions.",
+      "example": "They are watching a movie."
+    },
+    {
+      "word": "Simple Tense",
+      "definition": "A tense that describes habitual actions, facts, or states.",
+      "example": "He plays football every weekend."
+    }
+  ],
+  "content": "Welcome to the mastery of verb tenses, the cornerstone of speaking and writing with precision and clarity in American English. Mastery of verb tenses allows you to accurately express when actions happen, whether they are happening now, happened in the past, or will happen in the future.\n\nIn English, there are 12 primary verb tenses, divided into three main categories based on time: past, present, and future. Each category has four aspects: simple, continuous (progressive), perfect, and perfect continuous.\n\n1. Present Tense:\n   - Simple Present: 'I eat breakfast.' (habitual action)\n   - Present Continuous: 'I am eating breakfast.' (action in progress)\n   - Present Perfect: 'I have eaten breakfast.' (completed action with relevance)\n   - Present Perfect Continuous: 'I have been eating breakfast for 20 minutes.' (ongoing action with duration)\n\n2. Past Tense:\n   - Simple Past: 'I ate breakfast.'\n   - Past Continuous: 'I was eating breakfast.'\n   - Past Perfect: 'I had eaten breakfast before leaving.'\n   - Past Perfect Continuous: 'I had been eating breakfast for 10 minutes when she arrived.'\n\n3. Future Tense:\n   - Simple Future: 'I will eat breakfast.'\n   - Future Continuous: 'I will be eating breakfast at 8 AM.'\n   - Future Perfect: 'I will have eaten breakfast by the time you arrive.'\n   - Future Perfect Continuous: 'I will have been eating breakfast for 30 minutes when you call.'\n\nUnderstanding these tenses involves recognizing auxiliary verbs like 'be,' 'have,' and 'will,' and their correct combinations with main verbs.\n\nFor mastery, practice integrating these tenses seamlessly into your speech and writing, paying attention to time markers (yesterday, now, tomorrow) and context clues.\n\nRemember, consistency is key. Always match your verb tense with the intended time frame of your message to sound natural and precise in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct sentence in the present perfect tense.",
+      "answer": "She has completed her project."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "By next year, I __________ (finish) my degree.",
+      "answer": "will have finished"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'I am working here since 2010.'",
+      "answer": "I have been working here since 2010."
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Write a sentence using the future perfect continuous tense to describe your plans for tomorrow.",
+      "answer": "I will have been studying for three hours by the time the exam starts."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense to its description:\n A) Past Perfect\n B) Present Continuous\n C) Future Simple\n\n1) Action happening now\n2) Action completed before another past action\n3) Action that will happen in the future",
+      "answer": "A-2, B-1, C-3"
+    }
+  ],
+  "culturalNotes": "In American English, clarity and timely expression are highly valued, especially in professional and academic settings. Using the correct verb tense ensures your messages are understood accurately and conveyed confidently. Americans often prioritize straightforward communication, so mastering verb tenses will help you sound natural and assertive. Notice how in everyday conversations, people often use contractions (e.g., 'I'm,' 'they've,' 'will be') to sound friendly and approachable, reflecting the casual but direct American communication style.",
+  "createdAt": "2025-12-24T04:18:18.140Z"
+}

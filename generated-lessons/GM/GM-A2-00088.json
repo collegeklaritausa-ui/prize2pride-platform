@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00088",
+  "number": 88,
+  "title": "Mastering Conditionals: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of zero, first, and second conditionals",
+    "Identify when to use different types of conditionals in everyday situations",
+    "Form correct conditional sentences in present and future contexts",
+    "Practice speaking and writing using conditionals to express real and hypothetical situations",
+    "Gain confidence in using conditionals to sound more natural and fluent in American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that expresses a cause-and-effect relationship, often starting with 'if'",
+      "example": "If it rains, we will stay indoors."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Imaginary or not real situations used to discuss possibilities",
+      "example": "If I were a superhero, I would fly everywhere."
+    },
+    {
+      "word": "present tense",
+      "definition": "A verb tense used for current actions or facts",
+      "example": "She walks to school every day."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on conditionals, which are sentences that tell us about real or imaginary situations.\n\n**Zero Conditional:** Used for facts and routines.\n- Structure: If + present simple, present simple.\n- Example: If you heat ice, it melts.\n\n**First Conditional:** Used for real future possibilities.\n- Structure: If + present simple, will + base verb.\n- Example: If it rains tomorrow, we will stay home.\n\n**Second Conditional:** Used for hypothetical or unlikely situations.\n- Structure: If + past simple, would + base verb.\n- Example: If I had a million dollars, I would buy a house.\n\nBy mastering these patterns, you can talk about facts, plans, and imaginary worlds in American English. Remember, practice makes perfect!\n\nLet's move on to some examples:\n- Zero: If you study hard, you learn a lot.\n- First: If you arrive early, you get a good seat.\n- Second: If I were taller, I could play basketball.\n\nNow, try creating your own sentences using each type of conditional. Practice out loud to sound more natural!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct sentence:\nA) If it rains, we will stay inside.\nB) If it rains, we stay inside.",
+      "answer": "A"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "If I ___ (be) rich, I ___ (travel) around the world.",
+      "answer": "were / would travel"
+    },
+    {
+      "type": "write your own",
+      "question": "Write a sentence using the second conditional to tell about an imaginary situation.",
+      "answer": "If I had a car, I would drive to the beach."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are commonly used in everyday conversations, movies, and media to discuss possibilities, plans, and dreams. Americans often use the first conditional to talk about plans and the second conditional to express hopes or wishes. Understanding and using conditionals will help you connect better with native speakers and sound more natural in your communication.",
+  "createdAt": "2025-12-24T04:20:29.374Z"
+}

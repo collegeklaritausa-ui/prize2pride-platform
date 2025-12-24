@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00037",
+  "number": 37,
+  "title": "Mastering Verb Tenses: Unlocking the Power of Time in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and distinguish between the various verb tenses in American English.",
+    "Use present perfect tense correctly to describe recent actions and experiences.",
+    "Apply past perfect tense to express actions completed before other past actions.",
+    "Differentiate between simple past and past continuous tenses in context.",
+    "Construct complex sentences that accurately reflect time relationships using different verb tenses."
+  ],
+  "vocabulary": [
+    {
+      "word": "Present Perfect",
+      "definition": "A verb tense used to describe actions that happened at an unspecified time before now or that started in the past and continue to the present.",
+      "example": "She has visited New York three times."
+    },
+    {
+      "word": "Past Perfect",
+      "definition": "A verb tense used to describe an action completed before another past action.",
+      "example": "By the time I arrived, they had already left."
+    },
+    {
+      "word": "Simple Past",
+      "definition": "A verb tense used for completed actions that happened at a specific time in the past.",
+      "example": "I watched a movie yesterday."
+    },
+    {
+      "word": "Past Continuous",
+      "definition": "A verb tense used to describe ongoing actions in the past, often set against another past action.",
+      "example": "They were studying when I called."
+    }
+  ],
+  "content": "Welcome to the ultimate guide to mastering verb tenses in American English. Understanding and correctly using verb tenses is essential for expressing time relationships accurately. Let's explore each tense with explanations and examples:\n\n1. Present Perfect: Used for actions that occurred at an unspecified time before now or actions that started in the past and continue to the present.\n   - Example: \"I have traveled to California.\"\n   - Usage tip: Use with 'already,' 'yet,' 'ever,' 'never,' and 'since.'\n\n2. Past Perfect: Describes an action completed before another past action.\n   - Example: \"She had finished her homework before dinner.\"\n   - Usage tip: Use 'had' + past participle to show the sequence of past events.\n\n3. Simple Past: Refers to completed actions at a specific point in the past.\n   - Example: \"We visited the museum last weekend.\"\n   - Usage tip: Often used with time expressions like 'yesterday,' 'last year,' 'in 2010.'\n\n4. Past Continuous: Describes ongoing past actions, often used to set the scene or indicate interruption.\n   - Example: \"He was reading when the phone rang.\"\n   - Usage tip: Use 'was/were' + verb + -ing.\n\nBy mastering these tenses, you'll be able to narrate stories, describe experiences, and communicate time relationships with clarity and confidence.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct verb form: \n\nI ____ (finish) my homework before I went to the movies.",
+      "answer": "had finished"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She ____ (live) in Chicago for five years before moving to New York.",
+      "answer": "had lived"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the mistake:\n\nThey was studying when I arrived.",
+      "answer": "They were studying when I arrived."
+    },
+    {
+      "type": "Construct the sentence",
+      "question": "Use the past continuous tense to describe an ongoing action interrupted by another past event.\n\nExample answer: 'I was cooking dinner when the power went out.'",
+      "answer": "I was reading a book when she called."
+    }
+  ],
+  "culturalNotes": "In American culture, storytelling often involves vivid descriptions of past experiences, which requires accurate use of varied verb tenses. Americans value clarity and chronological order in narratives, especially in professional and educational settings. Understanding and correctly using verb tenses enhances communication skills and cultural fluency, allowing learners to partake fully in conversations, storytelling, and formal writing in the U.S.",
+  "createdAt": "2025-12-24T04:16:55.111Z"
+}

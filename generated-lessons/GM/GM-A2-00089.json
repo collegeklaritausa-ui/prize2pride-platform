@@ -1,0 +1,48 @@
+{
+  "id": "GM-A2-00089",
+  "number": 89,
+  "title": "Mastering Conditionals: Your First Step to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of first conditionals in American English",
+    "Identify when to use 'if' sentences in everyday conversations",
+    "Form simple conditional sentences correctly",
+    "Recognize common mistakes in conditionals and avoid them",
+    "Practice using conditionals in real-life situations to build confidence"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that shows cause and effect or a possible situation based on a condition.",
+      "example": "If it rains, I will stay home."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on conditionals—sentences that talk about possible or real situations.\n\nIn the simplest form, a first conditional looks like this: 'If + present simple, + will + verb.' For example: 'If I study hard, I will pass the test.'\n\nUse first conditionals to talk about things that are likely to happen if a condition is met. They are common in everyday conversations, like making plans or offering help.\n\nHere are some examples:\n- If you cook dinner, I will do the dishes.\n- If it is sunny tomorrow, we will go to the park.\n- If I see John, I will tell him the news.\n\nRemember:\n- Start with 'If,' followed by the present simple verb.\n- Then, use 'will' + base verb for the result.\n\nPractice makes perfect! The more you use conditionals, the more natural they will sound in your speech.\n\nKeep practicing to master this key grammar point and become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank: If it ____ (rain) tomorrow, we will stay inside.",
+      "answer": "rains"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Choose the correct sentence:",
+      "answer": [
+        "a) If I will see her, I will tell her.",
+        "b) If I see her, I will tell her."
+      ],
+      "correct": "b) If I see her, I will tell her."
+    },
+    {
+      "type": "sentence construction",
+      "question": "Make a first conditional sentence about studying and passing an exam.",
+      "answer": "If I study, I will pass the exam."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in casual conversations, such as making plans or giving advice. Knowing how to use 'if' sentences helps you sound more natural and friendly when speaking with friends, family, or colleagues. For example, Americans frequently say, 'If you need help, just ask,' emphasizing straightforward communication.",
+  "createdAt": "2025-12-24T04:20:32.136Z"
+}

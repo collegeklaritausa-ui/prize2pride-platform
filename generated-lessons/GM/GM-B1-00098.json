@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00098",
+  "number": 98,
+  "title": "Mastering Conditionals: Unlocking the Power of If-Statements in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different types of conditionals in American English (Zero, First, Second, and Third).",
+    "Identify and correctly use the structure of each conditional type in sentences.",
+    "Distinguish between real, possible, and hypothetical situations using conditionals.",
+    "Apply conditionals accurately in both written and spoken American English contexts.",
+    "Enhance fluency and clarity in expressing cause and effect, future possibilities, and hypothetical scenarios."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional",
+      "definition": "A grammatical structure used to express that one action depends on another.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Relating to an imagined or possible situation that is not real.",
+      "example": "If I were a millionaire, I would travel the world."
+    },
+    {
+      "word": "Real condition",
+      "definition": "A condition that is likely or actually happening.",
+      "example": "If you study hard, you will pass the exam."
+    }
+  ],
+  "content": "In American English, conditionals are essential for expressing different kinds of situations, from facts to hypothetical scenarios. There are four main types:\n\n1. Zero Conditional: Used for general truths or facts.\n   - Structure: If + present simple, ... present simple.\n   - Example: If you heat water to 100°C, it boils.\n\n2. First Conditional: Used for real or possible future situations.\n   - Structure: If + present simple, ... will + base verb.\n   - Example: If it rains tomorrow, we will stay indoors.\n\n3. Second Conditional: Used for hypothetical or unlikely present/future situations.\n   - Structure: If + past simple, ... would + base verb.\n   - Example: If I were you, I would apologize.\n\n4. Third Conditional: Used for hypothetical situations in the past.\n   - Structure: If + past perfect, ... would have + past participle.\n   - Example: If I had known, I would have told you.\n\nUnderstanding the nuances between these conditionals allows you to express yourself more precisely and confidently in American English. Practice forming each type with the provided examples to internalize their usage.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: \n___ you studied harder, ___ you have gotten better grades.",
+      "answer": "If you had studied harder, you would have gotten better grades."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: \nIf it ___ (rain) tomorrow, we ___ (cancel) the picnic.",
+      "answer": "rains, will cancel"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence using the second conditional:\n'I am not rich. I cannot buy a mansion.'",
+      "answer": "If I were rich, I could buy a mansion."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conditional type to its structure:\n\n1. Zero Conditional\n2. First Conditional\n3. Second Conditional\n4. Third Conditional\n\na. If + past simple, ... would + base verb\nb. If + present simple, ... will + base verb\nc. If + present simple, ... present simple\n d. If + past perfect, ... would have + past participle",
+      "answer": "1-c, 2-b, 3-a, 4-d"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals often reflects directness and clarity, especially in casual conversations and professional settings. Americans tend to prefer straightforward expressions of possibility and opinion, which makes mastering conditionals essential for effective communication. Additionally, idiomatic expressions involving conditionals, such as 'If it ain't broke, don't fix it,' are common and add flavor to everyday language.",
+  "createdAt": "2025-12-24T04:21:07.075Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00094",
+  "number": 94,
+  "title": "Mastering Conditionals: Unlocking the Power of If-Statements in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different types of conditional sentences in American English",
+    "Identify and correctly use zero, first, second, and third conditionals",
+    "Create meaningful conditional sentences to express real and hypothetical situations",
+    "Recognize common mistakes in using conditionals and avoid them",
+    "Apply conditionals effectively in spoken and written American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional sentence",
+      "definition": "A sentence that expresses a condition and its result, often starting with 'if'.",
+      "example": "If it rains, we will stay indoors."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are not real or are imagined.",
+      "example": "If I were a millionaire, I would travel the world."
+    },
+    {
+      "word": "real condition",
+      "definition": "A condition that is likely to happen or is true.",
+      "example": "If you study hard, you will pass the test."
+    },
+    {
+      "word": "unreal condition",
+      "definition": "A condition that is unlikely, impossible, or imaginary.",
+      "example": "If I had a car, I would drive to work."
+    }
+  ],
+  "content": "Conditionals are essential for expressing cause-and-effect relationships, possibilities, and hypothetical situations in American English. They are formed using 'if' clauses and main clauses, and their structure varies depending on the type:\n\n1. Zero Conditional: Used for general truths or facts. \n   - Structure: If + present simple, ... present simple.\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Used for real and possible future situations.\n   - Structure: If + present simple, ... will + base verb.\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional: Used for hypothetical or unlikely present or future situations.\n   - Structure: If + past simple, ... would + base verb.\n   - Example: If I knew her address, I would send her a letter.\n\n4. Third Conditional: Used for past situations that did not happen, expressing regret or hypothetical past.\n   - Structure: If + past perfect, ... would have + past participle.\n   - Example: If I had studied harder, I would have passed the exam.\n\nIn American English, note that in formal contexts, 'were' is often used instead of 'was' in second conditionals (e.g., If I were ...). Also, contractions like 'won't' (will not) and 'would've' (would have) are common in everyday speech.\n\nPracticing these structures will make your communication more precise and expressive, whether you're discussing real plans or imagining different scenarios.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence: If she _____ (study) more, she _____ (pass) the test.",
+      "answer": "studied, would pass"
+    },
+    {
+      "type": "Identify the conditional type",
+      "question": "Determine whether the following sentence is zero, first, second, or third conditional: 'If you had told me earlier, I would have helped.'",
+      "answer": "Third conditional"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence using a second conditional: 'She doesn't have a car, so she can't drive to the beach.'",
+      "answer": "If she had a car, she could drive to the beach."
+    },
+    {
+      "type": "Create",
+      "question": "Write a sentence using the first conditional to talk about plans for tomorrow.",
+      "answer": "If it is sunny tomorrow, we will go to the park."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are frequently used in casual conversations, marketing slogans, and motivational speeches to inspire action or describe possibilities. For example, 'If you can dream it, you can do it' (a famous quote) exemplifies the optimistic and goal-oriented attitude prevalent in American society. Mastering conditionals enhances your ability to participate in these cultural expressions and shows a deep understanding of American communication styles.",
+  "createdAt": "2025-12-24T04:20:51.483Z"
+}

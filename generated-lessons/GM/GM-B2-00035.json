@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00035",
+  "number": 35,
+  "title": "Mastering American English Verb Tenses: The Path to Language Supremacy",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and correctly use different verb tenses in various contexts",
+    "Distinguish between simple, continuous, perfect, and perfect continuous tenses",
+    "Formulate complex sentences using appropriate verb tenses",
+    "Apply verb tense rules to enhance clarity and accuracy in speech and writing",
+    "Explain the cultural significance of tense nuances in American communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates a situation in time, indicating when an action occurs.",
+      "example": "In American English, the verb 'run' changes form depending on tense: 'run', 'ran', 'running', 'have run'."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The quality of a verb that expresses the state of completion, ongoing action, or repetition.",
+      "example": "Perfect aspect ('has eaten') indicates completed action, while continuous aspect ('is eating') shows ongoing action."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A tense that expresses completed actions relative to the present, past, or future.",
+      "example": "She has finished her homework."
+    },
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A tense that emphasizes ongoing or continuous actions.",
+      "example": "They are watching a movie."
+    },
+    {
+      "word": "Perfect Continuous Tense",
+      "definition": "A tense combining perfect and continuous aspects to describe actions that were ongoing up to a specific point.",
+      "example": "He has been studying for three hours."
+    }
+  ],
+  "content": "Welcome to the ultimate mastery of American English verb tenses! Understanding and applying the correct tense is crucial for expressing precise timing and nuances in your speech and writing. Let's explore each tense type with detailed explanations and examples:\n\n1. **Simple Tenses**:\n   - Present Simple: Describes habitual actions or facts. e.g., 'I eat breakfast every morning.'\n   - Past Simple: Describes completed actions in the past. e.g., 'She visited New York last year.'\n   - Future Simple: Describes actions that will happen later. e.g., 'They will arrive tomorrow.'\n\n2. **Progressive (Continuous) Tenses**:\n   - Present Continuous: Actions happening now. e.g., 'I am reading a book.'\n   - Past Continuous: Actions ongoing at a specific past time. e.g., 'He was working when I called.'\n   - Future Continuous: Actions that will be ongoing in the future. e.g., 'This time tomorrow, I will be flying to California.'\n\n3. **Perfect Tenses**:\n   - Present Perfect: Actions completed recently or with relevance to now. e.g., 'We have finished our project.'\n   - Past Perfect: Actions completed before another past action. e.g., 'She had left before I arrived.'\n   - Future Perfect: Actions that will be completed before a future time. e.g., 'By next week, I will have completed the course.'\n\n4. **Perfect Continuous Tenses**:\n   - Present Perfect Continuous: Actions started in the past and ongoing now. e.g., 'I have been studying for two hours.'\n   - Past Perfect Continuous: Past ongoing actions before another past event. e.g., 'They had been waiting for hours.'\n   - Future Perfect Continuous: Ongoing actions up to a future point. e.g., 'By next year, I will have been working here for five years.'\n\nMastering these tenses enables you to convey timing accurately, add depth to your communication, and understand nuanced American English conversations.\n\nRemember, practice with real-life contexts, such as storytelling and daily routines, will solidify your mastery!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: 'She ___ (finish) her homework before dinner.'",
+      "answer": "had finished"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the appropriate tense: 'I ___ (study) English for five years.'",
+      "answer": "have been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the tense error in this sentence: 'They was playing soccer yesterday.'",
+      "answer": "They were playing soccer yesterday."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense to its description:\nA) Present Perfect\nB) Past Continuous\nC) Future Perfect\n\n1) Action ongoing at a specific past time\n2) Action completed before another past action\n3) Action completed before a certain future time",
+      "answer": "A-3, B-1, C-2"
+    }
+  ],
+  "culturalNotes": "In American culture, the precise use of verb tenses often reflects clarity, professionalism, and a good command of the language. Americans value directness and clarity in communication, making mastery of tense usage essential for effective storytelling, business, and social interactions. Understanding tense nuances also helps in grasping idiomatic expressions and cultural references embedded in American media, literature, and daily conversations, thereby enriching your language experience and cultural fluency.",
+  "createdAt": "2025-12-24T04:16:47.094Z"
+}

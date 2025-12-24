@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00057",
+  "number": 57,
+  "title": "Mastering American English Verb Tenses: The Path to Language Divinity",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and distinguish between all 12 English verb tenses.",
+    "Formulate correct sentences using each verb tense with accuracy and confidence.",
+    "Understand the appropriate contexts and nuances for using different verb tenses.",
+    "Manipulate verb tenses to express time, aspect, and mood effectively.",
+    "Apply mastery of verb tenses to enhance clarity and precision in spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action or state of the verb in time, such as past, present, or future.",
+      "example": "In the sentence 'She walks every day,' the verb 'walks' is in the present tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The form of a verb that expresses the completeness, duration, or repetition of the action, such as simple, continuous, perfect, or perfect continuous.",
+      "example": "Using 'has been studying' indicates the present perfect continuous aspect."
+    },
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, or ability, often combined with other tenses.",
+      "example": "She can dance beautifully."
+    }
+  ],
+  "content": "Welcome to the ultimate mastery of American English verb tenses—your gateway to speaking and writing with divine precision. Understanding verb tenses is akin to wielding a powerful tool to pinpoint when an action occurs, how it unfolds, and its relevance to the present moment.\n\nEnglish features 12 primary verb tenses, divided into four categories based on time and aspect:\n\n1. Present Tenses:\n   - Simple Present: 'She walks.'\n   - Present Continuous: 'She is walking.'\n   - Present Perfect: 'She has walked.'\n   - Present Perfect Continuous: 'She has been walking.'\n\n2. Past Tenses:\n   - Simple Past: 'She walked.'\n   - Past Continuous: 'She was walking.'\n   - Past Perfect: 'She had walked.'\n   - Past Perfect Continuous: 'She had been walking.'\n\n3. Future Tenses:\n   - Simple Future: 'She will walk.'\n   - Future Continuous: 'She will be walking.'\n   - Future Perfect: 'She will have walked.'\n   - Future Perfect Continuous: 'She will have been walking.'\n\n4. Conditional and Modal Tenses:\n   - Express hypothetical or polite situations, e.g., 'She would walk' or 'She can walk.'\n\nEach tense serves a unique purpose. For example, the present perfect ('has eaten') connects past actions to the present, emphasizing relevance, while the past perfect ('had eaten') indicates an action completed before another past event.\n\nMastery involves not only recognizing these forms but also understanding their proper usage in context. Practice combining tenses with idiomatic expressions and American cultural references to sound natural and confident.\n\nRemember, mastery of verb tenses empowers you to tell stories, convey intentions, and express nuances that make your American English truly divine.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: \"I ____ (finish) my homework before dinner yesterday.\"",
+      "answer": "had finished"
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Complete the sentence with the correct form of the verb in parentheses: \"She ____ (study) for her exam all week.\"",
+      "answer": "has been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error in the sentence: \"He will going to the store later.\"",
+      "answer": "He will go to the store later."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense with its description:\nA) Present Perfect\nB) Past Continuous\nC) Future Perfect\n1) An action completed before another future action.\n2) An ongoing action in the past.\n3) An action that started in the past and continues to the present.",
+      "answer": "A-3, B-2, C-1"
+    }
+  ],
+  "culturalNotes": "In American culture, the precise use of verb tenses often reflects clarity and professionalism, especially in business and academic settings. Americans value directness and timeliness, so mastering tense usage helps convey your message effectively. Understanding idiomatic expressions that involve tenses, such as 'have a good day' or 'will be there soon,' will help you sound more natural and culturally attuned in everyday conversations.",
+  "createdAt": "2025-12-24T04:18:26.326Z"
+}

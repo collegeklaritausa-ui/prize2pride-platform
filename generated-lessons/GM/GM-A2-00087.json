@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00087",
+  "number": 87,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of first and second conditionals in American English.",
+    "Identify when to use each type of conditional correctly.",
+    "Construct simple conditional sentences with confidence.",
+    "Recognize common mistakes in using conditionals.",
+    "Apply conditionals in everyday American English conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that expresses a situation and its result, often using 'if'.",
+      "example": "If it rains, we will stay inside."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Something imagined or not real, often used in second conditionals.",
+      "example": "If I were a superhero, I would fly everywhere."
+    },
+    {
+      "word": "predict",
+      "definition": "To say what will happen in the future.",
+      "example": "I predict it will be sunny tomorrow."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on conditionals—the 'if' sentences that help you talk about possibilities, future plans, and imaginary situations. In American English, there are mainly two types:\n\n1. **First Conditional**: Used for real and possible future situations.\n   - Structure: If + present tense, will + verb.\n   - Example: If it is sunny tomorrow, we will go to the park.\n\n2. **Second Conditional**: Used for hypothetical or unlikely situations.\n   - Structure: If + past tense, would + verb.\n   - Example: If I had a lot of money, I would buy a house.\n\n**Tips:**\n- Use the first conditional for real chances.\n- Use the second conditional for imaginary or unlikely situations.\n\n**Examples in everyday American English:**\n- First Conditional: \"If you study hard, you will pass the test.\"\n- Second Conditional: \"If I were famous, I would be on TV every day.\"\n\nPractice makes perfect! By mastering these, you’ll be able to talk about real plans and your dreams in American English like a true GOD!\n\nRemember: Keep practicing and paying attention to how Americans use conditionals in movies, TV shows, and conversations to sound natural and confident!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence: If I ______ (have) free time, I ______ (travel) to New York.",
+      "answer": "have, will travel"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is a second conditional?\nA) If it rains, we stay inside.\nB) If I were you, I would apologize.\nC) If he studies, he will succeed.",
+      "answer": "B) If I were you, I would apologize."
+    },
+    {
+      "type": "sentence creation",
+      "question": "Write a sentence using the first conditional about tomorrow's weather.",
+      "answer": "If it is sunny tomorrow, I will go to the beach."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in casual conversations, TV shows, and movies to express hopes, possibilities, or hypothetical scenarios. Americans frequently talk about future plans using the first conditional, and use second conditionals when dreaming or imagining unlikely situations, reflecting a positive and optimistic outlook. Paying attention to how native speakers use these structures will help you sound more natural and confident in your daily interactions.",
+  "createdAt": "2025-12-24T04:20:26.272Z"
+}

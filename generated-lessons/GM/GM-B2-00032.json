@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00032",
+  "number": 32,
+  "title": "Mastering Verb Tenses: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and differentiate between various verb tenses in American English.",
+    "Use present, past, and future tenses accurately in both simple and continuous forms.",
+    "Construct complex sentences using perfect and perfect continuous tenses.",
+    "Apply correct verb tense usage in speaking and writing for clarity and fluency.",
+    "Recognize common mistakes in verb tense usage and learn strategies to avoid them."
+  ],
+  "vocabulary": [
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A verb tense that describes ongoing actions happening at a specific time, formed with 'be' + verb ending in -ing.",
+      "example": "She is running to the store."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A verb tense indicating completed actions, formed with have/has/had + past participle.",
+      "example": "They have finished their homework."
+    },
+    {
+      "word": "Future Simple",
+      "definition": "A verb tense used to describe actions that will happen, formed with 'will' + base verb.",
+      "example": "I will call you tomorrow."
+    },
+    {
+      "word": "Past Perfect",
+      "definition": "A tense indicating an action completed before another past event, formed with 'had' + past participle.",
+      "example": "She had already left when I arrived."
+    },
+    {
+      "word": "Present Perfect Continuous",
+      "definition": "A tense indicating an action that started in the past and is still ongoing or recently finished, formed with 'have/has been' + verb ending in -ing.",
+      "example": "They have been studying all morning."
+    }
+  ],
+  "content": "Welcome to the realm of verb tenses—your gateway to expressing time with precision and confidence in American English. Mastering verb tenses allows you to convey when actions happen, happened, or will happen, making your communication clear and compelling.\n\n**1. Present Tense:**\n- *Simple:* Describes habitual actions or general truths.\n- *Example:* I walk to school every day.\n- *Continuous:* Describes ongoing actions happening now.\n- *Example:* I am walking to school right now.\n\n**2. Past Tense:**\n- *Simple:* Describes completed actions in the past.\n- *Example:* I watched a movie yesterday.\n- *Perfect:* Describes actions completed before another past event.\n- *Example:* I had finished my homework before dinner.\n- *Continuous:* Describes ongoing past actions.\n- *Example:* I was reading when you called.\n\n**3. Future Tense:**\n- *Simple:* Describes actions that will happen.\n- *Example:* I will visit my friend tomorrow.\n- *Continuous:* Describes ongoing future actions.\n- *Example:* I will be traveling next week.\n- *Perfect:* Describes actions that will be completed before a specific future time.\n- *Example:* By next year, I will have graduated.\n\n**4. Mastering Combinations:**\n- Using perfect and continuous aspects together, such as:\n  - *Present Perfect Continuous:* I have been working here for five years.\n  - *Past Perfect Continuous:* She had been waiting for an hour before he arrived.\n\n**5. Practical Tips:**\n- Always consider the time frame of your action.\n- Use signal words like 'already,' 'yet,' 'since,' 'for,' 'before,' 'after,' 'by,' and 'when' to clarify tense usage.\n- Practice by narrating your daily activities, past experiences, and future plans using different tenses.\n\nRemember, consistency in tense usage elevates your clarity and professionalism in American English communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct sentence that uses the past perfect tense.",
+      "answer": "She had already left when I arrived."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "I ____ (study) for three hours when you called.",
+      "answer": "had been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the tense error: 'He go to the gym every morning.'",
+      "answer": "He goes to the gym every morning."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence in future continuous tense: 'They will travel next summer.'",
+      "answer": "They will be traveling next summer."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Describe an ongoing action using the present perfect continuous tense.",
+      "answer": "I have been learning American English for two years."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and accurate use of verb tenses is highly valued in professional and academic settings. Americans often emphasize the importance of context when choosing tense forms to ensure effective communication. For example, in storytelling or business communication, the correct use of past perfect or future perfect tense demonstrates attention to detail and a strong command of language. Recognizing time cues and tense consistency reflects cultural norms of clarity and professionalism in American society.",
+  "createdAt": "2025-12-24T04:16:33.690Z"
+}

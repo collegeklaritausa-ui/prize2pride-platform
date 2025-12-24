@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00038",
+  "number": 38,
+  "title": "Mastering American English Verb Tenses: From Proficiency to Perfection",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and correctly use all 12 major verb tenses in American English.",
+    "Differentiate between simple, continuous, perfect, and perfect continuous tenses.",
+    "Apply appropriate verb tenses in various contexts for clarity and precision.",
+    "Recognize common mistakes with verb tense consistency and correct them.",
+    "Elevate their speaking and writing skills to a level of grammatical mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the time of an action or state of being.",
+      "example": "In the sentence 'She walks to school,' 'walks' is in the present simple tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The quality of a verb that expresses the temporal flow of an action, such as completed or ongoing.",
+      "example": "The present perfect (e.g., 'has eaten') shows an action completed at an indefinite time."
+    },
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A tense that describes ongoing actions, formed with 'be' + verb ending in -ing.",
+      "example": "They are studying for the exam."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A tense indicating completed actions relative to another time, formed with 'have' + past participle.",
+      "example": "I have finished my homework."
+    },
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express possibility, ability, permission, or obligation.",
+      "example": "She can swim."
+    }
+  ],
+  "content": "Welcome to Lesson #38: Verb Tenses in American English—your pathway to grammatical mastery. Understanding verb tenses is crucial for expressing time accurately and clearly. We will explore all 12 tenses, focusing on their structure, usage, and nuances.\n\n**1. Present Tenses:**\n- Simple Present: Describes habitual actions (e.g., 'I eat breakfast every morning.')\n- Present Continuous: Describes ongoing actions (e.g., 'She is reading now.')\n- Present Perfect: Describes actions that happened at an unspecified time before now (e.g., 'They have traveled to Europe.')\n- Present Perfect Continuous: Emphasizes duration of an ongoing action (e.g., 'He has been working here for five years.')\n\n**2. Past Tenses:**\n- Simple Past: Actions completed at a specific time (e.g., 'We visited the museum.')\n- Past Continuous: Actions ongoing at a specific past time (e.g., 'I was watching TV when she called.')\n- Past Perfect: Actions completed before another past action (e.g., 'She had left before I arrived.')\n- Past Perfect Continuous: Duration of past actions before another past event (e.g., 'They had been waiting for hours.')\n\n**3. Future Tenses:**\n- Simple Future: Actions that will happen (e.g., 'I will call you tomorrow.')\n- Future Continuous: Ongoing future actions (e.g., 'This time next week, I will be flying to New York.')\n- Future Perfect: Actions that will be completed before a future time (e.g., 'By next year, I will have graduated.')\n- Future Perfect Continuous: Duration of future actions up to a point (e.g., 'By then, I will have been working here for ten years.')\n\n**Usage Tips:**\n- Consistency is key: Maintain the same tense within a sentence or related context.\n- Context matters: Choose the tense that best expresses the timing and aspect of your action.\n- Modal verbs modify tenses: Use them to indicate possibility, necessity, or permission.\n\n**Examples in Context:**\n- Correct: 'She has been studying all night.'\n- Incorrect: 'She has studied all night yesterday.' (Mixing present perfect continuous with a specific past time)\n\nMastery involves not only knowing these structures but also applying them naturally in speech and writing. Practice with real-life scenarios and pay attention to tense shifts to elevate your command of American English.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: 'By the time she arrives, I ___ (finish) my homework.'",
+      "answer": "will have finished"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct form of the verb: 'They ____ (study) for three hours when the power went out.'",
+      "answer": "had been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error in the sentence: 'I am seeing her yesterday.'",
+      "answer": "The correct sentence is: 'I saw her yesterday.'"
+    },
+    {
+      "type": "Matching",
+      "question": "Match each tense with its correct description:\nA. Present Perfect\nB. Past Continuous\nC. Future Perfect\nD. Present Simple\n\n1. Actions completed before now\n2. Ongoing past action\n3. Habitual actions\n4. Actions that will be completed before a specific future time",
+      "answer": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "3"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, clarity in communication is highly valued, especially in professional and educational contexts. Using the correct verb tense conveys confidence and mastery. Americans often appreciate precise timelines and chronological clarity in storytelling, business communication, and everyday conversations. Mastering verb tenses not only improves grammatical correctness but also enhances your credibility and engagement in American social settings.",
+  "createdAt": "2025-12-24T04:17:00.729Z"
+}

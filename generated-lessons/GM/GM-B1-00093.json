@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00093",
+  "number": 93,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different types of conditional sentences in American English",
+    "Identify and use zero, first, second, and third conditionals correctly",
+    "Formulate conditional sentences in both oral and written forms",
+    "Recognize common mistakes and learn how to avoid them",
+    "Apply conditionals effectively in real-life American English conversations and writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional sentence",
+      "definition": "A sentence expressing a condition and its result, often using 'if' or related words.",
+      "example": "If it rains tomorrow, we will stay indoors."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are not real but imagined or possible.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "real vs. unreal conditions",
+      "definition": "Real conditions refer to actual or possible situations; unreal conditions refer to imaginary or unlikely situations.",
+      "example": "If she is free, we can meet. (real); If I were a bird, I could fly. (unreal)"
+    }
+  ],
+  "content": "Conditionals are essential in American English for discussing facts, possibilities, and hypothetical situations. They are typically categorized into four main types:\n\n1. Zero Conditional: Used for general truths or scientific facts.\n   - Form: If + present simple, present simple\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Used for real future possibilities.\n   - Form: If + present simple, will + base verb\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional: Used for hypothetical or unlikely present/future situations.\n   - Form: If + past simple, would + base verb\n   - Example: If I knew her address, I would send her a letter.\n\n4. Third Conditional: Used for hypothetical situations in the past, expressing regrets or missed opportunities.\n   - Form: If + past perfect, would have + past participle\n   - Example: If I had studied harder, I would have passed the exam.\n\nIn American English, it's common to contract words in spoken language, such as 'if you' becoming 'if ya' or 'if you' pronounced quickly. Remember to pay attention to tense consistency and the context of your conversation or writing.\n\nExample dialogues:\n- Real: \"If you arrive early, we can grab coffee.\"\n- Hypothetical: \"If I were you, I would apologize.\"\n\nBy mastering these structures, you'll be able to express a wide range of ideas, from facts to possibilities and regrets, with confidence and clarity in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If she ____ the answer, she would tell us.'",
+      "answer": "knew"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form: 'If it ____ (rain) tomorrow, we will stay inside.'",
+      "answer": "rains"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following sentence as a third conditional: 'I didn't study enough, so I failed the test.'",
+      "answer": "If I had studied enough, I would not have failed the test."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conditional type with its description:\n1. Zero Conditional\n2. First Conditional\n3. Second Conditional\n4. Third Conditional\n\nA. Hypothetical past situations\nB. General truths\nC. Real future possibilities\nD. Unreal present or future situations",
+      "answer": "1-B, 2-C, 3-D, 4-A"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals often reflects the directness and practicality valued in conversation. For example, Americans frequently use the first conditional to discuss plans or possibilities, emphasizing a can-do attitude. Furthermore, in casual speech, contractions and idiomatic expressions make conditionals sound more natural and approachable, such as 'If you’re coming, let me know.' Understanding these nuances helps non-native speakers blend seamlessly into American communication styles.",
+  "createdAt": "2025-12-24T04:20:47.686Z"
+}

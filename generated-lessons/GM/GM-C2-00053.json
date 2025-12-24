@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00053",
+  "number": 53,
+  "title": "Mastering the Tense Universe: Become a God of Verb Tenses in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate between all 12 basic English verb tenses.",
+    "Construct correct sentences using simple, compound, and perfect tenses.",
+    "Apply appropriate tense forms in various contexts for clarity and precision.",
+    "Recognize common tense errors and correct them confidently.",
+    "Integrate advanced tense usage to express nuanced time relationships effectively."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action or state of being in time, usually expressed via verb forms.",
+      "example": "In 'She runs every morning,' the verb 'runs' is in the present tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "A grammatical feature that expresses how an action extends over time, such as ongoing, completed, or repeated actions.",
+      "example": "The difference between 'I am eating' (progressive) and 'I have eaten' (perfect)."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A tense that describes actions that have been completed relative to another time.",
+      "example": "She has finished her homework."
+    },
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A tense that emphasizes ongoing actions.",
+      "example": "They are watching a movie."
+    },
+    {
+      "word": "Conditional Tense",
+      "definition": "Verb forms used to express hypothetical situations, often using 'would,' 'could,' or 'might.'",
+      "example": "If I were rich, I would travel the world."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson in mastering American English verb tenses—a true journey into the grammatical cosmos. To become a GOD of English, you must understand the 12 core verb tenses that define the structure of time in your speech and writing.\n\n1. **Simple Tenses:**\n   - Present (e.g., I walk)\n   - Past (e.g., I walked)\n   - Future (e.g., I will walk)\n\n2. **Progressive (Continuous) Tenses:**\n   - Present Progressive (e.g., I am walking)\n   - Past Progressive (e.g., I was walking)\n   - Future Progressive (e.g., I will be walking)\n\n3. **Perfect Tenses:**\n   - Present Perfect (e.g., I have walked)\n   - Past Perfect (e.g., I had walked)\n   - Future Perfect (e.g., I will have walked)\n\n4. **Perfect Progressive Tenses:**\n   - Present Perfect Progressive (e.g., I have been walking)\n   - Past Perfect Progressive (e.g., I had been walking)\n   - Future Perfect Progressive (e.g., I will have been walking)\n\n**Examples and Usage Tips:**\n- Use the present simple for habitual actions: \"She drives to work every day.\"\n- Use the past simple for completed actions in the past: \"I visited New York last year.\"\n- Use the future simple for upcoming actions: \"They will arrive tomorrow.\"\n- Combine tenses to express complex time relationships, such as: \"By next year, I will have been working here for five years.\"\n\n**Remember:** Consistent tense usage clarifies your message and elevates your mastery. Practice switching between tenses with confidence to command your language like a true deity.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense: 'She ___ (study) French for three years now.'",
+      "answer": "has been studying"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct tense: 'They ___ (finish) their homework before dinner.'",
+      "answer": "had finished"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the error: 'I will went to the store yesterday.'",
+      "answer": "I went to the store yesterday."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense with its example:\nA. Present Perfect\nB. Future Progressive\nC. Past Perfect\n\n1. She had left before I arrived.\n2. I have seen that movie.\n3. They will be traveling next week.",
+      "answer": "A-2, B-3, C-1"
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a paragraph describing your plans for the upcoming weekend, intentionally using at least four different verb tenses.",
+      "answer": "Students' own responses."
+    }
+  ],
+  "culturalNotes": "In American culture, the flexibility and clarity of tense usage reflect confidence and professionalism. Americans value directness and timeliness, so mastering tense accuracy can enhance communication in both personal and professional contexts. For example, during job interviews or presentations, correct tense usage demonstrates competence and credibility. Additionally, understanding the nuances of tense can help in grasping American idioms and storytelling traditions, which often rely on precise time references to create vivid narratives.",
+  "createdAt": "2025-12-24T04:18:08.900Z"
+}

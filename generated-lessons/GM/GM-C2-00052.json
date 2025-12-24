@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00052",
+  "number": 52,
+  "title": "Mastering Verb Tenses: The Keys to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and distinguish between all major verb tenses in American English",
+    "Correctly conjugate verbs in different tenses to express time accurately",
+    "Apply appropriate verb tenses in complex sentence structures",
+    "Recognize common errors in verb tense usage and avoid them",
+    "Demonstrate mastery by constructing fluent, contextually appropriate sentences using various tenses"
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A grammatical category that locates the action or state of being in time, such as past, present, or future",
+      "example": "In the sentence 'She runs every morning,' the verb 'runs' is in the present tense."
+    },
+    {
+      "word": "Conjugation",
+      "definition": "The variation of the form of a verb in an inflected language to encode tense, mood, person, or number",
+      "example": "The verb 'to be' conjugates as I am, you are, he is, etc."
+    },
+    {
+      "word": "Aspect",
+      "definition": "A grammatical feature that expresses how an action relates to the flow of time, such as completed or ongoing",
+      "example": "The present perfect tense indicates an action that was completed at some point before now ('I have eaten')."
+    }
+  ],
+  "content": "In American English, mastering verb tenses is essential for clear and precise communication. There are twelve major tenses, grouped into simple, perfect, continuous (progressive), and perfect continuous forms.\n\n**1. Present Tenses:**\n- *Simple Present:* Describes habitual actions or general truths. (e.g., 'She works at a bank.')\n- *Present Continuous:* Describes actions happening right now. (e.g., 'She is working now.')\n- *Present Perfect:* Describes actions that occurred at an unspecified time before now. (e.g., 'She has worked here for five years.')\n- *Present Perfect Continuous:* Emphasizes the duration of an ongoing action. (e.g., 'She has been working since morning.')\n\n**2. Past Tenses:**\n- *Simple Past:* Actions completed in the past. (e.g., 'She worked yesterday.')\n- *Past Continuous:* Actions ongoing in the past. (e.g., 'She was working when I called.')\n- *Past Perfect:* Actions completed before another past action. (e.g., 'She had finished before he arrived.')\n- *Past Perfect Continuous:* Duration of an action up to a certain point in the past. (e.g., 'She had been working for hours before she took a break.')\n\n**3. Future Tenses:**\n- *Simple Future:* Actions that will happen. (e.g., 'She will work tomorrow.')\n- *Future Continuous:* Ongoing future actions. (e.g., 'She will be working at that time.')\n- *Future Perfect:* Actions that will be completed by a certain future time. (e.g., 'She will have finished by then.')\n- *Future Perfect Continuous:* Duration of future actions up to a point. (e.g., 'She will have been working for five hours by noon.')\n\n**Examples and Usage Tips:**\n- Use the simple present for facts and routines.\n- Use the present perfect for experiences and actions affecting the present.\n- Combine tense with context to convey precise timing.\n- Be mindful of irregular verb forms.\n\nMastering these tenses enables you to speak and write with confidence, clarity, and accuracy—true mastery of American English grammar.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: 'I ___ (finish) my homework before dinner.'",
+      "answer": "had finished"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the correct form of the verb in parentheses: 'She ___ (study) for three hours now.'",
+      "answer": "has been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error: 'He go to the gym every day.'",
+      "answer": "He goes to the gym every day."
+    },
+    {
+      "type": "Constructed Response",
+      "question": "Write a sentence using the future perfect tense.",
+      "answer": "By next year, I will have graduated from college."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense with its description:\n1. Present Perfect\n2. Past Continuous\n3. Future Simple\n4. Present Continuous\n\nA. Actions happening right now\nB. Actions completed before now\nC. Actions ongoing in the past\nD. Actions that will happen\n",
+      "answer": "1-B, 2-C, 3-D, 4-A"
+    }
+  ],
+  "culturalNotes": "In American culture, clarity in communication is highly valued. Using the correct verb tense demonstrates professionalism and attention to detail, especially in formal writing and business contexts. Americans often appreciate directness and precision, so mastering verb tenses enables you to express yourself effectively and confidently in various social and professional settings.",
+  "createdAt": "2025-12-24T04:18:04.329Z"
+}

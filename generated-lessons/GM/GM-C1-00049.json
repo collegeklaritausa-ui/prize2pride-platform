@@ -1,0 +1,64 @@
+{
+  "id": "GM-C1-00049",
+  "number": 49,
+  "title": "Mastering the Nuances of Verb Tenses: Becoming a GOD of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the advanced uses and subtle differences between perfect, progressive, and perfect progressive tenses.",
+    "Apply complex verb tense structures correctly in various contexts.",
+    "Identify and correct common errors in advanced verb tense usage.",
+    "Develop the ability to choose the most appropriate tense for nuanced situations.",
+    "Enhance your fluency and precision in American English communication through mastery of verb tenses."
+  ],
+  "vocabulary": [
+    {
+      "word": "Pluperfect",
+      "definition": "A tense used to describe an action that was completed before another past action.",
+      "example": "She had already left when I arrived."
+    },
+    {
+      "word": "Progressive aspect",
+      "definition": "A grammatical aspect indicating ongoing action, formed with 'be' + verb ending in -ing.",
+      "example": "They are running late."
+    },
+    {
+      "word": "Perfect progressive",
+      "definition": "A tense that combines perfect and progressive aspects, indicating ongoing action up to a certain point in time.",
+      "example": "She has been studying for three hours."
+    }
+  ],
+  "content": "Welcome to the pinnacle of American English mastery: mastering advanced verb tenses. In this lesson, we delve into the intricate differences and proper applications of perfect, progressive, and perfect progressive tenses to elevate your fluency.\n\nFirst, understand that the perfect tenses (present perfect, past perfect, future perfect) connect actions across different time points, emphasizing completion or relevance. For example, 'I have completed the project.'\n\nNext, explore the progressive (continuous) aspect, which highlights ongoing actions. For example, 'I am working.'\n\nCombining these, the perfect progressive tense expresses the duration of ongoing actions up to a point. For example, 'I have been working for three hours.'\n\nAdvanced usage includes mastering the subtle distinctions:\n- Past perfect ('She had finished before they arrived') emphasizes an action completed before another past event.\n- Present perfect progressive ('He has been reading all morning') emphasizes the duration of an ongoing activity.\n- Future perfect ('They will have completed the task by then') indicates an action that will be completed before a future point.\n\nLet's examine common pitfalls:\n- Confusing 'have been' with 'had been' in context.\n- Misusing tense forms in conditional sentences.\n\nPractice examples:\n- Correct: 'By next year, I will have been living here for a decade.'\n- Incorrect: 'By next year, I will have living here for a decade.'\n\nTo master these, immerse yourself in complex sentence structures, analyze native speakers' usage, and practice constructing sentences that reflect nuanced time relationships.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct tense: \n\nBy the time she arrived, I __________ (leave).",
+      "answer": "had left"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the appropriate form: \n\nThey __________ (study) for hours when the power went out.",
+      "answer": "had been studying"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: \n\nI have been finish my homework before dinner.",
+      "answer": "I had finished my homework before dinner."
+    },
+    {
+      "type": "short answer",
+      "question": "Explain when to use the present perfect progressive tense.",
+      "answer": "Use the present perfect progressive to describe actions that began in the past and are still continuing or have recently stopped, emphasizing the duration of the activity."
+    },
+    {
+      "type": "creation",
+      "question": "Construct a complex sentence using the future perfect tense to describe an accomplishment.",
+      "answer": "By the end of this month, I will have completed all my advanced grammar lessons."
+    }
+  ],
+  "culturalNotes": "In American English, the precise use of verb tenses reflects clarity and professionalism, especially in academic, business, and formal contexts. Native speakers often adjust tense usage subtly to convey nuance, such as emphasizing the duration of an activity or the sequence of events. Mastery of these tenses enhances your ability to participate effectively in American cultural and professional conversations, helping you to sound both fluent and sophisticated.",
+  "createdAt": "2025-12-24T04:17:49.933Z"
+}

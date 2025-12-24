@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00022",
+  "number": 22,
+  "title": "Mastering American English Verb Tenses: The Path to Language Domination",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different verb tenses used in American English",
+    "Identify the correct usage of simple, progressive, perfect, and perfect progressive tenses",
+    "Construct sentences using various verb tenses with confidence",
+    "Differentiate between similar tenses in context",
+    "Apply verb tense rules to real-life communication scenarios"
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that expresses the time of an action or state.",
+      "example": "In the sentence 'She walks to school,' 'walks' is in the present tense."
+    },
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A tense that describes ongoing actions, formed with a 'to be' verb plus the '-ing' form of the main verb.",
+      "example": "He is reading a book."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A tense that indicates completed actions relative to another time, formed with 'have' or 'had' plus the past participle.",
+      "example": "They have finished their work."
+    },
+    {
+      "word": "Perfect Progressive Tense",
+      "definition": "A tense that combines the aspects of perfect and progressive, showing ongoing actions that were happening up to a point, formed with 'have been' or 'had been' plus '-ing'.",
+      "example": "She has been studying for three hours."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The grammaticalization of the flow or completion of an action, such as continuous or perfect.",
+      "example": "In 'I am eating,' the aspect is progressive."
+    }
+  ],
+  "content": "Welcome to Lesson #22: Verb Tenses in American English. Mastery of verb tenses is essential for expressing time accurately and adding nuance to your communication.\n\n**1. Present Tense**:\n- Simple Present: Describes habitual actions or facts. \n  Example: I walk to work.\n- Present Progressive: Describes actions happening now. \n  Example: I am walking.\n- Present Perfect: Describes actions completed recently or with relevance to the present. \n  Example: I have walked today.\n- Present Perfect Progressive: Shows ongoing actions that started in the past and continue now. \n  Example: I have been walking for an hour.\n\n**2. Past Tense**:\n- Simple Past: Actions completed in the past. \n  Example: I walked yesterday.\n- Past Progressive: Actions ongoing in the past. \n  Example: I was walking when you called.\n- Past Perfect: Actions completed before another past action. \n  Example: I had walked before the meeting.\n- Past Perfect Progressive: Continuous actions that were happening up to a specific past point. \n  Example: I had been walking for an hour when it started to rain.\n\n**3. Future Tense**:\n- Simple Future: Actions that will happen. \n  Example: I will walk tomorrow.\n- Future Progressive: Actions ongoing at a future time. \n  Example: I will be walking at 5 PM.\n- Future Perfect: Actions completed before a future time. \n  Example: I will have walked 10 miles by then.\n- Future Perfect Progressive: Ongoing actions that will be happening up to a future point. \n  Example: I will have been walking for two hours by then.\n\nMastering these tenses will allow you to express yourself clearly about past, present, and future events, making your American English sound natural and confident.\n\nRemember: Context determines the right tense to use. Practice by narrating your day, describing past experiences, or planning future activities to internalize these concepts.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct tense for the sentence: 'She ___ (study) for her exam all night.'",
+      "answer": "has been studying"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form of the verb: 'They ___ (finish) their project yesterday.'",
+      "answer": "finished"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the tense error in the sentence: 'I am going to store yesterday.'",
+      "answer": "I went to the store yesterday."
+    },
+    {
+      "type": "short answer",
+      "question": "Describe an activity you are currently doing using the present progressive tense.",
+      "answer": "I am studying American English to become a language master."
+    }
+  ],
+  "culturalNotes": "In American culture, clear communication of time and sequence is highly valued, especially in professional and educational settings. Using correct verb tenses demonstrates command of the language and respect for effective communication. Americans appreciate clarity and context, so mastering verb tenses helps in making your speech and writing more precise and culturally appropriate.",
+  "createdAt": "2025-12-24T04:15:47.777Z"
+}

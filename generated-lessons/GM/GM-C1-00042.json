@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00042",
+  "number": 42,
+  "title": "Mastering the Nuances of American English Verb Tenses: The Advanced Sage",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Analyze complex verb tense structures and their appropriate contexts.",
+    "Differentiate between subtle differences in tense usage in advanced scenarios.",
+    "Construct grammatically precise sentences employing mixed and perfect tenses.",
+    "Identify and correct common mistakes in advanced verb tense application.",
+    "Apply advanced tense mastery to both written and spoken American English with confidence."
+  ],
+  "vocabulary": [
+    {
+      "word": "Pluperfect",
+      "definition": "A tense used to describe an action that was completed before another past action.",
+      "example": "She had already left when I arrived."
+    },
+    {
+      "word": "Future Perfect Continuous",
+      "definition": "A tense indicating an ongoing action that will be completed at some point in the future.",
+      "example": "By next year, I will have been working here for a decade."
+    },
+    {
+      "word": "Conditional Perfect",
+      "definition": "A verb form used to describe a hypothetical action that would have occurred in the past under certain conditions.",
+      "example": "If I had known about the meeting, I would have attended."
+    },
+    {
+      "word": "Subjunctive Mood",
+      "definition": "A grammatical mood used to express wishes, hypotheticals, or necessities.",
+      "example": "I suggest that he be promoted."
+    }
+  ],
+  "content": "Welcome to the realm of advanced American English verb tenses—your gateway to expressing time and aspect with precision and nuance. At this mastery level, understanding the subtle differences between past perfect, future perfect continuous, and conditional perfect tenses is crucial. For instance, the pluperfect (had + past participle) often indicates actions completed before another past event. The future perfect continuous (will have been + verb-ing) emphasizes ongoingity and duration up to a specific future point. Mastery of the subjunctive mood enables you to convey hypotheticals, wishes, and necessities with sophistication.\n\nConsider these examples:\n- Pluperfect: \"They had already finished the project when the manager arrived.\"\n- Future Perfect Continuous: \"By then, she will have been studying for five hours.\"\n- Conditional Perfect: \"He would have accepted if he had received the invitation.\"\n- Subjunctive: \"It is essential that he be present at the meeting.\"\n\nAdvanced verb tense accuracy enhances clarity and style in both formal and informal contexts. Practice distinguishing when to use each tense based on temporal relationships and speaker intent, and watch your command of American English elevate to divine levels.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense form: By the time she arrived, I ____ (finish) my homework.",
+      "answer": "had finished"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "They ____ (study) for three hours by the time the exam started.",
+      "answer": "had been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the tense error: If I was taller, I would join the basketball team.",
+      "answer": "If I were taller, I would join the basketball team."
+    },
+    {
+      "type": "Construct",
+      "question": "Write a sentence in the future perfect continuous tense about your next vacation.",
+      "answer": "By the end of my vacation, I will have been relaxing for two weeks."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Describe a hypothetical situation using the conditional perfect tense.",
+      "answer": "If I had known about the concert, I would have gone with my friends."
+    }
+  ],
+  "culturalNotes": "In American culture, precise use of verb tenses often reflects professionalism and clarity in communication, especially in business, academic, and formal settings. Mastery of complex tenses can also convey nuance in storytelling and rhetorical styles, demonstrating a command of the language that resonates with American values of clarity, efficiency, and articulate expression.",
+  "createdAt": "2025-12-24T04:17:18.680Z"
+}

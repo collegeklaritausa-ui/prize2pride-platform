@@ -1,0 +1,54 @@
+{
+  "id": "GM-C2-00059",
+  "number": 59,
+  "title": "Mastering Verb Tenses: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and distinguish between all 12 verb tenses in American English.",
+    "Properly conjugate regular and irregular verbs across different tenses.",
+    "Apply correct verb tense usage in both written and spoken American English.",
+    "Recognize common mistakes in verb tense consistency and how to avoid them.",
+    "Develop the ability to select the appropriate tense to convey specific time frames and nuances."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that indicates the time of an action or state of being, such as past, present, or future.",
+      "example": "In the sentence 'She walks to school,' the verb 'walks' is in the present tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "A grammatical feature that expresses the flow, duration, or completion of an action, often used with tense.",
+      "example": "The progressive aspect in 'She is walking' shows an ongoing action."
+    }
+  ],
+  "content": "Welcome to the pinnacle of American English mastery—your journey through verb tenses! To become a GOD of American English, you must command the full spectrum of verb forms, from simple to perfect, progressive to perfect progressive, across past, present, and future. \n\n**1. Simple Tenses:**\n- Present: Indicate habitual actions or general truths. e.g., 'He eats breakfast every morning.'\n- Past: Describe completed actions. e.g., 'They watched a movie yesterday.'\n- Future: Express upcoming actions. e.g., 'I will call you tomorrow.'\n\n**2. Progressive (Continuous) Tenses:**\n- Present Progressive: Actions happening now. e.g., 'She is reading a book.'\n- Past Progressive: Actions ongoing in the past. e.g., 'They were playing soccer.'\n- Future Progressive: Actions that will be ongoing. e.g., 'I will be traveling next week.'\n\n**3. Perfect Tenses:**\n- Present Perfect: Actions completed recently or with relevance now. e.g., 'He has finished his homework.'\n- Past Perfect: Actions completed before another past action. e.g., 'She had left before I arrived.'\n- Future Perfect: Actions that will be completed before a future time. e.g., 'By next year, I will have graduated.'\n\n**4. Perfect Progressive Tenses:**\n- Present Perfect Progressive: Duration of an ongoing action. e.g., 'They have been studying for hours.'\n- Past Perfect Progressive: Duration before a past point. e.g., 'He had been working all day.'\n- Future Perfect Progressive: Duration leading up to a future point. e.g., 'By then, she will have been living here for five years.'\n\nRemember, mastery involves not just knowing these forms but using them accurately and naturally. Practice by constructing sentences using each tense, paying close attention to context and time references.\n\nNow, let your mastery shine—become a GOD of American English verb tenses!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: 'By next week, I ________ the project.'",
+      "answer": "will have completed"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She ________ (study) for her exams all month.",
+      "answer": "has been studying"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the tense error in this sentence: 'Yesterday, she go to the market.'",
+      "answer": "Yesterday, she went to the market."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence in the past perfect tense: 'They finish the work before the deadline.'",
+      "answer": "They had finished the work before the deadline."
+    }
+  ],
+  "culturalNotes": "In American English, clarity and precision in verb tense are highly valued, especially in professional and academic settings. Americans often use the perfect tenses to emphasize the relevance of recent actions or experiences. Mastery of verb tenses also enhances your ability to understand and participate in American cultural conversations, whether discussing past experiences, current projects, or future plans. Remember, fluency in tense usage reflects confidence and credibility in communication—traits highly admired in American society.",
+  "createdAt": "2025-12-24T04:18:34.844Z"
+}

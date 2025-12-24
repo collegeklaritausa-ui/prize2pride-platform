@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00039",
+  "number": 39,
+  "title": "Mastering the Nuances of Verb Tenses in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and correctly use all major verb tenses in American English.",
+    "Differentiate between simple, continuous, perfect, and perfect continuous tenses.",
+    "Construct accurate sentences that reflect proper tense usage in various contexts.",
+    "Recognize common errors in verb tense agreement and learn how to avoid them.",
+    "Apply advanced verb tense concepts to enhance clarity and expressiveness in writing and speaking."
+  ],
+  "vocabulary": [
+    {
+      "word": "Aspect",
+      "definition": "A grammatical feature that expresses how an action relates to time, such as whether it is ongoing, completed, or habitual.",
+      "example": "The difference between 'I eat' and 'I am eating' shows aspect."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A verb tense used to indicate completed actions relative to another time.",
+      "example": "She has finished her homework."
+    },
+    {
+      "word": "Continuous Tense",
+      "definition": "A tense that describes ongoing actions or states at a specific time.",
+      "example": "They are watching a movie."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action or state in time, primarily past, present, or future.",
+      "example": "He walks to school every day."
+    }
+  ],
+  "content": "Welcome to the realm of verb tenses—your gateway to expressing time with precision and clarity in American English. Mastery begins with understanding the four primary aspects: simple, continuous, perfect, and perfect continuous, each serving distinct functions.\n\n**Simple Tenses:** Describe habitual actions, general truths, or facts.\n- Present: 'She writes every day.'\n- Past: 'He visited his grandparents.'\n- Future: 'They will arrive tomorrow.'\n\n**Continuous Tenses:** Highlight ongoing actions at specific times.\n- Present Continuous: 'I am studying now.'\n- Past Continuous: 'They were playing when I called.'\n- Future Continuous: 'She will be working at 9 PM.'\n\n**Perfect Tenses:** Emphasize completed actions relevant to a point in time.\n- Present Perfect: 'We have seen that movie.'\n- Past Perfect: 'She had already left when I arrived.'\n- Future Perfect: 'By next week, he will have finished the project.'\n\n**Perfect Continuous Tenses:** Focus on the duration of ongoing actions up to now or a specified time.\n- Present Perfect Continuous: 'I have been reading for two hours.'\n- Past Perfect Continuous: 'They had been waiting when the bus finally arrived.'\n- Future Perfect Continuous: 'By next year, she will have been working here for a decade.'\n\nUnderstanding subtle differences, such as between 'I have lived in New York' (present perfect) and 'I lived in New York' (simple past), is crucial for expressing your ideas accurately. Tense consistency ensures your message is clear and professional.\n\nPractice these structures by creating sentences that reflect different times and contexts. The more you practice, the more you will internalize these patterns, transforming your command of American English into that of a true GOD.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct tense for the sentence: 'By the time she arrived, I ___ (finish) my homework.'",
+      "answer": "had finished"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify the tense used in this sentence: 'They are playing soccer now.'",
+      "answer": "Present Continuous"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the tense error: 'He has went to the store yesterday.'",
+      "answer": "He went to the store yesterday."
+    },
+    {
+      "type": "write sentence",
+      "question": "Write a sentence using the future perfect continuous tense.",
+      "answer": "By next month, I will have been working here for five years."
+    },
+    {
+      "type": "matching",
+      "question": "Match the tense to its description:\n1. Present Perfect\n2. Past Continuous\n3. Future Perfect\n4. Present Simple\n\nA. Actions completed before a specific time in the past.\nB. Habitual actions or general truths.\nC. Actions ongoing at a specific time in the past.\nD. Actions that will be completed before a future point.",
+      "answer": "1-B, 2-C, 3-D, 4-A"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and precise communication is highly valued, especially in professional and academic settings. Proper use of verb tenses demonstrates attention to detail and respect for clarity. Americans often use tense consistency to convey timelines accurately, which is essential in business correspondence, storytelling, and everyday conversations. Mastery of verb tenses also enhances understanding of idiomatic expressions and cultural narratives rooted in American history and media, helping learners connect more deeply with the cultural context.",
+  "createdAt": "2025-12-24T04:17:05.168Z"
+}

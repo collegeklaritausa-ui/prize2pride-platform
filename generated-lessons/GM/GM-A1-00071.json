@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00071",
+  "number": 71,
+  "title": "Mastering Conditionals: Unlock the Power of If in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic structure of zero, first, and second conditionals.",
+    "Identify different types of conditional sentences in context.",
+    "Formulate correct conditional sentences for real and hypothetical situations.",
+    "Use appropriate verb tenses in conditional statements.",
+    "Increase confidence in speaking and writing using conditionals accurately."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional sentence",
+      "definition": "A sentence that expresses a condition and its result, often starting with 'if'.",
+      "example": "If it rains, we will stay indoors."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Related to imagined or unreal situations.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "Real condition",
+      "definition": "A condition that is possible or likely to happen.",
+      "example": "If you study hard, you will pass the exam."
+    }
+  ],
+  "content": "Welcome to the world of American English conditionals! These powerful sentences allow you to talk about real situations, make promises, give advice, or imagine unlikely scenarios. There are three main types:\n\n1. Zero Conditional: Used for facts and routines.\n   - Structure: If + present simple, + present simple.\n   - Example: If water reaches 100°C, it boils.\n\n2. First Conditional: Used for real future possibilities.\n   - Structure: If + present simple, + will + base verb.\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional: Used for hypothetical, unlikely, or impossible situations.\n   - Structure: If + past simple, + would + base verb.\n   - Example: If I won the lottery, I would buy a house.\n\nPractice makes perfect! Remember to use the correct tense in each part of the sentence and pay attention to the context — whether you're talking about facts, real possibilities, or imaginary situations. With these tools, you'll be speaking like a true American English master!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct form of the verb to complete the sentence: 'If she ___ (study), she will pass the test.'",
+      "answer": "studies"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence: 'If I ___ (be) taller, I would play basketball.'",
+      "answer": "were"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite this sentence as a second conditional: 'I don't have a car, so I can't go to the beach.'",
+      "answer": "If I had a car, I would go to the beach."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in everyday conversations to express possibilities, make plans, or talk about dreams. For example, Americans frequently use the first conditional when discussing weather plans or future events. Understanding and using conditionals confidently can help you sound more natural and expressive in both casual and formal settings.",
+  "createdAt": "2025-12-24T04:19:31.379Z"
+}

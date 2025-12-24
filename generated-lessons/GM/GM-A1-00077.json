@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00077",
+  "number": 77,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic structure of zero, first, and second conditionals",
+    "Identify when to use each type of conditional in everyday conversation",
+    "Formulate correct conditional sentences in both written and spoken English",
+    "Recognize common errors and how to avoid them",
+    "Gain confidence in using conditionals to express real and hypothetical situations"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional",
+      "definition": "A sentence that expresses a condition and its result.",
+      "example": "If it rains, I will stay indoors."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Relating to an imagined or possible situation.",
+      "example": "If I were rich, I would buy a house."
+    },
+    {
+      "word": "Real condition",
+      "definition": "A situation that is possible or likely to happen.",
+      "example": "If you study, you will pass the test."
+    }
+  ],
+  "content": "Welcome to your lesson on conditionals—your gateway to expressing possibilities, real situations, and hypothetical ideas in American English! Conditionals are sentences with if-clauses and main clauses that show cause and effect.\n\n**Zero Conditional:** Used for general truths or facts.\n- Structure: If + present simple, + present simple\n- Example: If you heat water to 100°C, it boils.\n\n**First Conditional:** Used for real or likely future situations.\n- Structure: If + present simple, + will + base verb\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional:** Used for hypothetical or unlikely situations in the present or future.\n- Structure: If + past simple, + would + base verb\n- Example: If I were a celebrity, I would have a lot of fans.\n\n**Tips:**\n- Remember to use 'were' for all subjects in second conditional (e.g., if I were, if he were).\n- Use contractions like 'I'll' for 'I will' in spoken and informal written English.\n- Practice by creating your own sentences with each type!\n\nBy mastering conditionals, you'll be able to discuss facts, future plans, and imaginary scenarios confidently in American English!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If I ___ (be) rich, I would travel the world.'",
+      "answer": "were"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence: If it ___ (rain) tomorrow, we will stay inside.",
+      "answer": "rains"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Write a first conditional sentence about going to the park.",
+      "answer": "If it is sunny, I will go to the park."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify the mistake: If he will come, we can start the meeting.",
+      "answer": "Use 'comes' instead of 'will come' in the 'if' clause: If he comes, we can start the meeting."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in casual conversations, especially when discussing plans or hypothetical situations. Americans frequently use contractions (e.g., I'll, she's, they'll), making speech sound natural and friendly. Understanding the use of conditionals helps you navigate social situations, express opinions, and discuss future plans with confidence, reflecting the direct and optimistic communication style common in the U.S.",
+  "createdAt": "2025-12-24T04:19:52.629Z"
+}

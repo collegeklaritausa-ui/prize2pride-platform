@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00036",
+  "number": 36,
+  "title": "Mastering American English Verb Tenses: Unlock Your Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and differentiate among all major American English verb tenses.",
+    "Apply correct verb tense forms in various contexts to enhance clarity and precision.",
+    "Recognize common errors related to verb tense usage and correct them.",
+    "Use verb tenses to express time, aspect, and mood effectively in speech and writing.",
+    "Demonstrate advanced mastery by creating complex sentences that accurately reflect nuanced time frames."
+  ],
+  "vocabulary": [
+    {
+      "word": "Aspect",
+      "definition": "The grammatical feature that expresses the duration, completion, or repetition of an action.",
+      "example": "In the sentence 'I have been studying,' the present perfect continuous tense shows an ongoing aspect."
+    },
+    {
+      "word": "Temporal Reference",
+      "definition": "The indication of time when an action occurs, often conveyed through verb tense.",
+      "example": "Using past tense indicates an action happened in the past."
+    },
+    {
+      "word": "Sequence of Tenses",
+      "definition": "The grammatical rule that the tense in a subordinate clause should relate logically to the tense in the main clause.",
+      "example": "She said she was tired—demonstrating correct sequence of tenses."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson on American English verb tenses, designed to elevate your mastery from proficient to GOD-like. Understanding verb tenses is essential for expressing when actions happen, their duration, and their completion. Let's explore the twelve primary tenses, grouped into four categories:\n\n1. Present Tenses:\n   - Simple Present (e.g., I walk)\n   - Present Continuous (e.g., I am walking)\n   - Present Perfect (e.g., I have walked)\n   - Present Perfect Continuous (e.g., I have been walking)\n\n2. Past Tenses:\n   - Simple Past (e.g., I walked)\n   - Past Continuous (e.g., I was walking)\n   - Past Perfect (e.g., I had walked)\n   - Past Perfect Continuous (e.g., I had been walking)\n\n3. Future Tenses:\n   - Simple Future (e.g., I will walk)\n   - Future Continuous (e.g., I will be walking)\n   - Future Perfect (e.g., I will have walked)\n   - Future Perfect Continuous (e.g., I will have been walking)\n\n4. Using Tenses for Nuance:\n   - Conditional forms for hypothetical situations.\n   - Emphatic forms for emphasis.\n\n**Examples of Usage:**\n- To describe habits: 'She **reads** every night.' (Simple Present)\n- To emphasize ongoing action: 'He **is studying** right now.' (Present Continuous)\n- To indicate experiences: 'They **have traveled** to Europe.' (Present Perfect)\n- To express actions completed before a specific past moment: 'By noon, I **had finished** my work.' (Past Perfect)\n\nMastering these tenses allows you to communicate with precision, clarity, and stylistic flair, making your English sound natural and sophisticated. Remember, consistency and context are key to choosing the right tense.\n\n",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct verb tense: \n\nBy the time she arrived, we ____ (already / leave).",
+      "answer": "had already left"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which sentence correctly uses the present perfect continuous tense?",
+      "answer": "I have been studying for three hours."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify the error in this sentence: \n\nShe was working here since 2010.",
+      "answer": "The correct sentence is: She has been working here since 2010."
+    },
+    {
+      "type": "Sentence Creation",
+      "question": "Construct a sentence using the future perfect tense to describe an action you will complete before a specific future time.",
+      "answer": "By next week, I will have finished the project."
+    }
+  ],
+  "culturalNotes": "In American culture, clear communication of time and sequence is highly valued, especially in professional and academic settings. The ability to accurately use verb tenses reflects not only language mastery but also cultural competence—understanding how Americans often emphasize clarity, punctuality, and the importance of context. Mastery of verb tenses contributes to your credibility and effectiveness in social and professional interactions across diverse American contexts.",
+  "createdAt": "2025-12-24T04:16:51.307Z"
+}

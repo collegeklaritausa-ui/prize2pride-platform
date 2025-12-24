@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00030",
+  "number": 30,
+  "title": "Mastering Verb Tenses: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and differentiate between various verb tenses in American English.",
+    "Correctly conjugate regular and irregular verbs in different tenses.",
+    "Use appropriate verb tenses to convey time accurately in spoken and written communication.",
+    "Recognize common mistakes with verb tenses and learn how to avoid them.",
+    "Apply verb tense knowledge to enhance clarity and precision in American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that expresses the time at which an action occurs.",
+      "example": "In the sentence 'She runs every morning,' the verb 'runs' is in the present tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The way in which a verb expresses the flow or completion of an action, often combined with tense.",
+      "example": "'She is running' shows an ongoing action (present progressive aspect)."
+    },
+    {
+      "word": "Progressive",
+      "definition": "A verb tense form that indicates ongoing action, usually formed with 'be' + verb ending in -ing.",
+      "example": "They are studying for their exams."
+    },
+    {
+      "word": "Perfect",
+      "definition": "A tense that indicates completed action, often formed with 'have' + past participle.",
+      "example": "He has finished his homework."
+    },
+    {
+      "word": "Irregular verbs",
+      "definition": "Verbs that do not follow standard conjugation patterns in past tense and past participle forms.",
+      "example": "Go - went - gone; see - saw - seen."
+    }
+  ],
+  "content": "Welcome to Lesson #30: Mastering Verb Tenses. In American English, understanding verb tenses is crucial for expressing time accurately and making your speech and writing clear and effective.\n\n**1. Present Tense:** Used for habitual actions, general truths, and current states.\n- *Examples:* I walk to school. She is a teacher.\n- *Tip:* Use 'am', 'is', 'are' with present participle for present progressive.\n\n**2. Past Tense:** Describes actions completed in the past.\n- *Regular verbs:* add -ed (e.g., walked, played).\n- *Irregular verbs:* change form (e.g., went, saw).\n- *Example:* They watched a movie yesterday.\n\n**3. Future Tense:** Indicates actions that will happen.\n- *Formation:* will + base verb.\n- *Example:* I will call you tomorrow.\n\n**4. Present Progressive:** Describes ongoing actions happening now.\n- *Formation:* am/is/are + verb ending in -ing.\n- *Example:* She is reading a book.\n\n**5. Present Perfect:** Connects past actions to the present.\n- *Formation:* have/has + past participle.\n- *Example:* I have finished my homework.\n\n**6. Past Perfect:** Describes a completed action before another past action.\n- *Formation:* had + past participle.\n- *Example:* They had left before I arrived.\n\n**7. Future Perfect:** Expresses an action that will be completed before a specific future time.\n- *Formation:* will have + past participle.\n- *Example:* By next year, she will have graduated.\n\n*Understanding and mastering these tenses allows you to communicate precisely about different times. Practice conjugating regular and irregular verbs, and pay attention to context to choose the correct tense.*",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct form of the verb in parentheses: 'She ___ (go) to the store yesterday.'",
+      "answer": "went"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct tense: 'They ___ (work) on the project all day.'",
+      "answer": "have been working"
+    },
+    {
+      "type": "Correction",
+      "question": "Identify and correct the tense error: 'I seen that movie last week.'",
+      "answer": "I saw that movie last week."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense with its description:\nA. Present Progressive\nB. Past Perfect\nC. Future\n\n1. Will + base verb\n2. am/is/are + verb-ing\n3. had + past participle",
+      "answer": "A-2, B-3, C-1"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain when to use the present perfect tense.",
+      "answer": "The present perfect tense is used to describe actions that happened at an unspecified time before now or actions that started in the past and continue to the present."
+    }
+  ],
+  "culturalNotes": "In American culture, clear communication is highly valued, especially in professional and academic settings. Using the correct verb tense demonstrates attention to detail and enhances credibility. Americans often use the present perfect to discuss experiences or recent accomplishments, reflecting a cultural emphasis on individual achievement and ongoing progress. Additionally, understanding the nuances of verb tenses can help learners better grasp American humor, storytelling, and conversational norms, where timing and sequence are crucial.",
+  "createdAt": "2025-12-24T04:16:24.167Z"
+}

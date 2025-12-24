@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00082",
+  "number": 82,
+  "title": "Mastering Conditionals: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of zero, first, and second conditionals in American English.",
+    "Identify when and how to correctly use each type of conditional.",
+    "Formulate basic conditional sentences with confidence.",
+    "Apply conditionals in everyday conversations and situations.",
+    "Gain cultural insights into how Americans use conditionals in communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that describes a cause-and-effect situation, often starting with 'if'.",
+      "example": "If it rains, I take an umbrella."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "An imaginary or uncertain situation, often used in second conditionals.",
+      "example": "If I were a millionaire, I would travel the world."
+    },
+    {
+      "word": "real situation",
+      "definition": "A situation that is actually happening or likely to happen, used in zero and first conditionals.",
+      "example": "If you heat water to 100°C, it boils."
+    }
+  ],
+  "content": "Welcome to the world of conditionals in American English! Conditionals are sentences that tell us what happens if something occurs. They are essential for expressing real and imaginary situations.\n\n**Zero Conditional**: Use for facts and things that are always true. \n- Structure: If + simple present, simple present.\n- Example: If you press this button, the machine starts.\n\n**First Conditional**: Use for real or likely future situations.\n- Structure: If + simple present, will + base verb.\n- Example: If it is sunny tomorrow, we will go to the park.\n\n**Second Conditional**: Use for imaginary or unlikely present or future situations.\n- Structure: If + simple past, would + base verb.\n- Example: If I had a car, I would drive to work.\n\nRemember, in American English, the word 'if' is always lowercase in the middle of a sentence. Use contractions like 'won't' for 'will not' and 'wouldn't' for 'would not' to sound natural.\n\nLet's practice forming these conditionals and see how they are used in everyday life, from weather plans to dreams and wishes!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which sentence is a first conditional?",
+      "answer": "A) If it rains, we stay inside.  \nB) If I see her, I will say hello.  \nC) If I were rich, I would buy a house."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: If you ______ (study), you will pass the test.",
+      "answer": "study"
+    },
+    {
+      "type": "true/false",
+      "question": "The sentence 'If I were a bird, I would fly' is a zero conditional.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Create a second conditional sentence about traveling.",
+      "answer": "If I had more money, I would go to Europe."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used to express hopes, plans, and polite requests. For example, Americans frequently say 'If you could...' to make polite offers or requests. Understanding how to use conditionals appropriately helps in making conversations polite and clear, especially in casual and professional contexts.",
+  "createdAt": "2025-12-24T04:20:09.573Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00056",
+  "number": 56,
+  "title": "Mastering Verb Tenses: Becoming a GOD of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate between all major verb tenses in American English.",
+    "Construct correct sentences using past, present, and future tenses.",
+    "Recognize common errors in verb tense usage and correct them.",
+    "Apply advanced verb tense forms in complex sentence structures.",
+    "Achieve mastery in maintaining tense consistency across writing and speech."
+  ],
+  "vocabulary": [
+    {
+      "word": "Simple Present",
+      "definition": "A verb tense used to describe habitual actions or general truths.",
+      "example": "She walks to school every day."
+    },
+    {
+      "word": "Present Continuous",
+      "definition": "A tense used to describe actions happening right now or around the current time.",
+      "example": "They are studying for their exams."
+    },
+    {
+      "word": "Simple Past",
+      "definition": "A tense used to describe completed actions in the past.",
+      "example": "He visited New York last summer."
+    },
+    {
+      "word": "Past Perfect",
+      "definition": "A tense indicating an action completed before another past action.",
+      "example": "She had finished her homework before dinner."
+    },
+    {
+      "word": "Future Perfect",
+      "definition": "A tense indicating an action that will be completed before a specific future time.",
+      "example": "By next week, I will have finished the project."
+    }
+  ],
+  "content": "Welcome to the realm of verb tenses—your gateway to mastering American English. Understanding verb tenses is crucial for accurate communication, whether you're narrating past experiences, discussing current activities, or planning future endeavors. \n\n**1. Simple Present:** Use for habitual actions, facts, and general truths. \nExample: 'He works at a tech company.'\n\n**2. Present Continuous:** Use for ongoing actions happening now or around the current moment. \nExample: 'She is reading a book.'\n\n**3. Simple Past:** Use for actions completed in the past at a specific time. \nExample: 'They traveled to Spain last year.'\n\n**4. Past Perfect:** Use to describe an action completed before another past action. \nExample: 'I had already eaten when she arrived.'\n\n**5. Future Perfect:** Use to describe an action that will be completed before a specified future time. \nExample: 'By 2025, I will have graduated from college.' \n\nMastering these tenses involves not only understanding their forms but also learning how to switch between them seamlessly to convey time accurately and effectively. Remember, tense consistency is key to clear and professional communication in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: 'She ____ (to go) to the store yesterday.'",
+      "answer": "went (Simple Past)"
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Fill in the blank with the correct form of the verb: 'They ____ (to be) playing soccer now.'",
+      "answer": "are"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error in this sentence: 'I has finished my homework.'",
+      "answer": "I have finished my homework."
+    },
+    {
+      "type": "Create Sentences",
+      "question": "Write a sentence using the Future Perfect tense.",
+      "answer": "By next year, I will have learned to play the guitar."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense to its correct description:\n1. Present Continuous\n2. Simple Past\n3. Future Perfect\n\na. Actions happening now\nb. Actions completed before another past action\nc. Actions that will be finished before a future point",
+      "answer": "1-a, 2-b, 3-c"
+    }
+  ],
+  "culturalNotes": "In American English, tense usage often reflects a direct, clear, and straightforward style, especially in professional and educational contexts. Americans value clarity and precision, so mastering verb tenses enhances your ability to communicate effectively in diverse settings—from casual conversations to formal writing. Additionally, idiomatic expressions and colloquialisms frequently require accurate tense usage to sound natural and fluent. Understanding tense nuances also helps in grasping American historical and cultural narratives, enriching your language mastery with cultural context.",
+  "createdAt": "2025-12-24T04:18:22.059Z"
+}

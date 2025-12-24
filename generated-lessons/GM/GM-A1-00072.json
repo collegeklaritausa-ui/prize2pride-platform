@@ -1,0 +1,74 @@
+{
+  "id": "GM-A1-00072",
+  "number": 72,
+  "title": "Mastering Conditionals: Your Gateway to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic structure of zero, first, second, and third conditionals.",
+    "Identify and correctly use different types of conditionals in sentences.",
+    "Formulate conditional sentences to talk about real and hypothetical situations.",
+    "Recognize common mistakes in using conditionals and learn how to avoid them.",
+    "Apply conditionals confidently in everyday conversation and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that expresses that one thing depends on another.",
+      "example": "If it rains, we will stay indoors."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to imagined or non-real situations.",
+      "example": "If I had a million dollars, I would travel the world."
+    },
+    {
+      "word": "zero conditional",
+      "definition": "A conditional used for general truths or facts.",
+      "example": "If you heat water to 100°C, it boils."
+    },
+    {
+      "word": "first conditional",
+      "definition": "A conditional used for real future possibilities.",
+      "example": "If it is sunny tomorrow, we will go to the beach."
+    },
+    {
+      "word": "second conditional",
+      "definition": "A conditional used for hypothetical present or future situations.",
+      "example": "If I had more free time, I would read more."
+    },
+    {
+      "word": "third conditional",
+      "definition": "A conditional used for hypothetical past situations.",
+      "example": "If I had studied harder, I would have passed the exam."
+    }
+  ],
+  "content": "Welcome to Lesson #72: Conditionals — your key to expressing possibilities, real situations, and imaginary scenarios in American English. Conditionals are sentences that usually start with 'if' and help you talk about what could happen, what might have happened, or what is always true.\n\n**Zero Conditional:** Used for facts and truths.\n- Structure: If + Present Simple, + Present Simple\n- Example: If you mix red and blue, you get purple.\n\n**First Conditional:** Used for real future possibilities.\n- Structure: If + Present Simple, + Will + Base Verb\n- Example: If it rains tomorrow, we will stay inside.\n\n**Second Conditional:** Used for hypothetical or unlikely present or future situations.\n- Structure: If + Past Simple, + Would + Base Verb\n- Example: If I won the lottery, I would buy a new car.\n\n**Third Conditional:** Used for hypothetical situations in the past.\n- Structure: If + Past Perfect, + Would Have + Past Participle\n- Example: If I had studied harder, I would have passed the test.\n\nRemember, in American English, the 'if' clause can come before or after the main clause, and punctuation is used if the 'if' clause starts the sentence.\n\nPractice using these conditionals to make your speech more fluent and natural. They are essential tools for expressing your ideas clearly and confidently in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: \nIf it ____ tomorrow, we will stay home.",
+      "answer": "rains"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: \nIf I ____ more money, I would buy a new phone.",
+      "answer": "had"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence using the third conditional:\nShe didn't study enough, so she didn't pass.",
+      "answer": "If she had studied enough, she would have passed."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conditional type with its example:\nA) Zero Conditional\nB) First Conditional\nC) Second Conditional\nD) Third Conditional\n\n1) If you heat ice, it melts.\n2) If I see him, I will tell him.\n3) If I were rich, I would travel the world.\n4) If I had known, I would have helped.",
+      "answer": "A-1, B-2, C-3, D-4"
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in everyday conversations to talk about plans ('If it snows this weekend, we’ll build a snowman'), wishes ('If I were taller, I could play basketball'), and regrets ('If I had studied more, I would have gotten a better job'). Mastering conditionals will help you sound more natural and expressive when communicating with Americans in various settings, from casual chats to professional interactions.",
+  "createdAt": "2025-12-24T04:19:36.108Z"
+}

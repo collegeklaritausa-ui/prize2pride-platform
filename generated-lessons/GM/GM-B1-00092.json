@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00092",
+  "number": 92,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different types of conditional sentences in American English",
+    "Identify and correctly use first, second, and third conditionals in context",
+    "Differentiate between real and unreal conditionals",
+    "Construct complex conditional sentences with accuracy and confidence",
+    "Apply conditionals to everyday situations and conversations"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence structure expressing cause and effect, often beginning with 'if' or 'when'.",
+      "example": "If it rains tomorrow, we will cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are imagined or not real.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "real conditional",
+      "definition": "Conditionals that refer to actual or possible situations.",
+      "example": "If you study hard, you will pass the exam."
+    },
+    {
+      "word": "unreal conditional",
+      "definition": "Conditionals that discuss imaginary or unlikely situations.",
+      "example": "If I had a million dollars, I would buy a house."
+    }
+  ],
+  "content": "Conditionals are a fundamental part of American English, allowing speakers to express real, possible, or imaginary situations and their consequences. There are three main types:\n\n1. First Conditional (Real): Used for real and possible situations in the future.\n- Structure: If + present simple, + will + base verb\n- Example: If it snows tonight, I will build a snowman.\n\n2. Second Conditional (Unreal in the Present/Future): Used for hypothetical or unlikely situations.\n- Structure: If + past simple, + would + base verb\n- Example: If I knew the answer, I would tell you.\n\n3. Third Conditional (Unreal in the Past): Used to talk about past situations that did not happen.\n- Structure: If + past perfect, + would have + past participle\n- Example: If I had studied harder, I would have passed the test.\n\nPracticing these conditionals helps you sound more natural and confident. Remember, the choice depends on whether the situation is real, likely, or hypothetical. Use the correct structure to clearly convey your message.\n\nExample dialogue:\nA: What would you do if you won the lottery?\nB: I would travel around the world.\n\nTip: Pay attention to verb forms and the context to determine the correct conditional to use.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct sentence that uses the second conditional.",
+      "answer": "If I had more free time, I would learn to play the guitar."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "If she ____ (be) taller, she ____ (be) a model.",
+      "answer": "were; would be"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following sentence as a third conditional: 'I didn't go to the party because I was busy.'",
+      "answer": "If I hadn't been busy, I would have gone to the party."
+    },
+    {
+      "type": "matching",
+      "question": "Match each conditional type with its correct example.\n- First Conditional\n- Second Conditional\n- Third Conditional\n\na. If you had told me, I would have helped.\n b. If it rains, we will stay indoors.\n c. If I were you, I would apologize.",
+      "answer": "First Conditional - b; Second Conditional - c; Third Conditional - a"
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are frequently used in casual conversations, storytelling, and when discussing future plans or regrets. Mastering conditionals enables clearer communication of wishes, hypothetical scenarios, and advice, which are common in everyday American interactions. Understanding how to use these structures appropriately will help you sound more natural and confident in American English settings.",
+  "createdAt": "2025-12-24T04:20:43.325Z"
+}

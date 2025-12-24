@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00085",
+  "number": 85,
+  "title": "Mastering Conditionals: The Key to Talking About Possibilities",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of zero, first, and second conditionals in American English",
+    "Identify and use conditionals correctly in everyday conversation",
+    "Differentiate between real and unreal situations using conditionals",
+    "Develop confidence in forming conditional sentences",
+    "Apply conditionals to express wishes, habits, and future possibilities"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A sentence that describes a situation and its result, often starting with 'if'.",
+      "example": "If it rains, we will stay inside."
+    },
+    {
+      "word": "possibility",
+      "definition": "The chance that something will happen.",
+      "example": "There is a possibility of snow tomorrow."
+    },
+    {
+      "word": "unreal",
+      "definition": "Not real or not true; imagined or hypothetical.",
+      "example": "If I were a bird, I could fly."
+    }
+  ],
+  "content": "Welcome to the lesson on conditionals, a fundamental part of American English used to talk about possibilities, habits, and imaginary situations.\n\n**Zero Conditional:** Used for facts or things that are always true.\n- Structure: If + present simple, present simple\n- Example: If you heat ice, it melts.\n\n**First Conditional:** Used for real or likely future situations.\n- Structure: If + present simple, will + verb\n- Example: If it rains tomorrow, we will stay home.\n\n**Second Conditional:** Used for hypothetical or unlikely situations.\n- Structure: If + past simple, would + verb\n- Example: If I won the lottery, I would travel the world.\n\nPractice applying these structures in everyday situations to become fluent in expressing possibilities, conditions, and imaginary scenarios. Remember, mastering conditionals will make your English sound more natural and confident.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: If it ____ (rain) today, we ____ (cancel) the picnic.",
+      "answer": "rains, will cancel"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "If I ____ (be) a superhero, I ____ (save) the world.",
+      "answer": "were, would save"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence to its type: \n1. If you study hard, you will pass. \n2. If I had more time, I would read more books. \n3. If you heat water, it boils.",
+      "answer": "1. First Conditional, 2. Second Conditional, 3. Zero Conditional"
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are frequently used in everyday conversations to discuss plans, dreams, and hypothetical situations. For example, Americans often say, 'If I get time this weekend, I will visit my family.' Understanding conditionals helps you express intentions and hopes naturally in social settings, enhancing your ability to connect and communicate effectively.",
+  "createdAt": "2025-12-24T04:20:19.070Z"
+}

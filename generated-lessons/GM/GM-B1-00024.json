@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00024",
+  "number": 24,
+  "title": "Mastering Verb Tenses: Unlock the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand and differentiate between present, past, and future verb tenses.",
+    "Properly conjugate regular and irregular verbs in different tenses.",
+    "Apply verb tenses accurately in both spoken and written American English.",
+    "Identify common mistakes with verb tense consistency and correct them.",
+    "Enhance overall fluency by mastering nuanced tense usage in everyday contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": " tense",
+      "definition": "A grammatical category that expresses the time of an action or state.",
+      "example": "In English, the present tense describes actions happening now, like 'I am eating.'"
+    },
+    {
+      "word": "conjugation",
+      "definition": "The variation of a verb to express different tense, mood, person, or number.",
+      "example": "The verb 'to walk' conjugates to 'walks' for he/she/it in the present tense."
+    },
+    {
+      "word": "irregular verbs",
+      "definition": "Verbs that do not follow standard conjugation patterns.",
+      "example": "The past tense of 'go' is 'went,' which is irregular."
+    }
+  ],
+  "content": "Welcome to the world of verb tenses, the backbone of clear and accurate communication in American English. Mastering verb tenses allows you to specify when an action occurs—whether in the present, past, or future.\n\n**Present Tense:** Used for current actions or general truths. Example: 'She works at the bank.'\n\n**Past Tense:** Describes actions that happened previously. Regular verbs typically add '-ed' (e.g., 'walked'), while irregular verbs vary (e.g., 'went').\n\n**Future Tense:** Indicates actions that will happen. Usually formed with 'will' or 'be going to.' Example: 'They will visit tomorrow.'\n\n**Progressive (Continuous) Tenses:** Show ongoing actions. Present progressive: 'I am studying.' Past progressive: 'They were playing.' Future progressive: 'She will be working.'\n\n**Perfect Tenses:** Express completed actions. Present perfect: 'I have finished.' Past perfect: 'They had left.' Future perfect: 'By next year, I will have graduated.'\n\nUnderstanding the nuances of these tenses and their correct usage elevates your communication skills. Practice conjugating common regular and irregular verbs across different tenses to gain confidence.\n\nRemember, consistency is key to mastering verb tenses. Keep practicing to become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb tense for the sentence: 'By next week, I ___ (finish) my project.'",
+      "answer": "will have finished"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She ___ (go) to the store every Saturday.",
+      "answer": "goes"
+    },
+    {
+      "type": "correct the mistake",
+      "question": "They was playing soccer yesterday.",
+      "answer": "They were playing soccer yesterday."
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence in the past tense: 'He is cooking dinner.'",
+      "answer": "He was cooking dinner."
+    },
+    {
+      "type": "matching",
+      "question": "Match the tense with its correct description:\n1. Present perfect\n2. Past perfect\n3. Future perfect\n\na. Actions completed before another past action\nb. Actions completed before a future point\nc. Actions that happened at an unspecified time before now",
+      "answer": "1-c, 2-a, 3-b"
+    }
+  ],
+  "culturalNotes": "In American culture, effective communication often relies on precise tense usage, especially in business, storytelling, and daily interactions. Americans value clarity and timeliness, making mastery of verb tenses essential for expressing ideas confidently and professionally. Whether sharing a story or making plans, correct tense usage helps convey your message clearly and convincingly.",
+  "createdAt": "2025-12-24T04:15:56.961Z"
+}

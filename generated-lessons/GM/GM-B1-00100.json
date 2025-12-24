@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00100",
+  "number": 100,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different types of conditional sentences in American English.",
+    "Identify and correctly use zero, first, second, and third conditionals in conversation and writing.",
+    "Distinguish between real and unreal conditionals to convey precise meaning.",
+    "Apply conditionals to express future possibilities, hypothetical situations, and past regrets.",
+    "Gain confidence to incorporate conditionals naturally in everyday American English communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional sentence",
+      "definition": "A sentence that expresses a condition and its result, often using 'if' or other words indicating conditions.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are imagined or not real, often used in second and third conditionals.",
+      "example": "If I were a millionaire, I would buy a house."
+    },
+    {
+      "word": "regret",
+      "definition": "A feeling of sorrow or remorse about something that happened or didn't happen in the past.",
+      "example": "If I had studied harder, I wouldn't have failed the exam."
+    }
+  ],
+  "content": "Welcome to the world of American English conditionals, where possibilities and hypothetical scenarios shape your communication. Conditionals are essential for expressing facts, future plans, regrets, and imaginary situations.\n\n**Zero Conditional:** Used for facts or general truths.\n- Structure: If + present simple, ... present simple\n- Example: If you heat ice, it melts.\n\n**First Conditional:** Used for real and possible future situations.\n- Structure: If + present simple, ... will + base verb\n- Example: If it rains tomorrow, we will stay indoors.\n\n**Second Conditional:** Used for unreal or unlikely present or future situations.\n- Structure: If + past simple, ... would + base verb\n- Example: If I won the lottery, I would travel the world.\n\n**Third Conditional:** Used for unreal past situations and regrets.\n- Structure: If + past perfect, ... would have + past participle\n- Example: If I had studied harder, I would have passed the test.\n\n**Practicing conditionals will help you articulate possibilities, dreams, regrets, and hypothetical scenarios with clarity and confidence.** Remember, mastering conditionals makes your American English more versatile and impactful.\n\nLet's explore some common patterns and tips for using conditionals effectively:\n- Use the correct tense to match the intended meaning.\n- Pay attention to the verb forms after 'if'.\n- Remember that in informal American English, contractions are common (e.g., 'if it’s raining, we’re staying in').\n- Practice by making your own sentences in each conditional form to become more comfortable.\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct form of the verb to complete the sentence: \nIf she ____ (study) more, she would pass the exam.",
+      "answer": "studies"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form: \nIf I ____ (be) taller, I could join the basketball team.",
+      "answer": "were"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence using the third conditional: \nHe didn't go to the party because he was busy.",
+      "answer": "If he had been free, he would have gone to the party."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conditional type with its structure:\n- Zero Conditional\n- First Conditional\n- Second Conditional\n- Third Conditional\n\na) If + past perfect, ... would have + past participle\nb) If + present simple, ... will + base verb\nc) If + present simple, ... present simple\n d) If + past simple, ... would + base verb",
+      "answer": {
+        "Zero Conditional": "c",
+        "First Conditional": "b",
+        "Second Conditional": "d",
+        "Third Conditional": "a"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in casual conversation to suggest possibilities, give advice, or share regrets. Phrases like 'If I were you...' or 'If I had known...' are common in storytelling and everyday advice. Americans value directness and clarity, so mastering conditionals enhances your ability to communicate ideas effectively and confidently in diverse social settings.",
+  "createdAt": "2025-12-24T04:21:14.887Z"
+}

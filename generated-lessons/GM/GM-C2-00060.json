@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00060",
+  "number": 60,
+  "title": "Mastering Verb Tenses: Command the Flow of Time in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate all 12 American English verb tenses",
+    "Conjugate verbs correctly across various tenses and aspects",
+    "Use appropriate tense forms in complex sentences and contexts",
+    "Recognize common errors in tense usage and correct them",
+    "Apply tense mastery to enhance clarity, accuracy, and fluency in speech and writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Aspect",
+      "definition": "A grammatical feature that expresses the completeness, duration, or repetition of an action.",
+      "example": "The present perfect tense emphasizes the relevance of past actions to the present."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action or state of the verb in time.",
+      "example": "The simple past tense describes actions that happened at a specific time in the past."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A tense that indicates completed actions or states related to the present, past, or future.",
+      "example": "She has finished her homework."
+    },
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A tense that emphasizes ongoing actions or states.",
+      "example": "They are playing soccer now."
+    },
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses ability, possibility, permission, or obligation.",
+      "example": "Can, might, must, should are modal verbs."
+    }
+  ],
+  "content": "Welcome to the ultimate mastery of American English verb tenses! In this lesson, you'll learn to navigate the complex landscape of tense and aspect, transforming from a proficient speaker into a GOD of linguistic timing.\n\n**Overview of the 12 Tenses:**\n1. Present Simple (e.g., I eat)\n2. Present Continuous (e.g., I am eating)\n3. Present Perfect (e.g., I have eaten)\n4. Present Perfect Continuous (e.g., I have been eating)\n5. Past Simple (e.g., I ate)\n6. Past Continuous (e.g., I was eating)\n7. Past Perfect (e.g., I had eaten)\n8. Past Perfect Continuous (e.g., I had been eating)\n9. Future Simple (e.g., I will eat)\n10. Future Continuous (e.g., I will be eating)\n11. Future Perfect (e.g., I will have eaten)\n12. Future Perfect Continuous (e.g., I will have been eating)\n\n**Key Concepts:**\n- Tense indicates *when* an action occurs.\n- Aspect (simple, perfect, continuous, perfect continuous) adds *how* the action unfolds over time.\n- Modal verbs combine with various tenses to express mood, possibility, or obligation.\n\n**Examples and Usage Tips:**\n- Use the Present Simple for routines and facts: \"The sun rises in the east.\"\n- Use the Present Continuous for ongoing actions: \"She is studying now.\"\n- Use the Present Perfect for actions affecting the present: \"I have lost my keys.\"\n- Use the Past Perfect for actions completed before another past action: \"He had already left when I arrived.\"\n- Use the Future Simple for predictions or spontaneous decisions: \"I will call you tomorrow.\"\n- Master the nuances by combining aspects, e.g., \"She had been working for hours when she took a break.\"\n\nProper tense usage not only clarifies meaning but also demonstrates confidence and mastery in communication. Practice regularly and pay attention to context to choose the correct tense every time.\n\n**Note:** Remember, in American English, contractions like \"she's\" for \"she is\" and \"they're\" for \"they are\" are commonly used for natural flow and fluency.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense: 'By next week, I __________ (finish) my project.'",
+      "answer": "will have finished"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She __________ (study) for three hours when her friends arrived.",
+      "answer": "had been studying"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the tense error: 'I am going to the store yesterday.'",
+      "answer": "I went to the store yesterday."
+    },
+    {
+      "type": "Sentence Creation",
+      "question": "Create a sentence using the Past Perfect Continuous tense.",
+      "answer": "They had been waiting for an hour when the train finally arrived."
+    }
+  ],
+  "culturalNotes": "In American culture, timely and precise communication is highly valued. Mastery of verb tenses enhances clarity and professionalism, especially in business, academic, and social interactions. Americans often use contractions and a conversational tone, which should be reflected in your spoken and written language to sound natural and fluent. Understanding tense usage also helps in interpreting American media, literature, and everyday conversations accurately.",
+  "createdAt": "2025-12-24T04:18:39.602Z"
+}

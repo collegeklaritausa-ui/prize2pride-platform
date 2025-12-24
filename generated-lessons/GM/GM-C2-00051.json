@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00051",
+  "number": 51,
+  "title": "Mastering American English Verb Tenses: From Novice to GODS",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and correctly use all major verb tenses in American English.",
+    "Distinguish between simple, continuous, perfect, and perfect continuous tenses.",
+    "Construct grammatically correct sentences across different tenses.",
+    "Apply verb tense rules to real-life communication scenarios.",
+    "Achieve fluency and confidence in using verb tenses naturally."
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A grammatical category that locates the action or state in time, indicating when it occurs.",
+      "example": "She **was eating** when I arrived. (Past continuous tense)"
+    },
+    {
+      "word": "Aspect",
+      "definition": "The form of the verb that expresses the nature of the action, such as ongoing, completed, or habitual.",
+      "example": "He **has been working** here for five years. (Present perfect continuous aspect)"
+    },
+    {
+      "word": "Simple Tense",
+      "definition": "Verb tense that expresses habitual actions, general truths, or facts.",
+      "example": "They **go** to school every day."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson in mastering American English verb tenses. To become a GOD of English, you must understand the intricate systems that convey time, aspect, and mood through verbs. Here's a breakdown:\n\n1. **Simple Tenses:**\n- Present Simple: Describes habitual actions or facts. *Example: I **eat** breakfast every morning.*\n- Past Simple: Describes completed actions in the past. *Example: She **saw** a movie yesterday.*\n- Future Simple: Describes actions that will happen. *Example: They **will travel** next summer.*\n\n2. **Continuous (Progressive) Tenses:**\n- Present Continuous: Ongoing actions happening now. *Example: I **am studying** now.*\n- Past Continuous: Actions ongoing in the past. *Example: He **was reading** when you called.*\n- Future Continuous: Actions that will be ongoing in the future. *Example: I **will be working** at 10 AM.*\n\n3. **Perfect Tenses:**\n- Present Perfect: Actions completed at an unspecified time or starting in the past with relevance now. *Example: She **has finished** her homework.*\n- Past Perfect: Actions completed before another past action. *Example: They **had left** when I arrived.*\n- Future Perfect: Actions that will be completed before a future point. *Example: By next year, I **will have graduated**.*\n\n4. **Perfect Continuous Tenses:**\n- Present Perfect Continuous: Actions that started in the past and continue now. *Example: I **have been studying** for two hours.*\n- Past Perfect Continuous: Past ongoing actions up to a point in the past. *Example: He **had been working** there for a year before he quit.*\n- Future Perfect Continuous: Actions ongoing until a future point. *Example: By then, she **will have been living** here for a decade.*\n\nMastering these tenses involves practice and understanding their nuances. Use timelines, charts, and real-life scenarios to internalize their functions.\n\nRemember: Consistency and context are key to becoming a true GOD of American English verb mastery.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct verb tense for the sentence: 'By next week, I ___ (finish) the project.'",
+      "answer": "will have finished"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the correct form of the verb: 'She ___ (be) reading for two hours when I arrived.'",
+      "answer": "had been reading"
+    },
+    {
+      "type": "Rearrangement",
+      "question": "Arrange the words to form a correct sentence in the present perfect tense: 'she / in / has / the park / walked.'",
+      "answer": "She has walked in the park."
+    },
+    {
+      "type": "Explanation",
+      "question": "Explain the difference between the present perfect and the present perfect continuous tenses.",
+      "answer": "The present perfect describes actions completed at an unspecified time or with relevance to now, often emphasizing the result (e.g., 'I have finished'). The present perfect continuous emphasizes the duration or ongoing nature of an action that started in the past and continues to the present (e.g., 'I have been working')."
+    }
+  ],
+  "culturalNotes": "In American culture, the use of the correct verb tense is crucial for clear communication, especially in professional and academic settings. Americans value punctuality and clarity, which are reflected in their language use. Mastery of tense helps convey not just information but also professionalism and credibility. Additionally, idiomatic expressions often rely on specific tenses, so understanding these forms enhances cultural fluency and social integration.",
+  "createdAt": "2025-12-24T04:17:59.603Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00029",
+  "number": 29,
+  "title": "Mastering Verb Tenses: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different verb tenses used in American English.",
+    "Identify and correctly use the present, past, and future tenses.",
+    "Distinguish between simple, continuous, perfect, and perfect continuous aspects.",
+    "Apply verb tenses accurately in both written and spoken contexts.",
+    "Recognize common mistakes and learn how to avoid them."
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A grammatical category that locates a situation in time, indicating when an action occurs.",
+      "example": "She is running every morning."
+    },
+    {
+      "word": "Simple Tense",
+      "definition": "A verb form that expresses an action in general, habitual, or factual situations.",
+      "example": "He walks to school."
+    },
+    {
+      "word": "Continuous (Progressive) Tense",
+      "definition": "A verb form that describes ongoing actions happening at a specific moment.",
+      "example": "They are watching a movie."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A verb form that indicates completed actions relative to another time.",
+      "example": "I have finished my homework."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A verb form used to describe actions that will happen later.",
+      "example": "She will travel to New York next week."
+    }
+  ],
+  "content": "Welcome to the journey of mastering verb tenses, the backbone of fluent American English. Understanding when and how to use different tenses empowers you to express yourself clearly and accurately.\n\nThe primary verb tenses are present, past, and future. Each has four aspects: simple, continuous, perfect, and perfect continuous.\n\n**Present Tense:**\n- *Simple Present:* Used for habits or facts. e.g., \"I eat breakfast every day.\"\n- *Present Continuous:* Describes actions happening now. e.g., \"She is reading a book.\"\n- *Present Perfect:* Focuses on actions completed recently or with relevance now. e.g., \"They have visited Paris.\"\n- *Present Perfect Continuous:* Emphasizes the duration of ongoing actions. e.g., \"He has been working here for five years.\"\n\n**Past Tense:**\n- *Simple Past:* Actions completed at a specific time. e.g., \"We watched a movie yesterday.\"\n- *Past Continuous:* Actions ongoing at a particular past time. e.g., \"I was studying when you called.\"\n- *Past Perfect:* An action completed before another past action. e.g., \"She had left before I arrived.\"\n- *Past Perfect Continuous:* Duration of past actions up to a point. e.g., \"They had been waiting for an hour.\"\n\n**Future Tense:**\n- *Simple Future:* Actions that will happen. e.g., \"I will call you tomorrow.\"\n- *Future Continuous:* Actions ongoing in the future. e.g., \"This time tomorrow, I will be flying to California.\"\n- *Future Perfect:* Actions that will be completed before a future time. e.g., \"By next week, she will have finished the project.\"\n- *Future Perfect Continuous:* Duration of future actions up to a certain point. e.g., \"By next month, he will have been working here for a year.\"\n\nMastering these forms involves understanding their structure and practicing their use in real-life scenarios. Remember, consistency and context are key to becoming a GOD of American English verb tenses.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct tense: \"She _____ (study) for her exam all night.\"",
+      "answer": "has been studying"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct form: \"They _____ (finish) their homework before dinner.\"",
+      "answer": "had finished"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: \"I will went to the store tomorrow.\"",
+      "answer": "I will go to the store tomorrow."
+    },
+    {
+      "type": "short answer",
+      "question": "Write a sentence in the future perfect tense.",
+      "answer": "By next year, I will have graduated from college."
+    },
+    {
+      "type": "matching",
+      "question": "Match the tense with its description:\n1. Present Perfect\n2. Past Continuous\n3. Future Simple\n\nA. Action happening now\nB. Action completed before another past action\nC. Action that will happen later",
+      "answer": "1-C, 2-A, 3-B"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of verb tenses often reflects a practical and straightforward communication style. Americans value clarity and timeliness, so accurately conveying when actions occur helps build trust and credibility. Understanding tense usage also enhances your ability to participate in everyday conversations, business meetings, and media consumption—core aspects of American life. Remember, mastering tense forms will enable you to tell stories, share experiences, and express intentions with confidence, truly making you a GOD of American English!",
+  "createdAt": "2025-12-24T04:16:19.501Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00018",
+  "number": 18,
+  "title": "Mastering Verb Tenses: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic verb tenses in American English: present, past, and future.",
+    "Identify the correct verb tense to use in simple sentences.",
+    "Formulate sentences using regular and irregular verbs in different tenses.",
+    "Recognize common mistakes with verb tenses and how to avoid them.",
+    "Apply verb tenses accurately in speaking and writing to sound natural and confident."
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action or state of being in time.",
+      "example": "In the sentence 'I walk,' the verb is in the present tense."
+    },
+    {
+      "word": "Present Tense",
+      "definition": "A verb tense that describes actions happening now or regularly.",
+      "example": "She eats breakfast every morning."
+    },
+    {
+      "word": "Past Tense",
+      "definition": "A verb tense that describes actions that happened before now.",
+      "example": "They visited the museum yesterday."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A verb tense that describes actions that will happen later.",
+      "example": "He will travel to New York next week."
+    }
+  ],
+  "content": "Welcome to the world of verb tenses! In American English, using the correct verb tense is essential for clear communication. Let's start with the basics:\n\n1. Present Tense:\n- Used for actions happening now or regularly.\n- Example: I eat breakfast every day.\n\n2. Past Tense:\n- Used for actions completed in the past.\n- Example: I watched a movie yesterday.\n\n3. Future Tense:\n- Used for actions that will happen later.\n- Example: I will call you tomorrow.\n\nRegular verbs form the past tense by adding '-ed' (walk -> walked). Irregular verbs have special past tense forms (go -> went, have -> had).\n\nPractice helps! Think about your daily routine. Use the present tense to describe what you do, the past tense to talk about what you did yesterday, and the future tense for plans.\n\nRemember, mastering these tenses will make your American English sound natural and confident!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct verb tense: 'Yesterday, I ____ (go) to the park.'",
+      "answer": "went"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the correct form of 'to be': 'They ____ happy yesterday.'",
+      "answer": "were"
+    },
+    {
+      "type": "Sentence Formation",
+      "question": "Write a sentence about your plans tomorrow using the future tense.",
+      "answer": "I will visit my friend tomorrow."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'He goed to the store.'",
+      "answer": "He went to the store."
+    }
+  ],
+  "culturalNotes": "In American culture, quick communication and clarity are valued. Using the correct verb tense helps you share your stories and experiences effectively, whether in casual conversations, business meetings, or social media. Americans appreciate directness and timing, so mastering verb tenses also helps you stay relevant and engaging in social interactions.",
+  "createdAt": "2025-12-24T04:15:33.195Z"
+}

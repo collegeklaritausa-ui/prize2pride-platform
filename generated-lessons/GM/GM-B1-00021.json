@@ -1,0 +1,54 @@
+{
+  "id": "GM-B1-00021",
+  "number": 21,
+  "title": "Mastering Verb Tenses: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and correctly use the Present Simple, Present Continuous, Past Simple, and Future Simple tenses.",
+    "Understand the nuances and contexts in which different verb tenses are used.",
+    "Formulate sentences accurately using the appropriate verb tense.",
+    "Differentiate between similar tenses in real-life scenarios.",
+    "Elevate your speaking and writing skills to a professional American English level."
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A grammatical category that expresses the time of an action or state of being.",
+      "example": "In the sentence 'She is running,' 'is running' is in the Present Continuous tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The way in which a verb expresses the flow or completion of an action.",
+      "example": "The Present Perfect shows actions that happened at an unspecified time or that started in the past and continue in the present."
+    }
+  ],
+  "content": "Welcome to Lesson #21: Verb Tenses—your gateway to mastering the timing of actions in American English. Understanding verb tenses is essential for clear communication, whether you’re telling a story, describing routines, or discussing future plans.\n\n**Present Simple**: Used for routines, facts, and general truths. \n- Example: 'I study every day.'\n\n**Present Continuous**: Describes actions happening right now or temporary situations.\n- Example: 'I am studying for my exam.'\n\n**Past Simple**: Refers to completed actions at a specific time in the past.\n- Example: 'I visited New York last year.'\n\n**Future Simple**: Expresses actions that will happen in the future.\n- Example: 'I will travel to California next month.'\n\n**Key Tips:**\n- Use the base verb + 's' for third person singular in Present Simple.\n- Add '-ing' to form the Present Continuous.\n- Use the past form of the verb for Past Simple.\n- Use 'will' + base verb for Future Simple.\n\nPracticing these tenses in context will make you fluent and confident in American English. Remember, native speakers often use contractions like 'I'm,' 'He's,' and 'They'll,' which you should incorporate into your speech to sound natural.\n\nLet's see how these tenses function in everyday sentences:\n- Present Simple: 'She works at a bank.'\n- Present Continuous: 'She is working on a project.'\n- Past Simple: 'She worked there for five years.'\n- Future Simple: 'She will start a new job next week.'\n\nMaster these tenses, and you'll speak and write American English with the authority of a true GOD!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense: 'I ____ (to visit) my grandparents yesterday.'",
+      "answer": "visited"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the correct form of the verb in parentheses: 'They ____ (to play) soccer right now.'",
+      "answer": "are playing"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the mistake: 'She don’t like pizza.'",
+      "answer": "She doesn’t like pizza."
+    },
+    {
+      "type": "Create Sentence",
+      "question": "Write a sentence using the Future Simple tense.",
+      "answer": "I will visit my friend tomorrow."
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality and clarity in communication are highly valued. Using the correct verb tense demonstrates professionalism and respect in both casual and formal settings. Americans often use contractions and colloquial expressions, so mastering verb tenses helps you blend seamlessly into everyday conversations and cultural nuances.",
+  "createdAt": "2025-12-24T04:15:43.026Z"
+}

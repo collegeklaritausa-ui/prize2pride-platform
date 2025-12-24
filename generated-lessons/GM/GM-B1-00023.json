@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00023",
+  "number": 23,
+  "title": "Mastering Verb Tenses: Become a God of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the different verb tenses used in American English",
+    "Identify and correctly use present, past, and future tenses",
+    "Distinguish between simple, continuous, perfect, and perfect continuous aspects",
+    "Apply verb tenses accurately in both writing and speaking",
+    "Recognize common mistakes and learn how to avoid them"
+  ],
+  "vocabulary": [
+    {
+      "word": "Tense",
+      "definition": "The form of a verb that indicates when an action takes place.",
+      "example": "In the sentence 'She is running,' 'is running' is in the present continuous tense."
+    },
+    {
+      "word": "Aspect",
+      "definition": "The way in which a verb expresses the flow or completion of an action.",
+      "example": "The perfect aspect ('have/has + past participle') shows completed actions."
+    },
+    {
+      "word": "Progressive",
+      "definition": "A verb form indicating ongoing action, often called the continuous tense.",
+      "example": "They are studying for the exam."
+    },
+    {
+      "word": "Perfect",
+      "definition": "A verb form showing that an action has been completed at some point.",
+      "example": "I have finished my homework."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A verb tense used to describe actions that will happen.",
+      "example": "She will travel to New York next week."
+    }
+  ],
+  "content": "Welcome to Lesson 23: Verb Tenses. Mastering verb tenses is crucial for expressing timing accurately in American English. Let's explore the main tenses:\n\n1. Present Tense:\n- Simple Present: Describes routines or facts. Example: 'I eat breakfast every morning.'\n- Present Continuous: Describes ongoing actions. Example: 'I am eating breakfast now.'\n\n2. Past Tense:\n- Simple Past: Describes completed actions. Example: 'I visited New York last year.'\n- Past Continuous: Describes ongoing past actions. Example: 'I was watching TV when you called.'\n- Present Perfect: Describes actions completed at an unspecified time. Example: 'I have seen that movie.'\n- Past Perfect: Describes actions completed before another past action. Example: 'I had finished my homework before dinner.'\n\n3. Future Tense:\n- Simple Future: Describes actions that will happen. Example: 'I will go to the store.'\n- Future Continuous: Describes ongoing future actions. Example: 'I will be working at 3 PM.'\n- Future Perfect: Describes actions completed before a future point. Example: 'I will have finished the project by Monday.'\n\nUnderstanding the nuances of these tenses helps you communicate precisely. Practice forming sentences using different tenses and pay attention to context to choose the right one.\n\nRemember, consistency and context are key to mastering verb tenses in American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense: 'Yesterday, I ____ (go) to the park.'",
+      "answer": "went"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct form of the verb: 'They ____ (study) for their exam all night.'",
+      "answer": "have been studying"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the mistake: 'She will attends the meeting tomorrow.'",
+      "answer": "She will attend the meeting tomorrow."
+    },
+    {
+      "type": "Create a sentence",
+      "question": "Write a sentence in the present perfect tense.",
+      "answer": "I have visited the Grand Canyon."
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality and clarity in communication are highly valued. Using the correct verb tense not only ensures your message is understood but also reflects professionalism and respect for your audience. American English tends to favor straightforward and direct language, so mastering tenses is essential for effective communication in social, academic, and business contexts.",
+  "createdAt": "2025-12-24T04:15:52.264Z"
+}

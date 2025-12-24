@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00033",
+  "number": 33,
+  "title": "Mastering Verb Tenses: Unleash Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the key differences between various verb tenses in American English.",
+    "Formulate correct sentences using present, past, and future tenses.",
+    "Identify and correct common errors related to verb tense consistency.",
+    "Apply advanced verb tense concepts, including perfect and progressive aspects, in complex sentences.",
+    "Gain confidence in using verb tenses accurately in both spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Progressive (Continuous) Tense",
+      "definition": "A verb form that describes ongoing actions, using 'be' + verb ending in -ing.",
+      "example": "She is running late for her appointment."
+    },
+    {
+      "word": "Perfect Tense",
+      "definition": "A verb form that indicates completed actions relative to a specific time, using 'have' + past participle.",
+      "example": "They have finished their homework."
+    },
+    {
+      "word": "Simple Tense",
+      "definition": "The basic form of a verb used to express habitual actions, facts, or general truths.",
+      "example": "He walks to school every day."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A verb form expressing actions that will happen, often with 'will' or 'going to'.",
+      "example": "I will visit my grandparents tomorrow."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson on American English verb tenses. Mastery of verb tenses is crucial for clear, accurate communication. Let's break down the main tenses with examples and tips:\n\n1. Present Simple:\n- Usage: Facts, routines, general truths.\n- Example: \"She works at a bank.\"\n\n2. Present Progressive:\n- Usage: Actions happening now.\n- Example: \"They are studying for their exams.\"\n\n3. Past Simple:\n- Usage: Completed actions in the past.\n- Example: \"He visited New York last summer.\"\n\n4. Past Progressive:\n- Usage: Past actions ongoing at a specific time.\n- Example: \"I was reading when you called.\"\n\n5. Present Perfect:\n- Usage: Actions that happened at an unspecified time or started in the past and continue.\n- Example: \"We have lived here for five years.\"\n\n6. Present Perfect Progressive:\n- Usage: Actions that began in the past and are still continuing.\n- Example: \"She has been working on her project all day.\"\n\n7. Future Simple:\n- Usage: Promises, predictions, spontaneous decisions.\n- Example: \"I will help you with your homework.\"\n\n8. Future Going To:\n- Usage: Planned actions or intentions.\n- Example: \"We are going to visit Grandma this weekend.\"\n\nRemember, mastering these tenses involves recognizing their specific contexts and using them accurately in conversation and writing. Practice combining these tenses in complex sentences to become a true GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct tense for the sentence: 'She ____ (study) English for three years.'",
+      "answer": "has been studying"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the correct form of the verb: 'They ____ (finish) their project yesterday.'",
+      "answer": "finished"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the tense error: 'I am going to the store yesterday.'",
+      "answer": "I went to the store yesterday."
+    },
+    {
+      "type": "Sentence Transformation",
+      "question": "Rewrite the sentence in the past perfect progressive tense: 'She works on her art all day.'",
+      "answer": "She had been working on her art all day."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense with its usage:\nA. Present Progressive\nB. Future Simple\nC. Present Perfect\n\n1. Actions happening now\n2. Actions completed at an unspecified time\n3. Spontaneous decisions about the future",
+      "answer": "A-1, B-3, C-2"
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality and clarity are highly valued, especially in professional and academic settings. Using correct verb tenses demonstrates respect, professionalism, and a high level of language mastery. For example, Americans often appreciate precise timelines when discussing plans or past events, making verb tense accuracy essential for effective communication and cultural integration.",
+  "createdAt": "2025-12-24T04:16:37.894Z"
+}
