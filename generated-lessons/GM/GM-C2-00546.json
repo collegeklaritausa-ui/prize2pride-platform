@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00546",
+  "number": 546,
+  "title": "Conjunctions Unleashed: Mastering the Art of Connection in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions.",
+    "Understand the grammatical role of conjunctions within sentences.",
+    "Construct complex and compound sentences using a variety of conjunctions.",
+    "Recognize common mistakes involving conjunctions and learn how to avoid them.",
+    "Apply advanced conjunction usage to enhance clarity and style in writing and speech."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "She wanted to go to the party, but she was feeling sick."
+    },
+    {
+      "word": "Coordinate conjunction",
+      "definition": "A conjunction that connects words, phrases, or independent clauses of equal grammatical rank.",
+      "example": "for, and, nor, but, or, yet, so"
+    },
+    {
+      "word": "Subordinate conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "because, although, since, unless, while"
+    },
+    {
+      "word": "Correlative conjunction",
+      "definition": "Paired conjunctions that work together to join equal elements.",
+      "example": "either/or, neither/nor, both/and, not only/but also"
+    }
+  ],
+  "content": "Conjunctions are the linguistic glue that hold your sentences together, enabling clear and sophisticated expression in American English. Recognizing the different types of conjunctions allows you to craft sentences that are not only correct but also stylistically powerful.\n\n**1. Coordinating Conjunctions:** These are the simplest and most common, connecting words, phrases, or independent clauses of equal importance.\n- Example: \"I wanted to attend the concert, but I was too tired.\"\n- Tip: Use FANBOYS (for, and, nor, but, or, yet, so) as a mnemonic to recall coordinating conjunctions.\n\n**2. Subordinating Conjunctions:** These connect a subordinate (dependent) clause to a main (independent) clause, adding information about time, cause, condition, or contrast.\n- Example: \"She stayed home because it was raining.\"\n- Tip: Common subordinating conjunctions include because, since, although, if, when.\n\n**3. Correlative Conjunctions:** These work in pairs to join two balanced elements, emphasizing the relationship between them.\n- Example: \"Either you apologize, or I will leave the room.\"\n- Tip: Always use the pairs together to maintain balance.\n\n**4. Sentence Structure and Conjunctions:** Using conjunctions correctly allows for varied sentence structures, such as compound or complex sentences, which enhance writing style and clarity.\n- Example of compound: \"I studied hard, and I passed the test.\"\n- Example of complex: \"Although I was tired, I continued working.\"\n\nMastering conjunctions empowers you to create nuanced, cohesive, and persuasive sentences that resonate with native speakers and demonstrate mastery of American English.\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct subordinating conjunction: ____ I was hungry, I decided to cook dinner.",
+      "answer": "Although"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine the sentences using a correlative conjunction: 'You can choose. You can stay.'",
+      "answer": "You can choose either to stay or to leave."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error in this sentence: 'She wants to go, but she was feeling sick.'",
+      "answer": "Change 'was' to 'is' to match the present tense: 'She wants to go, but she is feeling sick.'"
+    },
+    {
+      "type": "short answer",
+      "question": "Explain why conjunctions are essential in American English communication.",
+      "answer": "Conjunctions are essential because they connect ideas, clarify relationships between thoughts, and enable the construction of complex and varied sentence structures, making communication more effective and nuanced."
+    }
+  ],
+  "culturalNotes": "In American English, the seamless flow of ideas often relies on the skillful use of conjunctions, especially in academic writing, professional communication, and storytelling. The American emphasis on clarity and coherence highlights the importance of mastering conjunctions to express cause-and-effect, contrast, and choices effectively. Recognizing idiomatic and colloquial uses of conjunctions in American speech can also add authenticity and fluency to your language skills.",
+  "createdAt": "2025-12-24T04:50:30.316Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00526",
+  "number": 526,
+  "title": "Mastering Conjunctions: Unlock the Power of Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and categorize different types of conjunctions in American English.",
+    "Understand the correct placement and usage of coordinating, subordinating, and correlative conjunctions.",
+    "Construct complex and compound sentences using various conjunctions to improve fluency.",
+    "Differentiate between common conjunction mistakes and learn how to avoid them.",
+    "Apply conjunctions effectively to enhance clarity and coherence in spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "Examples include and, but, or, because, although."
+    },
+    {
+      "word": "Coordinating Conjunctions",
+      "definition": "Conjunctions that connect words, phrases, or independent clauses of equal importance.",
+      "example": "For, And, Nor, But, Or, Yet, So (FANBOYS)."
+    },
+    {
+      "word": "Subordinating Conjunctions",
+      "definition": "Conjunctions that connect a dependent clause to an independent clause.",
+      "example": "Although, because, since, unless, while."
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Pairs of conjunctions that work together to join equal elements.",
+      "example": "Either...or, Neither...nor, Not only...but also."
+    }
+  ],
+  "content": "Welcome to the realm of American English mastery: Conjunctions are the glue that binds your sentences, making your speech and writing more sophisticated and coherent. Mastery of conjunctions elevates your language from basic to impressive.\n\n**Types of Conjunctions:**\n1. **Coordinating Conjunctions (FANBOYS):** These connect words or phrases of equal importance.\n   - Example: I wanted to go for a walk, but it started raining.\n\n2. **Subordinating Conjunctions:** These connect dependent clauses to independent clauses, adding details or reasons.\n   - Example: She stayed home because she was feeling sick.\n\n3. **Correlative Conjunctions:** These work in pairs to join equal sentence elements.\n   - Example: Neither the teacher nor the students knew about the surprise.\n\n**Usage Tips:**\n- When using coordinating conjunctions, remember to insert a comma before the conjunction if connecting two independent clauses.\n- Place subordinating conjunctions at the beginning of a dependent clause.\n- Use correlative conjunctions in pairs to balance your sentence structure.\n\n**Examples in Context:**\n- Coordinating: I wanted to buy the shirt, but it was too expensive.\n- Subordinating: Although the weather was bad, we decided to go hiking.\n- Correlative: Either you apologize, or I will be upset.\n\nBy mastering these conjunctions, you will craft sentences that flow smoothly and convincingly, making you a true GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wanted to stay longer, but she had to leave early."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct subordinating conjunction: __ I was tired, I still finished my homework.",
+      "answer": "Although"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the correlative conjunctions with their correct pair:\n1. Neither ____ nor\n2. Either ____ or\n3. Not only ____ but also",
+      "answer": "1. nor\n2. or\n3. but"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a sentence using the conjunction 'yet' to connect two ideas.",
+      "answer": "She studied hard, yet she still struggled on the test."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: I want to go to the park, and it is raining.",
+      "answer": "The correct sentence should be: I want to go to the park, but it is raining."
+    }
+  ],
+  "culturalNotes": "In American culture, the effective use of conjunctions is essential in both formal and informal contexts. Americans value clarity and coherence in communication, whether in business negotiations, academic writing, or casual conversations. Mastering conjunctions allows you to express ideas more convincingly, demonstrating confidence and fluency that are highly appreciated in American social and professional environments.",
+  "createdAt": "2025-12-24T04:48:52.959Z"
+}

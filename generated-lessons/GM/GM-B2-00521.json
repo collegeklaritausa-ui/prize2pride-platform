@@ -1,0 +1,68 @@
+{
+  "id": "GM-B2-00521",
+  "number": 521,
+  "title": "Conjunctions Unleashed: Mastering the Connectors of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and distinguish the main types of conjunctions: coordinating, subordinating, and correlative.",
+    "Understand the grammatical roles of conjunctions in sentence structure.",
+    "Apply correct conjunction usage to combine ideas coherently.",
+    "Recognize common mistakes in conjunction placement and avoid them.",
+    "Enhance writing clarity and fluency by mastering conjunctions in various contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "Because she was late, she missed the bus."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins words, phrases, or independent clauses of equal importance.",
+      "example": "and, but, or, nor, for, yet, so"
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a dependent clause and connects it to an independent clause.",
+      "example": "because, although, since, unless, while"
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "Paired conjunctions that work together to join equal elements.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    }
+  ],
+  "content": "Welcome to the realm of conjunctions—your key to crafting seamless, sophisticated sentences in American English. Conjunctions are essential tools that help us connect ideas, add emphasis, or show contrast. They can be categorized into three main types:\n\n1. **Coordinating Conjunctions**: These are the most common connectors, joining words or clauses of equal importance.\n  - Example: \"I want to go for a walk, but it's raining.\"\n  - Use them to add ideas (and), contrast (but), give options (or), and more.\n\n2. **Subordinating Conjunctions**: These introduce dependent clauses that rely on an independent clause.\n  - Example: \"She stayed indoors because it was snowing.\"\n  - Use them to show cause and effect, contrast, time relationships, etc.\n\n3. **Correlative Conjunctions**: Paired words that link equivalent sentence parts.\n  - Example: \"You can either stay here or come with us.\"\n  - Use them to emphasize the relationship between ideas.\n\n**Examples in Context:**\n- Coordinating: \"He studied hard, so he passed the exam.\"\n- Subordinating: \"Though he was tired, he continued working.\"\n- Correlative: \"Not only did she sing beautifully, but she also danced gracefully.\"\n\nRemember, appropriate conjunction use improves clarity and flow, making your writing more compelling and professional. Practice combining sentences using these connectors to become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: 'I wanted to go swimming, ___ it started raining.'",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate subordinating conjunction: 'She stayed home ___ she was feeling unwell.'",
+      "answer": "because"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunction type with its example:\n  a. Coordinating\n  b. Subordinating\n  c. Correlative\n\n  1. neither...nor\n  2. and\n  3. although",
+      "answer": {
+        "a": "2",
+        "b": "3",
+        "c": "1"
+      }
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine the following sentences using a coordinating conjunction: 'She was tired. She kept working.'",
+      "answer": "She was tired, but she kept working."
+    }
+  ],
+  "culturalNotes": "In American culture, effective use of conjunctions is highly valued in both formal and informal communication. Writers and speakers often use coordinating and subordinating conjunctions to express nuanced relationships and ideas, reflecting the American emphasis on clarity, coherence, and persuasion in language. Mastery of conjunctions also enhances understanding of American idiomatic expressions and complex sentence structures, which are prevalent in everyday speech, media, and literature.",
+  "createdAt": "2025-12-24T04:48:31.980Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00568",
+  "number": 568,
+  "title": "Mastering American Sentence Structure: The Building Blocks of Communication",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic components of a simple sentence in American English",
+    "Identify subjects, verbs, and objects within sentences",
+    "Construct correct and complete simple sentences",
+    "Differentiate between simple, compound, and complex sentences",
+    "Apply sentence structure rules to improve clarity and communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person, place, thing, or idea that the sentence is about.",
+      "example": "The subject in 'The dog barks' is 'The dog'."
+    },
+    {
+      "word": "Verb",
+      "definition": "A word that shows action or state of being.",
+      "example": "run, is, appear"
+    },
+    {
+      "word": "Object",
+      "definition": "The noun or pronoun that receives the action of the verb.",
+      "example": "She reads a book. ('a book' is the object)"
+    }
+  ],
+  "content": "Welcome to the world of American English sentence structure! At its core, a simple sentence is made up of three main parts: the subject, the verb, and the object. For example, in the sentence 'The cat (subject) eats (verb) fish (object),' each part works together to communicate a complete idea.\n\nIn American English, sentences generally follow the Subject-Verb-Object (SVO) order. For instance:\n\n- 'I (subject) like (verb) pizza (object).'\n\nTo build effective sentences:\n1. Start with the subject—who or what the sentence is about.\n2. Add the verb—what the subject is doing.\n3. Include the object—what is affected by the action.\n\nComplex sentences can combine two or more simple sentences using conjunctions like 'and,' 'but,' or 'because.' For example:\n\n- 'She wants to go to the park, but it is raining.'\n\nUnderstanding and practicing these structures will help you communicate clearly and confidently in American English. Remember, practice makes perfect!\"\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which part of the sentence 'John throws the ball' is the subject?",
+      "answer": "John"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'She ____ (to read) a book.'",
+      "answer": "is reading"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a simple sentence using the words: 'dog', 'chase', 'cat'.",
+      "answer": "The dog chases the cat."
+    },
+    {
+      "type": "identify parts",
+      "question": "In the sentence 'They are playing soccer,' identify the subject and the verb.",
+      "answer": "Subject: They, Verb: are playing"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is valued. Using proper sentence structure helps ensure your message is understood. Americans often appreciate concise and straightforward sentences, especially in casual conversations and professional settings. Practice constructing well-formed sentences to strengthen your ability to connect and express ideas comfortably in various social contexts.",
+  "createdAt": "2025-12-24T04:52:06.890Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00591",
+  "number": 591,
+  "title": "Mastering Sentence Structure: Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and analyze different sentence structures in American English.",
+    "Construct complex and compound sentences with correct punctuation.",
+    "Utilize sentence variety to enhance clarity and style.",
+    "Apply rules for correct verb and clause placement within various sentence types.",
+    "Troubleshoot common sentence structure errors to achieve grammatical mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "compound sentence",
+      "definition": "A sentence containing at least two independent clauses joined by a coordinating conjunction or a semicolon.",
+      "example": "She wanted to go to the park, but it started raining."
+    },
+    {
+      "word": "complex sentence",
+      "definition": "A sentence containing an independent clause and at least one dependent clause.",
+      "example": "Although he was tired, he finished his homework."
+    },
+    {
+      "word": "independent clause",
+      "definition": "A group of words that can stand alone as a complete sentence because it expresses a complete thought.",
+      "example": "The dog barked loudly."
+    },
+    {
+      "word": "dependent clause",
+      "definition": "A group of words that cannot stand alone and depends on an independent clause to make sense.",
+      "example": "When the movie started..."
+    },
+    {
+      "word": "parallel structure",
+      "definition": "The use of similar grammatical forms to express related ideas, enhancing readability and style.",
+      "example": "She likes dancing, singing, and acting."
+    }
+  ],
+  "content": "Welcome to the realm of American English sentence structure—your foundation for powerful, clear communication. Mastering how sentences are built allows you to craft your thoughts with precision and style. We'll explore the core types of sentences: simple, compound, and complex, along with their variations.\n\n**Simple sentences** contain one independent clause:\n- Example: The children played outside.\n\n**Compound sentences** connect two independent clauses using coordinating conjunctions (for, and, nor, but, or, yet, so) or a semicolon:\n- Example: I wanted to visit the museum, but it was closed.\n\n**Complex sentences** combine an independent clause with one or more dependent clauses, often introduced by subordinating conjunctions (although, because, since, when, while, etc.):\n- Example: Because she studied hard, she passed the exam.\n\nUnderstanding clause placement and punctuation is vital. Use commas to separate clauses appropriately:\n- Correct: She was tired, but she finished her work.\n- Incorrect: She was tired but she finished her work.\n\nVarying sentence structure improves your writing style. Incorporate different types to keep your language engaging:\n- Example of variety: He loves reading books. Meanwhile, she prefers listening to music. Although they have different hobbies, they enjoy spending time together.\n\nPay attention to parallel structure when listing or comparing ideas to maintain clarity and rhythm:\n- Correct: She enjoys jogging, swimming, and cycling.\n- Incorrect: She enjoys jogging, swimming, and to cycle.\n\nPractice constructing sentences with these principles to become a true GOD of American English sentence structure.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "She wanted to go to the park, but it started raining."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify the dependent clause in this sentence: \"Although he was tired, he finished his homework.\"",
+      "answer": "Although he was tired"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following sentence as a compound sentence: \"She studied hard. She passed the exam.\"",
+      "answer": "She studied hard, and she passed the exam."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error in this sentence: \"She enjoys swimming, biking and running.\"",
+      "answer": "She enjoys swimming, biking, and running."
+    },
+    {
+      "type": "matching",
+      "question": "Match the clause types to their descriptions:\n1. Independent clause\n2. Dependent clause\n3. Compound sentence\n4. Complex sentence\n\nA. Contains at least two independent clauses.\nB. Cannot stand alone as a complete sentence.\nC. Contains a subject and a verb and expresses a complete thought.\nD. Contains an independent clause plus at least one dependent clause.",
+      "answer": "1-C, 2-B, 3-A, 4-D"
+    }
+  ],
+  "culturalNotes": "In American English, sentence structure often reflects the country's emphasis on clarity and efficiency. Writers frequently use varied sentence types to maintain reader engagement. Formal writing, such as in business and academic contexts, tends to favor complex and well-structured sentences, while casual communication may feature shorter, simpler sentences. Understanding and applying correct sentence structure is essential for effective communication in diverse American settings, from professional environments to everyday conversation.",
+  "createdAt": "2025-12-24T04:53:30.476Z"
+}

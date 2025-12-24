@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00587",
+  "number": 587,
+  "title": "Mastering Sentence Structure: Building Strong Foundations in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the basic components of American English sentence structure",
+    "Identify different types of sentences: simple, compound, complex, and compound-complex",
+    "Construct grammatically correct sentences using varied structures",
+    "Recognize common sentence errors and learn how to correct them",
+    "Apply sentence structure knowledge to improve clarity and style in writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and a predicate; can be independent or dependent.",
+      "example": "I went to the store because I needed milk. (The clause 'because I needed milk' is dependent.)"
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of a sentence or clause containing a verb that tells what the subject does or is.",
+      "example": "She runs every morning. ('runs every morning' is the predicate.)"
+    },
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words, such as 'and,' 'but,' or 'because.'",
+      "example": "I wanted to go out, but it was raining."
+    }
+  ],
+  "content": "In American English, understanding sentence structure is essential for clear and effective communication. Sentences are made up of components like subjects, predicates, and clauses. Recognizing the types of sentences helps you vary your writing style and improve readability. \n\n**Simple sentences** contain one independent clause: 'The dog barked.'\n\n**Compound sentences** join two independent clauses with a coordinating conjunction: 'The sun set, and the stars appeared.'\n\n**Complex sentences** include an independent clause and at least one dependent clause: 'Although it was cold, we went hiking.'\n\n**Compound-complex sentences** combine multiple independent and dependent clauses: 'We went to the park, and we played soccer because it was sunny.'\n\nPractice constructing these sentence types to enhance your mastery. Pay attention to punctuation rules, especially the use of commas with coordinating conjunctions and dependent clauses. Proper sentence structure not only improves clarity but also demonstrates your command of American English grammar.\n\nRemember, varied sentence structures make your writing more engaging and professional.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a complex sentence?",
+      "answer": "Although I was tired, I finished my homework."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify the type of sentence: 'She studied hard, so she passed the test.'",
+      "answer": "This is a compound sentence."
+    },
+    {
+      "type": "sentence correction",
+      "question": "Rewrite the sentence to improve its structure: 'I like coffee I drink it every morning.'",
+      "answer": "I like coffee; I drink it every morning."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence type to its description:\n1. Simple\n2. Compound\n3. Complex\n4. Compound-Complex\n\nA. Contains at least two independent clauses and one dependent clause.\nB. Contains only one clause.\nC. Contains one independent and one dependent clause.\nD. Contains two independent clauses joined by a coordinating conjunction.",
+      "answer": {
+        "1": "B",
+        "2": "D",
+        "3": "C",
+        "4": "A"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued, especially in business, education, and casual conversation. Americans often favor straightforward sentences to express ideas efficiently. Mastering sentence structure reflects professionalism and confidence in language use, which can open doors in various social and professional settings.",
+  "createdAt": "2025-12-24T04:53:14.302Z"
+}

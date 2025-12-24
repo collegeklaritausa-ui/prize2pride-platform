@@ -1,0 +1,54 @@
+{
+  "id": "GM-B1-00589",
+  "number": 589,
+  "title": "Mastering Sentence Structure: Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the basic components of an American English sentence",
+    "Identify different sentence structures: simple, compound, and complex",
+    "Construct well-formed sentences using correct syntax",
+    "Recognize common sentence errors and how to avoid them",
+    "Apply varied sentence structures to improve writing clarity and style"
+  ],
+  "vocabulary": [
+    {
+      "word": "syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences in a language.",
+      "example": "Good syntax ensures that your sentences are clear and easy to understand."
+    },
+    {
+      "word": "independent clause",
+      "definition": "A group of words that can stand alone as a complete sentence because it expresses a complete thought.",
+      "example": "She went to the store."
+    },
+    {
+      "word": "dependent clause",
+      "definition": "A group of words that cannot stand alone as a complete sentence and depends on an independent clause.",
+      "example": "Because she was hungry..."
+    }
+  ],
+  "content": "Welcome to the lesson on Sentence Structure, a crucial skill for mastering American English. Sentences are the foundation of clear communication, and understanding how they are constructed can dramatically improve your writing and speaking skills.\n\n**Basic Components of a Sentence:**\n- **Subject:** The person, place, thing, or idea performing the action.\n- **Predicate:** The part of the sentence that tells what the subject does or is.\n\n**Types of Sentence Structures:**\n1. **Simple Sentences:** Contain one independent clause.\n   - Example: \"The dog barked.\"\n2. **Compound Sentences:** Consist of two or more independent clauses joined by a coordinating conjunction (for, and, nor, but, or, yet, so).\n   - Example: \"I wanted to go for a walk, but it started raining.\"\n3. **Complex Sentences:** Contain an independent clause and at least one dependent clause.\n   - Example: \"Although it was cold, we went hiking.\"\n\n**Constructing Sentences Correctly:**\n- Ensure subject-verb agreement.\n- Use appropriate conjunctions to connect ideas.\n- Vary sentence length and structure to make your writing more engaging.\n\n**Common Errors to Avoid:**\n- Sentence fragments: Incomplete sentences.\n- Run-on sentences: Combining multiple independent clauses without proper punctuation.\n- Misplaced modifiers that cause confusion.\n\nBy mastering these elements, you will be able to craft clear, effective, and stylistically diverse sentences that enhance your communication skills in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "She wanted to go to the park, but it started to rain."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify the independent clause in this sentence: 'Although he was tired, he finished his homework.'",
+      "answer": "'He finished his homework.'"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a complex sentence using the clauses: 'I was hungry' and 'I cooked dinner.'",
+      "answer": "Although I was hungry, I cooked dinner."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and efficient communication is highly valued, especially in professional and educational contexts. Varying sentence structures is often seen as a sign of strong language skills and can help convey ideas more persuasively. Understanding American idiomatic expressions and common conjunctions will also enhance your ability to connect ideas naturally in conversation and writing.",
+  "createdAt": "2025-12-24T04:53:21.624Z"
+}

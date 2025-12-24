@@ -1,0 +1,44 @@
+{
+  "id": "GM-A2-00505",
+  "number": 505,
+  "title": "Conjunctions: Connecting Your Words Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Identify basic conjunctions in sentences",
+    "Understand the function of conjunctions to connect ideas",
+    "Use 'and', 'but', 'or' correctly in sentences",
+    "Create simple sentences using conjunctions",
+    "Improve sentence fluency with proper conjunction usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses.",
+      "example": "I like apples and oranges."
+    }
+  ],
+  "content": "Welcome to the world of conjunctions! Conjunctions are little words that help you connect ideas smoothly. They make your sentences more interesting and easier to understand.\n\nThe most common conjunctions are:\n- **And**: Adds information. Example: I have a dog **and** a cat.\n- **But**: Shows contrast. Example: I like tea, **but** I don't like coffee.\n- **Or**: Shows options. Example: Do you want juice **or** soda?\n\nLet's look at some examples:\n- I want to play **and** read.\n- She is tall **but** shy.\n- Would you like an apple **or** a banana?\n\nUsing conjunctions makes your sentences flow better and sound more natural. Practice combining ideas with these words!\n\nRemember, practice makes perfect. Keep trying to connect your sentences with conjunctions!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conjunction to complete the sentence: I like pizza, ___ I don't like burgers.",
+      "answer": "but"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "We can go to the park ___ the zoo.",
+      "answer": "or"
+    },
+    {
+      "type": "Sentence Building",
+      "question": "Combine these two ideas using 'and': She is kind. She is smart.",
+      "answer": "She is kind **and** she is smart."
+    }
+  ],
+  "culturalNotes": "In American culture, using simple conjunctions helps in casual conversations, storytelling, and everyday communication. Americans value clarity and friendliness, which are often expressed through clear and connected sentences. Mastering conjunctions will help you sound more natural and confident when speaking or writing in American English!",
+  "createdAt": "2025-12-24T04:47:32.918Z"
+}

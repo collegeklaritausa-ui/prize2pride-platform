@@ -1,0 +1,74 @@
+{
+  "id": "GM-GL-00553",
+  "number": 553,
+  "title": "Conjunctions of Power: Mastering the Art of Connecting Ideas in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Identify and categorize different types of conjunctions used in American English.",
+    "Understand the grammatical rules governing subordinating and coordinating conjunctions.",
+    "Construct complex and compound sentences that demonstrate mastery of conjunctions.",
+    "Analyze and correct common errors related to conjunction usage.",
+    "Apply advanced conjunctions to enhance clarity and style in written and spoken American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "Because, and, but, although are common conjunctions."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins two elements of equal grammatical rank.",
+      "example": "I wanted to go, but I was too tired."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "Although he was hungry, he waited patiently."
+    },
+    {
+      "word": "correlative conjunctions",
+      "definition": "Paired conjunctions that work together to coordinate two elements.",
+      "example": "Either you come now, or you stay forever."
+    },
+    {
+      "word": "conjunctive adverb",
+      "definition": "An adverb that acts as a connector between independent clauses.",
+      "example": "However, I decided to stay home."
+    }
+  ],
+  "content": "Welcome to the realm of conjunction mastery—where the power to connect ideas elevates your command of American English to divine levels. Conjunctions are the bridges that link thoughts, clauses, and sentences, creating coherence and flow.\n\n**Types of Conjunctions:**\n1. **Coordinating Conjunctions:** These are the backbone of simple compound sentences. The seven coordinating conjunctions are: for, and, nor, but, or, yet, so (FANBOYS). \n- *Example:* She wanted to go for a walk, but it started raining.\n\n2. **Subordinating Conjunctions:** These introduce subordinate clauses that depend on the main clause.\n- *Examples:* because, although, since, unless, while, whereas.\n- *Example:* Although he was tired, he finished his homework.\n\n3. **Correlative Conjunctions:** Paired words that work together to link equal elements.\n- *Examples:* either...or, neither...nor, not only...but also.\n- *Example:* Not only did she sing beautifully, but she also danced gracefully.\n\n4. **Conjunctive Adverbs:** These connect independent clauses and provide transitions.\n- *Examples:* however, therefore, moreover, consequently.\n- *Example:* It was late; therefore, we decided to postpone the meeting.\n\n**Mastering Usage:**\n- Use coordinating conjunctions to create balanced compound sentences.\n- Employ subordinating conjunctions to add depth and complexity.\n- Use correlative conjunctions for emphasis and symmetry.\n- Incorporate conjunctive adverbs to clarify relationships between ideas.\n\n**Advanced Tips:**\n- Avoid comma splices by correctly punctuating with conjunctions.\n- Vary conjunction types to enrich your writing style.\n- Recognize the subtle nuances each conjunction brings to sentence meaning.\n\nBy wielding conjunctions with divine precision, you will craft sentences that flow seamlessly and convey complex ideas with clarity and style.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wanted to buy the dress, but it was too expensive."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with an appropriate subordinating conjunction: _______ he was tired, he continued working.",
+      "answer": "Although"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunctions to their types:\n1. and\n2. because\n3. either...or\n4. however\n\na. Correlative\nb. Subordinating\nc. Coordinating\nd. Conjunctive adverb",
+      "answer": "1-c, 2-b, 3-a, 4-d"
+    },
+    {
+      "type": "construct sentence",
+      "question": "Create a complex sentence using the subordinating conjunction 'since'.",
+      "answer": "Since it was raining, the picnic was canceled."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error: 'I wanted to go, but I was too tired, so I stayed home.'",
+      "answer": "The sentence is correct; it properly uses coordinating conjunctions."
+    }
+  ],
+  "culturalNotes": "In American culture, effective use of conjunctions often reflects clarity, professionalism, and the ability to persuade or inform. Formal writing, such as essays, speeches, and business communications, relies heavily on mastering conjunctions to create logical flow. Additionally, idiomatic expressions and common phrases in American English frequently incorporate conjunctions, emphasizing their role in everyday language and cultural idioms, such as 'but for' and 'either/or.' Understanding conjunctions enhances not only grammatical mastery but also cultural literacy in American communication contexts.",
+  "createdAt": "2025-12-24T04:51:06.592Z"
+}

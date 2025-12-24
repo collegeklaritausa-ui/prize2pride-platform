@@ -1,0 +1,68 @@
+{
+  "id": "GM-B1-00516",
+  "number": 516,
+  "title": "Conquering Conjunctions: Mastering the Connectors of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and categorize different types of conjunctions used in American English.",
+    "Understand how to properly use coordinating, subordinating, and correlative conjunctions.",
+    "Construct complex and compound sentences with appropriate conjunctions.",
+    "Recognize common mistakes in conjunction usage and avoid them.",
+    "Enhance overall sentence fluency and coherence in written and spoken English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect words, phrases, or clauses within a sentence.",
+      "example": "Because, and, but, although, or"
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that joins words or groups of words of equal importance.",
+      "example": "and, but, or, nor, for, so, yet"
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to an independent clause.",
+      "example": "because, although, since, if, when"
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to connect equal sentence elements.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    }
+  ],
+  "content": "Welcome to the realm of American English mastery! Conjunctions are the magic words that weave sentences together, creating flow and clarity. There are three main types:\n\n1. **Coordinating Conjunctions:** These are the simplest connectors, linking equally important ideas. Think of them as the 'and' in 'apples and oranges' or the 'but' in 'I want to go, but I am tired.' Remember the FANBOYS acronym: For, And, Nor, But, Or, Yet, So.\n\n2. **Subordinating Conjunctions:** These introduce dependent or subordinate clauses, providing reasons, contrasts, or conditions. For example, 'I'll stay home because it’s raining,' or 'Although he was tired, he finished his homework.'\n\n3. **Correlative Conjunctions:** These work in pairs to connect balanced sentence parts. Examples include 'either...or,' 'neither...nor,' 'both...and,' and 'not only...but also.' For instance, 'You can either call me or send an email.'\n\nUsing conjunctions correctly enhances your sentence structure, making your communication more natural and compelling. Here are some sample sentences:\n- Coordinating: 'I wanted to go to the park, but it started raining.'\n- Subordinating: 'She stayed home because she was feeling sick.'\n- Correlative: 'Neither the manager nor the employees knew about the change.'\nMastering conjunctions will elevate your command over American English, transforming your speech and writing into something truly powerful.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "and"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct subordinating conjunction to complete the sentence: '___ it was late, he continued working.'",
+      "answer": "Although"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunctions with their types:\n1. or\n2. because\n3. both...and\n\na. Coordinating\nb. Subordinating\nc. Correlative",
+      "answer": {
+        "1": "a",
+        "2": "b",
+        "3": "c"
+      }
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the correlative conjunctions 'not only...but also.'",
+      "answer": "She is not only a talented singer but also a skilled dancer."
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conjunctions, especially in storytelling and casual conversations, adds rhythm and expressiveness. Effective use of conjunctions reflects clarity and confidence, traits highly valued in American communication. Popular idiomatic expressions and idioms often incorporate conjunctions, enhancing conversational fluency. For example, 'Either you come with us, or you stay here,' showcases the pragmatic and direct style characteristic of American English speakers.",
+  "createdAt": "2025-12-24T04:48:10.822Z"
+}

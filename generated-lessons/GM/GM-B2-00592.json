@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00592",
+  "number": 592,
+  "title": "Mastering Sentence Structure: Building Powerful American English Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and analyze the components of complex and compound sentences.",
+    "Construct well-formed sentences using various sentence structures.",
+    "Distinguish between simple, compound, and complex sentences in context.",
+    "Apply advanced sentence structures to enhance clarity and style in writing.",
+    "Transform basic sentences into more sophisticated, fluent American English expressions."
+  ],
+  "vocabulary": [
+    {
+      "word": "coordination",
+      "definition": "The use of coordinating conjunctions to join words, phrases, or clauses of equal importance.",
+      "example": "She wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "subordination",
+      "definition": "The process of linking dependent clauses to independent clauses using subordinating conjunctions.",
+      "example": "Although he was tired, he continued working."
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence that contains two or more independent clauses joined by a coordinating conjunction or semicolon.",
+      "example": "I finished my homework, and I watched a movie."
+    },
+    {
+      "word": "complex sentence",
+      "definition": "A sentence that contains one independent clause and at least one dependent clause.",
+      "example": "Because it was raining, we stayed indoors."
+    },
+    {
+      "word": "sentence variety",
+      "definition": "The use of different sentence structures to create more engaging and dynamic writing.",
+      "example": "Mixing simple, compound, and complex sentences improves readability."
+    }
+  ],
+  "content": "In American English, mastering sentence structure is essential for clear and effective communication. Sentences can be classified into simple, compound, and complex forms, each serving a distinct purpose. Simple sentences contain a single independent clause, providing straightforward ideas. Compound sentences combine two independent clauses using coordinating conjunctions (for, and, nor, but, or, yet, so), adding variety and connection. For example: \"She loves to read, and she writes every day.\" Complex sentences link an independent clause with one or more dependent clauses using subordinating conjunctions like because, although, since, or when. Example: \"Although he was tired, he finished his homework.\" To become a master of American English, you should practice constructing sentences with proper coordination and subordination. Mix different sentence types in your writing to achieve clarity, emphasis, and stylistic richness. Remember, effective sentence structure not only conveys your message but also keeps your audience engaged and interested.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "She wanted to go to the park, but it was closed."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: ____ he studied hard, he still didn't pass the test.",
+      "answer": "Although"
+    },
+    {
+      "type": "reordering",
+      "question": "Arrange these clauses into a correct complex sentence: (1) I was late. (2) Because I missed the bus.",
+      "answer": "Because I missed the bus, I was late."
+    },
+    {
+      "type": "writing",
+      "question": "Write two sentences: one simple, one compound, and one complex, on the topic of your favorite hobby.",
+      "answer": "Sample responses will vary."
+    }
+  ],
+  "culturalNotes": "In American culture, the ability to craft well-structured sentences is highly valued in academic, professional, and casual contexts. Americans often emphasize clarity, directness, and variety in communication. Mastery of sentence structure enhances not just writing skills but also spoken fluency, enabling individuals to express ideas persuasively and confidently in diverse settings, from business meetings to social conversations.",
+  "createdAt": "2025-12-24T04:53:34.115Z"
+}

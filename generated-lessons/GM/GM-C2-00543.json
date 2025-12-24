@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00543",
+  "number": 543,
+  "title": "Conjunctions Unleashed: Mastering the Art of Connecting Ideas in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and categorize different types of conjunctions in American English.",
+    "Understand the grammatical rules for using coordinating, subordinating, and correlative conjunctions.",
+    "Construct complex and compound sentences using proper conjunctions.",
+    "Differentiate between correct and incorrect conjunction usage in various contexts.",
+    "Apply conjunctions effectively to enhance clarity and coherence in writing and speaking."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words, showing relationships such as addition, contrast, or cause.",
+      "example": "And, but, because, although, either...or"
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that connects two independent clauses of equal importance.",
+      "example": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a subordinate clause, showing a relationship of dependence.",
+      "example": "She stayed home because she was feeling sick."
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions used together to join equal sentence elements.",
+      "example": "Either you finish your homework, or you can't go outside."
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that allow speakers and writers to connect ideas smoothly and logically. Mastery of conjunctions enables the creation of clear, complex, and nuanced sentences.\n\n**Types of Conjunctions:**\n\n1. **Coordinating Conjunctions:** These include 'for,' 'and,' 'nor,' 'but,' 'or,' 'yet,' and 'so'—remembered by the acronym FANBOYS. They join two independent clauses.\n\n   *Example:* \"I wanted to buy a new car, but I didn't have enough money.\"\n\n2. **Subordinating Conjunctions:** These introduce subordinate clauses and show relationships such as cause ('because'), contrast ('although'), condition ('if'), and time ('when').\n\n   *Example:* \"I'll call you when I arrive.\"\n\n3. **Correlative Conjunctions:** These work in pairs to link equal sentence elements.\n\n   *Examples:* \"Either you apologize, or you face the consequences.\" / \"Not only did she sing beautifully, but she also danced gracefully.\"\n\n**Usage Tips:**\n- Use coordinating conjunctions to link simple ideas.\n- Use subordinating conjunctions to add depth and detail.\n- Use correlative conjunctions to emphasize choices or similarities.\n- Avoid comma splices by ensuring proper punctuation.\n- Be aware of common pitfalls, such as overusing 'and' or creating run-on sentences.\n\n**Examples in Context:**\n- Correct: \"She is tired because she didn't sleep well.\"\n- Incorrect: \"She is tired, because she didn't sleep well.\"\n- Correct: \"I will either stay home or go out.\"\n- Incorrect: \"I will either stay home and go out.\"\n\nBy mastering conjunctions, you can elevate your American English to a level of grammatical mastery that makes your communication more precise and compelling.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wanted to go to the park, but it was raining."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Complete the sentence: _______ he studied hard, he still didn't pass the test.",
+      "answer": "Although"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the conjunctions to their types:\n1. Because\n2. And\n3. Either...or\n\nA. Coordinating\nB. Subordinating\nC. Correlative",
+      "answer": "1-B, 2-A, 3-C"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a complex sentence using the subordinating conjunction 'since'.",
+      "answer": "Since it was late, we decided to leave the party."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error: \"I want to go to the concert, but I have homework to do, and I am tired.\"",
+      "answer": "The sentence is correct; no correction needed."
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are fundamental in everyday communication, from casual conversations to formal writing. Americans value clarity and coherence, making proper conjunction use vital in presentations, essays, and dialogues. The language's tendency toward straightforward and direct expression often relies on effective conjunctions to connect ideas seamlessly. Understanding how Americans use conjunctions can also help learners grasp nuances in tone—such as contrast or emphasis—especially in idiomatic expressions and colloquial speech. For example, the phrase 'but still' can convey a nuanced contrast, emphasizing resilience or surprise.",
+  "createdAt": "2025-12-24T04:50:15.330Z"
+}

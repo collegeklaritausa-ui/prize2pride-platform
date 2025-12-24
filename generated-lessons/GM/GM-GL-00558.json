@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00558",
+  "number": 558,
+  "title": "Conjunctions Unleashed: Mastering the Art of Connection",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Identify and distinguish between coordinating, subordinating, and correlative conjunctions in American English.",
+    "Analyze complex sentence structures that utilize various conjunctions for clarity and emphasis.",
+    "Apply advanced conjunctions to craft cohesive and sophisticated sentences in writing and speech.",
+    "Recognize common pitfalls and errors related to conjunction usage and correct them confidently.",
+    "Elevate command over conjunctions to achieve grammatical excellence, solidifying your status as a master of American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "Because she was tired, she went to bed early."
+    },
+    {
+      "word": "Coordinating conjunctions",
+      "definition": "Conjunctions that connect words, phrases, or independent clauses of equal importance.",
+      "example": "For, And, Nor, But, Or, Yet, So (FANBOYS)"
+    },
+    {
+      "word": "Subordinating conjunctions",
+      "definition": "Conjunctions that connect a dependent clause to an independent clause.",
+      "example": "Although, Because, Since, Unless, While, Whereas"
+    },
+    {
+      "word": "Correlative conjunctions",
+      "definition": "Paired conjunctions that work together to join equal elements.",
+      "example": "Either...or, Neither...nor, Not only...but also, Both...and"
+    }
+  ],
+  "content": "Welcome to the realm of conjunctions, the vital connectors that elevate your language from mere words to powerful expressions of thought. Understanding the nuanced roles of various conjunctions transforms your command over American English, making your speech and writing not just correct, but compelling.\n\n**1. Coordinating Conjunctions (FANBOYS):** These are the simplest and most common connectors, linking words, phrases, or independent clauses of equal weight.\n- *Example:* I wanted to go for a walk, **but** it started raining.\n- Mastery Tip: Use a comma before coordinating conjunctions when connecting two independent clauses.\n\n**2. Subordinating Conjunctions:** These introduce dependent clauses, adding depth and complexity.\n- *Example:* She stayed home **because** she was feeling ill.\n- Mastery Tip: Place the subordinating conjunction at the beginning of the dependent clause for clarity.\n\n**3. Correlative Conjunctions:** These are paired words that work together to emphasize a relationship.\n- *Example:* **Either** you finish your homework, **or** you can't watch TV.\n- Mastery Tip: Ensure both elements are balanced for smoothness.\n\n**4. Combining Conjunctions for Sophistication:** Use a mix of conjunction types to craft nuanced sentences.\n- *Example:* **Although** he was tired, **and** he knew it was late, he kept working **because** he was determined.\n\n**5. Transitioning with Conjunctions:** Conjunctions also serve as transitions, guiding your listener or reader through your ideas seamlessly.\n- *Example:* **Thus**, we see that proper conjunction use enhances clarity and style.\n\nBy mastering these conjunctions, you empower your language to connect ideas fluidly, argue convincingly, and narrate compelling stories—truly becoming a GOD of American English.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "Because I was tired, I went to bed early."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct coordinating conjunction: I wanted to go hiking, ____ it started to rain.",
+      "answer": "but"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the correlative conjunctions with their correct pairs:\n1. Either...or\n2. Neither...nor\n3. Not only...but also\n4. Both...and",
+      "answer": "1. Choice between two options\n2. Excludes both options\n3. Adds emphasis and inclusiveness\n4. Connects two similar ideas"
+    },
+    {
+      "type": "Sentence rewriting",
+      "question": "Combine these two sentences using an appropriate conjunction: 'She was tired. She kept working.'",
+      "answer": "Although she was tired, she kept working."
+    },
+    {
+      "type": "Error correction",
+      "question": "Identify and correct the error: 'I want either to go to the park or stay home.'",
+      "answer": "I want either to go to the park or to stay home."
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are often used in persuasive speech and writing to build logical arguments and emphasize key points. The use of conjunctions like 'but' and 'yet' can reflect a speaker's or writer's ability to present contrasting ideas smoothly, a valued skill in debates, storytelling, and professional communication. Mastery of conjunctions also aids in understanding American idiomatic expressions and nuanced humor, which frequently rely on complex sentence structures. Recognizing the importance of conjunctions enhances your ability to engage effectively within American social and academic contexts.",
+  "createdAt": "2025-12-24T04:51:30.003Z"
+}

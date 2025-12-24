@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00590",
+  "number": 590,
+  "title": "Mastering Sentence Structure: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the components of a complete sentence in American English.",
+    "Identify and differentiate between simple, compound, and complex sentences.",
+    "Apply correct sentence structures to enhance clarity and effectiveness.",
+    "Recognize common sentence errors and learn how to correct them.",
+    "Create well-structured sentences to communicate confidently and effectively."
+  ],
+  "vocabulary": [
+    {
+      "word": "Clause",
+      "definition": "A group of words that contains a subject and a predicate; can be independent or dependent.",
+      "example": "Because I was late, I missed the bus."
+    },
+    {
+      "word": "Simple Sentence",
+      "definition": "A sentence consisting of one independent clause.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Compound Sentence",
+      "definition": "A sentence made up of two or more independent clauses joined by a coordinating conjunction or semicolon.",
+      "example": "I wanted to go to the park, but it started raining."
+    },
+    {
+      "word": "Complex Sentence",
+      "definition": "A sentence containing an independent clause and one or more dependent clauses.",
+      "example": "Although it was cold, we went for a swim."
+    },
+    {
+      "word": "Run-on Sentence",
+      "definition": "An improperly connected sentence with two or more independent clauses without correct punctuation or conjunctions.",
+      "example": "I love to read I go to the library every week."
+    }
+  ],
+  "content": "In American English, sentence structure is essential for clear and effective communication. A well-structured sentence helps your ideas flow logically and makes your speech or writing more professional.\n\n**Components of a Sentence:**\nEvery complete sentence must have at least one subject and one predicate. The subject tells who or what the sentence is about, while the predicate explains what the subject does or is.\n\n**Types of Sentences:**\n- *Simple Sentence:* Contains a single independent clause. Example: \"The dog barked.\"\n- *Compound Sentence:* Combines two independent clauses with a coordinating conjunction (for, and, nor, but, or, yet, so). Example: \"I wanted coffee, but the shop was closed.\"\n- *Complex Sentence:* Contains an independent clause and at least one dependent clause, introduced by subordinating conjunctions (because, although, since, if). Example: \"She stayed home because she was sick.\"\n\n**Common Sentence Errors:**\n- *Run-on sentences:* These occur when two or more independent clauses are joined without correct punctuation or conjunctions. Fix them by using a semicolon, period, or coordinating conjunction.\n- *Comma splices:* When two independent clauses are joined by a comma alone. Correct by adding a coordinating conjunction or separating into two sentences.\n\n**Tips for Mastery:**\n- Practice combining sentences using different structures.\n- Break down complex sentences to understand their components.\n- Proofread your writing to spot and correct run-ons and comma splices.\n\n**Example:**\nIncorrect: \"She loves to dance she goes to classes every week.\"\nCorrected: \"She loves to dance, and she goes to classes every week.\"\n\nBy mastering sentence structure, you will communicate more effectively and confidently in your American English journey!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is an example of a complex sentence?",
+      "answer": "Although it rained, we went hiking."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "A ________ sentence contains one independent clause and at least one dependent clause.",
+      "answer": "complex"
+    },
+    {
+      "type": "Identify error",
+      "question": "Identify and correct the error in the following sentence: 'I love to read I go to the library every week.'",
+      "answer": "Add a conjunction or punctuation: 'I love to read, and I go to the library every week.'"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite this sentence as a compound sentence: 'She was tired. She finished her homework.'",
+      "answer": "She was tired, but she finished her homework."
+    },
+    {
+      "type": "True/False",
+      "question": "A simple sentence can have more than one subject and predicate. (True/False)",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued, especially in professional and academic settings. Using varied sentence structures demonstrates mastery and confidence in your language skills. Americans appreciate concise yet comprehensive expressions, so mastering sentence structure helps you express ideas more persuasively and effectively.",
+  "createdAt": "2025-12-24T04:53:25.739Z"
+}

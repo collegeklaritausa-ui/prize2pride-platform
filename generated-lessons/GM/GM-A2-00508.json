@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00508",
+  "number": 508,
+  "title": "Conjunctions: Connecting Ideas Like a Pro!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences.",
+    "Identify common coordinating conjunctions in American English.",
+    "Use conjunctions to join words, phrases, and sentences correctly.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Build confidence in crafting clear and connected sentences."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "I like apples and oranges."
+    },
+    {
+      "word": "Coordinating Conjunctions",
+      "definition": "Conjunctions that connect equally important ideas, often in compound sentences.",
+      "example": "for, and, nor, but, or, yet, so"
+    },
+    {
+      "word": "Subordinating Conjunctions",
+      "definition": "Conjunctions that join a dependent clause to an independent clause.",
+      "example": "because, although, since, if, when"
+    }
+  ],
+  "content": "Welcome to the world of conjunctions! Conjunctions are the magic words that connect parts of sentences, making your communication smooth and clear. In American English, the most common conjunctions are coordinating and subordinating. \n\n**Coordinating Conjunctions** are fan favorites—they connect words, phrases, or independent clauses of equal importance.\n\nExamples:\n- I want to go to the park, **and** I will bring my dog.\n- She is tired, **but** she keeps working.\n\nRemember the FANBOYS: for, and, nor, but, or, yet, so.\n\n**Subordinating Conjunctions** introduce dependent clauses—they make your sentences more detailed.\n\nExamples:\n- I stayed home **because** it was raining.\n- She smiled **when** she saw the gift.\n\nUsing conjunctions correctly helps you express ideas clearly and connect your thoughts seamlessly. Practice makes perfect, so let's try some exercises!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which word best completes the sentence? I want to go outside, ____ it is raining.",
+      "answer": "but"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct coordinating conjunction: She likes coffee ____ tea.",
+      "answer": "and"
+    },
+    {
+      "type": "Sentence Formation",
+      "question": "Combine these two sentences using a conjunction: \"He was tired. He kept working.\"",
+      "answer": "He was tired, but he kept working."
+    },
+    {
+      "type": "Identify the conjunction",
+      "question": "In the sentence 'I will call you when I arrive,' what is the conjunction?",
+      "answer": "when"
+    }
+  ],
+  "culturalNotes": "In American culture, clear communication is highly valued, especially in everyday conversations, school, and the workplace. Using conjunctions correctly helps you sound more natural and confident. Americans often use conjunctions to connect ideas smoothly, which is important for storytelling, giving directions, or explaining your thoughts clearly.",
+  "createdAt": "2025-12-24T04:47:41.796Z"
+}

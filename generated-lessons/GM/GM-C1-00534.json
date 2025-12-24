@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00534",
+  "number": 534,
+  "title": "Mastering the Art of Conjunctions: Achieve English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Identify and classify different types of conjunctions in advanced contexts",
+    "Analyze complex sentences to understand conjunction usage and relationships",
+    "Construct sophisticated sentences using a variety of conjunctions for clarity and emphasis",
+    "Distinguish between coordinating, subordinating, and correlative conjunctions in nuanced scenarios",
+    "Apply conjunctions effectively to enhance coherence and style in formal and informal American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence to show relationships such as contrast, addition, or cause and effect.",
+      "example": "Although she was tired, she continued working."
+    },
+    {
+      "word": "coordinating conjunctions",
+      "definition": "Conjunctions that join words, phrases, or independent clauses of equal grammatical rank.",
+      "example": "and, but, or, nor, for, yet, so"
+    },
+    {
+      "word": "subordinating conjunctions",
+      "definition": "Conjunctions that connect a dependent clause to an independent clause to show relationships like cause, time, or condition.",
+      "example": "because, although, since, unless, while, whereas"
+    },
+    {
+      "word": "correlative conjunctions",
+      "definition": "Paired conjunctions that work together to join equal elements in a sentence.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    },
+    {
+      "word": "conjunctive adverbs",
+      "definition": "Words or phrases that connect independent clauses and provide transitions or emphasis.",
+      "example": "however, therefore, moreover, consequently, indeed"
+    }
+  ],
+  "content": "In advanced American English, conjunctions serve as essential tools for crafting nuanced, cohesive sentences. Mastery begins with recognizing the different types:\n\n1. **Coordinating Conjunctions:** These link elements of equal importance. For example, \"She enjoys reading, and she also writes poetry.\" Using FANBOYS (for, and, nor, but, or, yet, so), students can combine ideas smoothly.\n\n2. **Subordinating Conjunctions:** They introduce dependent clauses, adding depth and complexity. For example, \"Although the weather was cold, we went hiking.\" Here, 'Although' signals contrast.\n\n3. **Correlative Conjunctions:** These pairs emphasize balance or contrast. For example, \"Neither the manager nor the assistant was available.\"\n\n4. **Conjunctive Adverbs:** They function as bridges between ideas, often preceded by a semicolon. For example, \"She was tired; however, she finished her work.\"\n\n**Advanced Usage Tips:**\n- Use conjunctions to varying sentence structures for stylistic effect.\n- Recognize subtle distinctions; for instance, 'while' can indicate contrast or simultaneous action.\n- Incorporate conjunctions to improve coherence in formal writing, speeches, or storytelling.\n\n**Examples in context:**\n- \"Not only did he excel academically, but he also demonstrated leadership qualities.\"\n- \"The project was delayed because unforeseen circumstances arose.\"\n- \"She can choose to stay home, or she can attend the conference.\"\n\nThrough deliberate practice, you can elevate your command of conjunctions, making your English both polished and persuasive.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which conjunction best completes the sentence? 'She was exhausted, ___ she finished her assignment.'",
+      "answer": "but"
+    },
+    {
+      "type": "sentence reconstruction",
+      "question": "Combine the following sentences using an appropriate subordinating conjunction: 'He was hungry. He didn't eat because there was no food.'",
+      "answer": "He didn't eat because he was hungry."
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank with a suitable correlative conjunction: '___ you come early, ___ we will start the meeting without you.'",
+      "answer": "If / then"
+    },
+    {
+      "type": "identify the conjunction",
+      "question": "Identify the conjunction in this sentence: 'Although it was raining, they went for a walk.'",
+      "answer": "Although"
+    },
+    {
+      "type": "short answer",
+      "question": "Explain the difference between coordinating and subordinating conjunctions with examples.",
+      "answer": "Coordinating conjunctions connect equal parts, such as 'and' in 'She bought apples and oranges.' Subordinating conjunctions introduce dependent clauses, like 'because' in 'She stayed home because she was sick.'"
+    }
+  ],
+  "culturalNotes": "In American English, conjunctions are vital for expressing nuanced ideas, especially in academic, professional, and literary contexts. The ability to craft complex sentences with appropriate conjunctions reflects a command of language valued in American culture. Mastery of conjunctions also enhances storytelling and persuasive writing, both highly regarded in American communication styles. Understanding the subtle distinctions between types of conjunctions allows speakers and writers to convey tone, emphasis, and relationships effectively, demonstrating advanced fluency and sophistication.",
+  "createdAt": "2025-12-24T04:49:32.961Z"
+}

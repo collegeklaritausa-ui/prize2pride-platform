@@ -1,0 +1,74 @@
+{
+  "id": "GM-A2-00577",
+  "number": 577,
+  "title": "Sentence Superheroes: Building Strong Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic parts of a sentence: subject and predicate.",
+    "Identify simple sentences in everyday English.",
+    "Practice creating complete sentences with correct structure.",
+    "Learn the importance of capitalization and punctuation.",
+    "Become confident in forming correct sentence structures in conversations and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "The dog runs fast."
+    },
+    {
+      "word": "subject",
+      "definition": "The person or thing that the sentence is about.",
+      "example": "The **cat** sleeps all day."
+    },
+    {
+      "word": "predicate",
+      "definition": "The part of the sentence that tells what the subject does or is.",
+      "example": "The cat **sleeps all day**."
+    },
+    {
+      "word": "capitalization",
+      "definition": "Using capital letters at the beginning of sentences and for proper nouns.",
+      "example": "I went to **New York**."
+    },
+    {
+      "word": "punctuation",
+      "definition": "Symbols like periods, commas, and question marks used to clarify meaning.",
+      "example": "She is happy, **isn't she**?"
+    }
+  ],
+  "content": "Welcome to the world of sentence building! In American English, a sentence is like a superhero's tool—it helps you communicate clearly. Every sentence starts with a capital letter and ends with a punctuation mark, like a period, question mark, or exclamation point. A simple sentence has two main parts: the subject (who or what the sentence is about) and the predicate (what the subject does or is). \n\nFor example: 'The dog barks.' Here, 'The dog' is the subject, and 'barks' is the predicate.\n\nLet's practice creating sentences! Start with a person or thing (subject), add what they do or are (predicate), and finish with a punctuation mark.\n\nRemember, a good sentence makes sense and starts with a capital letter. Practice makes perfect—soon, you'll be a sentence superhero!\n\nIn American culture, clear communication is valued. Writing complete sentences helps you share your ideas effectively with friends, teachers, and family.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of these is a complete sentence?",
+      "answer": "A) The cat sleeps."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Start this sentence with a capital letter: __ the sun is shining.",
+      "answer": "When"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite this phrase as a complete sentence: \"the boy runs\"",
+      "answer": "The boy runs."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence parts with their roles:\n1. The teacher  \n2. Reads a book\n\nA) Subject\nB) Predicate",
+      "answer": "1-A, 2-B"
+    },
+    {
+      "type": "true/false",
+      "question": "Every complete sentence in American English must start with a capital letter and end with a punctuation mark. True or False?",
+      "answer": "True"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued. Writing complete sentences is important in school, work, and everyday conversations. Americans often use sentences to share ideas, tell stories, and express feelings. Paying attention to sentence structure helps you sound confident and polite in social and professional settings.",
+  "createdAt": "2025-12-24T04:52:37.331Z"
+}

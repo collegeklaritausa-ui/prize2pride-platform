@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00538",
+  "number": 538,
+  "title": "Conjunctions Unleashed: Mastering the Art of Connecting Ideas in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Analyze and differentiate between coordinating, subordinating, and correlative conjunctions.",
+    "Construct complex and compound sentences using advanced conjunctions for clarity and emphasis.",
+    "Identify common errors in conjunction use and correct them to enhance grammatical precision.",
+    "Apply conjunctions to create nuanced and sophisticated written and spoken communication.",
+    "Explore idiomatic and stylistic uses of conjunctions within American cultural contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses to express relationships between ideas.",
+      "example": "Although she was tired, she finished her homework."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins equal grammatical items, such as words or independent clauses.",
+      "example": "and, but, or, nor, for, so, yet"
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a dependent clause, linking it to an independent clause.",
+      "example": "because, since, although, whereas, unless"
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "Paired conjunctions that work together to connect equivalent parts of a sentence.",
+      "example": "either...or, neither...nor, not only...but also"
+    }
+  ],
+  "content": "Mastering conjunctions elevates your command of American English by enabling complex and nuanced expression. Conjunctions are the glue that binds ideas, providing coherence and emphasis.\n\n1. Coordinating Conjunctions: These are the most common, linking equal parts of sentences. For example:\n- She wanted to go to the park, but it started raining.\n- You can have tea or coffee.\n\n2. Subordinating Conjunctions: These introduce dependent clauses, adding depth or contrast:\n- I stayed home because I was feeling ill.\n- Although he was tired, he continued working.\n\n3. Correlative Conjunctions: Paired words that balance sentence elements:\n- Neither the manager nor the employees knew about the change.\n- Not only did she sing beautifully, but she also danced gracefully.\n\nUsing advanced conjunctions allows for sophisticated sentence structures that can convey subtle distinctions, contrasts, and relationships. For example, replacing simple 'and' with 'not only...but also' emphasizes additional qualities.\n\nIn American cultural contexts, conjunctions are often used in storytelling, persuasive speech, and idiomatic expressions to add emphasis or humor. Recognizing and mastering these can greatly enhance your fluency and stylistic versatility.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "B) She stayed indoors because it was raining."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with an appropriate correlative conjunction: ______________ she was tired, she finished the race.",
+      "answer": "Not only that, but also"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error in this sentence: \"I want to go to either the movies or the park, but I forgot my umbrella.\"",
+      "answer": "The sentence is correct; no correction needed."
+    },
+    {
+      "type": "Construct Sentences",
+      "question": "Write a sentence using a coordinating conjunction to express contrast.",
+      "answer": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the type of conjunction used: 'She neither called nor emailed me.'",
+      "answer": "Correlative conjunction"
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are often used in everyday storytelling and casual conversations to add humor, emphasis, or contrast. Phrases like 'not only...but also' are common in speeches and advertising to highlight benefits or features. Understanding idiomatic expressions that incorporate conjunctions can greatly enhance your comprehension and ability to connect with American audiences on a cultural level.",
+  "createdAt": "2025-12-24T04:49:50.392Z"
+}

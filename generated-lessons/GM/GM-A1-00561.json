@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00561",
+  "number": 561,
+  "title": "Mastering Sentence Structure: Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic parts of a sentence in American English.",
+    "Identify the subject and predicate in simple sentences.",
+    "Create correct and complete simple sentences.",
+    "Recognize common sentence patterns.",
+    "Apply sentence structure rules to improve writing and speaking skills."
+  ],
+  "vocabulary": [
+    {
+      "word": "sentence",
+      "definition": "A group of words that expresses a complete thought.",
+      "example": "She went to the store."
+    },
+    {
+      "word": "subject",
+      "definition": "The person, place, thing, or idea that the sentence is about.",
+      "example": "The *dog* barked loudly."
+    },
+    {
+      "word": "predicate",
+      "definition": "The part of a sentence that tells what the subject does or is.",
+      "example": "The dog *barked loudly*."
+    },
+    {
+      "word": "simple sentence",
+      "definition": "A sentence with one subject and one predicate.",
+      "example": "He runs every morning."
+    }
+  ],
+  "content": "Welcome to the world of American English sentence structure! Understanding how sentences are built is essential to becoming a master of the language. Every sentence has two main parts: the subject and the predicate. The subject tells us who or what the sentence is about, while the predicate tells us what the subject does or is. For example, in the sentence 'The cat sleeps,' 'The cat' is the subject, and 'sleeps' is the predicate.\n\nSimple sentences follow the basic pattern: Subject + Verb + (Object). For example:\n- She (subject) reads (verb) books (object).\n\nIn American English, sentences usually start with a capital letter and end with a period, question mark, or exclamation point. Here's an example of a simple sentence:\n- The children play outside.\n\nTo build a strong foundation, practice identifying the subject and predicate in sentences. Remember, a complete sentence must have at least a subject and a verb. As you become more comfortable, you'll be able to combine simple sentences to form more complex ideas and use correct sentence structure in your speaking and writing.\n\nLet's practice with some examples and exercises to become true gods of American English sentence structure!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "In the sentence 'The dog barked loudly,' what is the subject?",
+      "answer": "The dog"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: _______ (subject) is reading a book.",
+      "answer": "She"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence parts:\n1. The children\n2. are playing\n3. outside\n\na. subject\nb. predicate\nc. adverbial phrase",
+      "answer": "1-a, 2-b, 3-c"
+    },
+    {
+      "type": "create your own",
+      "question": "Write a simple sentence about your favorite hobby.",
+      "answer": "Example: I enjoy painting."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued, especially in professional and educational settings. Mastering sentence structure helps ensure your message is understood and appreciated. Additionally, storytelling and personal narratives often follow simple sentence patterns, making your speech engaging and relatable.",
+  "createdAt": "2025-12-24T04:51:42.159Z"
+}

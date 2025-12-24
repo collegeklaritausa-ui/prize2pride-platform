@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00524",
+  "number": 524,
+  "title": "Mastering Conjunctions: Unlock the Power of Connection in English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different types of conjunctions in American English.",
+    "Identify and correctly use coordinating, subordinating, and correlative conjunctions.",
+    "Enhance sentence variety and clarity through proper conjunction usage.",
+    "Recognize common errors and pitfalls with conjunctions.",
+    "Apply conjunctions effectively in both written and spoken American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "Because she was tired, she went to bed early."
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that connects words, phrases, or independent clauses of equal importance.",
+      "example": "and, but, or, nor, for, yet, so"
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "because, although, since, unless, while"
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to connect equal elements in a sentence.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that help us connect ideas, add complexity, and improve the flow of our speech and writing. Understanding the different types of conjunctions allows you to craft sentences that are clear, concise, and expressive.\n\n**1. Coordinating Conjunctions:**\nThese conjunctions join words or groups of words of equal importance. They are often remembered by the acronym FANBOYS:\n- **For**: Explains reason\n- **And**: Adds information\n- **But**: Shows contrast\n- **Or**: Presents an alternative\n- **Nor**: Presents a negative alternative\n- **Yet**: Introduces a contrast\n- **So**: Shows result\n\n*Example:* I wanted to go to the park, but it started raining.\n\n**2. Subordinating Conjunctions:**\nThese introduce subordinate clauses and show the relationship between clauses. Common subordinators include:\n- Because, although, since, unless, while, after, before, when\n\n*Example:* She stayed home because she was feeling sick.\n\n**3. Correlative Conjunctions:**\nPaired words that work together for emphasis or balance.\nExamples include:\n- Either...or\n- Neither...nor\n- Both...and\n- Not only...but also\n\n*Example:* You can either stay here or come with us.\n\n**Combining Conjunctions:**\nUse conjunctions effectively to create complex and compound sentences that enhance your language mastery.\n\n**Tips for Mastery:**\n- Avoid run-on sentences by using the correct conjunctions.\n- Practice varying sentence structures by mixing different types of conjunctions.\n- Pay attention to punctuation: Use a comma before coordinating conjunctions when connecting independent clauses.\n\nBy mastering conjunctions, you'll be able to connect ideas smoothly and express yourself more confidently in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wanted to go to the beach, but it was too cold."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the appropriate subordinating conjunction: _____ she was tired, she continued working.",
+      "answer": "Although"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the correlative conjunctions to their correct pairs:\n1. Either...or\n2. Neither...nor\n3. Both...and\n4. Not only...but also",
+      "answer": "1. Choose between two options\n2. Negates two possibilities\n3. Emphasizes two qualities or actions\n4. Adds information or qualities"
+    },
+    {
+      "type": "Sentence rewriting",
+      "question": "Rewrite the following sentences into a single sentence using an appropriate conjunction:\n\"He was hungry. He didn’t have any food.\"",
+      "answer": "He was hungry, but he didn’t have any food."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued, especially in professional and academic settings. The precise use of conjunctions can reflect a speaker's or writer's mastery of language, which influences perceptions of credibility and intelligence. Understanding how to connect ideas fluently is essential for success in American social and business environments, where directness and clarity are appreciated.",
+  "createdAt": "2025-12-24T04:48:44.560Z"
+}

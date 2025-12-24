@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00514",
+  "number": 514,
+  "title": "Mastering Conjunctions: Unlock the Power of Connection in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify different types of conjunctions used in American English.",
+    "Understand the role of coordinating, subordinating, and correlative conjunctions.",
+    "Construct complex and compound sentences using appropriate conjunctions.",
+    "Recognize common mistakes related to conjunction usage and avoid them.",
+    "Apply conjunctions effectively in both spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses within a sentence.",
+      "example": "Examples of conjunctions include 'and,' 'but,' 'because,' and 'although.'"
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins two equally important words, phrases, or clauses.",
+      "example": "Examples include 'for,' 'and,' 'nor,' 'but,' 'or,' 'yet,' 'so.'"
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "Examples include 'although,' 'because,' 'since,' 'if,' 'when.'"
+    },
+    {
+      "word": "correlative conjunctions",
+      "definition": "Paired conjunctions that work together to join balanced parts of a sentence.",
+      "example": "Examples include 'both...and,' 'either...or,' 'not only...but also.'"
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that allow speakers and writers to connect ideas smoothly and logically. There are three main types:\n\n1. **Coordinating Conjunctions**: These join two independent clauses or elements of equal importance. For example, 'I wanted to go for a walk, but it started raining.' Here, 'but' links two independent ideas.\n\n2. **Subordinating Conjunctions**: These introduce subordinate clauses, providing context or condition to the main idea. For example, 'She stayed home because it was snowing.' The word 'because' shows the reason.\n\n3. **Correlative Conjunctions**: These work in pairs to balance the sentence. For example, 'Both the team and the coach were excited.'\n\n**Examples in sentences:**\n- Coordinating: 'He studies hard **and** participates in sports.'\n- Subordinating: '**Although** he was tired, he continued working.'\n- Correlative: '**Neither** the manager **nor** the employees knew about the change.'\n\nUsing conjunctions correctly enhances clarity, adds variety, and creates more sophisticated sentences—key to transforming your English into that of a true God!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: \n___ she was tired, she kept working late into the night.",
+      "answer": "Although"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with a coordinating conjunction: \nI want to buy the red shirt ___ the blue one.",
+      "answer": "or"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Create a sentence using the correlative conjunctions 'both...and'.",
+      "answer": "She is both talented and hardworking."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the mistake: \nI like both apples and oranges, but I don't like neither bananas.",
+      "answer": "I like both apples and oranges, but I don't like bananas."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunctions with their types:\n1. Because\n2. Neither...nor\n3. And\n4. Although\n\nA. Correlative\nB. Coordinating\nC. Subordinating\nD. Coordinating",
+      "answer": "1-C, 2-A, 3-B, 4-C"
+    }
+  ],
+  "culturalNotes": "In American culture, the effective use of conjunctions is integral to persuasive speech and storytelling. Americans value clarity and directness, especially in professional and academic settings. Skillful conjunction usage often reflects confidence and mastery of language, making your communication more persuasive and engaging.",
+  "createdAt": "2025-12-24T04:48:02.899Z"
+}

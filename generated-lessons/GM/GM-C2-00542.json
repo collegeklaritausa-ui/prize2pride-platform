@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00542",
+  "number": 542,
+  "title": "Conquering Conjunctions: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and categorize different types of conjunctions in American English",
+    "Understand the grammatical role of coordinating, subordinating, and correlative conjunctions",
+    "Apply conjunctions correctly to join words, phrases, and clauses in complex sentences",
+    "Enhance sentence variety and clarity using appropriate conjunctions",
+    "Troubleshoot common mistakes involving conjunction usage to achieve mastery"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses within a sentence.",
+      "example": "and, but, because"
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that joins two equal parts of a sentence, such as words, phrases, or independent clauses.",
+      "example": "She wanted to go, but she was too busy."
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to an independent clause.",
+      "example": "Although it was raining, they went for a walk."
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to join equal parts of a sentence.",
+      "example": "Either you apologize, or I will be upset."
+    }
+  ],
+  "content": "Mastering conjunctions elevates your command over American English, enabling you to craft sentences that are both sophisticated and clear. Conjunctions are the glue that holds your ideas together.\n\n**Types of Conjunctions:**\n\n1. **Coordinating Conjunctions**: These are the most common and include 'for,' 'and,' 'nor,' 'but,' 'or,' 'yet,' and 'so' (FANBOYS). They join words, phrases, or independent clauses of equal importance.\n\n   *Example:* \"I wanted to buy the shirt, but it was out of stock.\"\n\n2. **Subordinating Conjunctions**: These introduce subordinate clauses, which depend on the main clause. Key subordinators include 'because,' 'although,' 'since,' 'unless,' 'while,' and 'after.'\n\n   *Example:* \"She stayed home because she was feeling ill.\"\n\n3. **Correlative Conjunctions**: These work in pairs to connect equivalent elements. Common pairs include 'either/or,' 'neither/nor,' 'not only/but also,' and 'both/and.'\n\n   *Example:* \"You can either come with us or stay here.\"\n\n**Usage Tips:**\n- Use coordinating conjunctions to combine simple ideas.\n- Use subordinating conjunctions to show relationships like cause, contrast, or condition.\n- Use correlative conjunctions to emphasize choices or similarities.\n\n**Common Mistakes:**\n- Overusing 'and' where a different conjunction would clarify meaning.\n- Forgetting to include a comma after an introductory subordinate clause.\n- Mixing up correlative pairs, such as 'either/or' versus 'neither/nor.'\n\n**Advanced Tip:** Combining conjunctions can create complex sentences that precisely express nuanced ideas. Practice variety to avoid repetitive or choppy sentences.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "Although I was tired, I finished my homework."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct coordinating conjunction to complete the sentence: 'She wanted to go to the party, ___ she was feeling sick.'",
+      "answer": "but"
+    },
+    {
+      "type": "Sentence Transformation",
+      "question": "Combine these two sentences using a correlative conjunction: 'He is smart. He is hardworking.'",
+      "answer": "He is either smart or hardworking."
+    },
+    {
+      "type": "Identify the conjunction",
+      "question": "In the sentence 'I will call you after I arrive,' what type of conjunction is 'after'?",
+      "answer": "Subordinating conjunction"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'I like both to read and to write but I prefer to read.'",
+      "answer": "Corrected sentence: 'I like both to read and to write, but I prefer to read.'"
+    }
+  ],
+  "culturalNotes": "In American English, conjunction usage often reflects the rhythm and flow of speech common in casual and formal contexts. Americans value clarity and variety in sentence structure, making mastery of conjunctions essential for effective communication. Formal writing, such as in academic or professional settings, demands precise conjunction placement, while conversational American English favors smooth, natural connections between ideas.",
+  "createdAt": "2025-12-24T04:50:10.781Z"
+}

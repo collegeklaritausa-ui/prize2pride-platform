@@ -1,0 +1,49 @@
+{
+  "id": "GM-A2-00504",
+  "number": 504,
+  "title": "Conjunctions: Building Blocks of Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences",
+    "Identify basic coordinating conjunctions: and, but, or",
+    "Use conjunctions to connect words and simple phrases",
+    "Create simple sentences using conjunctions correctly",
+    "Recognize the importance of conjunctions in clear communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "I like apples and oranges."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "Conjunctions that join words or groups of words of equal importance.",
+      "example": "and, but, or"
+    }
+  ],
+  "content": "Welcome to the world of conjunctions! Conjunctions are small words that connect parts of sentences, making your speech and writing clearer and more interesting. In American English, the most common conjunctions are 'and,' 'but,' and 'or.'\n\nFor example:\n- I want to go to the park **and** play soccer.\n- She is tired **but** happy.\n- Do you want tea **or** coffee?\n\nUsing conjunctions correctly helps you combine simple ideas into more complete and smooth sentences. Remember:\n- Use **and** to add information.\n- Use **but** to show contrast or difference.\n- Use **or** to give options.\n\nLet’s practice with some sentences to see how conjunctions work:\n- I like apples __ oranges.\n- She is smart __ she is shy.\n- Would you like water __ juice?\n\nBy mastering conjunctions, you'll be able to express your thoughts clearly and connect ideas seamlessly in American English!",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "I want to buy a shirt ____ a hat.",
+      "answer": "and"
+    },
+    {
+      "type": "Multiple choice",
+      "question": "Choose the correct conjunction: She is tired ____ happy.",
+      "answer": "but"
+    },
+    {
+      "type": "Sentence creation",
+      "question": "Create a sentence using the word 'or'.",
+      "answer": "Would you like pizza or burgers?"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of simple conjunctions like 'and,' 'but,' and 'or' is very common in everyday speech and writing. They help Americans communicate ideas smoothly and politely. For example, when giving options or making contrasts, conjunctions are essential in both casual conversations and formal writing. Mastering these words will help you sound more natural and confident in American English!",
+  "createdAt": "2025-12-24T04:47:30.558Z"
+}

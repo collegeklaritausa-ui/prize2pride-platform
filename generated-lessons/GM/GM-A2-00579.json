@@ -1,0 +1,74 @@
+{
+  "id": "GM-A2-00579",
+  "number": 579,
+  "title": "Mastering Sentence Structure: Building Strong Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Identify the basic parts of a sentence: subject and predicate",
+    "Construct simple sentences using correct word order",
+    "Understand the importance of capitalization and punctuation",
+    "Recognize incomplete sentences and how to fix them",
+    "Create complete and correct sentences independently"
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She likes to read books."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person or thing that performs the action in a sentence.",
+      "example": "The dog barked loudly."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of a sentence that tells what the subject does or is.",
+      "example": "He is running in the park."
+    },
+    {
+      "word": "Capitalization",
+      "definition": "Using uppercase letters at the beginning of sentences and proper nouns.",
+      "example": "My favorite city is New York."
+    },
+    {
+      "word": "Punctuation",
+      "definition": "Symbols like period, comma, question mark that clarify meaning.",
+      "example": "Are you coming to the party?"
+    }
+  ],
+  "content": "Welcome to the world of American English sentence structure! In this lesson, we will learn how to build simple, clear sentences. Every sentence has two main parts: the subject (who or what the sentence is about) and the predicate (what the subject does or is). For example, in the sentence 'The cat sleeps,' 'The cat' is the subject, and 'sleeps' is the predicate.\n\nRemember to start each sentence with a capital letter and end it with the correct punctuation mark, such as a period, question mark, or exclamation point. For example: 'He runs fast.' or 'Do you like pizza?'\n\nSometimes, sentences can be incomplete. For example, 'Running in the park.' is not a complete sentence because it lacks a subject. To fix it, add a subject: 'She is running in the park.'\n\nPractice makes perfect! The goal is to create sentences that are complete, correctly structured, and easy to understand. With these basics, you are well on your way to mastering American English sentence structure!\n\nNow, let's look at some examples:\n- Correct: 'The children play outside.'\n- Incorrect: 'Play outside.' (missing subject)\n- Corrected: 'The children play outside.'\n\nKeep practicing by forming sentences about your daily activities, family, or favorite things. The more you practice, the more confident you will become!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a complete sentence?",
+      "answer": "A) Running in the park.\nB) The dog barks loudly.\nC) Because I was tired."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank to make a complete sentence: '___ is reading a book.'",
+      "answer": "She"
+    },
+    {
+      "type": "true/false",
+      "question": "A sentence must start with a capital letter. (True/False)",
+      "answer": "True"
+    },
+    {
+      "type": "rewrite",
+      "question": "Fix this incomplete sentence: 'Eating pizza.'",
+      "answer": "She is eating pizza."
+    },
+    {
+      "type": "creation",
+      "question": "Write your own complete sentence about your favorite hobby.",
+      "answer": "I enjoy playing soccer after school."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is valued. Using complete sentences helps convey your ideas effectively. Also, Americans often start sentences with capital letters and end with appropriate punctuation, reflecting emphasis on clarity and correctness in writing and speaking.",
+  "createdAt": "2025-12-24T04:52:45.053Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00518",
+  "number": 518,
+  "title": "Conjunctions: Linking Ideas Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify different types of conjunctions in American English.",
+    "Understand how coordinating, subordinating, and correlative conjunctions function.",
+    "Use conjunctions correctly to combine ideas and improve sentence flow.",
+    "Distinguish between appropriate and inappropriate conjunction usage.",
+    "Apply conjunctions effectively in both writing and speaking for clearer communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses.",
+      "example": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins grammatically equal elements, such as 'and,' 'but,' or 'or.'",
+      "example": "She likes apples and oranges."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a dependent clause, such as 'because,' 'although,' or 'since.'",
+      "example": "I'll stay home because it's snowing."
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "Paired conjunctions that work together to connect equal elements, such as 'either...or,' 'neither...nor,' 'both...and.'",
+      "example": "You can either come with us or stay here."
+    }
+  ],
+  "content": "Mastering conjunctions is essential for crafting clear and cohesive sentences in American English. There are three main types:\n\n1. **Coordinating Conjunctions**: These connect words, phrases, or independent clauses of equal importance. The most common are **and**, **but**, **or**, **nor**, **for**, **yet**, and **so**.\n\n   *Examples:* \n   - I wanted to visit the museum, **but** it was closed.\n   - She loves to read **and** write.\n\n2. **Subordinating Conjunctions**: These introduce dependent clauses and show relationships like cause, contrast, or time.\n\n   *Examples:* \n   - **Because** it was late, we decided to leave.\n   - **Although** he was tired, he finished his homework.\n\n3. **Correlative Conjunctions**: These work in pairs to connect equivalent elements.\n\n   *Examples:* \n   - **Neither** the manager **nor** the employees knew about the change.\n   - **Either** you apologize **or** face the consequences.\n\nUsing conjunctions effectively makes your speech and writing more fluent and engaging. Remember to choose the right type based on the relationship you want to express between ideas.\n\nTip: Avoid overusing conjunctions; sometimes, breaking complex sentences into shorter ones improves clarity.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wanted to go for a walk, **but** it started raining."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct subordinating conjunction: ____ it was raining, we stayed indoors.",
+      "answer": "Because"
+    },
+    {
+      "type": "matching",
+      "question": "Match the correlative conjunctions with their correct pairs:\n1. Either\n2. Neither\n3. Both\n\nA. or\nB. nor\nC. and",
+      "answer": "1-A, 2-B, 3-C"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Combine these two ideas using an appropriate conjunction: 'She is artist. She is a musician.'",
+      "answer": "She is both an artist and a musician."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error in this sentence: 'I want to go to the park but it is too cold outside.'",
+      "answer": "I want to go to the park, but it is too cold outside."
+    }
+  ],
+  "culturalNotes": "In American culture, clarity and directness are valued, especially in professional and educational settings. Conjunctions play a vital role in making speech and writing straightforward and persuasive. Understanding how Americans link ideas enhances effective communication, whether in casual conversations or formal presentations.",
+  "createdAt": "2025-12-24T04:48:18.821Z"
+}

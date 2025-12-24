@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00551",
+  "number": 551,
+  "title": "Conquering Conjunctions: The Divine Union of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Master the comprehensive use of coordinating, subordinating, and correlative conjunctions.",
+    "Identify and differentiate between various types of conjunctions in complex sentences.",
+    "Construct grammatically perfect sentences demonstrating advanced conjunction use.",
+    "Apply conjunctions to enhance coherence, emphasis, and stylistic finesse in writing.",
+    "Analyze and correct common conjunction errors to attain grammatical perfection."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words, serving as a bridge in sentence structure.",
+      "example": "Although she was tired, she finished her project."
+    },
+    {
+      "word": "Coordinating Conjunctions",
+      "definition": "Conjunctions that connect words, phrases, or independent clauses of equal importance, often remembered by the acronym FANBOYS.",
+      "example": "For, And, Nor, But, Or, Yet, So"
+    },
+    {
+      "word": "Subordinating Conjunctions",
+      "definition": "Conjunctions that connect a dependent clause to an independent clause, establishing a relationship of dependence.",
+      "example": "Because, Although, Since, When, While"
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to join balanced clauses or phrases.",
+      "example": "Either...or, Neither...nor, Not only...but also"
+    }
+  ],
+  "content": "Welcome to the realm of conjunction mastery—where the power to link ideas elevates your mastery of American English to divine levels. Conjunctions are the essential threads weaving complex, nuanced, and stylistically rich sentences. \n\n**1. Coordinating Conjunctions (FANBOYS):** These are the basic union builders, linking elements of equal grammatical rank. \n- *Example:* \"She wanted to go to the beach, but it started raining.\"\n- *Tip:* Use commas before coordinating conjunctions when connecting two independent clauses.\n\n**2. Subordinating Conjunctions:** These introduce dependent clauses, providing context, contrast, cause, or time.\n- *Example:* \"I'll call you when I arrive.\"\n- *Tip:* The subordinating conjunction begins the dependent clause; ensure correct placement to maintain sentence clarity.\n\n**3. Correlative Conjunctions:** Paired words that work in tandem to emphasize the relationship.\n- *Example:* \"Either you start studying, or you'll fail the test.\"\n- *Tip:* Balance your sentence with paired conjunctions to achieve symmetry and emphasis.\n\n**4. Advanced Conjunction Usage:** Combine conjunction types for sophisticated writing.\n- *Example:* \"Although she was exhausted, yet she continued to work, and she finished on time!\"\n- *Note:* Be cautious of overcomplicating; clarity is king.\n\n**5. Common Pitfalls and Corrections:** \n- *Incorrect:* \"She likes both to dance and she sings well.\"\n- *Correct:* \"She likes both to dance and to sing well.\"\n- *Incorrect:* \"He didn't study, so he failed the exam.\"\n- *Correct:* \"He didn't study, so he failed the exam.\"\n\nBy mastering these conjunctions, you command the flow and coherence of your speech and writing, transforming your language into a divine instrument of communication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "Because she was tired, she went to bed early."
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence with an appropriate coordinating conjunction: 'I wanted to buy the shirt, ____ it was too expensive.'",
+      "answer": "but"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following sentence using a correlative conjunction: 'He is not only smart. He is also hardworking.'",
+      "answer": "He is not only smart but also hardworking."
+    },
+    {
+      "type": "error identification",
+      "question": "Identify and correct the error in this sentence: 'She enjoys neither swimming nor to run.'",
+      "answer": "She enjoys neither swimming nor running."
+    },
+    {
+      "type": "creative writing",
+      "question": "Write a complex sentence about American culture using at least one subordinating and one coordinating conjunction.",
+      "answer": "Although American football is immensely popular, many Americans also enjoy baseball and basketball, making sports an integral part of the culture."
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are more than just grammatical tools; they reflect the dynamic and often informal communication style. The use of conjunctions in speech and writing emphasizes clarity, enthusiasm, and connection—values deeply rooted in American societal interactions. Whether in casual conversations, persuasive speeches, or literary works, mastering conjunctions allows you to resonate with the authentic American voice, making your language compelling and culturally aligned.",
+  "createdAt": "2025-12-24T04:50:56.868Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00569",
+  "number": 569,
+  "title": "Mastering Basic Sentence Structure: Build Your American English Foundation",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic parts of a sentence: subject and predicate.",
+    "Identify simple sentence structures in American English.",
+    "Construct correct basic sentences using subject + verb + object.",
+    "Recognize common sentence patterns and their functions.",
+    "Apply sentence structure rules to improve clarity and communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She likes to read books."
+    },
+    {
+      "word": "Subject",
+      "definition": "The noun or pronoun that performs the action in a sentence.",
+      "example": "The dog barked loudly."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of a sentence that tells what the subject does or is.",
+      "example": "The dog barked loudly."
+    },
+    {
+      "word": "Object",
+      "definition": "The noun or pronoun that receives the action of the verb.",
+      "example": "She reads a book every night."
+    }
+  ],
+  "content": "Welcome to your journey toward mastering American English sentence structure! A sentence is the building block of communication. In simple sentences, the most common pattern is Subject + Verb + Object. For example, 'I eat apples.' Here, 'I' is the subject, 'eat' is the verb (action), and 'apples' is the object. To create clear and correct sentences:\n\n1. Start with a subject (who or what the sentence is about).\n2. Add a verb (what the subject does).\n3. Include an object if needed (who or what receives the action).\n\nExamples:\n- 'You play soccer.'\n- 'The teacher explains the lesson.'\n- 'They watch movies.'\n\nRemember, every complete sentence must have at least a subject and a verb. As you practice, pay attention to the order of words and ensure each sentence expresses a complete thought. Using these basic structures will make your American English clear and effective!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a correct simple sentence?",
+      "answer": "She runs every morning."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: ___ reads a book.",
+      "answer": "She"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the subject 'They', the verb 'like', and the object 'pizza'.",
+      "answer": "They like pizza."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is valued. Learning proper sentence structure helps you express ideas confidently, whether in casual conversations, business, or academics. Practice speaking and writing daily to build your fluency and become a true GOD of American English!",
+  "createdAt": "2025-12-24T04:52:09.757Z"
+}

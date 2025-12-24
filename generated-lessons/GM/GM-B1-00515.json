@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00515",
+  "number": 515,
+  "title": "Mastering Conjunctions: Building Strong Sentence Connections",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and importance of conjunctions in American English.",
+    "Identify different types of conjunctions: coordinating, subordinating, and correlative.",
+    "Use conjunctions correctly to combine clauses and sentences.",
+    "Improve sentence flow and coherence through proper conjunction usage.",
+    "Differentiate between common conjunctions and avoid common mistakes."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses within a sentence.",
+      "example": "and, but, because"
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that joins two independent clauses of equal importance.",
+      "example": "She wanted to go, but she was too tired."
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to an independent clause.",
+      "example": "Although it was raining, we went hiking."
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Pairs of conjunctions that work together to join equal elements.",
+      "example": "Either you stay, or you leave."
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that help connect ideas smoothly, making your speech and writing more coherent and persuasive. There are three main types: \n\n1. **Coordinating Conjunctions**: These include 'for,' 'and,' 'nor,' 'but,' 'or,' 'yet,' and 'so' (FANBOYS). They link words, phrases, or independent clauses of equal importance.\n\n   - *Example:* I wanted to buy a new jacket, but it was too expensive.\n\n2. **Subordinating Conjunctions**: These introduce subordinate clauses and show the relationship between the clause and the rest of the sentence. Common subordinators include 'because,' 'although,' 'since,' 'if,' 'when,' and 'while.'\n\n   - *Example:* She didn’t go to the party because she was feeling sick.\n\n3. **Correlative Conjunctions**: These come in pairs and work together to connect equal parts of a sentence.\n\n   - *Examples:* Either you apologize, or the problem will worsen.\n\n**Tips for Mastery:**\n- Place coordinating conjunctions between two independent clauses.\n- Use subordinating conjunctions to show cause, contrast, or time relationships.\n- Pair correlative conjunctions correctly to maintain sentence balance.\n\nPracticing the correct placement and usage of conjunctions will elevate your clarity and elegance in American English.\n\nRemember, mastering conjunctions empowers you to craft complex and compelling sentences like a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wanted to go for a walk, but it started raining."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct subordinating conjunction: _______ it was late, they decided to stay overnight.",
+      "answer": "Although"
+    },
+    {
+      "type": "Matching Pairs",
+      "question": "Match the correlative conjunctions with their correct usage:\n1. Either _______\n2. Neither _______\n3. Both _______\n\na) you call me, or I will call you.\n b) you stay, or you leave.\n c) you like it, or you dislike it.",
+      "answer": "1. a) you call me, or I will call you.\n2. c) you like it, or you dislike it.\n3. b) you stay, or you leave."
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error: \"He was tired but yet he continued working.\"",
+      "answer": "He was tired, but he continued working. (Remove 'yet')"
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a short paragraph using at least three different types of conjunctions discussed in this lesson.",
+      "answer": "Yesterday, I wanted to relax at home because I was feeling tired. However, my friends invited me to a movie, so I decided to join them. Although it was late, we had a great time, and I felt refreshed afterward."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued. Using conjunctions properly can help you express ideas with nuance and sophistication, which is especially appreciated in professional and casual settings alike. Mastery of conjunctions also reflects a deeper understanding of sentence structure, enabling you to participate confidently in conversations, debates, and written communications that are common in American social and business environments.",
+  "createdAt": "2025-12-24T04:48:06.837Z"
+}

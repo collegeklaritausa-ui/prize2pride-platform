@@ -1,0 +1,73 @@
+{
+  "id": "GM-B2-00530",
+  "number": 530,
+  "title": "Mastering Conjunctions: Unlock the Power of Connecting Ideas in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and distinguish between coordinating, subordinating, and correlative conjunctions.",
+    "Use conjunctions correctly to connect words, phrases, and clauses in complex sentences.",
+    "Analyze sentence structures to improve clarity and fluency in writing.",
+    "Apply conjunctions to enhance coherence and cohesion in spoken and written communication.",
+    "Develop an advanced understanding of conjunctions to achieve grammatical precision and stylistic sophistication."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect words, phrases, or clauses within a sentence.",
+      "example": "In the sentence, 'She wanted to go, but she was tired,' the word 'but' is a conjunction."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "Conjunctions that connect words, phrases, or independent clauses of equal importance.",
+      "example": "FANBOYS (For, And, Nor, But, Or, Yet, So) are common coordinating conjunctions."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "Conjunctions that connect a dependent clause to an independent clause, establishing a relationship of dependence.",
+      "example": "Because I was late, I missed the meeting."
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "Paired conjunctions that work together to connect equal elements in a sentence.",
+      "example": "Either you stay here, or you come with us."
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that enable speakers and writers to connect ideas smoothly, creating more complex and nuanced sentences. Conjunctions can be classified into three main types:\n\n1. Coordinating Conjunctions: These join two equal grammatical elements. Remember the acronym FANBOYS:\n- For (reason)\n- And (addition)\n- Nor (negation)\n- But (contrast)\n- Or (choice)\n- Yet (contrast)\n- So (result)\n\nExample: I wanted to go for a walk, but it started raining.\n\n2. Subordinating Conjunctions: These introduce dependent clauses and show the relationship between the dependent and main clause. Common subordinating conjunctions include: because, since, although, while, if, when, unless, whereas.\n\nExample: She stayed home because she was feeling sick.\n\n3. Correlative Conjunctions: These work in pairs to connect equal elements. Examples include: either...or, neither...nor, both...and, not only...but also.\n\nExample: Not only did he finish his homework, but he also helped his sister.\n\nUsing conjunctions correctly enhances sentence variety and clarity. For example, instead of writing two separate sentences:\n\"It was raining. I stayed inside.\"\n\nYou can combine them with a conjunction:\n\"It was raining, so I stayed inside.\"\n\nPractice linking ideas with appropriate conjunctions to elevate your mastery of American English grammar and make your speech and writing more compelling.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: 'I wanted to attend the concert, ___ I had too much work.'",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate subordinating conjunction: 'She stayed home ___ she was feeling sick.'",
+      "answer": "because"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunction type to its example:\nA. Coordinating\nB. Subordinating\nC. Correlative\n\n1. Neither you nor I can solve this.\n2. I will go if you come with me.\n3. He likes both coffee and tea.",
+      "answer": {
+        "A": "3",
+        "B": "2",
+        "C": "1"
+      }
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following two sentences as a single sentence using a conjunction:\n\"She was tired. She continued working.\"",
+      "answer": "She was tired, but she continued working."
+    },
+    {
+      "type": "short answer",
+      "question": "Explain the difference between coordinating and subordinating conjunctions with an example.",
+      "answer": "Coordinating conjunctions connect two equal parts, such as 'I like coffee and tea,' while subordinating conjunctions connect a dependent clause to an independent clause, like 'I stayed home because I was sick.'"
+    }
+  ],
+  "culturalNotes": "In American culture, effective use of conjunctions reflects clarity and coherence in communication, which are highly valued in both academic and professional settings. Mastery of conjunctions enables speakers and writers to articulate ideas more convincingly, build persuasive arguments, and foster smooth conversations, especially in formal contexts such as business meetings, academic essays, and political debates. Understanding and employing proper conjunctions also demonstrates linguistic sophistication appreciated in American social and cultural interactions.",
+  "createdAt": "2025-12-24T04:49:13.882Z"
+}

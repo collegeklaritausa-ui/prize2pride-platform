@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00574",
+  "number": 574,
+  "title": "Mastering Basic Sentence Structure: Your First Step to English Greatness",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic parts of a sentence: subject and predicate",
+    "Identify simple sentences in everyday language",
+    "Create correct simple sentences using common words",
+    "Recognize common sentence patterns",
+    "Build confidence in speaking and writing simple sentences"
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "The dog runs."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person, place, thing, or idea that the sentence is about.",
+      "example": "The **cat** sleeps."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of the sentence that tells what the subject does or is.",
+      "example": "She **reads** a book."
+    },
+    {
+      "word": "Simple Sentence",
+      "definition": "A sentence that has one subject and one predicate.",
+      "example": "The boy plays."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on understanding sentence structure. Every complete sentence in English has two main parts: the subject and the predicate. The **subject** is who or what the sentence is about. The **predicate** tells us what the subject does or is.\n\nFor example:\n- The **dog** barks. (Subject: The dog, Predicate: barks)\n- She **drinks** water. (Subject: She, Predicate: drinks water)\n\nA **simple sentence** has only one subject and one predicate. It expresses a complete idea and is easy to understand.\n\nLet's look at some examples:\n- The sun shines.\n- The girl runs.\n- Birds sing.\n\nPractice makes perfect! Try creating your own simple sentences using common words like 'I,' 'you,' 'he,' 'she,' 'it,' 'we,' and 'they.' Remember, a simple sentence is complete by itself.\n\nNow, let's look at the basic pattern:\n**Subject + Verb + (Object)**\n\nExamples:\n- I (subject) eat (verb) apples.\n- They (subject) play (verb) soccer.\n\nUnderstanding this structure helps you build more complex sentences later. For now, focus on mastering simple sentences to become a true GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a simple sentence?",
+      "answer": "The cat sleeps."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct subject for the sentence: ___ runs fast.",
+      "answer": "He"
+    },
+    {
+      "type": "Sentence Formation",
+      "question": "Create a simple sentence using the words: 'bird', 'fly', 'high'.",
+      "answer": "The bird flies high."
+    },
+    {
+      "type": "Identify the parts",
+      "question": "In the sentence 'The boy jumps,' what is the subject? What is the predicate?",
+      "answer": "Subject: The boy, Predicate: jumps"
+    },
+    {
+      "type": "True or False",
+      "question": "All sentences in English must have more than one word.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, simple and clear communication is often valued, especially in everyday conversations. Mastering basic sentence structure allows you to share your thoughts confidently and connect with others in social, educational, and professional settings. Remember, every successful American English speaker starts with mastering the basics!",
+  "createdAt": "2025-12-24T04:52:27.105Z"
+}

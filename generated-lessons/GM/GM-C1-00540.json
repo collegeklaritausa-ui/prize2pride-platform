@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00540",
+  "number": 540,
+  "title": "Mastering Conjunctions: The Art of Sophisticated Sentence Linking",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions in complex sentences",
+    "Construct grammatically correct and stylistically sophisticated sentences using advanced conjunctions",
+    "Analyze the nuanced effects of different conjunctions on sentence meaning and tone",
+    "Apply conjunctions to create varied and complex sentence structures for advanced writing",
+    "Demonstrate mastery by editing and improving sentences for clarity, coherence, and style using conjunctions"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that links words, phrases, or clauses within a sentence, expressing relationships such as addition, contrast, or cause and effect.",
+      "example": "Although she was tired, she finished her homework."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins two equal grammatical units, such as words, phrases, or independent clauses.",
+      "example": "She wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and shows the relationship between the subordinate and main clause.",
+      "example": "Because he was late, he missed the meeting."
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "A paired conjunction that works together to join equal elements in a sentence.",
+      "example": "Either you apologize, or she will be upset."
+    },
+    {
+      "word": "ellipsis",
+      "definition": "The omission of words that are implied by the context, often used with conjunctions to avoid redundancy.",
+      "example": "I want to go, but I can't."
+    }
+  ],
+  "content": "In the realm of advanced American English, conjunctions serve as the architects of sentence complexity and style. Mastery over their nuanced use elevates your writing from simple to sophisticated.\n\n**1. Coordinating Conjunctions:** These are the FANBOYS (For, And, Nor, But, Or, Yet, So). They connect independent clauses of equal weight.\n\n*Example:* \"She studied diligently, and she aced the exam.\"\n\n**2. Subordinating Conjunctions:** These introduce subordinate clauses, establishing relationships like cause, contrast, condition, and time.\n\n*Examples:*\n- Cause: \"He stayed home because he was sick.\"\n- Contrast: \"Although it was late, they continued working.\"\n- Condition: \"If you invite her, she will come.\"\n- Time: \"Once you finish your homework, you can play.\"\n\n**3. Correlative Conjunctions:** Paired words that work together to join equivalent sentence elements, adding emphasis and balance.\n\n*Examples:* \"Neither the manager nor the employees knew about the change.\"\n\n**4. Stylistic Nuances & Advanced Usage:**\n- Using conjunctions to create complex sentences that embed multiple ideas.\n- Employing conjunctions for rhetorical effect, such as building suspense or contrast.\n- Recognizing and employing ellipsis with conjunctions to create concise, elegant sentences.\n\n*Example of ellipsis:* \"He can play the guitar, and I can, too.\"\n\n**5. Stylistic and Coherence Tips:**\n- Use conjunctions to vary sentence structure for flow and emphasis.\n- Be cautious of excessive conjunctions that may lead to run-on sentences; aim for clarity.\n\nBy understanding these types of conjunctions and their strategic use, you will craft sentences that are not only grammatically impeccable but also rich in style and nuance.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "Because she was tired, she went to bed early."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the appropriate coordinating conjunction: 'I wanted to buy the shirt ___ it was too expensive.'",
+      "answer": "but"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Rewrite the sentence to improve clarity using an appropriate conjunction: 'He was hungry he ate a sandwich.'",
+      "answer": "He was hungry, so he ate a sandwich."
+    },
+    {
+      "type": "Identify the conjunction",
+      "question": "In the sentence 'Either you apologize, or she will be upset,' what type of conjunction is used?",
+      "answer": "Correlative conjunction"
+    },
+    {
+      "type": "Create",
+      "question": "Construct a complex sentence using a subordinating conjunction to show contrast.",
+      "answer": "Although he was tired, he continued working on the project."
+    }
+  ],
+  "culturalNotes": "In American culture, the effective use of conjunctions reflects not just grammatical correctness but also rhetorical skill. The ability to craft nuanced sentences often signals intelligence and professionalism in academic, business, and social contexts. Americans value clarity and directness; mastering conjunctions helps navigate and shape conversations, debates, and written communication with sophistication and persuasive power.",
+  "createdAt": "2025-12-24T04:50:01.480Z"
+}

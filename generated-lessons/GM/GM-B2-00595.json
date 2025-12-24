@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00595",
+  "number": 595,
+  "title": "Mastering Sentence Structure: Building the Foundation of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the components of complex sentence structures in American English",
+    "Identify and correctly use different sentence types: simple, compound, and complex",
+    "Apply correct punctuation to enhance clarity and flow in sentences",
+    "Construct varied and sophisticated sentences to elevate writing quality",
+    "Analyze and improve sentences for grammatical accuracy and style"
+  ],
+  "vocabulary": [
+    {
+      "word": "clause",
+      "definition": "A group of words that contains a subject and a predicate.",
+      "example": "Because I was late, I missed the bus."
+    },
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses or sentences.",
+      "example": "and, but, or, because, although"
+    },
+    {
+      "word": "independent clause",
+      "definition": "A clause that can stand alone as a complete sentence.",
+      "example": "She enjoys reading."
+    },
+    {
+      "word": "dependent clause",
+      "definition": "A clause that cannot stand alone and depends on an independent clause.",
+      "example": "Because she was tired"
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence with two or more independent clauses joined by a coordinating conjunction or punctuation.",
+      "example": "I wanted to go to the park, but it started raining."
+    }
+  ],
+  "content": "Welcome to the realm of American English sentence structure, where mastery turns ordinary sentences into powerful tools of expression. Understanding the building blocks—clauses—is essential. An independent clause can stand alone as a sentence (e.g., 'The sun is shining'), while a dependent clause cannot (e.g., 'Although it was cold'). Combining these clauses using conjunctions like 'and,' 'but,' or 'because' allows for the creation of more nuanced sentences.\n\nSimple sentences contain just one independent clause. Example: 'She runs.'\n\nCompound sentences connect two independent clauses with coordinating conjunctions, often separated by a comma. Example: 'She runs, and he cycles.'\n\nComplex sentences incorporate one dependent and one independent clause. Use subordinating conjunctions like 'because,' 'since,' or 'although' to introduce dependent clauses. Example: 'Because she was tired, she went to bed early.'\n\nPay attention to punctuation rules: use commas before coordinating conjunctions in compound sentences, and after introductory dependent clauses. Proper punctuation clarifies meaning and improves readability.\n\nTo elevate your writing, practice combining sentences using various structures, balancing simplicity and complexity to suit your message. Remember, mastery over sentence structure is the foundation for conveying ideas clearly and convincingly.",
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Which of the following is a complex sentence?",
+      "answer": "Because it was raining, we stayed indoors."
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Identify the independent and dependent clauses: 'Although she was tired, she finished her homework.'",
+      "answer": "Dependent clause: Although she was tired; Independent clause: she finished her homework."
+    },
+    {
+      "type": "sentence rewiring",
+      "question": "Combine these two sentences into a single compound sentence: 'I like coffee. I prefer tea.'",
+      "answer": "I like coffee, but I prefer tea."
+    },
+    {
+      "type": "grammar correction",
+      "question": "Fix the punctuation: 'She wanted to go shopping but, it was closed.'",
+      "answer": "She wanted to go shopping, but it was closed."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued, especially in professional and academic settings. Using varied sentence structures demonstrates linguistic sophistication and respect for the audience's understanding. Americans appreciate directness combined with nuanced expression, so mastering complex sentences can significantly enhance your credibility and eloquence in both casual and formal contexts.",
+  "createdAt": "2025-12-24T04:53:46.424Z"
+}

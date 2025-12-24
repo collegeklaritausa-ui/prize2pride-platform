@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00584",
+  "number": 584,
+  "title": "Mastering Sentence Structure: Building Stronger Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify the basic components of sentence structure in American English.",
+    "Differentiate between simple, compound, and complex sentences.",
+    "Construct correctly structured sentences using various sentence types.",
+    "Recognize common sentence errors related to structure and fix them.",
+    "Apply sentence structure knowledge to improve clarity and style in writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and a predicate.",
+      "example": "Because I was late, I missed the bus."
+    },
+    {
+      "word": "Independent clause",
+      "definition": "A clause that can stand alone as a complete sentence.",
+      "example": "She enjoys reading."
+    },
+    {
+      "word": "Dependent clause",
+      "definition": "A clause that cannot stand alone and depends on an independent clause.",
+      "example": "Although he was tired..."
+    },
+    {
+      "word": "Compound sentence",
+      "definition": "A sentence with two or more independent clauses joined by a coordinating conjunction or semicolon.",
+      "example": "I wanted to go out, but it was raining."
+    },
+    {
+      "word": "Complex sentence",
+      "definition": "A sentence with an independent clause and at least one dependent clause.",
+      "example": "I'll call you when I arrive."
+    }
+  ],
+  "content": "Understanding sentence structure is essential for mastering American English. Sentences are made up of clauses, which are groups of words containing a subject and a predicate. An independent clause can stand alone as a complete sentence, while a dependent clause cannot. Combining these clauses appropriately allows you to craft simple, compound, and complex sentences.\n\nSimple sentences contain only one independent clause, such as 'The dog barked.'\n\nTo form a compound sentence, join two independent clauses with a coordinating conjunction (for, and, nor, but, or, yet, so) or a semicolon: 'The sun set, and the stars appeared.'\n\nComplex sentences combine an independent clause with one or more dependent clauses, often introduced by subordinating conjunctions like because, although, or when: 'She stayed home because it was raining.'\n\nPracticing variety in sentence structures enhances your writing style and clarity. Be mindful of common errors such as comma splices or run-on sentences, and learn to revise them for correct structure.\n\nMastering these structures will help you communicate more effectively and elevate your command of American English to a GOD level.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "I wanted to go to the park, but it started raining."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify the dependent clause in this sentence: 'She didn’t go to the party because she was feeling sick.'",
+      "answer": "because she was feeling sick"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following two simple sentences as a single complex sentence: 'He was hungry. He ate a sandwich.'",
+      "answer": "He ate a sandwich because he was hungry."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and fix the error in this sentence: 'I like to read, and I like to write.'",
+      "answer": "The sentence is correct; no error."
+    },
+    {
+      "type": "true/false",
+      "question": "A complex sentence contains only one independent clause and no dependent clauses.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued, especially in business, education, and everyday conversation. Using varied sentence structures can convey your ideas more convincingly and demonstrate mastery of language, which is often appreciated in professional and social settings. Understanding these nuances helps you connect better and sound more confident in American English contexts.",
+  "createdAt": "2025-12-24T04:53:02.837Z"
+}

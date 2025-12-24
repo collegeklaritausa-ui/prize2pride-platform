@@ -1,0 +1,65 @@
+{
+  "id": "GM-B2-00522",
+  "number": 522,
+  "title": "Mastering Conjunctions: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and differentiate coordinating, subordinating, and correlative conjunctions.",
+    "Understand the grammatical roles of conjunctions in sentence structure.",
+    "Apply correct conjunctions to enhance sentence coherence and variety.",
+    "Avoid common pitfalls and errors in conjunction usage.",
+    "Develop the ability to craft complex and compound sentences confidently."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "She wanted to go to the park, but it started raining."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins words, phrases, or clauses of equal importance.",
+      "example": "for, and, nor, but, or, yet, so",
+      "note": "Remember the acronym FANBOYS to recall these."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "because, although, since, unless, while, if"
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "Pair of conjunctions that work together to coordinate two elements.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    }
+  ],
+  "content": "Mastering conjunctions is essential for achieving fluency and sophistication in American English. Conjunctions serve to connect ideas, making your speech and writing more coherent and dynamic.\n\n1. **Coordinating Conjunctions:** These are the most common, linking words, phrases, or independent clauses of equal importance. Remember the FANBOYS acronym:\n   - For: Explains reason (e.g., I stayed inside, for it was raining.)\n   - And: Adds information (e.g., I like coffee and tea.)\n   - Nor: Presents a negative alternative (e.g., He doesn't like apples nor oranges.)\n   - But: Shows contrast (e.g., She is tall but shy.)\n   - Or: Presents an alternative (e.g., Would you like coffee or tea?)\n   - Yet: Introduces a contrasting idea (e.g., It's early, yet I'm tired.)\n   - So: Indicates effect or result (e.g., It was late, so I went home.)\n\n2. **Subordinating Conjunctions:** These introduce dependent clauses and establish relationships such as cause, contrast, or condition.\n   - Examples:\n     - Because: I stayed home because it was cold.\n     - Although: Although he was tired, he kept working.\n     - If: We'll go outside if it stops raining.\n\n3. **Correlative Conjunctions:** These work in pairs to link equal elements, adding emphasis or balance.\n   - Examples:\n     - Either you leave now, or you'll miss the bus.\n     - Not only did she sing beautifully, but she also danced gracefully.\n\nUsing conjunctions effectively enhances your sentence structure, making your communication clear and engaging. Practice combining sentences with various conjunctions to elevate your mastery.\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: \"I wanted to go for a walk, ____ it started to rain.\"",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate subordinating conjunction: \"She stayed home ____ she was feeling sick.\"",
+      "answer": "because"
+    },
+    {
+      "type": "matching",
+      "question": "Match the correlative conjunctions with their correct pairs:\n- a) either ... or\n- b) not only ... but also\n\nPairs:\n1) ___ and ___\n2) ___ ... ___",
+      "answer": "1) both ... and, 2) either ... or"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine the following sentences using a coordinating conjunction: \"He was tired. He continued working.\"",
+      "answer": "He was tired, but he continued working."
+    }
+  ],
+  "culturalNotes": "In American English, conjunctions are vital for expressing nuances of thought, especially in casual conversations, debates, and persuasive writing. Using a variety of conjunctions reflects fluency and the ability to articulate complex ideas naturally. Americans value clarity and coherence, so mastering conjunctions helps you communicate more effectively in diverse contexts, from everyday conversations to professional settings.",
+  "createdAt": "2025-12-24T04:48:36.311Z"
+}

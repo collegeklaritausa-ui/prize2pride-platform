@@ -1,0 +1,74 @@
+{
+  "id": "GM-A1-00565",
+  "number": 565,
+  "title": "Mastering Basic Sentence Structure: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify the basic parts of a sentence: subject and predicate",
+    "Construct simple sentences using correct word order",
+    "Recognize common sentence structures in American English",
+    "Differentiate between complete and incomplete sentences",
+    "Apply sentence structure rules to improve writing clarity"
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person, place, thing, or idea that the sentence is about.",
+      "example": "The **dog** barked loudly."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of the sentence that tells what the subject does or is.",
+      "example": "The dog **barked loudly**."
+    },
+    {
+      "word": "Complete Sentence",
+      "definition": "A sentence that has a subject and predicate and expresses a complete thought.",
+      "example": "It is raining outside."
+    },
+    {
+      "word": "Fragment",
+      "definition": "An incomplete sentence that lacks a subject or predicate.",
+      "example": "Running down the street."
+    }
+  ],
+  "content": "Welcome to your journey to mastering basic sentence structure in American English! A sentence is the foundation of clear communication. Every complete sentence has two main parts: the subject and the predicate. The subject tells us **who** or **what** the sentence is about, while the predicate explains **what** the subject does or is.\n\nFor example:\n- **Subject:** The teacher\n- **Predicate:** explains the lesson.\n\nPutting it together: **The teacher explains the lesson.**\n\nIn beginner sentences, the typical order is Subject + Verb + (Object). For example:\n- I (subject) like (verb) pizza (object).\n- The dog (subject) runs (verb).\n\nRemember, a complete sentence must express a full thought. Avoid fragments like \"Running late\" or \"Because I said so,\" unless they are part of a larger sentence.\n\nPractice constructing sentences by starting with a subject, then adding a verb and other details. This simple structure will help you communicate clearly and confidently in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a complete sentence?",
+      "answer": "The children are playing outside."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify the subject in the sentence: 'The cat sleeps on the sofa.'",
+      "answer": "The cat"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a simple sentence using the words: 'students,' 'study,' 'library.'",
+      "answer": "Students study in the library."
+    },
+    {
+      "type": "true/false",
+      "question": "Every complete sentence must have a subject and a predicate.",
+      "answer": "True"
+    },
+    {
+      "type": "identify fragment",
+      "question": "Is this a complete sentence? 'Running quickly.'",
+      "answer": "No, it's a fragment."
+    }
+  ],
+  "culturalNotes": "In American English, clear and direct sentence structures are valued for effective communication. Americans tend to favor straightforward expressions, especially in everyday conversations, business, and education. Mastery of basic sentence construction helps you sound confident and understood in diverse social and professional settings across the United States.",
+  "createdAt": "2025-12-24T04:51:56.960Z"
+}

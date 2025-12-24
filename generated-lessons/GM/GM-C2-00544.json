@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00544",
+  "number": 544,
+  "title": "Conjunctions Mastery: Unlocking Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions.",
+    "Apply conjunctions correctly to join clauses and sentences for clarity and flow.",
+    "Analyze complex and compound sentences to enhance sentence variety and style.",
+    "Eliminate common conjunction errors to achieve grammatical precision.",
+    "Elevate your writing and speaking skills by mastering advanced conjunction usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses within a sentence.",
+      "example": "I want to go to the park, *but* it is raining."
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that connects words, phrases, or independent clauses of equal importance.",
+      "example": "and, but, or, nor, for, yet, so"
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a dependent clause and connects it to an independent clause.",
+      "example": "because, although, since, unless, while, after, before"
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to coordinate two elements.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    }
+  ],
+  "content": "Mastering conjunctions is essential for constructing clear, nuanced, and sophisticated sentences in American English. Conjunctions serve as the glue that binds ideas, allowing you to express relationships such as contrast, addition, cause, and condition.\n\n**Types of Conjunctions:**\n\n1. **Coordinating Conjunctions:** These join two independent clauses or elements of equal importance. Remember the acronym FANBOYS: *for, and, nor, but, or, yet, so*. \n\n   *Example:* \"She wanted to stay home, *but* she had to go to work.\"\n\n2. **Subordinating Conjunctions:** These introduce dependent clauses, showing relationships like cause, contrast, or time.\n\n   *Example:* \"I stayed inside *because* it was raining.\"\n\n3. **Correlative Conjunctions:** These work in pairs to balance sentence elements.\n\n   *Example:* \"You can *either* come with us, *or* stay here.\"\n\n**Using Conjunctions Effectively:**\n- Combine short, choppy sentences to create more complex, elegant sentences.\n- Use subordinating conjunctions to add depth and nuance.\n- Balance sentence elements with correlative conjunctions for emphasis.\n\n**Common Mistakes to Avoid:**\n- Mixing up conjunction types (e.g., using a coordinating conjunction where a subordinating one is needed).\n- Failing to parallelize elements after correlative conjunctions.\n- Overusing conjunctions, leading to run-on sentences.\n\nBy mastering these conjunctions, you will craft sentences that flow smoothly, sound natural, and reflect mastery of American English grammar.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "Because I was tired, I went to bed early."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct coordinating conjunction: I wanted to buy the shirt, ____ it was too expensive.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine the sentences using a correlative conjunction: 'She is talented. She is hardworking.'",
+      "answer": "She is *either* talented *or* hardworking."
+    },
+    {
+      "type": "identify the conjunction",
+      "question": "Identify the conjunction in this sentence: 'He studied hard, *so* he passed the exam.'",
+      "answer": "so"
+    },
+    {
+      "type": "short answer",
+      "question": "Explain why proper conjunction use enhances your American English communication.",
+      "answer": "Proper conjunction use improves sentence clarity, coherence, and flow, making your speech and writing more natural, professional, and persuasive."
+    }
+  ],
+  "culturalNotes": "In American English, fluent mastery of conjunctions is essential for engaging in effective conversations, persuasive writing, and professional communication. Americans value clear, direct, and well-structured sentences, especially in business and academic contexts. Using conjunctions skillfully reflects a high level of language mastery and cultural fluency, helping you connect ideas seamlessly and express yourself confidently in diverse settings.",
+  "createdAt": "2025-12-24T04:50:20.399Z"
+}

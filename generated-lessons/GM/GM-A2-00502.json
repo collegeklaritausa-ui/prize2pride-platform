@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00502",
+  "number": 502,
+  "title": "Mastering Conjunctions: The Building Blocks of Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the purpose of conjunctions in sentences.",
+    "Identify common conjunctions used in American English.",
+    "Use coordinating conjunctions to connect words and ideas.",
+    "Practice forming sentences with conjunctions correctly.",
+    "Improve overall sentence fluency and coherence."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "I want pizza *and* ice cream."
+    },
+    {
+      "word": "coordinate",
+      "definition": "To join words or phrases of equal importance.",
+      "example": "She can read *but* she can't write well."
+    },
+    {
+      "word": "sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "He went to the park."
+    }
+  ],
+  "content": "Conjunctions are words that connect parts of a sentence, making your ideas flow smoothly. In American English, the most common conjunctions are coordinating conjunctions, which include *and, but, or, nor, for, yet,* and *so*. These words link words, phrases, or independent clauses.\n\nFor example:\n- I like apples *and* oranges.\n- She was tired, *but* she finished her homework.\n\nUsing conjunctions correctly helps make your sentences clearer and more interesting. Remember, when connecting two complete sentences (independent clauses), use a coordinating conjunction with a comma before it.\n\nExample:\n- It was raining, *so* we stayed inside.\n\nPractice using conjunctions to join ideas and make your sentences more dynamic!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: I want to go hiking, _______ it is raining.",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct conjunction: She likes tea ______ coffee.",
+      "answer": "or"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Combine these two sentences using a conjunction: 'He is tired. He wants to rest.'",
+      "answer": "He is tired *and* he wants to rest."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued. Using conjunctions properly helps you express your ideas logically and persuasively, whether in casual conversations, school, or professional settings. Mastery of conjunctions also contributes to good writing skills, which are essential for success in many areas of American life.",
+  "createdAt": "2025-12-24T04:47:24.975Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00594",
+  "number": 594,
+  "title": "Mastering the Art of Sentence Structure: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and analyze different sentence structures in American English",
+    "Construct simple, compound, and complex sentences with accuracy",
+    "Apply proper punctuation to enhance sentence clarity and flow",
+    "Recognize common sentence errors and correct them effectively",
+    "Develop the ability to vary sentence structures for more compelling writing and speaking"
+  ],
+  "vocabulary": [
+    {
+      "word": "syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences in a language.",
+      "example": "Understanding syntax helps you craft clear and effective sentences."
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence with two or more independent clauses joined by a coordinator or semicolon.",
+      "example": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "complex sentence",
+      "definition": "A sentence containing one independent clause and at least one dependent clause.",
+      "example": "Although it was raining, we decided to stay outside."
+    },
+    {
+      "word": "coordinator",
+      "definition": "A word that connects two independent clauses or elements of equal importance, such as for, and, nor, but, or, yet, so.",
+      "example": "She wanted to attend the concert, but she was too busy."
+    },
+    {
+      "word": "punctuation",
+      "definition": "Symbols used in writing to separate sentences and their elements for clarity.",
+      "example": "Proper punctuation is essential for clear communication."
+    }
+  ],
+  "content": "In American English, mastering sentence structure is key to becoming a fluent and authoritative speaker or writer. Sentences can be categorized into simple, compound, and complex, each serving different communicative purposes. \n\n**Simple sentences** contain a single independent clause. Example: 'She runs every morning.' This structure is straightforward, ideal for clear, concise statements.\n\n**Compound sentences** connect two independent clauses with a coordinator (for, and, nor, but, or, yet, so). Example: 'He wanted to join the team, but he was injured.' Using coordinating conjunctions allows you to show relationships between ideas.\n\n**Complex sentences** combine an independent clause with one or more dependent clauses, often introduced by subordinating conjunctions like because, although, since, or when. Example: 'Although she was tired, she finished her homework.' These sentences add depth and nuance.\n\nTo enhance your sentence construction skills, focus on correct punctuation placement, especially commas in compound and complex sentences. For instance, commas often separate dependent clauses from independent clauses.\n\nPractice varying your sentence structures to make your speech and writing more engaging. Use simple sentences for emphasis, compound sentences to connect related ideas, and complex sentences to show contrast or cause-effect relationships.\n\nRemember, mastering syntax and sentence structure is essential for effective communication in American English. It empowers you to express ideas clearly and persuasively, elevating your command of the language to a divine level.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "A) She likes coffee because it keeps her awake.\nB) I went to the store, and I bought some bread.\nC) When it rains, the ground gets wet.\nD) He is tired."
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Combine the following two independent clauses into a compound sentence: 'It is raining' and 'we will stay inside.'",
+      "answer": "It is raining, but we will stay inside."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in the following sentence: 'Although she studied hard she still failed the test.'",
+      "answer": "Although she studied hard, she still failed the test."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the complex sentence: '______ he was tired, he continued working.'",
+      "answer": "Although"
+    },
+    {
+      "type": "Sentence Analysis",
+      "question": "Identify the main clauses and subordinate clauses in the sentence: 'Because it was late, she decided to go home, and she called her friend.'",
+      "answer": "Main clauses: 'she decided to go home' and 'she called her friend'; subordinate clause: 'Because it was late.'"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued, especially in professional and academic settings. Using varied sentence structures demonstrates fluency and confidence. American writers and speakers often employ a mix of simple, compound, and complex sentences to create engaging narratives and persuasive arguments, reflecting the dynamic and expressive nature of the language. Mastery of sentence structure not only enhances your language skills but also contributes to your ability to connect effectively within diverse American social and professional contexts.",
+  "createdAt": "2025-12-24T04:53:42.932Z"
+}

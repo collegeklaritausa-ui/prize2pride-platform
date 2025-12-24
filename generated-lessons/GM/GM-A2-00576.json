@@ -1,0 +1,74 @@
+{
+  "id": "GM-A2-00576",
+  "number": 576,
+  "title": "Mastering Basic Sentence Structure: The Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Identify the main parts of a simple sentence: subject and predicate.",
+    "Understand the correct word order in basic sentences.",
+    "Create simple sentences using subject + verb + object.",
+    "Recognize common sentence patterns.",
+    "Improve confidence in forming correct American English sentences."
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She drinks water."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person or thing doing the action in a sentence.",
+      "example": "The cat sleeps."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of the sentence that tells what the subject does or is.",
+      "example": "The dog runs."
+    },
+    {
+      "word": "Object",
+      "definition": "The person or thing affected by the action.",
+      "example": "He eats an apple."
+    },
+    {
+      "word": "Word order",
+      "definition": "The correct sequence of words in a sentence.",
+      "example": "In English, the usual order is Subject + Verb + Object."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we'll focus on understanding basic sentence structure, the foundation of clear and correct communication.\n\nA sentence is made up of parts that work together to share a complete idea. The main parts are:\n\n- **Subject**: Who or what the sentence is about. Example: *The boy*.\n- **Predicate**: What the subject is doing or being. Example: *runs fast*.\n- **Object** (optional): Who or what receives the action. Example: *the ball*.\n\nIn simple sentences, the usual order in American English is:\n\n**Subject + Verb + Object**\n\n**Examples:**\n- *I (subject) eat (verb) apples (object).* \n- *She (subject) reads (verb) a book (object).* \n- *Dogs (subject) bark.*\n\nRemember, not all sentences have objects, but understanding the basic structure helps you form correct sentences.\n\nPractice makes perfect! Start with simple sentences, then gradually add more details.\n\nLet's look at some sentence patterns:\n1. Subject + Verb: *He runs.*\n2. Subject + Verb + Object: *They watch movies.*\n3. Subject + Verb + Complement: *She is happy.*\n\nBy mastering these patterns, you'll be able to express yourself clearly and confidently in American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of these sentences has the correct basic sentence structure?",
+      "answer": "A) The dog barks loudly.\nB) Barks the dog loudly.\nC) Loudly barks the dog."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence: ___ eats an apple.",
+      "answer": "She / He / They"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the sentence parts:\n1. The cat\n2. runs\n3. quickly",
+      "answer": "1. The cat (Subject)\n2. runs (Verb)\n3. quickly (Adverb)"
+    },
+    {
+      "type": "Create Your Sentence",
+      "question": "Use the words ‘Mom,’ ‘cooks,’ and ‘dinner’ to make a simple sentence.",
+      "answer": "Mom cooks dinner."
+    },
+    {
+      "type": "True or False",
+      "question": "All sentences in English must have an object.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are valued, especially in everyday communication. Using proper sentence structure helps convey your message effectively and shows respect for your audience. Whether ordering food, giving directions, or sharing ideas, mastering sentence structure is essential for confident and clear American English communication.",
+  "createdAt": "2025-12-24T04:52:34.053Z"
+}

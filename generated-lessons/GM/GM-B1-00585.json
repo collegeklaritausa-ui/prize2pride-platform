@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00585",
+  "number": 585,
+  "title": "Mastering Sentence Structure: Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the basic components of American English sentence structures",
+    "Identify different sentence types: simple, compound, complex, and compound-complex",
+    "Construct well-formed sentences using correct syntax",
+    "Recognize common sentence errors and learn how to correct them",
+    "Enhance sentence variety to improve written and spoken communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "Syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences.",
+      "example": "English syntax generally follows a subject-verb-object order."
+    },
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and a predicate.",
+      "example": "Because I was late, I missed the bus."
+    },
+    {
+      "word": "Simple Sentence",
+      "definition": "A sentence consisting of one independent clause.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Compound Sentence",
+      "definition": "A sentence with two or more independent clauses joined by a coordinating conjunction or semicolon.",
+      "example": "I wanted to go to the park, but it started raining."
+    }
+  ],
+  "content": "In American English, sentence structure is fundamental to clear and effective communication. Sentences are built from clauses, which are groups of words containing a subject and a predicate. Understanding the types of sentences helps you vary your language for clarity and emphasis.\n\n**Simple sentences** are straightforward, containing only one independent clause. For example, 'The dog barked.'\n\n**Compound sentences** connect two independent clauses with coordinating conjunctions like and, but, or, nor, for, so, yet. For example, 'I wanted coffee, but the store was closed.'\n\n**Complex sentences** include one independent clause and at least one dependent clause. For example, 'Although it was raining, we went hiking.'\n\n**Compound-complex sentences** combine elements of compound and complex sentences, with two or more independent clauses and at least one dependent clause. For example, 'While I was cooking, the phone rang, and I answered it.'\n\nEffective sentence structure involves proper punctuation, clause placement, and variety to avoid monotony. Mastering these structures allows you to express ideas more precisely and persuasively.\n\nRemember, understanding how to construct different sentence types is key to mastering American English grammar and becoming a confident communicator.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "She studied hard, and she passed the test."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Combine the following sentences into a complex sentence: 'It was raining. We canceled the picnic.'",
+      "answer": "Because it was raining, we canceled the picnic."
+    },
+    {
+      "type": "Identify",
+      "question": "Identify the sentence type: 'Although she was tired, she finished her homework.'",
+      "answer": "Complex sentence"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this sentence: 'I like to read and to write and to draw.'",
+      "answer": "Corrected sentence: 'I like to read, write, and draw.'"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued. Varying sentence structures not only make your speech and writing more engaging but also reflect confidence and mastery over the language. Americans often favor concise, direct sentences in both casual and professional contexts, emphasizing clarity and efficiency in communication.",
+  "createdAt": "2025-12-24T04:53:06.270Z"
+}

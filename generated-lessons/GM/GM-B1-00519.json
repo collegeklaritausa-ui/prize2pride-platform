@@ -1,0 +1,68 @@
+{
+  "id": "GM-B1-00519",
+  "number": 519,
+  "title": "Mastering Conjunctions: Unlocking Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify different types of conjunctions used in American English.",
+    "Understand the function of coordinating, subordinating, and correlative conjunctions.",
+    "Construct complex sentences by appropriately using conjunctions.",
+    "Differentiate between coordinating and subordinating conjunctions in context.",
+    "Enhance sentence variety and clarity using conjunctions."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "Because, and, but, although are common conjunctions."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins two elements of equal syntactic importance.",
+      "example": "I want to go to the park, but it is raining."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "She stayed home because she was feeling sick."
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "Paired conjunctions that work together to join equal sentence elements.",
+      "example": "Either you apologize, or I will be upset."
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English, enabling speakers and writers to connect ideas smoothly and logically. They help form complex and compound sentences, making communication more nuanced and expressive. \n\nThere are three main types of conjunctions:\n\n1. **Coordinating Conjunctions:** These include words like *and*, *but*, *or*, *nor*, *for*, *yet*, and *so*. They connect words, phrases, or independent clauses of equal importance.\n   - Example: \"I wanted to buy the shirt, but it was too expensive.\"\n\n2. **Subordinating Conjunctions:** These introduce subordinate clauses and show relationships such as cause, contrast, or condition. Examples include *because*, *although*, *since*, *if*, and *when*.\n   - Example: \"I'll go to the party if I finish my homework.\"\n\n3. **Correlative Conjunctions:** These are pairs that work together to link equal elements.\n   - Examples include *either...or*, *neither...nor*, *both...and*, *not only...but also*.\n   - Example: \"Neither the movie nor the dinner was enjoyable.\"\n\nUsing conjunctions correctly enhances sentence clarity and variety. For instance, instead of saying, \"I was tired. I still went to the gym,\" you can combine these ideas: \"Although I was tired, I still went to the gym.\"\n\nPractice using different types of conjunctions to improve your fluency and make your speech and writing more engaging.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which sentence correctly uses a subordinating conjunction?",
+      "answer": "She stayed home because she was feeling sick."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate coordinating conjunction: I wanted to go swimming, ___ it started raining.",
+      "answer": "but"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunction type to its example:\n1. Coordinating\n2. Subordinating\n3. Correlative\n\nA. Either you call me, or I will leave.\nB. She was tired, but she kept working.\nC. I'll go shopping if I have time.",
+      "answer": {
+        "1": "B",
+        "2": "C",
+        "3": "A"
+      }
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a complex sentence using the subordinating conjunction 'although'.",
+      "answer": "Although it was late, they continued their meeting."
+    }
+  ],
+  "culturalNotes": "In American culture, the effective use of conjunctions reflects clear and polite communication. Americans value directness and clarity, especially in professional and academic settings. Using conjunctions properly can help convey nuances of meaning, such as contrast or cause-and-effect, which are appreciated in American discourse. Moreover, mastering conjunctions will enable you to participate more confidently in American conversations, presentations, and debates, showcasing your command of the language.",
+  "createdAt": "2025-12-24T04:48:23.126Z"
+}

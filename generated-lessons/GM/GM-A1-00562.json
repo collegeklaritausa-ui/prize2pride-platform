@@ -1,0 +1,74 @@
+{
+  "id": "GM-A1-00562",
+  "number": 562,
+  "title": "Mastering Basic Sentence Structure: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify the basic components of a simple sentence in American English.",
+    "Understand the subject-verb-object order in sentences.",
+    "Construct simple, correct sentences using proper structure.",
+    "Differentiate between complete sentences and sentence fragments.",
+    "Apply sentence structure rules to improve clarity and communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Subject",
+      "definition": "The person, place, thing, or idea that performs the action or is described in a sentence.",
+      "example": "The student reads a book."
+    },
+    {
+      "word": "Verb",
+      "definition": "The action word that expresses what the subject does or links the subject to a description.",
+      "example": "She **runs** every morning."
+    },
+    {
+      "word": "Object",
+      "definition": "The noun or pronoun that receives the action of the verb.",
+      "example": "He reads **a novel**."
+    },
+    {
+      "word": "Sentence",
+      "definition": "A group of words that expresses a complete thought, typically containing a subject and a verb.",
+      "example": "The dog barks."
+    },
+    {
+      "word": "Fragment",
+      "definition": "An incomplete sentence that lacks a subject or a verb, or does not form a complete thought.",
+      "example": "Running down the street."
+    }
+  ],
+  "content": "Welcome to your lesson on American English sentence structure! At the beginner level, understanding how to build simple sentences is crucial. Every complete sentence in American English typically follows the Subject + Verb + Object pattern.\n\nFor example:\n- Subject: The cat\n- Verb: eats\n- Object: fish\n\nComplete sentence: The cat eats fish.\n\nLet's break it down:\n- **Subject**: Who or what is the sentence about? (e.g., The cat)\n- **Verb**: What is the subject doing? (e.g., eats)\n- **Object**: Who or what is affected by the action? (e.g., fish)\n\nRemember, a complete sentence must have at least a subject and a verb. For example:\n- Correct: She runs.\n- Incorrect: Runs fast. (missing subject)\n\nPractice constructing sentences by choosing a subject, then adding a verb, and optionally an object. This structure helps make your communication clear and effective.\n\nAlso, watch out for sentence fragments! They are common mistakes for beginners. A fragment might look like a complete sentence but is missing key parts.\n\nWith practice, you'll be able to form clear, correct sentences that are the foundation of confident American English communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a complete sentence?",
+      "answer": "The dog barks."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence: The teacher ____ a new book.",
+      "answer": "reads"
+    },
+    {
+      "type": "Identify the fragment",
+      "question": "Which sentence is a fragment?\nA) She plays guitar.\nB) Playing guitar in the evening.",
+      "answer": "Playing guitar in the evening."
+    },
+    {
+      "type": "Rearrange words",
+      "question": "Arrange the words to form a correct sentence: runs / He / quickly",
+      "answer": "He runs quickly."
+    },
+    {
+      "type": "Create your own",
+      "question": "Write a simple sentence about your favorite food.",
+      "answer": "My favorite food is pizza."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued. Using proper sentence structure helps convey your message confidently. Additionally, Americans often appreciate concise and straightforward language, especially in everyday conversations. Mastering sentence structure not only improves your grammar but also helps you connect better in social, educational, and professional settings.",
+  "createdAt": "2025-12-24T04:51:45.917Z"
+}

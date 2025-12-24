@@ -1,0 +1,69 @@
+{
+  "id": "GM-A1-00567",
+  "number": 567,
+  "title": "Mastering Sentence Structure: Building Strong Foundations in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic parts of a sentence in American English",
+    "Identify the subjects and predicates in simple sentences",
+    "Construct correct simple sentences using proper word order",
+    "Recognize common sentence patterns",
+    "Apply sentence structure rules to improve clarity and communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She likes to read."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person, place, or thing that performs the action or is being described in a sentence.",
+      "example": "The dog runs fast."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of a sentence that tells what the subject does or is.",
+      "example": "The dog **runs fast**."
+    },
+    {
+      "word": "Simple Sentence",
+      "definition": "A sentence that contains only one independent clause.",
+      "example": "I ate lunch."
+    },
+    {
+      "word": "Word Order",
+      "definition": "The arrangement of words in a sentence, typically subject + verb + object in English.",
+      "example": "She (subject) reads (verb) books (object)."
+    }
+  ],
+  "content": "Welcome to your journey towards mastering sentence structure in American English! Understanding how sentences are built is essential for clear and effective communication. A sentence typically consists of a subject, which is who or what the sentence is about, and a predicate, which explains what the subject does or is. For example, in the sentence 'The cat sleeps,' 'The cat' is the subject, and 'sleeps' is the predicate.\n\nIn beginner sentences, the basic order is subject + verb + (object). For instance, 'I play games,' or 'They read books.' Recognizing these parts helps you create sentences that are easy to understand.\n\nLet's look at simple sentence patterns:\n1. Subject + Verb (The dog barks.)\n2. Subject + Verb + Object (She eats apples.)\n\nBy mastering these patterns, you will be able to form correct, clear sentences that communicate your ideas effectively.\n\nRemember, proper word order is key in American English. Practice by identifying subjects and predicates in sentences and constructing your own simple sentences daily!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "In the sentence 'The children play outside,' what is the subject?",
+      "answer": "The children"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence: _ _ _ _ _ _ _ _ _ _ _ _ _ (Subject + Verb + Object) - 'She _ _ _ _ _ _ _ _ _ _ a book.'",
+      "answer": "reads"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a simple sentence using the subject 'Tom' and the verb 'drive.'",
+      "answer": "Tom drives."
+    },
+    {
+      "type": "Identify the pattern",
+      "question": "What is the pattern of the sentence: 'They watch movies'?",
+      "answer": "Subject + Verb + Object"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued. Using proper sentence structure helps ensure your message is understood. Americans often appreciate straightforward language, especially in professional and social settings. Practicing correct sentence patterns will also help you in understanding American media, such as movies, TV shows, and conversations, enhancing your overall language proficiency.",
+  "createdAt": "2025-12-24T04:52:03.507Z"
+}

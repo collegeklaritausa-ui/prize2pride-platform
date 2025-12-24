@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00598",
+  "number": 598,
+  "title": "Mastering Sentence Structure: Building the Foundations of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the fundamental components of sentence structure in American English.",
+    "Identify different sentence types: simple, compound, and complex.",
+    "Analyze sentence construction to improve clarity and coherence.",
+    "Practice constructing well-formed sentences using correct syntax.",
+    "Apply sentence structure knowledge to enhance written and spoken communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences.",
+      "example": "Understanding syntax helps writers craft clear and effective sentences."
+    },
+    {
+      "word": "Independent Clause",
+      "definition": "A group of words that can stand alone as a complete sentence because it contains a subject and a predicate.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Dependent Clause",
+      "definition": "A group of words that contains a subject and a verb but cannot stand alone as a complete sentence.",
+      "example": "Because she was tired,"
+    },
+    {
+      "word": "Coordination",
+      "definition": "The linking of two or more independent clauses using coordinating conjunctions.",
+      "example": "I wanted to go to the park, but it started raining."
+    },
+    {
+      "word": "Subordination",
+      "definition": "The linking of a dependent clause to an independent clause using subordinating conjunctions.",
+      "example": "I stayed home because I was feeling sick."
+    }
+  ],
+  "content": "In American English, mastering sentence structure is essential for clear and effective communication. Sentences are built from different types of clauses, which can be combined to form simple, compound, and complex sentences.\n\n**Simple sentences** consist of a single independent clause: *She sings.*\n\n**Compound sentences** join two independent clauses using coordinating conjunctions like *and, but, or, so, yet.* For example: *She sings, and he dances.*\n\n**Complex sentences** include an independent clause and one or more dependent clauses linked by subordinating conjunctions such as *because, although, since, if.* For example: *She sings because she loves music.*\n\nUnderstanding the structure and function of these sentence types allows you to express ideas more precisely and avoid run-on sentences or sentence fragments. Practice identifying these components in reading and writing, and experiment with combining clauses to form varied and engaging sentences.\n\nRemember, proper sentence structure enhances clarity, tone, and style—key elements in mastering American English.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "A) She finished her homework and went to bed.\nB) She finished her homework, but she was still tired.\nC) Because she was tired, she went to bed.\nD) While she was tired, she finished her homework."
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Combine the following clauses into a complex sentence: 'I missed the bus.' 'It was raining heavily.'",
+      "answer": "I missed the bus because it was raining heavily."
+    },
+    {
+      "type": "Identify the sentence type",
+      "question": "Identify whether the following sentence is simple, compound, or complex: 'Although he was tired, he finished his project.'",
+      "answer": "Complex sentence"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this sentence: 'She wanted to go to the park but it started to rain.'",
+      "answer": "She wanted to go to the park, but it started to rain."
+    },
+    {
+      "type": "Sentence Analysis",
+      "question": "Break down the sentence: 'After she finished her homework, she went outside to play.' Identify the independent and dependent clauses.",
+      "answer": "Dependent clause: 'After she finished her homework'; Independent clause: 'she went outside to play.'"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued, especially in professional and academic settings. Proper sentence structure not only conveys respect and professionalism but also helps avoid misunderstandings. Americans also appreciate the use of varied sentence types to create engaging narratives and persuasive arguments, reflecting a dynamic and expressive language style.",
+  "createdAt": "2025-12-24T04:53:57.669Z"
+}

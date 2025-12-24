@@ -1,0 +1,66 @@
+{
+  "id": "GM-B2-00599",
+  "number": 599,
+  "title": "Mastering Complex Sentence Structures for American English Gods",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and differentiate between simple, compound, and complex sentences.",
+    "Construct varied sentence structures to enhance clarity and style.",
+    "Use subordinating and coordinating conjunctions effectively.",
+    "Apply sentence variation techniques to improve writing fluency.",
+    "Analyze and correct sentence structure errors in written and spoken language."
+  ],
+  "vocabulary": [
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and predicate.",
+      "example": "Because I was tired, I went to bed early."
+    },
+    {
+      "word": "Coordinating conjunction",
+      "definition": "A word that connects two independent clauses of equal importance.",
+      "example": "and, but, or, nor, for, yet, so",
+      "note": "E.g., I wanted to go out, but it started raining."
+    },
+    {
+      "word": "Subordinating conjunction",
+      "definition": "A word that connects a dependent clause to an independent clause.",
+      "example": "because, although, since, unless, while",
+      "note": "E.g., I stayed inside because it was raining."
+    }
+  ],
+  "content": "Welcome to the realm of sentence structure mastery! In American English, varied sentence construction is key to effective communication and engaging writing. Understanding the types of sentences—simple, compound, and complex—is essential for creating clarity and style.\n\n**Simple sentences** contain one independent clause. Example: \"She runs every morning.\"\n\n**Compound sentences** join two independent clauses with a coordinating conjunction or semicolon. Example: \"She runs every morning, and she lifts weights in the evening.\"\n\n**Complex sentences** combine an independent clause with one or more dependent clauses, often using subordinating conjunctions. Example: \"Although she was tired, she continued her workout.\"\n\n**Strategies for mastery:**\n- Use coordinating conjunctions to link related ideas for compound sentences.\n- Incorporate subordinating conjunctions to add depth and detail with complex sentences.\n- Vary sentence length and structure to maintain reader interest.\n- Avoid run-on sentences by correctly punctuating compound and complex sentences.\n\nBy mastering these structures, you will elevate your American English skills from proficient to godlike, commanding clarity and style in every sentence.\n\nRemember: Practice makes perfect. Experiment with combining different sentence types to find your unique voice and style.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "She wanted to go to the park, but it started raining."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Identify the conjunction: I stayed home ____ it was snowing heavily.",
+      "answer": "because"
+    },
+    {
+      "type": "Sentence rewriting",
+      "question": "Rewrite the following sentence as a complex sentence: 'He was tired. He kept working.'",
+      "answer": "Although he was tired, he kept working."
+    },
+    {
+      "type": "Error correction",
+      "question": "Identify and correct the error in the following sentence: 'She likes to swim, but she doesn't like to surf.'",
+      "answer": "No error; the sentence is correct."
+    },
+    {
+      "type": "Creation",
+      "question": "Write a paragraph using at least two complex sentences and one compound sentence to demonstrate mastery.",
+      "answer": "Despite feeling exhausted, she decided to finish her project because the deadline was approaching. She worked late into the night, and she finally submitted her work the next morning."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and varied sentence structures are highly valued in both formal and informal communication. Americans often use complex sentences to convey detailed ideas, especially in academic writing, journalism, and professional settings. Mastery of these structures not only improves clarity but also demonstrates a high level of language proficiency, a trait admired in American educational and professional environments.",
+  "createdAt": "2025-12-24T04:54:01.337Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "GM-A2-00503",
+  "number": 503,
+  "title": "Conjunctions: Connecting Words for Clear Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the purpose of conjunctions in sentences",
+    "Identify common conjunctions used in American English",
+    "Use coordinating conjunctions correctly in sentences",
+    "Combine sentences using conjunctions to improve writing",
+    "Recognize the role of conjunctions in everyday communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "and, but, or are common conjunctions."
+    },
+    {
+      "word": "coordinate",
+      "definition": "To connect equal parts or ideas using a conjunction.",
+      "example": "I like apples and oranges."
+    }
+  ],
+  "content": "Welcome to the world of conjunctions! Conjunctions are words that link different parts of a sentence, making your thoughts clear and connected. In American English, some common conjunctions are 'and,' 'but,' 'or,' 'nor,' 'for,' 'yet,' and 'so.'\n\nFor example:\n- 'I want to go outside, but it is raining.' Here, 'but' connects two ideas.\n- 'She likes coffee and tea.' Here, 'and' connects two items.\n\nUsing conjunctions correctly helps you create smooth, understandable sentences. Let’s look at the main types:\n1. Coordinating conjunctions: connect equal ideas (and, but, or, nor, for, yet, so)\n2. Subordinating conjunctions: connect a dependent clause to an independent clause (because, although, since, unless)\n\nPractice makes perfect! Try combining sentences using conjunctions to show relationships like addition, contrast, or choice.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which conjunction best completes this sentence? I wanted to play outside, ___ it was raining.",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Combine these two ideas using a conjunction: 'She is tired.' 'She wants to go to the park.'",
+      "answer": "She is tired, but she wants to go to the park."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunction with its function:\n1. and\n2. but\n3. or\n\na. Shows choice\nb. Adds information\nc. Shows contrast",
+      "answer": "1-b, 2-c, 3-a"
+    }
+  ],
+  "culturalNotes": "In American culture, using conjunctions effectively is essential for polite and clear communication. Whether telling a story, making plans, or giving reasons, conjunctions help convey relationships clearly and confidently. Mastery of conjunctions contributes to professional and social success in American English-speaking environments.",
+  "createdAt": "2025-12-24T04:47:27.871Z"
+}

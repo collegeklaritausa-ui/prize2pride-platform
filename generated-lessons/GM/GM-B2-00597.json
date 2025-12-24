@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00597",
+  "number": 597,
+  "title": "Mastering Sentence Structure: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the fundamental components of sentence structure in American English.",
+    "Identify different sentence types: simple, compound, and complex.",
+    "Construct grammatically correct and varied sentences for effective communication.",
+    "Recognize common errors in sentence structure and learn how to correct them.",
+    "Apply advanced sentence structures to enhance writing and speaking skills."
+  ],
+  "vocabulary": [
+    {
+      "word": "Syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences in a language.",
+      "example": "Good syntax makes your sentences clear and easy to understand."
+    },
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and a predicate; can be independent or dependent.",
+      "example": "Because I was tired (dependent clause), I went to bed early."
+    },
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses or sentences, such as 'and,' 'but,' or 'because.'",
+      "example": "I wanted to go for a walk, but it started raining."
+    }
+  ],
+  "content": "In American English, mastering sentence structure is essential for clear and effective communication. Sentences are built from various components, including subjects, predicates, objects, and modifiers. There are three main types of sentences:\n\n1. Simple Sentences: Contain one independent clause. Example: \"She runs every morning.\"\n2. Compound Sentences: Consist of two independent clauses joined by a coordinating conjunction or semicolon. Example: \"I wanted to watch a movie, but I was too tired.\"\n3. Complex Sentences: Have an independent clause and at least one dependent clause. Example: \"Although it was raining, we went hiking.\"\n\nUnderstanding how to combine these structures allows you to create more nuanced and expressive sentences. Pay attention to syntax rules, such as proper word order (Subject + Verb + Object), and the correct use of punctuation to connect ideas.\n\nExample of combining structures:\n- Simple: \"He studies.\" \n- Compound: \"He studies hard, and he gets good grades.\"\n- Complex: \"Because he studies hard, he excels in school.\"\n\nAdvanced mastery involves varying sentence length and complexity to maintain reader interest and convey precise meaning. Remember, the goal is clarity and style—your sentences should serve your communication purpose effectively.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a complex sentence?",
+      "answer": "C) Although I was tired, I finished my homework."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Identify the correct conjunction to complete this sentence: 'I wanted to go to the park, ___ it started raining.'",
+      "answer": "but"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a compound sentence using the ideas: 'She likes reading' and 'She enjoys writing.'",
+      "answer": "She likes reading, and she enjoys writing."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this sentence: 'She go to the store and buy some groceries.'",
+      "answer": "'She goes to the store and buys some groceries.'"
+    },
+    {
+      "type": "True or False",
+      "question": "A simple sentence can contain more than one independent clause.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued, especially in professional and educational settings. Varying sentence structures can make speech and writing more engaging and persuasive, which reflects the American emphasis on individual expression and effective communication. Using complex and compound sentences appropriately demonstrates language mastery, fostering credibility and clarity in diverse contexts, from casual conversations to business presentations.",
+  "createdAt": "2025-12-24T04:53:53.873Z"
+}

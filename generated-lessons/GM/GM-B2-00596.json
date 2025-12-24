@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00596",
+  "number": 596,
+  "title": "Mastering Sentence Structure: Building Strong Foundations in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and analyze different types of sentence structures in American English.",
+    "Construct simple, compound, and complex sentences with proper punctuation.",
+    "Understand the importance of sentence variety for effective communication.",
+    "Correctly identify sentence fragments and run-on sentences.",
+    "Apply sentence structure rules to enhance clarity and style in writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Simple Sentence",
+      "definition": "A sentence consisting of one independent clause with a subject and a predicate.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Compound Sentence",
+      "definition": "A sentence with two or more independent clauses joined by a coordinating conjunction or a semicolon.",
+      "example": "I wanted to go for a walk, but it started to rain."
+    },
+    {
+      "word": "Complex Sentence",
+      "definition": "A sentence containing an independent clause and at least one dependent clause.",
+      "example": "Although it was cold, we went hiking."
+    },
+    {
+      "word": "Run-on Sentence",
+      "definition": "Two or more independent clauses improperly joined without proper punctuation or conjunctions.",
+      "example": "I love to read I go to the library often."
+    },
+    {
+      "word": "Sentence Fragment",
+      "definition": "An incomplete sentence that lacks a subject, a predicate, or both.",
+      "example": "Because I was tired."
+    }
+  ],
+  "content": "In American English, sentence structure plays a crucial role in effective communication. Understanding how to build and vary sentences allows speakers and writers to convey ideas clearly and engagingly. Let's explore the main types of sentences:\n\n1. **Simple Sentences**: These are the foundational building blocks, containing a single independent clause. Example: \"The dog barked loudly.\"\n\n2. **Compound Sentences**: These connect two independent clauses using coordinating conjunctions (for, and, nor, but, or, yet, so) or a semicolon. Example: \"I wanted coffee, but the store was closed.\"\n\n3. **Complex Sentences**: These combine an independent clause with one or more dependent clauses, often introduced by subordinating conjunctions like because, although, since, or when. Example: \"She stayed home because she was feeling sick.\"\n\n4. **Proper punctuation** is essential to avoid run-on sentences and sentence fragments. For instance, a comma splice occurs when two independent clauses are joined only with a comma (e.g., \"It was late, I went to bed.\"). Correct methods include using a semicolon, coordinating conjunction, or splitting into two sentences.\n\n5. **Variety and clarity**: Using a mix of sentence types makes writing more engaging. Always ensure each sentence is complete and properly punctuated.\n\nBy mastering these structures, you will craft clear, varied, and compelling sentences that make your communication feel natural and confident.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a complex sentence?",
+      "answer": "Although it was raining, we went outside."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Identify whether the following sentence is a run-on, fragment, or correct: 'I love pizza, it is delicious.'",
+      "answer": "Run-on sentence"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Correct the following sentence: 'She wants to dance but she is tired.'",
+      "answer": "She wants to dance, but she is tired."
+    },
+    {
+      "type": "Identify",
+      "question": "Determine the sentence type: 'The team played well because they practiced hard.'",
+      "answer": "Complex sentence"
+    },
+    {
+      "type": "Creation",
+      "question": "Write one example each of a simple, compound, and complex sentence about your favorite hobby.",
+      "answer": "Students' answers will vary; example: Simple: 'I love painting.'; Compound: 'I paint every weekend, and I display my work online.'; Complex: 'Although I am a beginner, I enjoy learning new techniques.'"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued, especially in professional and educational settings. The ability to craft varied sentence structures demonstrates language mastery and confidence, often admired in social and business interactions. Understanding American punctuation and sentence rules helps non-native speakers integrate seamlessly into conversations, academic writing, and workplace environments, where clarity and style are essential.",
+  "createdAt": "2025-12-24T04:53:50.351Z"
+}

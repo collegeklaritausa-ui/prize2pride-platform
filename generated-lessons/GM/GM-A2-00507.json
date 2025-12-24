@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00507",
+  "number": 507,
+  "title": "Conjunctions: Connecting Your Words Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences",
+    "Identify common coordinating conjunctions in American English",
+    "Use conjunctions correctly to connect words and ideas",
+    "Differentiate between coordinating and subordinating conjunctions",
+    "Practice creating sentences using conjunctions confidently"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "I like apples and oranges. ('and' is a conjunction.)"
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that connects words or groups of words of equal importance.",
+      "example": "for, and, nor, but, or, yet, so"
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that connects a dependent clause to an independent clause.",
+      "example": "because, although, since, if"
+    }
+  ],
+  "content": "Welcome, future Gods of American English! Today, we're mastering the mighty conjunctions—super connectors that link your words and ideas smoothly.\n\n**What are conjunctions?**\nConjunctions are words that join other words, phrases, or clauses, making your sentences clearer and more interesting.\n\n**Common coordinating conjunctions:**\n- for\n- and\n- nor\n- but\n- or\n- yet\n- so\n\n**Examples:**\n- I want to play outside, but it's raining.\n- She likes apples and bananas.\n\n**How to use coordinating conjunctions:**\nPlace a comma before the conjunction when joining two independent clauses.\n\n**Subordinating conjunctions** connect a dependent clause to an independent clause. Examples include: because, although, if, since.\n\n**Examples:**\n- I stayed inside because it was raining.\n- Although he was tired, he finished his homework.\n\n**Tip:** Use coordinating conjunctions to connect equal ideas, and subordinating conjunctions to show the relationship between ideas.\n\nBy mastering conjunctions, you'll be able to make your sentences more complex and expressive, truly becoming a GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "and"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I wanted to go to the park, ___ it started raining.",
+      "answer": "but"
+    },
+    {
+      "type": "write sentence",
+      "question": "Use the conjunction 'because' to write a sentence about why you like your favorite food.",
+      "answer": "I like pizza because it tastes so good."
+    },
+    {
+      "type": "identify",
+      "question": "Identify the conjunction in this sentence: 'She didn’t go to the party because she was feeling sick.'",
+      "answer": "because"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conjunctions allows speakers and writers to express complex ideas and emotions, often connecting personal stories with reasons or contrasts. Mastering conjunctions helps you communicate more naturally and persuasively in everyday conversations, essays, and even social media posts.",
+  "createdAt": "2025-12-24T04:47:38.531Z"
+}

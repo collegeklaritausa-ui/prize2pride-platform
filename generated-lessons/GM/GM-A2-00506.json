@@ -1,0 +1,49 @@
+{
+  "id": "GM-A2-00506",
+  "number": 506,
+  "title": "Conjunctions: Connecting Words Like a Pro!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences.",
+    "Identify common coordinating conjunctions: and, but, or, so, yet.",
+    "Use conjunctions to connect words, phrases, and simple sentences correctly.",
+    "Create sentences using different conjunctions to express ideas clearly.",
+    "Recognize the importance of conjunctions in everyday American English conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects two words, phrases, or sentences.",
+      "example": "I want pizza and salad."
+    },
+    {
+      "word": "coordinate",
+      "definition": "To join words or ideas of equal importance.",
+      "example": "She can sing or dance."
+    }
+  ],
+  "content": "Welcome to your journey toward mastering conjunctions! In American English, conjunctions are little words that help link parts of sentences, making your language flow smoothly. Think of them as bridges connecting ideas.\n\nThe most common coordinating conjunctions are and, but, or, so, and yet. For example:\n- I like apples and oranges.\n- He is tall but friendly.\n- Do you want tea or coffee?\n- It was raining, so we stayed inside.\n- She was tired, yet she kept working.\n\nUsing conjunctions correctly allows you to combine simple ideas into more complex and interesting sentences. Practice using these words to connect thoughts and express yourself clearly. For example, instead of saying, 'I like pizza. I like salad,' you can say, 'I like pizza and salad.'\n\nRemember, conjunctions are your tools for making your speech and writing more natural and engaging. Keep practicing to become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which conjunction correctly completes the sentence? \n\nI want to go to the park ___ it is raining.",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate conjunction: \n\nShe studied hard, ___ she didn't pass the test.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Create a sentence using the conjunction 'or'.",
+      "answer": "Would you like tea or coffee?"
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are essential for casual conversations and storytelling. Americans often use 'and' to add details, 'but' to introduce contrasts, and 'so' to indicate results. Mastering conjunctions helps you sound natural and confident in daily interactions, whether you're chatting with friends, ordering food, or sharing stories.",
+  "createdAt": "2025-12-24T04:47:35.508Z"
+}

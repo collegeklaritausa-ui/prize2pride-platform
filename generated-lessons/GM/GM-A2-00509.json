@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00509",
+  "number": 509,
+  "title": "Conjunctions: Connecting Your Sentences Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences",
+    "Identify common conjunctions used in American English",
+    "Use coordinating conjunctions to connect simple sentences",
+    "Practice combining sentences using conjunctions",
+    "Gain confidence in creating clear and fluent sentences"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "and, but, or"
+    },
+    {
+      "word": "coordinate",
+      "definition": "To link two or more similar parts of a sentence.",
+      "example": "I like apples and oranges."
+    }
+  ],
+  "content": "Welcome to your lesson on conjunctions! Conjunctions are words that join parts of sentences, making your speech and writing smooth and easy to understand. Think of conjunctions as the 'glue' that holds your ideas together.\n\nIn American English, some common conjunctions are:\n- **And** (adds information): I like pizza and burgers.\n- **But** (shows contrast): I want to go outside, but it's raining.\n- **Or** (presents options): Do you want tea or coffee?\n\nUsing conjunctions helps you create longer, more interesting sentences. For example:\n- Simple sentences: I am tired. I want to rest.\n- Combined with conjunctions: I am tired **and** I want to rest.\n\nPractice makes perfect! Let’s try combining some sentences with conjunctions.\n\nRemember, the key to mastering conjunctions is to practice connecting your ideas smoothly and clearly.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which word best connects these two sentences? 'It is sunny. We will go to the park.'",
+      "answer": "and"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct conjunction: I like coffee ___ tea.",
+      "answer": "or"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine these sentences using the word 'but': 'I want to go swimming. It is cold today.'",
+      "answer": "I want to go swimming, but it is cold today."
+    },
+    {
+      "type": "true/false",
+      "question": "Conjunctions can only connect words, not sentences. True or False?",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "Using conjunctions correctly is essential for effective communication in American English. Americans value clarity and fluency, especially in everyday conversations and writing. Mastering conjunctions will help you sound more natural and confident in your speech, whether you're chatting with friends, writing emails, or giving presentations.",
+  "createdAt": "2025-12-24T04:47:44.333Z"
+}

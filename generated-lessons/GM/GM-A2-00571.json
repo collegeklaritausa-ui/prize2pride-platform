@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00571",
+  "number": 571,
+  "title": "Mastering Basic Sentence Structure: Build Your English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic parts of a sentence: subject and predicate.",
+    "Identify simple sentence structures in English.",
+    "Create correct simple sentences using common subjects and verbs.",
+    "Recognize the importance of proper sentence order.",
+    "Apply sentence structure rules to improve clarity and confidence in communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "Subject",
+      "definition": "The part of a sentence that tells who or what the sentence is about.",
+      "example": "The cat sleeps all day."
+    },
+    {
+      "word": "Predicate",
+      "definition": "The part of a sentence that tells what the subject does or is.",
+      "example": "The boy **is playing** outside."
+    },
+    {
+      "word": "Simple Sentence",
+      "definition": "A sentence that has only one subject and one predicate.",
+      "example": "The dog barks."
+    }
+  ],
+  "content": "Welcome to the world of English sentence structure! In American English, a simple sentence is made up of two main parts: the subject and the predicate. The subject is who or what the sentence is about, like 'The dog' or 'My friend.' The predicate tells what the subject does or is, like 'barks loudly' or 'is happy.'\n\nFor example:\n- 'The teacher teaches.' (Subject: The teacher, Predicate: teaches)\n- 'Cats sleep.' (Subject: Cats, Predicate: sleep)\n\nRemember, the typical order in English is Subject + Verb + (Object). This helps your sentences stay clear and easy to understand.\n\nPractice makes perfect! When you put subjects and predicates together correctly, you become a master of clear and strong sentences. Keep practicing simple sentences daily to build your confidence and become a GOD of American English sentence structure!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a complete simple sentence?",
+      "answer": "A) Runs quickly.\nB) The girl runs."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with an appropriate subject: ___ is reading a book.",
+      "answer": "She / He / They"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a simple sentence using the words: 'My', 'dog', 'barks'.",
+      "answer": "My dog barks."
+    },
+    {
+      "type": "Identify Parts",
+      "question": "In the sentence 'The children play outside,' identify the subject and the predicate.",
+      "answer": "Subject: The children; Predicate: play outside."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and straightforward communication is highly valued. Simple sentences are often used in everyday conversation, advertising, and media to quickly get the message across. Mastering basic sentence structures will help you sound natural and confident when speaking, writing, or understanding American English.",
+  "createdAt": "2025-12-24T04:52:17.566Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "GM-B1-00511",
+  "number": 511,
+  "title": "Conjunctions Unleashed: Mastering the Connectors of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the role and importance of conjunctions in sentence construction",
+    "Identify different types of conjunctions: coordinating, subordinating, and correlative",
+    "Use conjunctions correctly to create complex and compound sentences",
+    "Recognize common conjunctions in everyday American speech and writing",
+    "Enhance their writing clarity and coherence by mastering conjunction usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "The basic conjunctions include and, but, or, so, yet, for, nor."
+    },
+    {
+      "word": "coordinating conjunctions",
+      "definition": "Conjunctions that join two equal grammatical items, such as words, phrases, or independent clauses.",
+      "example": "She wanted to go to the park, but it started raining."
+    },
+    {
+      "word": "subordinating conjunctions",
+      "definition": "Conjunctions that join a dependent clause to an independent clause.",
+      "example": "I'll call you after I arrive."
+    },
+    {
+      "word": "correlative conjunctions",
+      "definition": "Pairs of conjunctions that work together to coordinate two elements.",
+      "example": "Either you apologize, or I will be upset."
+    }
+  ],
+  "content": "Conjunctions are the glue holding American English sentences together. They allow speakers and writers to combine ideas smoothly, creating more complex and nuanced expressions. There are three main types:\n\n1. **Coordinating Conjunctions:** These connect words, phrases, or independent clauses of equal importance. The main coordinating conjunctions are: and, but, or, nor, for, yet, so.\n\n   - Example: \"I wanted to buy the shirt, but it was too expensive.\"\n\n2. **Subordinating Conjunctions:** These link a dependent clause to an independent clause, showing relationships like cause, contrast, or time.\n\n   - Example: \"She was tired because she didn't sleep well.\"\n\n3. **Correlative Conjunctions:** These come in pairs and work together to join equal elements.\n\n   - Example: \"Neither the manager nor the employees knew about the change.\"\n\n**Tips for mastery:**\n- Remember that coordinating conjunctions can be used to create compound sentences.\n- Use subordinating conjunctions to add depth and detail.\n- Pay attention to punctuation: a comma often separates clauses joined by coordinating conjunctions.\n- Practice combining sentences to improve fluency and coherence.\n\nBy mastering conjunctions, you'll be able to craft sentences that flow naturally and convincingly, making your spoken and written American English sound more professional and polished.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "and"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct subordinating conjunction: \"I'll call you ___ I arrive.\"",
+      "answer": "after"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunctions to their types:\n1. because\n2. and\n3. either...or\n\na. Coordinating\nb. Subordinating\nc. Correlative",
+      "answer": {
+        "1": "b",
+        "2": "a",
+        "3": "c"
+      }
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine the two sentences using an appropriate conjunction:\n\"She was hungry. She ate a sandwich.\"",
+      "answer": "She was hungry, so she ate a sandwich."
+    }
+  ],
+  "culturalNotes": "In American culture, effective communication often relies on the proper use of conjunctions to convey relationships between ideas clearly. In casual speech, Americans frequently use conjunctions like \"and\" and \"but\" to connect thoughts fluidly, reflecting a preference for straightforward and expressive language. Understanding these connectors can also help you better grasp American TV shows, movies, and everyday conversations, where quick, seamless sentence structures are common.",
+  "createdAt": "2025-12-24T04:47:51.642Z"
+}

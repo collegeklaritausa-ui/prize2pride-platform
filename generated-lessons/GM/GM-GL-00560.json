@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00560",
+  "number": 560,
+  "title": "Conjunctions Unleashed: Mastering the Art of Seamless Connection",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Identify and categorize different types of conjunctions in American English.",
+    "Understand the grammatical roles and rules governing conjunctions.",
+    "Apply conjunctions effectively to create coherent and sophisticated sentences.",
+    "Distinguish between coordinating, subordinating, and correlative conjunctions.",
+    "Develop the ability to craft complex, fluid sentences that demonstrate advanced conjunction usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "Because she was tired, she took a nap."
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that joins two elements of equal grammatical importance.",
+      "example": "and, but, or, nor, for, so, yet"
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that connects a dependent clause to an independent clause.",
+      "example": "although, because, since, unless, while, whereas"
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to join equal elements.",
+      "example": "either...or, neither...nor, both...and, not only...but also"
+    }
+  ],
+  "content": "Welcome to the realm of American English where conjunctions reign supreme, weaving words into powerful, cohesive expressions. To master the art of conjunctions is to command the flow of ideas with precision and elegance.\n\n**Types of Conjunctions:**\n\n1. **Coordinating Conjunctions:** These are the bridges connecting words, phrases, or independent clauses of equal importance. Remember the acronym FANBOYS: **For, And, Nor, But, Or, Yet, So**.\n\n*Example:*\n- She wanted to go for a walk, **but** it started raining.\n\n2. **Subordinating Conjunctions:** These introduce dependent clauses, providing reasons, contrasts, or conditions.\n\n*Example:*\n- **Because** he studied hard, he aced the test.\n- **Although** the traffic was heavy, they arrived on time.\n\n3. **Correlative Conjunctions:** These pairs work together to link balanced elements.\n\n*Example:*\n- **Either** you apologize, **or** you face the consequences.\n- She is **not only** talented **but also** dedicated.\n\n**Advanced Usage Tips:**\n- Use conjunctions to create complex sentences that demonstrate nuanced thinking.\n- Combine multiple conjunctions for layered ideas, e.g., \"She wanted to stay **because** she enjoyed the party, **but** she had an early meeting.\"\n- Remember that misplaced conjunctions can lead to run-on sentences or fragments.\n\n**Mastering conjunctions empowers you to craft sentences that are not only correct but also compelling and sophisticated, elevating your mastery of American English to GOD-LEVEL.**",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "a) because"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct subordinating conjunction to complete the sentence:\n___ she was tired, she kept working.",
+      "answer": "Although"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Combine the following sentences using a correlative conjunction:\n\"He is talented. He is dedicated.\"",
+      "answer": "He is **not only** talented **but also** dedicated."
+    },
+    {
+      "type": "Identify the conjunction",
+      "question": "In the sentence 'They stayed inside because it was snowing,' what type of conjunction is 'because'?",
+      "answer": "Subordinating conjunction"
+    },
+    {
+      "type": "Editing",
+      "question": "Rewrite the sentence to improve its flow by adding an appropriate conjunction:\n\"She wanted to go to the beach. It was raining.\"",
+      "answer": "She wanted to go to the beach, **but** it was raining."
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are essential for expressing nuanced ideas, especially in professional writing, debates, and persuasive speech. Mastery of conjunctions reflects clarity of thought and command of language, traits highly valued in American academic, business, and social contexts. The ability to craft sophisticated sentences using conjunctions can significantly enhance your communication skills, making your ideas more compelling and authoritative in American society.",
+  "createdAt": "2025-12-24T04:51:38.724Z"
+}

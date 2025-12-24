@@ -1,0 +1,68 @@
+{
+  "id": "GM-A2-00510",
+  "number": 510,
+  "title": "Conjunctions: The Connectors of English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences",
+    "Identify different types of conjunctions: coordinating, subordinating, and correlative",
+    "Use common conjunctions correctly in sentences",
+    "Combine sentences using conjunctions to make your speech and writing more fluent",
+    "Recognize how conjunctions help in expressing ideas clearly and smoothly"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "and, but, or, because, so"
+    },
+    {
+      "word": "Coordinate conjunction",
+      "definition": "A conjunction that links words or groups of words of equal importance.",
+      "example": "and, but, or"
+    },
+    {
+      "word": "Subordinating conjunction",
+      "definition": "A conjunction that introduces a dependent clause and connects it to an independent clause.",
+      "example": "because, although, since"
+    },
+    {
+      "word": "Correlative conjunctions",
+      "definition": "Paired conjunctions that work together to connect equal parts of a sentence.",
+      "example": "either...or, neither...nor, both...and"
+    }
+  ],
+  "content": "Welcome to your lesson on conjunctions, the essential connectors in English! Conjunctions help us join words, phrases, and clauses, making our sentences more interesting and easier to understand.\n\nThere are three main types of conjunctions:\n\n1. **Coordinating Conjunctions**: These connect words or groups of words that are of equal importance. The most common are **and**, **but**, and **or**.\n\n   - Example: I like apples **and** oranges.\n   - Example: She is tall **but** her brother is short.\n   - Example: Do you want tea **or** coffee?\n\n2. **Subordinating Conjunctions**: These connect a dependent clause to an independent clause, showing cause, contrast, time, etc.\n\n   - Example: I stayed home **because** it was raining.\n   - Example: **Although** he was tired, he finished his homework.\n   - Example: We will go **after** school.\n\n3. **Correlative Conjunctions**: These come in pairs and connect equal parts.\n\n   - Example: **Either** you come **or** stay home.\n   - Example: **Neither** the blue shirt **nor** the red one fits.\n   - Example: She is **both** talented **and** hardworking.\n\nUsing conjunctions correctly helps your sentences flow smoothly and express your ideas clearly. Practice combining sentences with conjunctions to improve your fluency!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: I want to go to the park ___ it is raining.",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate coordinating conjunction: I like tea ___ coffee.",
+      "answer": "or"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunctions with their types:\n1. because\n2. and\n3. either...or\n\na. coordinating\nb. subordinating\nc. correlative",
+      "answer": {
+        "1": "b",
+        "2": "a",
+        "3": "c"
+      }
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine these two sentences using a conjunction: She was tired. She finished her homework.",
+      "answer": "She was tired **but** she finished her homework."
+    }
+  ],
+  "culturalNotes": "In American English, conjunctions are used daily in casual conversations, news reports, and literature. Mastery of conjunctions allows speakers and writers to craft clear, fluent, and engaging sentences. Using proper conjunctions can also help in understanding idiomatic expressions and cultural references common in American media and communication.",
+  "createdAt": "2025-12-24T04:47:48.022Z"
+}

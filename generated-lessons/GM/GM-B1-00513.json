@@ -1,0 +1,68 @@
+{
+  "id": "GM-B1-00513",
+  "number": 513,
+  "title": "Mastering Conjunctions: Unlock the Power of Connection in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions.",
+    "Use conjunctions correctly to join words, phrases, and clauses.",
+    "Enhance sentence flow and coherence through proper conjunction usage.",
+    "Recognize common conjunctions in American English conversations and texts.",
+    "Apply conjunctions to improve the clarity and variety of their writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "Examples include 'and,' 'but,' 'because,' and 'although.'"
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "Conjunctions that connect words, phrases, or independent clauses of equal importance.",
+      "example": "She likes coffee **and** tea."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "Conjunctions that connect a dependent clause to an independent clause.",
+      "example": "I'll stay home **because** it’s raining."
+    },
+    {
+      "word": "correlative conjunctions",
+      "definition": "Paired conjunctions that work together to join equal elements.",
+      "example": "Both the cat **and** the dog are sleeping."
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that allow speakers and writers to connect ideas smoothly and logically. Understanding how to use different types of conjunctions will elevate your mastery of the language.\n\n**Types of Conjunctions:**\n\n1. **Coordinating Conjunctions:** These are the most common and include 'for,' 'and,' 'nor,' 'but,' 'or,' 'yet,' and 'so' (FANBOYS). They connect words or independent clauses.\n\n   *Example:* I wanted to go for a walk, **but** it started raining.\n\n2. **Subordinating Conjunctions:** These introduce dependent clauses and show the relationship between the dependent clause and the main clause.\n\n   *Examples:* because, although, since, unless, while, after, before.\n\n   *Example:* She stayed home **because** she was feeling sick.\n\n3. **Correlative Conjunctions:** These work in pairs to join equal elements.\n\n   *Examples:* both...and, either...or, neither...nor, not only...but also.\n\n   *Example:* **Both** the teacher **and** the students enjoyed the lesson.\n\n**Tips for Using Conjunctions:**\n- Place coordinating conjunctions between the words or clauses they join.\n- Use subordinating conjunctions at the beginning of dependent clauses.\n- Ensure correlative conjunctions are used in pairs and parallel in structure.\n\nBy mastering these conjunctions, you'll be able to craft sentences that are clear, varied, and engaging in American English.\n\nRemember, conjunctions are the glue of language—they help your thoughts stick together seamlessly!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: \nI wanted to go to the park, _____ it started raining.",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate subordinating conjunction: \nShe couldn't attend the meeting _____ she was out of town.",
+      "answer": "because"
+    },
+    {
+      "type": "matching",
+      "question": "Match the correlative conjunctions with their pairs:\n1. Neither..._____\n2. Both..._____\n3. Not only..._____\n\na. and\nb. nor\nc. but also",
+      "answer": {
+        "1": "nor",
+        "2": "and",
+        "3": "but also"
+      }
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error in the use of conjunctions: \nShe wants to visit either Paris and London.",
+      "answer": "She wants to visit either Paris or London."
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are often used in casual speech, emphasizing clarity and flow. Informal conversations frequently rely on coordinating conjunctions to link ideas quickly, such as 'but,' 'and,' and 'or.' Understanding how conjunctions work in American English can help learners sound more natural and connect ideas more effectively, whether in everyday conversations, business communications, or creative writing.",
+  "createdAt": "2025-12-24T04:47:59.382Z"
+}

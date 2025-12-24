@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00539",
+  "number": 539,
+  "title": "Mastering Conjunctions: The Power of Sophisticated Sentence Linking",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Analyze the nuanced use of coordinating, subordinating, and correlative conjunctions in complex sentences.",
+    "Identify and correctly apply advanced conjunctions to enhance sentence coherence and style.",
+    "Distinguish between formal and informal conjunction usage in various contexts.",
+    "Construct sophisticated sentences that demonstrate mastery of conjunctions in academic and professional writing.",
+    "Evaluate and revise sentences to improve clarity and flow using appropriate conjunctions."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "example": "In the sentence 'She studied hard because she wanted to succeed,' 'because' is a subordinating conjunction."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that connects words, phrases, or independent clauses of equal grammatical rank.",
+      "example": "FANBOYS (for, and, nor, but, or, yet, so) are coordinating conjunctions."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to an independent clause.",
+      "example": "Although it was raining, we went for a walk."
+    },
+    {
+      "word": "correlative conjunction",
+      "definition": "A pair of conjunctions that work together to connect equivalent sentence parts.",
+      "example": "Either you call me, or I will call you."
+    },
+    {
+      "word": "conjunctive adverb",
+      "definition": "An adverb that connects two independent clauses, often providing a transition or contrast.",
+      "example": "She was tired; however, she finished her project."
+    }
+  ],
+  "content": "Welcome to the advanced realm of American English conjunction mastery. Conjunctions are the glue that holds your sentences together, enabling you to craft complex, nuanced ideas with clarity and style. Let's explore the major types:\n\n1. **Coordinating Conjunctions (FANBOYS):** These connect words or independent clauses of equal importance. For example:\n- She wanted to go for a walk, but it started raining.\n\n2. **Subordinating Conjunctions:** These introduce dependent clauses, adding depth and detail. For example:\n- Even though he was tired, he continued working.\n- Common subordinating conjunctions include: although, because, since, unless, whereas, while.\n\n3. **Correlative Conjunctions:** These work in pairs to relate equal sentence parts. For example:\n- Neither the manager nor the assistant knew about the issue.\n- Both the manager and the assistant were present.\n\n4. **Conjunctive Adverbs:** These link independent clauses with a transition of thought, often separated by a semicolon. For example:\n- I wanted to leave early; however, I had to finish my report.\n- They studied hard; consequently, they aced the exam.\n\n**Stylistic Tips:**\n- Use conjunctions to show contrast (but, yet, however), cause and effect (because, therefore), or addition (and, also).\n- Avoid overusing conjunctions; vary sentence structures for engagement.\n- When combining clauses, ensure clarity by correctly placing commas and semicolons.\n\nBy mastering conjunctions, you elevate your writing from simple to sophisticated, enabling precise expression of complex ideas.\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Identify the type of conjunction in the sentence: 'She studied hard because she wanted to succeed.'",
+      "answer": "Subordinating conjunction"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with an appropriate coordinating conjunction: 'I wanted to go to the party, ___ I was feeling sick.'",
+      "answer": "but"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine the two sentences using a correlative conjunction: 'You can choose. You can stay here.'",
+      "answer": "You can either choose to stay here or go somewhere else."
+    },
+    {
+      "type": "identify error",
+      "question": "Select the sentence with correct conjunction usage: \nA) She was tired yet she finished her homework. \nB) She was tired and she finished her homework. \nC) She was tired or she finished her homework.",
+      "answer": "A) She was tired yet she finished her homework."
+    },
+    {
+      "type": "rephrase",
+      "question": "Rephrase the following using a conjunctive adverb: 'He was late. He still managed to catch the train.'",
+      "answer": "He was late; nevertheless, he managed to catch the train."
+    }
+  ],
+  "culturalNotes": "In American culture, effective use of conjunctions often reflects a writer's sophistication and clarity. Academic essays, professional communication, and persuasive writing rely heavily on precise conjunction use to establish logical relationships and flow. Mastery of conjunctions demonstrates critical thinking and attention to detail, qualities highly valued in American educational and professional settings. Recognizing subtle differences in conjunction choices can influence tone—formal versus informal—and impact how your message is received across diverse contexts in American society.",
+  "createdAt": "2025-12-24T04:49:55.024Z"
+}

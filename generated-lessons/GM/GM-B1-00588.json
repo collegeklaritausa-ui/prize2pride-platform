@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00588",
+  "number": 588,
+  "title": "Mastering Sentence Structure: Building Strong Foundations in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and analyze different types of sentence structures in American English.",
+    "Construct simple, compound, and complex sentences with clarity and accuracy.",
+    "Understand the role of sentence components such as subjects, predicates, and clauses.",
+    "Transform sentence types to improve clarity and style in writing.",
+    "Apply knowledge of sentence structure to enhance both spoken and written communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Main Clause",
+      "definition": "A group of words that contains a subject and a predicate and expresses a complete thought.",
+      "example": "She went to the store."
+    },
+    {
+      "word": "Dependent Clause",
+      "definition": "A group of words with a subject and a predicate that cannot stand alone as a complete sentence.",
+      "example": "Because she was tired..."
+    },
+    {
+      "word": "Compound Sentence",
+      "definition": "A sentence made up of two or more independent clauses joined by coordinating conjunctions or punctuation.",
+      "example": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "Complex Sentence",
+      "definition": "A sentence that contains an independent clause and at least one dependent clause.",
+      "example": "Although it was late, he continued working."
+    }
+  ],
+  "content": "To become a GOD of American English, mastering sentence structure is essential. Sentences are the building blocks of communication, and understanding how to craft them effectively elevates your language skills.\n\n**Simple sentences** contain a single independent clause. They are straightforward and clear, ideal for emphasizing a point. Example: \"The dog barked.\"\n\n**Compound sentences** combine two or more independent clauses with coordinating conjunctions (for, and, nor, but, or, yet, so) or punctuation. They show relationships between ideas. Example: \"She studied hard, and she aced the test.\"\n\n**Complex sentences** include one independent clause and at least one dependent clause, providing depth and detail. Use subordinating conjunctions (because, although, since, when) to connect clauses. Example: \"Because it was raining, we stayed inside.\"\n\nMastering these structures involves recognizing their components and practicing combining ideas to create varied and engaging sentences. For example, transforming a simple sentence into a complex one adds nuance: \"She was tired\" can become \"She was tired after running for an hour.\"\n\nPracticing these structures enhances clarity and style, making your communication more effective and polished.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "type": "Sentence Formation",
+      "question": "Combine the following two ideas into a complex sentence: 'It was late.' 'She decided to stay.'",
+      "answer": "Because it was late, she decided to stay."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the clause type in the sentence: 'Although he was tired, he finished his homework.'",
+      "answer": "The first part 'Although he was tired' is a dependent clause, and the second part 'he finished his homework' is an independent clause."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite this simple sentence as a compound sentence: 'The sun set.'",
+      "answer": "The sun set, and the sky turned orange."
+    },
+    {
+      "type": "Analysis",
+      "question": "Explain how sentence structure can affect the clarity of a message.",
+      "answer": "Using varied sentence structures, such as combining simple and complex sentences, helps convey ideas more clearly and keeps the reader engaged. Proper sentence structure prevents ambiguity and emphasizes important points."
+    }
+  ],
+  "culturalNotes": "In American English, clear and concise sentence structure is valued, especially in professional and academic settings. Americans often favor straightforward communication, but they also appreciate the nuanced expression found in complex and compound sentences. Understanding and applying proper sentence structure not only improves language mastery but also aligns with the cultural preference for clarity and effectiveness in communication.",
+  "createdAt": "2025-12-24T04:53:18.280Z"
+}

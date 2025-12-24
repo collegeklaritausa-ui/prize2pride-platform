@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00536",
+  "number": 536,
+  "title": "Mastering the Art of Conjunctions: Unlocking Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions.",
+    "Apply advanced conjunctions to construct complex and compound sentences with precision.",
+    "Analyze sentence structures to improve clarity and variety in writing.",
+    "Demonstrate mastery in choosing appropriate conjunctions to convey nuanced relationships.",
+    "Integrate conjunctions seamlessly in both formal and informal American English contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "Although it was raining, we decided to go for a walk."
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to connect equal elements.",
+      "example": "Either you start studying, or you'll fall behind."
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a subordinate clause, showing the relationship with the main clause.",
+      "example": "Because he was late, he missed the bus."
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that connects words, phrases, or independent clauses of equal importance.",
+      "example": "She likes coffee, but he prefers tea."
+    }
+  ],
+  "content": "Conjunctions are the glue of advanced American English, enabling speakers and writers to craft intricate and nuanced sentences. Understanding their types is essential:\n\n1. Coordinating Conjunctions (FAN BOYS): for, and, but, or, yet, so. These connect equal parts of a sentence and are vital for building compound sentences. For example, \"I wanted to go for a run, but it started raining.\"\n\n2. Subordinating Conjunctions: because, although, since, unless, while, whereas, if. These introduce subordinate clauses that provide context or contrast. For example, \"Although he was tired, he continued working.\"\n\n3. Correlative Conjunctions: either...or, neither...nor, both...and, not only...but also. These work in pairs to emphasize a relationship. For example, \"Neither the manager nor the employees were prepared for the meeting.\"\n\nAdvanced mastery involves not only recognizing these conjunctions but also employing them to craft varied sentence structures that enhance clarity and style. For instance, combining multiple conjunctions can produce complex sentences that convey layered meaning, such as:\n\n\"Although she was exhausted, and despite the late hour, she finished her thesis and submitted it on time.\"\n\nRemember, the skillful use of conjunctions allows for smoother transitions, clearer comparisons, contrasts, and cause-effect relationships, elevating your command of American English.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses a subordinating conjunction?",
+      "answer": "Because she studied hard, she passed the exam."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Choose the appropriate coordinating conjunction to complete the sentence: \"I wanted to buy the jacket, _____ it was too expensive.\"",
+      "answer": "but"
+    },
+    {
+      "type": "Sentence Transformation",
+      "question": "Combine these two sentences using a correlative conjunction: \"He is a talented musician. He is also a skilled painter.\"",
+      "answer": "He is not only a talented musician, but also a skilled painter."
+    },
+    {
+      "type": "Identify the Conjunction",
+      "question": "In the sentence \"I'll go out if it stops raining,\" what type of conjunction is \"if\"?",
+      "answer": "Subordinating conjunction"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Write a complex sentence using the conjunction \"although\" to express contrast.",
+      "answer": "Although the traffic was heavy, we arrived on time."
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are often used to express nuances, contrasts, and relationships in casual conversation and formal writing alike. For example, the phrase \"I wanted to attend the concert, but I had to work\" reflects American values of honesty and clarity. Additionally, the smooth use of conjunctions can influence persuasive communication, especially in debates or persuasive essays, where contrasting ideas are presented to strengthen arguments.",
+  "createdAt": "2025-12-24T04:49:41.762Z"
+}

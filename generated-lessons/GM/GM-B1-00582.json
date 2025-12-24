@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00582",
+  "number": 582,
+  "title": "Mastering Sentence Structure: Building Strong Foundations in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the basic components of American English sentence structures.",
+    "Identify different types of sentences: declarative, interrogative, imperative, and exclamatory.",
+    "Construct correct simple, compound, and complex sentences.",
+    "Recognize common sentence errors and learn how to correct them.",
+    "Apply sentence structure rules to enhance clarity and effectiveness in writing and speaking."
+  ],
+  "vocabulary": [
+    {
+      "word": "Sentence",
+      "definition": "A set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command.",
+      "example": "She is reading a book."
+    },
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and a predicate. Independent clauses can stand alone as complete sentences, whereas dependent clauses cannot.",
+      "example": "Because she was tired, she went to bed early."
+    },
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "example": "and, but, or, so, because"
+    },
+    {
+      "word": "Run-on sentence",
+      "definition": "A sentence in which two or more independent clauses are improperly joined without proper punctuation or conjunction.",
+      "example": "I love to read I go to the library every week."
+    }
+  ],
+  "content": "In American English, sentence structure is foundational to clear and effective communication. A sentence typically consists of a subject and a predicate, forming a complete thought. There are four main types of sentences:\n\n1. Declarative sentences state facts or opinions. Example: \"The sky is blue.\"\n2. Interrogative sentences ask questions. Example: \"Are you coming to the party?\"\n3. Imperative sentences give commands or requests. Example: \"Please close the door.\"\n4. Exclamatory sentences express strong emotion. Example: \"What a beautiful sunset!\"\n\nUnderstanding sentence components is crucial. An independent clause can stand alone as a complete sentence, while a dependent clause cannot. For example:\n- Independent: \"She runs every morning.\"\n- Dependent: \"Because she wants to stay healthy.\"\n\nCombining clauses using conjunctions (and, but, or, so, because) allows you to form compound and complex sentences. For example:\n- Compound: \"I wanted to go for a walk, but it started raining.\"\n- Complex: \"Although it was cold, we went swimming.\"\n\nAvoid common errors such as run-on sentences and comma splices by ensuring proper punctuation and conjunction use.\n\nMastering these structures will enable you to write more sophisticated sentences and communicate more effectively in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "I wanted to buy apples, but the store was closed."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify whether the sentence is declarative, interrogative, imperative, or exclamatory: 'Can you help me with this problem?'",
+      "answer": "Interrogative"
+    },
+    {
+      "type": "rewrite",
+      "question": "Combine these two sentences into a single complex sentence: 'She was tired. She kept working.'",
+      "answer": "Although she was tired, she kept working."
+    },
+    {
+      "type": "error correction",
+      "question": "Fix the run-on sentence: 'I love cooking I do it every weekend.'",
+      "answer": "I love cooking. I do it every weekend."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is highly valued. Proper sentence structure reflects professionalism and clarity, especially in academic, business, and casual contexts. Americans often appreciate straightforwardness, but also value the ability to craft nuanced and varied sentences to express complex ideas effectively. Mastery of sentence structure enhances both your credibility and your ability to connect with diverse audiences in the United States.",
+  "createdAt": "2025-12-24T04:52:56.030Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-A1-00563",
+  "number": 563,
+  "title": "Mastering Basic Sentence Structure: Build Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic parts of a sentence: subject and predicate",
+    "Identify simple sentence structures in English",
+    "Construct correct simple sentences using common words",
+    "Recognize common sentence patterns such as Subject + Verb + Object",
+    "Improve confidence in forming clear and complete sentences"
+  ],
+  "vocabulary": [
+    {
+      "word": "sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She likes to read books."
+    },
+    {
+      "word": "subject",
+      "definition": "The person or thing that performs the action in a sentence.",
+      "example": "The cat sleeps all day."
+    },
+    {
+      "word": "predicate",
+      "definition": "The part of a sentence that tells what the subject does or is.",
+      "example": "He runs fast."
+    },
+    {
+      "word": "object",
+      "definition": "The person or thing that receives the action of the verb.",
+      "example": "I eat an apple."
+    },
+    {
+      "word": "simple sentence",
+      "definition": "A sentence consisting of only one independent clause.",
+      "example": "The dog barks."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English sentence structure! \n\nIn English, a basic sentence is built around two main parts: the subject and the predicate.\n\n- The **subject** is who or what the sentence is about. For example, in 'The teacher teaches,' 'The teacher' is the subject.\n- The **predicate** tells what the subject does or is. In 'The teacher teaches,' 'teaches' is the predicate.\n\nA simple sentence follows the pattern: **Subject + Verb (+ Object)**.\n\nExamples:\n- 'I walk.' (Subject: I, Verb: walk)\n- 'The dog barks.' (Subject: The dog, Verb: barks)\n- 'She reads a book.' (Subject: She, Verb: reads, Object: a book)\n\nBy mastering this structure, you can create clear and correct sentences. Practice by identifying parts of sentences and constructing your own!\n\nRemember, every sentence starts with a capital letter and ends with a period, question mark, or exclamation point.\n\nKeep practicing, and you'll unlock the power to communicate confidently every time!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a simple sentence?",
+      "answer": "A) The cat sleeps.\nB) She likes to dance and sing.\nC) When it rains, the ground gets wet.\nD) Because I was tired, I went to bed."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Identify the subject in the sentence: 'The children play outside.'",
+      "answer": "The children"
+    },
+    {
+      "type": "Create your own",
+      "question": "Write a simple sentence about your favorite food.",
+      "answer": "Answers will vary. Example: I love pizza."
+    },
+    {
+      "type": "True or False",
+      "question": "Every complete sentence must have a subject and a predicate.",
+      "answer": "True"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the parts of the sentence with their roles:\n1. The teacher\n2. reads\n3. a book\n\nA. Subject\nB. Verb\nC. Object",
+      "answer": "1-A, 2-B, 3-C"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is valued. Mastering simple sentence structures helps you to express ideas effectively and confidently. Whether you're chatting with friends, ordering food, or participating in conversations, strong sentence skills are essential for successful social interactions and professional relationships in the U.S. Remember, practice makes perfect—don't hesitate to speak, write, and use new sentences every day!",
+  "createdAt": "2025-12-24T04:51:49.479Z"
+}

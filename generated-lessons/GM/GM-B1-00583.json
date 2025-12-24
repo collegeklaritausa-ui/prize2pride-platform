@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00583",
+  "number": 583,
+  "title": "Mastering Sentence Structure: Building the Foundation of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify the key components of a complete sentence in American English",
+    "Differentiate between simple, compound, and complex sentences",
+    "Construct well-formed sentences using correct syntax and punctuation",
+    "Recognize common sentence errors and how to correct them",
+    "Apply sentence structure rules to improve clarity and style in writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences.",
+      "example": "Good syntax ensures that sentences are clear and easy to understand."
+    },
+    {
+      "word": "Clause",
+      "definition": "A group of words that contains a subject and a predicate; can be independent or dependent.",
+      "example": "Because I was tired, I went to bed early. (dependent clause)"
+    },
+    {
+      "word": "Sentence Fragment",
+      "definition": "An incomplete sentence that lacks a subject or predicate.",
+      "example": "Running down the street. (fragment)"
+    }
+  ],
+  "content": "Welcome to the realm of American English sentence structure! Mastering how sentences are built is crucial for clear and effective communication. Sentences are composed of parts that work together to convey meaning. An essential understanding is the difference between simple, compound, and complex sentences:\n\n- **Simple Sentence:** Contains one independent clause. Example: *The dog barked.*\n- **Compound Sentence:** Contains two independent clauses joined by a coordinating conjunction or semicolon. Example: *The sun set, and the stars appeared.*\n- **Complex Sentence:** Contains an independent clause and at least one dependent clause. Example: *Although it was raining, we went for a walk.*\n\nRemember, a complete sentence in American English must have at least a subject and a predicate and express a complete thought. Avoid sentence fragments and run-ons by ensuring proper punctuation and conjunction use.\n\nPractice these structures by combining ideas correctly, using commas, semicolons, and conjunctions to enhance your writing. Developing strong sentence skills transforms your ability to communicate with clarity and confidence in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a complex sentence?",
+      "answer": "Although she was tired, she finished her homework."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Identify whether the following sentence is simple, compound, or complex: 'I wanted to go for a walk, but it started to rain.'",
+      "answer": "Compound"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the sentence fragment: 'Because I was hungry.'",
+      "answer": "Because I was hungry, I ate a sandwich."
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a compound sentence using the ideas: 'She loves to read' and 'She enjoys writing.'",
+      "answer": "She loves to read, and she enjoys writing."
+    }
+  ],
+  "culturalNotes": "In American English, clear and direct sentence structure is highly valued, especially in professional and academic contexts. The ability to craft well-structured sentences reflects clarity of thought and effective communication, which are appreciated traits in American culture. Understanding the nuances of sentence types can also help you better grasp the informal and formal tones used in different social settings across the United States.",
+  "createdAt": "2025-12-24T04:52:59.258Z"
+}

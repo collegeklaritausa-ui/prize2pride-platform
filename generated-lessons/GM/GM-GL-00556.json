@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00556",
+  "number": 556,
+  "title": "Conquering Conjunctions: The Supreme Link in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Master the core coordinating conjunctions and their correct usage",
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions",
+    "Construct complex sentences using appropriate conjunctions to enhance clarity and style",
+    "Recognize common mistakes with conjunctions and correct them to achieve grammatical perfection",
+    "Apply advanced conjunctions to create sophisticated and nuanced sentences that reflect American English mastery"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses within a sentence.",
+      "example": "I wanted to go, but it was raining."
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that joins words or groups of words of equal importance.",
+      "example": "For, And, Nor, But, Or, Yet, So (FANBOYS)"
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that connects a subordinate clause to a main clause, showing dependence.",
+      "example": "Although, Because, Since, Unless, While"
+    },
+    {
+      "word": "Correlative Conjunctions",
+      "definition": "Paired conjunctions that work together to link equal elements.",
+      "example": "Either/Or, Neither/Nor, Not only/But also"
+    }
+  ],
+  "content": "Welcome to the realm of conjunctions—the ultimate architects of sentence harmony in American English. Conjunctions are the glue that holds ideas together, enabling you to craft sentences that flow smoothly and convey complex relationships.\n\n**1. Coordinating Conjunctions (FANBOYS):** These are the backbone of compound sentences.\n- *Usage:* Connect two independent clauses.\n- *Example:* \"She studied hard, and she aced the test.\"\n- *Tip:* Remember FANBOYS to recall the main coordinating conjunctions.\n\n**2. Subordinating Conjunctions:** These introduce subordinate clauses, providing additional context.\n- *Usage:* Show cause, contrast, condition, or time.\n- *Example:* \"I'll call you when I arrive.\"\n- *Tip:* Use them to add depth and complexity.\n\n**3. Correlative Conjunctions:** These work in pairs to link balanced elements.\n- *Usage:* Emphasize alternatives or reinforce ideas.\n- *Example:* \"Either you apologize, or you face the consequences.\"\n\n**4. Advanced Uses:** Mastery involves blending conjunctions to create nuanced sentences.\n- *Example:* \"Not only did she win the award, but she also set a new record.\"\n\nAchieving mastery involves understanding subtle differences and selecting the perfect conjunction for every context. Your sentences will become more persuasive, elegant, and undeniably American in style.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conjunction to complete the sentence:\n\n\"I wanted to go for a walk, ___ it started raining.\"",
+      "answer": "but"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with an appropriate subordinating conjunction:\n\n\"She stayed home ___ she was feeling ill.\"",
+      "answer": "because"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Combine these two sentences into one using a coordinating conjunction:\n\n\"He was tired. He kept working late.\"",
+      "answer": "He was tired, but he kept working late."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the correlative conjunctions with their correct pairs:\n\n1. Either ___ 2. Neither ___ 3. Not only ___\n\nA. Nor  B. Or  C. But also",
+      "answer": "1-B, 2-A, 3-C"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake:\n\n\"She doesn't like coffee nor tea.\"",
+      "answer": "\"She doesn't like coffee or tea.\""
+    }
+  ],
+  "culturalNotes": "In American culture, the effective use of conjunctions reflects clarity and confidence in communication. Formal writing, speeches, and everyday conversations often hinge on well-chosen conjunctions to connect ideas seamlessly. Mastering conjunctions also enhances storytelling, persuasive writing, and professional communication—skills highly valued across American social and business landscapes.",
+  "createdAt": "2025-12-24T04:51:20.078Z"
+}

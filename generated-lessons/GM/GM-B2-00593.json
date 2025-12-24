@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00593",
+  "number": 593,
+  "title": "Mastering Sentence Structure: Building the Foundation of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and analyze different sentence structures in American English.",
+    "Construct simple, compound, and complex sentences with precision.",
+    "Recognize common sentence errors and learn how to correct them.",
+    "Apply advanced sentence structures to enhance writing and speaking fluency.",
+    "Develop an intuitive understanding of sentence flow and coherence in American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences in a language.",
+      "example": "Understanding syntax helps you craft clear and effective sentences."
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence made up of two independent clauses joined by a coordinating conjunction or semicolon.",
+      "example": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "complex sentence",
+      "definition": "A sentence that contains an independent clause and one or more dependent clauses.",
+      "example": "Although it was cold, we decided to hike."
+    },
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "and, but, or, because, although"
+    },
+    {
+      "word": "clause",
+      "definition": "A group of words that contains a subject and a predicate; can be independent or dependent.",
+      "example": "She smiled because she was happy."
+    }
+  ],
+  "content": "To become a GOD of American English, mastering sentence structure is essential. Sentences are the building blocks of effective communication. There are three main types of sentence structures:\n\n1. Simple Sentences: Consist of a single independent clause. Example: \"The dog barked.\"\n2. Compound Sentences: Contain two independent clauses joined by a coordinating conjunction (for, and, nor, but, or, yet, so). Example: \"The sun set, and the stars appeared.\"\n3. Complex Sentences: Comprise an independent clause and one or more dependent clauses introduced by subordinating conjunctions (because, although, since, when). Example: \"She stayed home because she was feeling sick.\"\n\nUnderstanding how to correctly combine clauses using conjunctions and punctuation allows you to craft sentences that are varied, interesting, and grammatically correct.\n\n**Examples:**\n- Simple: \"I enjoy reading.\"\n- Compound: \"I enjoy reading, but I dislike writing.\"\n- Complex: \"Although I enjoy reading, I rarely find time for it.\"\n\nAdvanced sentence mastery involves combining these structures creatively to enhance clarity and style. Pay attention to punctuation (commas, semicolons) and the placement of conjunctions to ensure your sentences flow smoothly.\n\nRemember, effective sentence structure improves readability and communicates your ideas more powerfully.\n",
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Identify the sentence as simple, compound, or complex: \"Although he was tired, he finished his homework.\"",
+      "answer": "Complex"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the compound sentence: \"I wanted to go hiking, ___ it started raining.\"",
+      "answer": "but"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following two sentences as a single compound sentence: \"She loves to cook. She often tries new recipes.\"",
+      "answer": "She loves to cook, and she often tries new recipes."
+    },
+    {
+      "type": "error correction",
+      "question": "Find and correct the error in this sentence: \"Although she was tired she finished her project.\"",
+      "answer": "Add a comma after 'tired': 'Although she was tired, she finished her project.'"
+    },
+    {
+      "type": "creative writing",
+      "question": "Write a paragraph using at least two simple, one compound, and one complex sentence to describe your ideal day.",
+      "answer": "Students' responses will vary. Look for varied sentence structures and proper punctuation."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and concise communication is highly valued, especially in professional and academic settings. Native speakers often favor varied sentence structures to keep conversations lively and engaging. Being comfortable with complex sentences allows for more nuanced expression, common in American literature, journalism, and everyday speech. Mastery of sentence structure not only improves language fluency but also enhances your ability to participate confidently in diverse social and professional environments.",
+  "createdAt": "2025-12-24T04:53:38.255Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "GM-B2-00525",
+  "number": 525,
+  "title": "Conquering Conjunctions: Mastering the Connectors of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and differentiate between coordinating, subordinating, and correlative conjunctions.",
+    "Understand the role of conjunctions in sentence structure and coherence.",
+    "Apply correct conjunction usage to join clauses effectively.",
+    "Recognize common conjunction errors and how to avoid them.",
+    "Elevate writing clarity and fluency by mastering conjunctions."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words within a sentence.",
+      "example": "And, but, or, because, although"
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins two equal grammatical elements, such as two independent clauses.",
+      "example": "She wanted to go, but she was too tired."
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a dependent (subordinate) clause.",
+      "example": "Because it was raining, the game was canceled."
+    },
+    {
+      "word": "correlative conjunctions",
+      "definition": "Pairs of conjunctions that work together to join equal elements.",
+      "example": "Either...or, Neither...nor, Both...and"
+    }
+  ],
+  "content": "Conjunctions are the connective tissue of the English language, seamlessly linking sentences and ideas to create coherence and fluency.\n\n**Types of Conjunctions:**\n\n1. **Coordinating Conjunctions:** These connect two independent clauses or elements of equal importance. The most common are **for, and, nor, but, or, yet, so**. \n\n   - *Example:* I wanted to go for a walk, **but** it was raining.\n\n2. **Subordinating Conjunctions:** These introduce subordinate clauses and show the relationship between the clause and the rest of the sentence. Common subordinators include **because, although, since, unless, while, if**.\n\n   - *Example:* She stayed home **because** she was feeling sick.\n\n3. **Correlative Conjunctions:** These come in pairs and work together to join equal grammatical units.\n\n   - *Examples:* **Either...or** (You can **either** stay **or** leave), **Neither...nor** (He likes **neither** coffee **nor** tea), **Both...and** (She is **both** intelligent **and** diligent).\n\n**Using Conjunctions Effectively:**\n- Ensure clarity by choosing the appropriate conjunction for the relationship you want to express.\n- Avoid comma splices by correctly separating independent clauses with coordinating conjunctions or semicolons.\n- Use subordinating conjunctions to indicate cause and effect, contrast, or condition.\n\n**Examples in Context:**\n- Coordinating: I was tired, **but** I finished my homework.\n- Subordinating: **Although** he was tired, he kept working.\n- Correlative: **Neither** of the options seems appealing, **nor** does it matter.\n\nMastering conjunctions allows you to craft more sophisticated, cohesive, and persuasive sentences—truly becoming a GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: \n_____ he was tired, he continued to work.",
+      "answer": "Although"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with a coordinating conjunction: \nI wanted to buy the shirt, _____ it was too expensive.",
+      "answer": "but"
+    },
+    {
+      "type": "matching",
+      "question": "Match the correlative conjunctions with their correct pair:\n1. Either...or\n2. Neither...nor\n3. Both...and\n\nA. She enjoys _____ coffee _____ tea.\nB. _____ of the options is suitable.\nC. _____ of them wants to join us.",
+      "answer": {
+        "1": "A",
+        "2": "B",
+        "3": "C"
+      }
+    },
+    {
+      "type": "true/false",
+      "question": "True or False: Using a comma before a coordinating conjunction to join two independent clauses is always correct.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American English, the use of conjunctions is not only grammatical but also cultural—effective connectors are essential in persuasive speeches, polished essays, and everyday conversations. Americans value clarity and coherence, so mastering conjunctions is highly regarded in academic and professional settings. Additionally, understanding idiomatic expressions involving conjunctions, such as 'either...or' in everyday choices, reflects cultural nuances of decision-making and politeness.",
+  "createdAt": "2025-12-24T04:48:48.974Z"
+}

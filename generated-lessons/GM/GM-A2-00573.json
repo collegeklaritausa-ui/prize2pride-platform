@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00573",
+  "number": 573,
+  "title": "Mastering Simple Sentence Structure",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what a simple sentence is in American English.",
+    "Identify the basic parts of a sentence: subject and predicate.",
+    "Create correct simple sentences using common vocabulary.",
+    "Recognize common sentence mistakes and how to fix them.",
+    "Build confidence to write clear and correct sentences."
+  ],
+  "vocabulary": [
+    {
+      "word": "sentence",
+      "definition": "A group of words that express a complete thought.",
+      "example": "She runs fast."
+    },
+    {
+      "word": "subject",
+      "definition": "The person, place, thing, or idea that the sentence is about.",
+      "example": "The **dog** barks."
+    },
+    {
+      "word": "predicate",
+      "definition": "The part of the sentence that tells what the subject does or is.",
+      "example": "The dog **barks loudly**."
+    },
+    {
+      "word": "simple sentence",
+      "definition": "A sentence that has one subject and one predicate.",
+      "example": "I like pizza."
+    }
+  ],
+  "content": "Welcome to your lesson on Sentence Structure! In American English, a simple sentence is the easiest type of sentence. It has two main parts: the subject and the predicate. \n\n**Subject:** This is who or what the sentence is about. For example, in 'The cat sleeps,' **The cat** is the subject. \n\n**Predicate:** This tells what the subject does or is. In 'The cat sleeps,' **sleeps** is the predicate.\n\n**Example of a simple sentence:**\n- 'The boy plays.'\n- 'She reads.'\n- 'Dogs bark.'\n\n**Tips for creating simple sentences:**\n- Start with a capital letter.\n- Use a subject (who or what). \n- Add a predicate (what they do or are).\n- End with a period.\n\nRemember, keeping sentences simple helps your message be clear and easy to understand! Now, let’s practice together to become GODS of American English sentence structure!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of these is a simple sentence?",
+      "answer": "The sun shines."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: The dog ____ loudly.",
+      "answer": "barks"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Fix this sentence: she go to school every day.",
+      "answer": "She goes to school every day."
+    },
+    {
+      "type": "write your own",
+      "question": "Write a simple sentence about your favorite hobby.",
+      "answer": "My favorite hobby is reading."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and straightforward communication is valued. Simple sentences are often used in daily conversations, signage, and instructions to ensure everyone understands easily. Mastering sentence structure helps you speak and write confidently in social, academic, and professional settings across the United States.",
+  "createdAt": "2025-12-24T04:52:23.744Z"
+}

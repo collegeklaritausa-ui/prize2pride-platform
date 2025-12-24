@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00600",
+  "number": 600,
+  "title": "Mastering Sentence Structure: Building the Foundation of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Analyze different sentence structures used in American English",
+    "Identify and correctly use simple, compound, and complex sentences",
+    "Construct well-formed sentences with varied structures to improve clarity and style",
+    "Apply punctuation rules to enhance sentence flow and coherence",
+    "Recognize common errors in sentence structure and correct them effectively"
+  ],
+  "vocabulary": [
+    {
+      "word": "Clause",
+      "definition": "A group of words containing a subject and a predicate; can be independent or dependent.",
+      "example": "Although she was tired, she finished her homework."
+    },
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses or sentences, such as 'and', 'but', 'or', 'because'.",
+      "example": "I wanted to go for a walk, but it started raining."
+    },
+    {
+      "word": "Syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences.",
+      "example": "English syntax generally follows a subject-verb-object order."
+    }
+  ],
+  "content": "In American English, sentence structure is fundamental to effective communication. Understanding how to craft simple, compound, and complex sentences allows you to convey ideas clearly and persuasively.\n\n**Simple sentences** consist of a single independent clause: 'She runs every morning.' They are straightforward and easier to understand.\n\n**Compound sentences** join two independent clauses with a coordinating conjunction (for, and, nor, but, or, yet, so): 'She wanted to go to the park, but it was raining.' Notice the use of the coordinating conjunction to connect ideas.\n\n**Complex sentences** contain an independent clause and at least one dependent clause, often introduced by subordinating conjunctions (because, although, since): 'Although she was tired, she finished her homework.' This structure adds depth and detail.\n\n**Punctuation** plays a crucial role in sentence structure. Commas separate items in a list, set off introductory elements, and divide clauses. For example, in compound sentences, a comma before the conjunction is standard: 'I wanted to call you, but I was busy.'\n\nTo elevate your mastery, practice combining sentences using different structures and ensure proper punctuation. Recognizing the function of clauses and conjunctions will enable you to craft complex and nuanced sentences, making your writing more engaging and precise.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "She wanted to buy a new book, and she went to the bookstore."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Identify whether the following sentence is simple, compound, or complex: 'Because she studied hard, she passed the exam.'",
+      "answer": "Complex"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Correct the following sentence: 'I like coffee but I prefer tea.'",
+      "answer": "I like coffee, but I prefer tea."
+    },
+    {
+      "type": "Constructed Response",
+      "question": "Write a complex sentence using the subordinating conjunction 'although'.",
+      "answer": "Although it was late, she continued working on her project."
+    }
+  ],
+  "culturalNotes": "In American English, sentence structure reflects the value placed on clarity and directness. Americans often favor straightforward sentences to communicate ideas efficiently, especially in business and academic contexts. Understanding the nuances of sentence construction can help learners adapt to various formal and informal settings, improving both written and spoken communication in American culture.",
+  "createdAt": "2025-12-24T04:54:04.655Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00501",
+  "number": 501,
+  "title": "Conjunctions: Connecting Words for Clear Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Identify common conjunctions used in American English.",
+    "Understand the function of conjunctions in sentences.",
+    "Use coordinating conjunctions correctly to combine sentences.",
+    "Recognize subordinating conjunctions and their role.",
+    "Create simple sentences using conjunctions to improve clarity."
+  ],
+  "vocabulary": [
+    {
+      "word": "and",
+      "definition": "A coordinating conjunction used to connect similar ideas or items.",
+      "example": "I like apples and oranges."
+    },
+    {
+      "word": "but",
+      "definition": "A coordinating conjunction used to show contrast.",
+      "example": "I want to go outside, but it is raining."
+    },
+    {
+      "word": "because",
+      "definition": "A subordinating conjunction used to show reason.",
+      "example": "I stayed home because I was sick."
+    },
+    {
+      "word": "or",
+      "definition": "A coordinating conjunction used to present choices.",
+      "example": "Would you like tea or coffee?"
+    }
+  ],
+  "content": "Welcome to the world of conjunctions! Conjunctions are words that connect parts of sentences, making your speech and writing more fluent and clear. In American English, the most common conjunctions are 'and', 'but', and 'or' (coordinating conjunctions). These help you join words, phrases, or sentences.\n\nFor example:\n- I want pizza and soda.\n- She is tall but friendly.\n- Do you want a apple or banana?\n\nWe also have subordinating conjunctions like 'because', which connect a dependent clause to an independent clause:\n- I am happy because I finished my homework.\n\nUsing conjunctions correctly helps you make your sentences more interesting and easier to understand. Practice by combining simple sentences using conjunctions!\n\nRemember, conjunctions are your friends in making smooth and natural sentences in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conjunction to complete the sentence: I like reading ___ I don't like writing.",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I stayed home ___ it was raining.",
+      "answer": "because"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Combine these sentences using 'and': 'I have a dog.' 'I have a cat.'",
+      "answer": "I have a dog and a cat."
+    },
+    {
+      "type": "true/false",
+      "question": "The word 'or' is used to show contrast between two ideas. (True/False)",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, casual conversations often involve using conjunctions to connect ideas smoothly, making speech more natural and friendly. For example, Americans frequently use 'and' to list things or feelings, and 'but' to express differences politely. Mastering conjunctions will help you sound more confident and natural in everyday conversations.",
+  "createdAt": "2025-12-24T04:47:22.313Z"
+}

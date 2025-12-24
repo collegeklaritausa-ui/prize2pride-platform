@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00586",
+  "number": 586,
+  "title": "Mastering Sentence Structure: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Sentence Structure",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the basic components of American English sentence structure",
+    "Identify and construct simple, compound, and complex sentences",
+    "Recognize common sentence patterns and their functions",
+    "Apply correct punctuation within various sentence types",
+    "Transform basic sentences into more advanced structures for clarity and emphasis"
+  ],
+  "vocabulary": [
+    {
+      "word": "predicate",
+      "definition": "The part of a sentence that tells what the subject does or is; it includes the verb and any objects or modifiers.",
+      "example": "She **runs** every morning."
+    },
+    {
+      "word": "clause",
+      "definition": "A group of words containing a subject and a predicate; can be independent or dependent.",
+      "example": "Because he was tired, **he went to bed early**."
+    },
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "and, but, or, because"
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence that contains two independent clauses joined by a coordinating conjunction or semicolon.",
+      "example": "I wanted to go for a walk, **but** it started raining."
+    },
+    {
+      "word": "complex sentence",
+      "definition": "A sentence that contains an independent clause and at least one dependent clause.",
+      "example": "Although it was cold, she went outside."
+    }
+  ],
+  "content": "Welcome to the realm of American English sentence structure, where clarity and variety elevate your communication. At the intermediate level, mastering sentence construction enables you to express ideas with nuance and sophistication.\n\n**Basic Components:**\n- **Subject:** Who or what the sentence is about.\n- **Predicate:** What is said about the subject, typically containing a verb.\n\n**Simple Sentences:**\n- Consist of one independent clause.\n- Example: \"The dog barked.\"\n\n**Compound Sentences:**\n- Combine two independent clauses with a coordinating conjunction (and, but, or, so, yet, for, nor).\n- Example: \"I wanted coffee, but the store was closed.\"\n\n**Complex Sentences:**\n- Contain one independent clause and at least one dependent clause introduced by subordinating conjunctions (because, although, since, if, when).\n- Example: \"I stayed inside because it was raining.\"\n\n**Punctuation Tips:**\n- Use commas before coordinating conjunctions in compound sentences.\n- Use subordinating conjunctions at the beginning of dependent clauses.\n- Proper punctuation ensures sentence clarity and flow.\n\n**Transforming Sentences:**\n- Combine sentences for variety:\n  - Simple: \"She studies. She listens to music.\"\n  - Combined: \"She studies while she listens to music.\"\n- Add modifiers for emphasis or detail:\n  - Basic: \"He runs.\"\n  - Enhanced: \"He runs vigorously every morning.\"\n\nUnderstanding and applying these structures will turn your ordinary sentences into powerful tools of expression, making you a true GOD of American English sentence mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a compound sentence?",
+      "answer": "A) She likes tea. B) She likes tea and coffee. C) She likes tea, but she prefers coffee."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Identify whether the sentence is simple, compound, or complex: \"Although he was tired, he finished his homework.\"",
+      "answer": "Complex"
+    },
+    {
+      "type": "rewrite",
+      "question": "Combine the following sentences into a single compound sentence: \"I wanted to go to the park. It started raining.\"",
+      "answer": "I wanted to go to the park, but it started raining."
+    },
+    {
+      "type": "identify",
+      "question": "In the sentence \"She studies hard because she wants to succeed,\" what is the subordinating conjunction?",
+      "answer": "because"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued, especially in professional and academic settings. Using varied sentence structures not only demonstrates linguistic mastery but also helps in engaging your audience, whether in casual conversations or formal presentations. Americans often appreciate directness complemented by complexity, showing confidence and fluency. Understanding how to craft and connect sentences properly can significantly enhance your social and professional interactions in the U.S.",
+  "createdAt": "2025-12-24T04:53:10.531Z"
+}
