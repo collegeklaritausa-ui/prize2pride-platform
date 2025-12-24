@@ -1,0 +1,73 @@
+{
+  "id": "GM-A2-00015",
+  "number": 15,
+  "title": "Mastering Basic Verb Tenses: Your Path to English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of present, past, and future verb tenses.",
+    "Identify simple present, simple past, and simple future tense forms of common verbs.",
+    "Practice forming correct sentences using different verb tenses.",
+    "Recognize when to use each tense in everyday situations.",
+    "Build confidence in using verb tenses correctly in speaking and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "The form of a verb that shows the time of the action or state.",
+      "example": "I walk every day. (present tense) / I walked yesterday. (past tense)"
+    },
+    {
+      "word": "present tense",
+      "definition": "A verb tense that describes actions happening now or regularly.",
+      "example": "She reads books."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense used to describe actions that happened before now.",
+      "example": "They played soccer yesterday."
+    },
+    {
+      "word": "future tense",
+      "definition": "A verb tense used to describe actions that will happen later.",
+      "example": "He will visit his grandma tomorrow."
+    }
+  ],
+  "content": "Welcome to your journey to become a master of American English verb tenses! Today, we will focus on three main tenses: present, past, and future.\n\n**1. Present Tense:**\nUse the present tense to talk about things happening now or regularly. The base form of the verb is used for most subjects, except for he, she, it, where you add an -s.\n- Example: I walk to school. / She walks to school.\n\n**2. Past Tense:**\nUse the past tense to describe actions that already happened. Regular verbs add -ed at the end. Irregular verbs change form completely.\n- Example: I played soccer yesterday. / He went to the store.\n\n**3. Future Tense:**\nUse the future tense to talk about things that will happen. Often, 'will' is used before the base form of the verb.\n- Example: I will visit my friend tomorrow.\n\n**Quick Tip:** Remember, the key to mastering verb tenses is practice! Try to think about what you do daily, what you did yesterday, and what you will do tomorrow, and form sentences accordingly.\n\nLet's practice with some examples:\n- Present: I eat breakfast every morning.\n- Past: I watched a movie last night.\n- Future: I will learn English better.\n\nBy practicing these forms, you'll soon speak with confidence and clarity!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb tense: 'Yesterday, I ___ a book.'",
+      "answer": "read"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form of 'to walk': 'He ___ to school every day.'",
+      "answer": "walks"
+    },
+    {
+      "type": "true or false",
+      "question": "The sentence 'She will goes shopping tomorrow' is correct.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Write a sentence about what you are doing now using the present tense.",
+      "answer": "I am learning English."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence with the correct tense:\n1. I will visit my grandma.\n2. I visited my grandma.\n3. I visit my grandma.\n\nA. Future tense\nB. Past tense\nC. Present tense",
+      "answer": {
+        "1": "A",
+        "2": "B",
+        "3": "C"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, using the correct verb tense helps you communicate clearly and confidently. Americans value directness and clarity, especially in conversations. When talking about plans or past experiences, using the right tense shows respect for the truth and helps avoid misunderstandings. Remember, practice makes perfect—try to share your daily activities and experiences in English whenever you can!",
+  "createdAt": "2025-12-24T04:15:23.688Z"
+}

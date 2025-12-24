@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00003",
+  "number": 3,
+  "title": "Mastering the Basics: Understanding Present and Past Tenses",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify the difference between simple present and simple past tense.",
+    "Formulate sentences using the simple present tense correctly.",
+    "Formulate sentences using the simple past tense correctly.",
+    "Recognize common time expressions associated with each tense.",
+    "Apply knowledge by converting sentences from present to past tense and vice versa."
+  ],
+  "vocabulary": [
+    {
+      "word": "present tense",
+      "definition": "A verb tense used to describe habits, general truths, and current actions.",
+      "example": "She walks to school every day."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense used to describe actions that happened in the past.",
+      "example": "He watched a movie yesterday."
+    },
+    {
+      "word": "verb",
+      "definition": "A word that expresses an action or state of being.",
+      "example": "run, be, have"
+    },
+    {
+      "word": "time expressions",
+      "definition": "Words or phrases that indicate when an action occurs.",
+      "example": "today, yesterday, every day, last year"
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on the basics of verb tenses: the simple present and simple past. These tenses help you talk about what you do regularly and what you did previously.\n\n**Simple Present Tense:**\nUse this tense for routines, facts, and general truths.\n- Structure: Subject + base verb (add 's' or 'es' for third person singular)\n- Example: I eat breakfast at 7 am. / She works in a bank.\n- Common time expressions: always, usually, every day, often, sometimes.\n\n**Simple Past Tense:**\nUse this tense for actions completed in the past.\n- Structure: Subject + past form of the verb\n- Example: I watched a movie last night. / They visited New York.\n- Common time expressions: yesterday, last year, ago, in 2010.\n\n**Tips to remember:**\n- For regular verbs, add '-ed' to form the past tense.\n- Irregular verbs have unique past forms (e.g., go → went, have → had).\n\nPractice makes perfect! Use these tenses to tell stories about your daily life or past experiences. The more you practice, the more natural your sentences will become, making you a true GOD of American English!\n\nLet's move on to some practical exercises to master these tenses.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct form of the verb to complete the sentence:\nShe ____ to school every day.",
+      "answer": "goes"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Yesterday, I ____ (buy) a new book.",
+      "answer": "bought"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Rewrite the sentence in the past tense:\nThey play soccer on weekends.",
+      "answer": "They played soccer on weekends."
+    },
+    {
+      "type": "matching",
+      "question": "Match the time expressions with the correct tense:\n1. Yesterday\n2. Always\n3. Last year\n4. Usually",
+      "answer": "\n1. Past tense\n2. Present tense\n3. Past tense\n4. Present tense"
+    }
+  ],
+  "culturalNotes": "In American culture, everyday routines like grabbing coffee, commuting, and participating in sports are common topics linked to the simple present tense. Reflecting on your daily habits and past experiences helps connect language learning to real-life situations, making your journey to fluency more meaningful and engaging.",
+  "createdAt": "2025-12-24T04:14:41.114Z"
+}

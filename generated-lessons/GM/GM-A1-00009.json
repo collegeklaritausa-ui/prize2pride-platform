@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00009",
+  "number": 9,
+  "title": "Mastering American English Verb Tenses: The Foundation of Fluent Speech",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify the different verb tenses used in American English",
+    "Understand the structure of present, past, and future tenses",
+    "Use correct verb tense in simple sentences",
+    "Differentiate between simple and continuous (progressive) tenses",
+    "Build confidence to speak and write with proper verb tense usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that shows the time of an action or state of being.",
+      "example": "She walks to school every day."
+    },
+    {
+      "word": "Present Tense",
+      "definition": "The verb tense used to describe actions happening now or regularly.",
+      "example": "I eat breakfast every morning."
+    },
+    {
+      "word": "Past Tense",
+      "definition": "The verb tense used to describe actions that happened in the past.",
+      "example": "They played soccer yesterday."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "The verb tense used to describe actions that will happen later.",
+      "example": "He will visit his grandma tomorrow."
+    }
+  ],
+  "content": "Welcome to the world of American English grammar! Mastering verb tenses is essential for clear communication. In this lesson, we will focus on the three primary tenses: present, past, and future.\n\n1. Present Tense:\n- Used for routines and facts.\n- Example: She **reads** every night.\n- Forms:\n  - Simple Present: I/You/We/They **work**; He/She/It **works**.\n  - Present Continuous (for ongoing actions): I am **working** now.\n\n2. Past Tense:\n- Used for completed actions.\n- Example: I **watched** a movie yesterday.\n- Forms:\n  - Simple Past: I/You/We/They **played**; He/She/It **played**.\n  - Past Continuous (for ongoing past actions): I was **reading** when you called.\n\n3. Future Tense:\n- Used for actions that will happen.\n- Example: We **will go** to the park.\n- Forms:\n  - Simple Future: I/You/We/They **will** + base verb.\n  - Future Continuous (for ongoing future actions): I will be **traveling** next week.\n\nRemember, mastering these tenses allows you to express yourself clearly and confidently in American English. Practice forming sentences in each tense and pay attention to context clues to choose the correct form.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb tense for this sentence: She ____ to the store yesterday.",
+      "answer": "went (Past Tense)"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I ____ (study) English every day.",
+      "answer": "study (Present Tense)"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake in this sentence: They will went to the park tomorrow.",
+      "answer": "They will go to the park tomorrow."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence with the correct tense:\n1. I am eating now.\n2. I played yesterday.\n3. I will visit tomorrow.",
+      "answer": "1. Present Continuous\n2. Past Simple\n3. Future Simple"
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality and clarity in communication are valued. Using the correct verb tense is seen as a sign of professionalism and education. Whether in casual conversations or formal writing, mastering verb tenses helps you connect effectively with others and show respect for language rules.",
+  "createdAt": "2025-12-24T04:15:01.982Z"
+}

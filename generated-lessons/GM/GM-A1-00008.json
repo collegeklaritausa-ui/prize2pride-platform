@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00008",
+  "number": 8,
+  "title": "Mastering Verb Tenses: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify the three basic verb tenses: past, present, and future.",
+    "Understand how to conjugate regular verbs in different tenses.",
+    "Use simple present tense to talk about daily routines.",
+    "Form sentences correctly using past and future tenses.",
+    "Recognize common mistakes and learn how to avoid them."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "A grammatical category that indicates the time of an action or state of being.",
+      "example": "In 'I walk,' 'walk' is in the present tense."
+    },
+    {
+      "word": "conjugate",
+      "definition": "To change a verb form to match the subject and tense.",
+      "example": "To conjugate 'to be' in the present tense: I am, you are, he is."
+    },
+    {
+      "word": "regular verb",
+      "definition": "A verb that forms its past tense by adding -ed or -d.",
+      "example": "Walk → walked, talk → talked."
+    }
+  ],
+  "content": "Welcome to Lesson 8: Mastering Verb Tenses! Becoming a GOD of American English requires understanding how verbs change depending on when actions happen. Let's explore the three basic tenses:\n\n1. Present Tense: Use this to talk about habits, facts, or routines.\n   - Example: I eat breakfast every morning.\n\n2. Past Tense: Use this to describe actions that already happened.\n   - Example: Yesterday, I watched a movie.\n\n3. Future Tense: Use this for actions that will happen.\n   - Example: Tomorrow, I will go to the park.\n\n**Conjugation Tips:**\n- Regular verbs add -ed for past tense: walk → walked.\n- To form the future tense, use 'will' + base verb: will go, will eat.\n\n**Practice:**\n- Affirmative sentences in present: I work, She studies.\n- Past tense sentences: I worked, She studied.\n- Future tense sentences: I will work, She will study.\n\nRemember, mastering these tenses allows you to communicate clearly about past, present, and future actions — the foundation of fluent American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct sentence in the present tense.",
+      "answer": "She walks to school every day."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Yesterday, I ____ (visit) my grandma.",
+      "answer": "visited"
+    },
+    {
+      "type": "Sentence formation",
+      "question": "Write a sentence about your plans for tomorrow using the future tense.",
+      "answer": "I will go to the gym tomorrow."
+    }
+  ],
+  "culturalNotes": "In American English, simple present tense is often used to describe routines and daily habits, reflecting the busy and goal-oriented culture. Americans value clarity and directness, so mastering verb tenses helps you communicate confidently and effectively in everyday conversations, business, and social interactions.",
+  "createdAt": "2025-12-24T04:14:58.289Z"
+}

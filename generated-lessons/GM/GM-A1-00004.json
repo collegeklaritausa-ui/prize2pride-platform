@@ -1,0 +1,79 @@
+{
+  "id": "GM-A1-00004",
+  "number": 4,
+  "title": "Mastering Verb Tenses: The Foundation of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic present, past, and future verb tenses",
+    "Identify and use simple present tense in sentences",
+    "Form and recognize simple past tense verbs",
+    "Express future intentions using 'will' and 'going to'",
+    "Apply verb tenses correctly in everyday conversations"
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A form of a verb that shows the time of an action or state of being.",
+      "example": "She **walks** to school every day."
+    },
+    {
+      "word": "Simple Present",
+      "definition": "A verb tense used to describe habitual actions or general truths.",
+      "example": "He **reads** books."
+    },
+    {
+      "word": "Simple Past",
+      "definition": "A verb tense used to describe actions completed in the past.",
+      "example": "They **played** soccer yesterday."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A verb tense used to talk about actions that will happen.",
+      "example": "I **will visit** my grandma tomorrow."
+    },
+    {
+      "word": "Going to",
+      "definition": "A phrase used to express a planned future action.",
+      "example": "She **is going to buy** a new car."
+    }
+  ],
+  "content": "Welcome to Lesson 4: Verb Tenses! Today, we will become GODS of American English by mastering the fundamental verb tenses.\n\nFirst, let's look at the **Simple Present** tense. This tense tells us about routines and facts. For example, 'I eat breakfast every morning.' Notice how we add an 's' for he, she, or it: 'He **runs** fast.'\n\nNext, the **Simple Past** tense is used for actions completed in the past. Regular verbs typically add '-ed': 'They **walked** to the park.' Irregular verbs change form: 'She **went** to the store.'\n\nFinally, the **Future Tense** shows what will happen. Use 'will' + base verb: 'I **will call** you later.' Or, use 'going to' for plans: 'We **are going to visit** grandma this weekend.'\n\nRemember, mastering these tenses will help you communicate clearly about past, present, and future actions in American English.\n\nPractice makes perfect! Keep practicing these forms with real-life examples to become a true GOD of American English verb tenses.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "She ____ (go) to the gym every morning.",
+      "answer": "goes"
+    },
+    {
+      "type": "Multiple choice",
+      "question": "Which sentence is in the past tense?",
+      "answer": "They **played** soccer yesterday.",
+      "options": [
+        "They **play** soccer yesterday.",
+        "They **played** soccer yesterday.",
+        "They **will play** soccer yesterday."
+      ]
+    },
+    {
+      "type": "Rewrite",
+      "question": "Change this sentence to future tense: 'I eat breakfast.'",
+      "answer": "I **will eat** breakfast."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the tense to its example:",
+      "answer": {
+        "Simple Present": "She reads books.",
+        "Simple Past": "They played soccer.",
+        "Future Tense": "I will visit my friend.",
+        "Going to": "She is going to buy a gift."
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, expressing future plans with 'going to' is very common, especially when talking about intentions or scheduled activities. For example, 'I'm going to see a movie tonight' is a typical way Americans talk about their plans. Using correct verb tenses helps you sound confident and clear, which is highly valued in American social and professional settings.",
+  "createdAt": "2025-12-24T04:14:44.785Z"
+}

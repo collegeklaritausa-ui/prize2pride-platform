@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00001",
+  "number": 1,
+  "title": "Mastering Verb Tenses: The Foundations of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of verb tenses and their importance in communication.",
+    "Identify and differentiate between present, past, and future tenses.",
+    "Formulate simple sentences using basic verb tenses correctly.",
+    "Recognize common errors in verb tense usage and how to avoid them.",
+    "Apply verb tenses confidently in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "The form of a verb that shows the time of an action or state of being.",
+      "example": "In 'She walks to school,' 'walks' is in the present tense."
+    },
+    {
+      "word": "Present Tense",
+      "definition": "A verb tense that describes current actions or general truths.",
+      "example": "I eat breakfast every morning."
+    },
+    {
+      "word": "Past Tense",
+      "definition": "A verb tense that describes actions that happened previously.",
+      "example": "They played soccer yesterday."
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A verb tense that describes actions that will happen later.",
+      "example": "She will visit her friend tomorrow."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on verb tenses, the backbone of clear communication.\n\n**What are verb tenses?**\nVerb tenses tell us when an action happens: now, before now, or later.\n\n**Present Tense:**\n- Used for actions happening now or regular routines.\n- Example: I work every day.\n\n**Past Tense:**\n- Used for actions that already happened.\n- Example: I watched a movie yesterday.\n\n**Future Tense:**\n- Used for actions that will happen.\n- Example: I will go to the park tomorrow.\n\n**Forming the tenses:**\n- Present: base form of the verb (add 's' for he/she/it).\n- Past: add '-ed' for regular verbs.\n- Future: 'will' + base verb.\n\n**Quick tip:** Be mindful of irregular verbs like 'go' (went), 'buy' (bought), which do not follow regular patterns.\n\nPractice makes perfect. Mastering these tenses will make your speech clear and confident!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence in the past tense:",
+      "answer": "She visited her grandmother yesterday."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I ____ (to walk) to school every day.",
+      "answer": "walk"
+    },
+    {
+      "type": "true/false",
+      "question": "The sentence 'They will plays soccer tomorrow' is correct.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Form a sentence in the future tense using 'study'.",
+      "answer": "I will study tonight."
+    }
+  ],
+  "culturalNotes": "In American culture, expressing time accurately with verb tenses is valued in both professional and casual settings. It shows clarity and respect for the listener or reader. Whether informing colleagues, friends, or in interviews, mastering verb tenses enhances your credibility and helps you connect effectively within the American social context.",
+  "createdAt": "2025-12-24T04:14:34.228Z"
+}

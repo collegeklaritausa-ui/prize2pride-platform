@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00002",
+  "number": 2,
+  "title": "Mastering Verb Tenses: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify the three primary verb tenses: past, present, and future.",
+    "Formulate sentences using simple present, past, and future tenses correctly.",
+    "Understand when to use each tense in everyday conversations.",
+    "Recognize common time expressions associated with each tense.",
+    "Gain confidence in speaking and writing with proper verb tense usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "The form of a verb that shows the time of an action or state.",
+      "example": "In 'I walk to school,' 'walk' is in the present tense."
+    },
+    {
+      "word": "simple present",
+      "definition": "A tense used to describe habitual actions, general truths, or facts.",
+      "example": "She reads every day."
+    },
+    {
+      "word": "simple past",
+      "definition": "A tense used to describe completed actions in the past.",
+      "example": "He visited his grandma yesterday."
+    },
+    {
+      "word": "simple future",
+      "definition": "A tense used to talk about actions that will happen.",
+      "example": "They will travel next month."
+    }
+  ],
+  "content": "Welcome to your journey of becoming a GOD of American English verb tenses! In this lesson, we will explore the three main tenses: present, past, and future. Mastering these is essential for clear communication.\n\n1. **Simple Present**\n- Use it to describe routines, facts, or general truths.\n- Example: 'I eat breakfast every morning.'\n- Common expressions: always, never, usually, sometimes.\n\n2. **Simple Past**\n- Use it for actions completed in the past.\n- Example: 'She visited New York last summer.'\n- Signal words: yesterday, last week, ago.\n\n3. **Simple Future**\n- Use it to talk about what will happen.\n- Example: 'We will see the movie tomorrow.'\n- Signal words: tomorrow, next week, in the future.\n\n**Tip:** Remember, in American English, contractions are common: 'I will' becomes 'I'll', 'You will' becomes 'You'll', 'He will' becomes 'He'll'.\n\nBy mastering these tenses and their uses, you'll be able to speak about yesterday, today, and tomorrow with confidence—your first step toward American English mastery!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct tense for the sentence: 'She ___ to the store yesterday.'",
+      "answer": "went"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct form of the verb: 'I ___ (study) for my test every evening.'",
+      "answer": "study"
+    },
+    {
+      "type": "true/false",
+      "question": "The sentence 'They will go to the park tomorrow' is in the future tense.",
+      "answer": "true"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the mistake: 'He plays soccer last Saturday.'",
+      "answer": "He played soccer last Saturday."
+    }
+  ],
+  "culturalNotes": "In American culture, expressing plans or routines with simple present and future tenses is common in both formal and informal conversations. Americans often use contractions in speech, making sentences sound more natural and friendly. Understanding and using proper verb tenses will help you connect better in social settings, business, and everyday interactions across the United States.",
+  "createdAt": "2025-12-24T04:14:37.575Z"
+}

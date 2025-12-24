@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00011",
+  "number": 11,
+  "title": "Mastering Basic Verb Tenses: Your First Step to English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of present, past, and future tenses.",
+    "Identify and correctly use simple present tense in sentences.",
+    "Recognize and form the simple past tense of regular verbs.",
+    "Use the simple future tense with 'will' to express plans and predictions.",
+    "Build confidence in forming basic sentences using different verb tenses."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "A form of a verb that shows the time of an action.",
+      "example": "The verb 'run' changes to 'ran' in the past tense."
+    },
+    {
+      "word": "present tense",
+      "definition": "A verb tense that describes actions happening now or regularly.",
+      "example": "I walk to school every day."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense that describes actions that happened in the past.",
+      "example": "She watched a movie yesterday."
+    },
+    {
+      "word": "future tense",
+      "definition": "A verb tense that describes actions that will happen.",
+      "example": "They will travel to New York tomorrow."
+    }
+  ],
+  "content": "Welcome to your first step toward becoming a GOD of American English! Today, we will learn about three basic verb tenses: present, past, and future.\n\n1. Present Tense:\nThe present tense tells us what happens regularly or what is happening now. For most verbs, add an 's' or 'es' in the third person singular.\n- Example: I walk, You walk, He walks.\n\n2. Past Tense:\nThe past tense describes actions that already happened. For regular verbs, add '-ed' at the end.\n- Example: I walked, She played.\nNote: Some verbs are irregular and do not follow this rule (e.g., go → went, see → saw).\n\n3. Future Tense:\nThe future tense is used to talk about what will happen. Use 'will' + verb.\n- Example: I will help, They will arrive.\n\nPractice makes perfect! Mastering these tenses allows you to speak about your daily routines, past experiences, and future plans with confidence.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct form of the verb in parentheses: She ____ (go) to the store every Saturday.",
+      "answer": "goes"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Yesterday, I ____ (walk) to school.",
+      "answer": "walked"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Write a sentence about your plans tomorrow using the future tense.",
+      "answer": "I will study for my test tomorrow."
+    },
+    {
+      "type": "true/false",
+      "question": "The verb 'speak' changes to 'spoke' in the past tense. True or False?",
+      "answer": "True"
+    },
+    {
+      "type": "matching",
+      "question": "Match the verb tense to its description:\nA) Present tense\nB) Past tense\nC) Future tense\n\n1) Describes actions happening now.\n2) Describes actions that already happened.\n3) Describes actions that will happen.",
+      "answer": "A-1, B-2, C-3"
+    }
+  ],
+  "culturalNotes": "In American culture, using correct verb tenses is essential for clear communication, especially in professional and social settings. Americans value punctuality and clarity, so mastering verb tenses helps you express yourself confidently and be understood. When talking about plans or experiences, using the correct tense shows respect for the conversation and your listener's understanding.",
+  "createdAt": "2025-12-24T04:15:09.653Z"
+}

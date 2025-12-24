@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00012",
+  "number": 12,
+  "title": "Mastering Basic Verb Tenses: The Foundation of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of present, past, and future verb tenses.",
+    "Identify and use simple present tense correctly in sentences.",
+    "Identify and use simple past tense correctly in sentences.",
+    "Identify and use simple future tense correctly in sentences.",
+    "Apply basic verb tenses to everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "The form of a verb that shows the time of an action or state.",
+      "example": "I walk to school every day. (present tense); I walked to school yesterday. (past tense)"
+    },
+    {
+      "word": "simple present",
+      "definition": "A verb tense used for habits, facts, and general truths.",
+      "example": "She reads books every night."
+    },
+    {
+      "word": "simple past",
+      "definition": "A verb tense used to describe actions completed in the past.",
+      "example": "They watched a movie last weekend."
+    },
+    {
+      "word": "simple future",
+      "definition": "A verb tense used to describe actions that will happen in the future.",
+      "example": "I will visit my friend tomorrow."
+    }
+  ],
+  "content": "Welcome to the world of American English! Today, we focus on understanding and using the three basic verb tenses: present, past, and future. These tenses help you talk about what you do, what you did, and what you will do.\n\n1. Simple Present Tense:\n- Use for habits, routines, facts, and truths.\n- Example: I eat breakfast every morning.\n- Structure: Subject + base verb (add 's' or 'es' for he, she, it)\n- Example sentences:\n  - I play soccer.\n  - She works at a bank.\n\n2. Simple Past Tense:\n- Use for completed actions in the past.\n- Example: They visited the museum yesterday.\n- Structure: Subject + past tense of the verb (regular verbs end with -ed)\n- Example sentences:\n  - I watched a movie.\n  - He studied for the test.\n\n3. Simple Future Tense:\n- Use for actions that will happen.\n- Example: We will go to the park tomorrow.\n- Structure: Subject + will + base verb\n- Example sentences:\n  - I will call you later.\n  - They will travel next week.\n\nPractice makes perfect! Understanding these tenses allows you to speak clearly about your routines, past experiences, and future plans. Keep practicing with everyday sentences to become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb form: I ____ (go) to the gym every day.",
+      "answer": "go"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Yesterday, I ____ (buy) a new book.",
+      "answer": "bought"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Which sentence is in the future tense?",
+      "answer": "She will visit her grandmother tomorrow."
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct this sentence: He walk to school every morning.",
+      "answer": "He walks to school every morning."
+    }
+  ],
+  "culturalNotes": "In American culture, daily routines and punctuality are valued, so mastering verb tenses helps you describe your habits and plans accurately. Whether discussing sports, work, or social activities, clear communication about time is essential. Americans often use the simple present tense for routines and general truths, making it a fundamental part of everyday conversation.",
+  "createdAt": "2025-12-24T04:15:13.231Z"
+}

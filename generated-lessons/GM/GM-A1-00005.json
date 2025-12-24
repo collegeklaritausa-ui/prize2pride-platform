@@ -1,0 +1,69 @@
+{
+  "id": "GM-A1-00005",
+  "number": 5,
+  "title": "Mastering Verb Tenses: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify and differentiate between present, past, and future verb tenses.",
+    "Use the correct form of verbs in simple present, simple past, and simple future sentences.",
+    "Understand when to apply each verb tense in everyday conversations.",
+    "Improve sentence accuracy by matching verbs with appropriate time frames.",
+    "Build confidence in speaking and writing using basic verb tenses correctly."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "A grammatical category that expresses the time when an action occurs.",
+      "example": "In the sentence 'She walks to school,' 'walks' is in the present tense."
+    },
+    {
+      "word": "present tense",
+      "definition": "A verb tense indicating actions happening now or regularly.",
+      "example": "I eat breakfast every morning."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense indicating actions that already happened.",
+      "example": "They watched a movie yesterday."
+    },
+    {
+      "word": "future tense",
+      "definition": "A verb tense indicating actions that will happen.",
+      "example": "She will travel to Paris next year."
+    }
+  ],
+  "content": "Welcome to the world of verb tenses! Mastering verb tenses is essential for clear communication in American English. Let's start with the basics:\n\n1. Present Tense:\n- Used for habits, facts, and current actions.\n- Example: I work from home.\n\n2. Past Tense:\n- Used for actions that have already happened.\n- Example: He played soccer yesterday.\n\n3. Future Tense:\n- Used for actions that will happen.\n- Example: We will visit the museum tomorrow.\n\n**Forming the Tenses:**\n- Present: Base verb (add 's' for he, she, it)\n  - Example: She runs every day.\n- Past: Usually add '-ed' (regular verbs)\n  - Example: They traveled last summer.\n- Future: Use 'will' + base verb\n  - Example: I will call you later.\n\n**Practice Tips:**\n- Use time markers like 'today,' 'yesterday,' 'tomorrow' to choose the correct tense.\n- Keep verbs consistent within your sentences.\n\nUnderstanding and practicing these tenses will help you speak confidently about any time frame in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb form: \n\nShe ____ (go) to the store yesterday.",
+      "answer": "went"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I ____ (eat) breakfast every morning.",
+      "answer": "eat"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify the mistake and correct it: 'He will goes to the park tomorrow.'",
+      "answer": "He will go to the park tomorrow."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence to its correct tense:\n\na) She is reading a book.\n\nb) They played football.\n\nc) I will visit my grandma.\n",
+      "answer": "a) Present tense\nb) Past tense\nc) Future tense"
+    },
+    {
+      "type": "short answer",
+      "question": "Describe what you do on weekends using the present tense.",
+      "answer": "Example: I watch movies and go shopping."
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality and clarity are valued. Using correct verb tenses helps convey your message accurately, especially in professional and social settings. Americans often appreciate direct communication, so practicing these tenses enhances your confidence in everyday interactions, from conversations with friends to business meetings.",
+  "createdAt": "2025-12-24T04:14:48.293Z"
+}

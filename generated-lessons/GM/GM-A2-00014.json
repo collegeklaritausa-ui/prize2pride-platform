@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00014",
+  "number": 14,
+  "title": "Mastering Verb Tenses: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic verb tenses in American English (present, past, future).",
+    "Identify and use the correct verb tense in simple sentences.",
+    "Distinguish between regular and irregular verbs in different tenses.",
+    "Practice forming sentences using different verb tenses correctly.",
+    "Gain confidence to speak about daily activities using appropriate verb tenses."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "The form of a verb that shows the time of the action or state of being.",
+      "example": "In the sentence 'I walk,' 'walk' is in the present tense."
+    },
+    {
+      "word": "present tense",
+      "definition": "A verb tense that describes actions happening now or regularly.",
+      "example": "She eats breakfast every morning."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense that describes actions that have already happened.",
+      "example": "They visited the museum yesterday."
+    },
+    {
+      "word": "future tense",
+      "definition": "A verb tense that describes actions that will happen.",
+      "example": "I will call you tomorrow."
+    },
+    {
+      "word": "regular verbs",
+      "definition": "Verbs that form the past tense by adding '-ed'.",
+      "example": "talk → talked, walk → walked"
+    },
+    {
+      "word": "irregular verbs",
+      "definition": "Verbs that do not follow the usual '-ed' pattern in the past tense.",
+      "example": "go → went, see → saw"
+    }
+  ],
+  "content": "Welcome to the world of American English verb tenses! In this lesson, we'll explore how to talk about actions happening now, in the past, or in the future.\n\n**Present Tense:** Use the base form of the verb for habits, facts, or routines. Example: 'I work every day.' For he, she, it, add '-s' or '-es': 'He works on weekends.'\n\n**Past Tense:** Describe completed actions. Regular verbs add '-ed': 'I played soccer yesterday.' Irregular verbs change form: 'She went to the store.'\n\n**Future Tense:** Talk about what will happen using 'will' + base verb: 'They will travel next summer.'\n\n**Practice Tips:**\n- Regular verbs follow the same pattern. Example: 'talk → talked,' 'play → played.'\n- Irregular verbs have unique forms. Memorize common ones such as 'be → was/were,' 'have → had,' 'go → went.'\n\nMastering these tenses will allow you to confidently discuss your daily routines, past experiences, and future plans, making your American English sound natural and fluent!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb form: 'Yesterday, I ____ a movie.'",
+      "answer": "watched"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'Tomorrow, she ____ (go) to the park.'",
+      "answer": "will go"
+    },
+    {
+      "type": "matching",
+      "question": "Match the verb to its past tense:\n1. Go\n2. Talk\n3. Be\n\nA. Went\nB. Talked\nC. Was/Were",
+      "answer": "1-A, 2-B, 3-C"
+    }
+  ],
+  "culturalNotes": "In American culture, using the correct verb tense is essential for clear communication, especially when sharing experiences, making plans, or describing routines. Americans value clarity and directness, so mastering tenses helps you express yourself confidently in everyday conversations, business, and social settings. Remember, practicing storytelling about your day or past experiences can make your language skills more natural and engaging!",
+  "createdAt": "2025-12-24T04:15:19.815Z"
+}

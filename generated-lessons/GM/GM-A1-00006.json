@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00006",
+  "number": 6,
+  "title": "Mastering the Basics: Present and Past Tenses for American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the use of simple present tense in everyday situations",
+    "Identify the simple past tense and its usage",
+    "Form correct sentences using present and past tense",
+    "Differentiate between regular and irregular verbs in past tense",
+    "Apply tense knowledge to improve spoken and written communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "present tense",
+      "definition": "A verb tense used to describe current actions, habits, or general truths.",
+      "example": "She walks to school every day."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense used to describe actions that happened in the past.",
+      "example": "They visited the museum yesterday."
+    },
+    {
+      "word": "regular verbs",
+      "definition": "Verbs that form their past tense by adding -ed.",
+      "example": "talk → talked, walk → walked"
+    },
+    {
+      "word": "irregular verbs",
+      "definition": "Verbs that do not follow the standard -ed pattern in past tense.",
+      "example": "go → went, have → had"
+    }
+  ],
+  "content": "Welcome to Lesson 6: Verb Tenses - your gateway to speaking and writing confidently in American English! Today, we'll focus on two fundamental tenses: the simple present and simple past.\n\n**Simple Present Tense:**\nUse this tense to talk about habits, routines, facts, and general truths.\n- *Examples:*\n  - I eat breakfast every morning.\n  - The sun rises in the east.\n  - She works at a bank.\n\n**Forming the Simple Present:**\n- For most subjects (I, you, we, they), use the base form of the verb.\n- For he, she, it, add -s or -es to the verb.\n- *Examples:* I run, He runs, They play.\n\n**Simple Past Tense:**\nUse this tense to describe actions completed in the past.\n- *Examples:*\n  - I visited my grandma yesterday.\n  - They watched a movie last night.\n\n**Forming the Simple Past:**\n- For regular verbs, add -ed to the base form.\n- For irregular verbs, memorize their past forms (e.g., go → went, see → saw).\n- *Examples:* walk → walked, go → went.\n\nBy mastering these tenses, you'll be able to talk about your daily routines and past experiences with clarity and confidence! Practice makes perfect – keep using these tenses in your conversations and writing.\n\nNow, let’s move on to some exercises to reinforce your learning.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences is in the present tense?",
+      "answer": "She **drinks** coffee every morning."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Yesterday, I ____ (visit) my friend.",
+      "answer": "visited"
+    },
+    {
+      "type": "matching",
+      "question": "Match the verb to its past tense:\n1. Go\n2. Talk\n3. Have\n\nA. Went\nB. Talked\nC. Had",
+      "answer": "1-A, 2-B, 3-C"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the tense: She go to the store yesterday.",
+      "answer": "She went to the store yesterday."
+    }
+  ],
+  "culturalNotes": "In American culture, daily routines and past experiences are often shared informally with friends and family. Using correct verb tenses helps you tell stories, share habits, and participate fully in conversations. Americans value clear communication, so mastering these tenses will greatly enhance your social and professional interactions.",
+  "createdAt": "2025-12-24T04:14:51.722Z"
+}

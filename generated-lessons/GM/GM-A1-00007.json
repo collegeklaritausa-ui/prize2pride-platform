@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00007",
+  "number": 7,
+  "title": "Mastering the Basics: Present Simple and Present Continuous",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the structure of the Present Simple tense.",
+    "Identify when to use the Present Simple tense in everyday situations.",
+    "Understand the structure of the Present Continuous tense.",
+    "Identify when to use the Present Continuous tense in everyday situations.",
+    "Differentiate between Present Simple and Present Continuous with examples."
+  ],
+  "vocabulary": [
+    {
+      "word": "present simple",
+      "definition": "A verb tense used to describe habits, routines, facts, and general truths.",
+      "example": "She walks to school every day."
+    },
+    {
+      "word": "present continuous",
+      "definition": "A verb tense used to describe actions happening right now or temporary situations.",
+      "example": "He is reading a book now."
+    }
+  ],
+  "content": "Welcome to Lesson 7: Verb Tenses – the foundation of clear communication in English!\n\nToday, we'll focus on two essential present tense forms: the Present Simple and the Present Continuous.\n\n**Present Simple**\n- Structure: Subject + base verb (+ s/es for third person singular)\n- Usage:\n  - To describe habits and routines (e.g., I eat breakfast every morning.)\n  - To state facts (e.g., The sun rises in the east.)\n  - To express general truths (e.g., Water boils at 100°C.)\n\n**Examples:**\n- I work in downtown Chicago.\n- She plays soccer on weekends.\n- They live near the park.\n\n**Present Continuous**\n- Structure: Subject + am/is/are + verb ending in -ing\n- Usage:\n  - To describe actions happening right now (e.g., She is cooking dinner.)\n  - To talk about temporary situations (e.g., I am staying with a friend this week.)\n  - To describe changing or developing situations (e.g., The weather is getting colder.)\n\n**Examples:**\n- I am studying for my English test.\n- He is working on a project today.\n- We are watching a movie now.\n\nUnderstanding the difference:\n- Use Present Simple for routines and facts.\n- Use Present Continuous for actions happening right now.\n\nLet's look at some quick tips:\n- Add 's' or 'es' for third person singular in Present Simple.\n- Use 'am,' 'is,' or 'are' + verb + -ing' to form Present Continuous.\n\nPractice makes perfect! Now, let’s move on to exercises to test your skills.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct form of the verb: She ____ (walk) to school every day.",
+      "answer": "walks"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "They ____ (study) English right now.",
+      "answer": "are studying"
+    },
+    {
+      "type": "true/false",
+      "question": "The sentence 'He is playing football' describes a routine. True or False?",
+      "answer": "False"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence to its tense:\n1. I eat breakfast at 7 am.\n2. I am eating breakfast now.",
+      "answer": "1. Present Simple, 2. Present Continuous"
+    }
+  ],
+  "culturalNotes": "In American culture, discussing daily routines and current activities is common in casual conversations. Using the correct verb tense helps you share routines (e.g., going to work or school) and immediate actions confidently, making your speech sound natural and authentic.",
+  "createdAt": "2025-12-24T04:14:55.074Z"
+}

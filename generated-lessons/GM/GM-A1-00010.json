@@ -1,0 +1,69 @@
+{
+  "id": "GM-A1-00010",
+  "number": 10,
+  "title": "Mastering Verb Tenses: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Verb Tenses",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic verb tenses in American English: present, past, and future.",
+    "Identify the correct verb tense to use in different everyday situations.",
+    "Formulate sentences using simple present, simple past, and simple future tenses.",
+    "Recognize common irregular verbs and their past tense forms.",
+    "Apply verb tenses correctly to improve clarity and communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "verb tense",
+      "definition": "The form of a verb that shows the time of the action or state of being.",
+      "example": "In the sentence 'I walk to school,' 'walk' is in the present tense."
+    },
+    {
+      "word": "present tense",
+      "definition": "A verb tense used to describe actions happening now or regularly.",
+      "example": "She reads every day."
+    },
+    {
+      "word": "past tense",
+      "definition": "A verb tense used to describe actions that happened before now.",
+      "example": "They visited the museum yesterday."
+    },
+    {
+      "word": "future tense",
+      "definition": "A verb tense used to describe actions that will happen later.",
+      "example": "He will start his homework tomorrow."
+    }
+  ],
+  "content": "Welcome to Lesson #10: Verb Tenses! Today, we will learn how to talk about actions in the present, past, and future — the foundation of clear communication in American English.\n\n**1. Present Tense:**\nUse the present tense to describe routines, facts, and general truths.\n- Example: 'I eat breakfast at 7 am.'\n- Formation: Base form of the verb for most subjects (I, you, we, they); add 's' or 'es' for he, she, it (e.g., 'He works').\n\n**2. Past Tense:**\nUse the past tense for actions completed in the past.\n- Regular verbs add '-ed' (walk → walked).\n- Irregular verbs change form (go → went; see → saw).\n- Example: 'We watched a movie yesterday.'\n\n**3. Future Tense:**\nUse 'will' + base verb to talk about the future.\n- Example: 'She will visit her friend tomorrow.'\n- Formation: Subject + will + verb.\n\n**Tip:** Consistent use of tenses helps others understand when actions happen. Practice regularly to become confident!\n\n**Examples in Sentences:**\n- Present: 'I drive to work every day.'\n- Past: 'I drove to work yesterday.'\n- Future: 'I will drive to work tomorrow.'\n\nRemember, mastering these tenses makes your communication clear and effective. Keep practicing these forms in your daily conversations!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct verb tense for this sentence: 'Today, I ____ (walk) to school.'",
+      "answer": "walk"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Last week, she ____ (visit) her grandparents.",
+      "answer": "visited"
+    },
+    {
+      "type": "true or false",
+      "question": "The sentence 'He will eats dinner soon' is correct.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Write a sentence about your plans for tomorrow using the future tense.",
+      "answer": "I will study for my test tomorrow."
+    },
+    {
+      "type": "matching",
+      "question": "Match the verb with its past tense:\n- Go\n- See\n- Walk\n- Eat",
+      "answer": "Go - went; See - saw; Walk - walked; Eat - ate"
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality and routine are highly valued, especially in educational and professional settings. Using correct verb tenses when speaking or writing demonstrates clarity, professionalism, and respect for communication norms. Americans often appreciate directness and precision, so mastering verb tenses will help you express ideas confidently and effectively in everyday interactions.",
+  "createdAt": "2025-12-24T04:15:06.071Z"
+}
