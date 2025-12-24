@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00195",
+  "number": 195,
+  "title": "Mastering Modal Verbs: Unleash Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the function and importance of modal verbs in American English.",
+    "Identify and correctly use common modal verbs in various contexts.",
+    "Differentiate between similar modal verbs based on nuance and meaning.",
+    "Apply modal verbs accurately in speaking and writing to convey ability, possibility, permission, and obligation.",
+    "Develop the confidence to incorporate modal verbs naturally in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, ability, or obligation.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Must",
+      "definition": "Indicates obligation or necessity.",
+      "example": "You must finish your homework before dinner."
+    },
+    {
+      "word": "Can",
+      "definition": "Expresses ability or possibility.",
+      "example": "I can play the guitar."
+    },
+    {
+      "word": "Should",
+      "definition": "Suggests recommendation or moral obligation.",
+      "example": "You should see a doctor."
+    },
+    {
+      "word": "May",
+      "definition": "Expresses permission or possibility.",
+      "example": "May I leave early today?"
+    }
+  ],
+  "content": "Modal verbs are essential tools in American English that help us convey various shades of meaning related to ability, possibility, permission, necessity, and obligation. Unlike regular verbs, modal verbs do not change form for different subjects and are always followed by the base form of the main verb.\n\n**Common Modal Verbs and Their Uses:**\n- **Can:** Used to express ability or possibility. \n  - *Example:* I can solve this problem.\n- **Could:** Past ability or polite requests. \n  - *Example:* Could you help me?\n- **May:** Permission or possibility.\n  - *Example:* May I use your phone?\n- **Might:** Less certain possibility.\n  - *Example:* It might rain today.\n- **Must:** Strong obligation or necessity.\n  - *Example:* You must wear a seatbelt.\n- **Shall:** Formal suggestion or future intention (more common in British English but used in American legal and formal contexts).\n- **Should:** Advice or moral obligation.\n  - *Example:* You should study harder.\n- **Will:** Future intention or promise.\n  - *Example:* I will call you tomorrow.\n- **Would:** Polite requests or hypothetical situations.\n  - *Example:* Would you like some coffee?\n\n**Using Modal Verbs Correctly:**\n- Modal verbs are followed by the base form of the main verb: *She can dance.*\n- To form negatives, add 'not' after the modal: *She cannot (can't) attend.*\n- For questions, invert the modal verb and the subject: *Can you help?*\n\nMastering modal verbs allows you to speak and write with clarity and confidence, making your American English sound more natural and persuasive.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb to complete the sentence: 'You ___ see a doctor if you're feeling sick.'",
+      "answer": "should"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Fill in the blank with the appropriate modal verb: 'I ____ swim when I was five years old.'",
+      "answer": "could"
+    },
+    {
+      "type": "True or False",
+      "question": "The sentence 'He must to finish his homework' is grammatically correct.",
+      "answer": "False"
+    },
+    {
+      "type": "Sentence Formation",
+      "question": "Rewrite the sentence as a question: 'You can drive a car.'",
+      "answer": "Can you drive a car?"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain the difference in meaning between 'may' and 'might'.",
+      "answer": "'May' indicates a higher possibility or permission, often used for formal requests, whereas 'might' suggests a lower possibility or uncertainty."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are frequently used in informal and formal settings to politely make requests, offer suggestions, or indicate obligations. For example, saying 'You should try this' is common in casual advice, while 'May I leave early?' reflects politeness. Understanding how to effectively use modal verbs helps you navigate social interactions with confidence, whether you're making plans, giving advice, or asking for permission. Additionally, the American emphasis on directness and clarity in communication often leads to the frequent use of modal verbs to express certainty and politeness simultaneously.",
+  "createdAt": "2025-12-24T04:27:37.196Z"
+}

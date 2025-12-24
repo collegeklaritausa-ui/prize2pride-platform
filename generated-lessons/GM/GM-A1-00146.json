@@ -1,0 +1,74 @@
+{
+  "id": "GM-A1-00146",
+  "number": 146,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the function of modal verbs in American English.",
+    "Identify common modal verbs used in everyday conversations.",
+    "Use modal verbs correctly in positive and negative sentences.",
+    "Construct questions using modal verbs.",
+    "Improve fluency and confidence in speaking and writing with modal verbs."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or permission.",
+      "example": "I can swim."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses necessity or obligation.",
+      "example": "You must finish your homework."
+    },
+    {
+      "word": "should",
+      "definition": "Gives advice or recommendations.",
+      "example": "You should eat more vegetables."
+    },
+    {
+      "word": "might",
+      "definition": "Expresses possibility or uncertainty.",
+      "example": "It might rain today."
+    },
+    {
+      "word": "could",
+      "definition": "Expresses possibility or past ability.",
+      "example": "She could sing when she was five."
+    }
+  ],
+  "content": "Welcome to the world of modal verbs, the secret weapons of American English! Modal verbs are special words that help you express ability, possibility, permission, obligation, and advice. They are simple but powerful tools to make your speech more natural and fluent.\n\n**Common Modal Verbs and Their Uses:**\n- **Can:** Use to show ability or ask for permission.\n  - Example: I can drive a car.\n- **Must:** Use to show necessity or strong obligation.\n  - Example: You must wear a seatbelt.\n- **Should:** Use to give advice or suggestions.\n  - Example: You should see a doctor.\n- **Might:** Use to talk about possibility or uncertainty.\n  - Example: She might come to the party.\n- **Could:** Use to discuss past ability or possibility.\n  - Example: We could go to the beach.\n\n**Forming Sentences:**\n- Affirmative: Subject + modal verb + base verb\n  - I can swim.\n- Negative: Subject + modal verb + not + base verb\n  - I cannot (can't) swim.\n- Questions: Modal verb + subject + base verb?\n  - Can you swim?\n\n**Tips for Using Modal Verbs:**\n- Remember not to add 's' or 'ed' after the modal.\n- Use the base form of the main verb after the modal.\n- Practice makes perfect! Use modal verbs in your daily conversations to sound more confident.\n\nReady to become a modal verb master? Let’s practice and speak like a pro!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: I ___ go to the party if I finish my homework.",
+      "answer": "might"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "You ___ wear a helmet when riding a bike.",
+      "answer": "must"
+    },
+    {
+      "type": "true/false",
+      "question": "You can use 'should' to give advice. (True/False)",
+      "answer": "True"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Make a question using 'can' about ability.",
+      "answer": "Can you cook?"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence in negative form: She can play the piano.",
+      "answer": "She cannot (can't) play the piano."
+    }
+  ],
+  "culturalNotes": "In American culture, polite requests often involve modal verbs like 'could' or 'would,' especially in formal or polite contexts. Understanding how to use modal verbs appropriately helps you sound respectful and confident. For example, saying 'Could you help me?' is polite and friendly. Americans value directness combined with politeness, and mastery of modal verbs is key to effective communication in social and professional settings.",
+  "createdAt": "2025-12-24T04:24:20.167Z"
+}

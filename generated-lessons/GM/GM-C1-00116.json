@@ -1,0 +1,64 @@
+{
+  "id": "GM-C1-00116",
+  "number": 116,
+  "title": "Mastering Advanced Conditionals: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Analyze and differentiate between zero, first, second, third, and mixed conditionals in American English.",
+    "Construct complex conditional sentences with precision and nuance.",
+    "Identify common errors and pitfalls in advanced conditional usage.",
+    "Apply advanced conditionals in both formal and informal contexts to enhance clarity and expression.",
+    "Interpret and evaluate conditional statements in American idiomatic and cultural contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "counterfactual",
+      "definition": "A statement or scenario describing what could have happened but did not, often expressed using third conditional structures.",
+      "example": "If I had known about the meeting, I would have attended."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "A situation or statement based on imagined or assumed circumstances, typically using second or third conditionals.",
+      "example": "If I were richer, I would buy a house on the beach."
+    },
+    {
+      "word": "modal auxiliary",
+      "definition": "A verb used with a main verb to express possibility, necessity, or obligation, crucial in forming certain conditionals.",
+      "example": "Could, should, would, might."
+    }
+  ],
+  "content": "In American English, advanced conditionals serve as powerful tools to convey hypothetical scenarios, express regrets, or discuss possibilities with nuance. They allow speakers to articulate complex ideas about reality, past, and future with precision.\n\n**Zero Conditional**: Used for universal truths or facts.\n- Structure: If + present simple, ... present simple.\n- Example: If you heat water to 100°C, it boils.\n\n**First Conditional**: Discusses real possibilities in the future.\n- Structure: If + present simple, ... will + base verb.\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional**: Describes hypothetical present or future situations.\n- Structure: If + past simple, ... would + base verb.\n- Example: If I won the lottery, I would travel the world.\n\n**Third Conditional**: Reflects on past situations that did not happen.\n- Structure: If + past perfect, ... would have + past participle.\n- Example: If I had studied harder, I would have passed the exam.\n\n**Mixed Conditionals**: Combine different time references to express complex ideas.\n- Example: If I had taken that job (past), I would be living in New York now (present).\n\n**Nuances and Emphasis**: Use modal auxiliaries like 'might,' 'could,' and 'should' to add nuance.\n- Example: If you had told me earlier, I could have helped.\n\n**Common Pitfalls**: Avoid mixing tenses incorrectly or overusing the second conditional when talking about real possibilities; instead, use the first conditional.\n\nMastery of these structures allows you to communicate with sophistication, precisely capturing the shades of possibility, speculation, and regret typical in American English discourse.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conditional form: 'If she ______ (study) harder, she ______ (pass) the test.'",
+      "answer": "studied / would pass"
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Complete the sentence: 'If I ______ (be) taller, I ______ (play) basketball professionally.'",
+      "answer": "were / would play"
+    },
+    {
+      "type": "Error Identification",
+      "question": "Identify the mistake in this sentence: 'If he would have known, he would tell us.'",
+      "answer": "Incorrect use of 'would have known'; it should be 'had known' in the third conditional structure."
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a third conditional sentence expressing regret about missing an event.",
+      "answer": "If I had remembered the appointment, I would have gone."
+    },
+    {
+      "type": "Discussion",
+      "question": "Describe a future possibility using the first conditional and explain its cultural relevance in an American context.",
+      "answer": "If the team wins the championship, the city will host a parade. This reflects American enthusiasm for sports victories and community celebrations."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often appear in sports commentary, political debates, and casual conversations to express possibilities, regrets, or speculations. Understanding the nuanced use of conditionals enhances not only grammatical mastery but also cultural fluency, allowing you to engage more authentically in American social and professional contexts.",
+  "createdAt": "2025-12-24T04:22:22.322Z"
+}

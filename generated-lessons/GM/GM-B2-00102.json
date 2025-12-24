@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00102",
+  "number": 102,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different types of conditionals in American English (Zero, First, Second, Third, and Mixed).",
+    "Identify and correctly use conditional sentences in various contexts.",
+    "Distinguish between real and unreal, past, present, and future hypothetical situations.",
+    "Construct complex conditional sentences with appropriate punctuation and conjunctions.",
+    "Apply conditionals confidently in both formal and informal American English conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Hypothetical",
+      "definition": "Related to situations that are imagined or not real.",
+      "example": "If I won the lottery, I would buy a house in California."
+    },
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses or sentences.",
+      "example": "If, when, and unless are common conjunctions in conditional sentences."
+    },
+    {
+      "word": "Punctuation",
+      "definition": "The symbols used in writing to separate sentences and their parts.",
+      "example": "Correct punctuation in conditionals often involves commas after the 'if' clause."
+    }
+  ],
+  "content": "In American English, conditionals are essential for expressing possibilities, hypotheses, and consequences. They come in several types:\n\n1. Zero Conditional (General truths):\n   - Structure: If + present simple, present simple\n   - Example: If you heat ice, it melts.\n\n2. First Conditional (Real future possibilities):\n   - Structure: If + present simple, will + base verb\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional (Unreal present or future):\n   - Structure: If + past simple, would + base verb\n   - Example: If I were you, I would apologize.\n\n4. Third Conditional (Unreal past):\n   - Structure: If + past perfect, would have + past participle\n   - Example: If I had studied harder, I would have passed the exam.\n\n5. Mixed Conditionals (Past condition with present result or vice versa):\n   - Example: If I had taken that job, I would be living in New York now.\n\nIn American English, punctuation is crucial. Usually, a comma follows the 'if' clause when it starts the sentence. When the 'if' clause comes after the main clause, the comma is often omitted.\n\nPractice using varied conditionals to express nuanced ideas and scenarios. Mastery of these structures will elevate your ability to communicate complex concepts with clarity and confidence.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence using the correct conditional form: \nIf she ____ (study) harder, she ____ (pass) the test.",
+      "answer": "had studied; would have passed"
+    },
+    {
+      "type": "Identify the type",
+      "question": "What type of conditional is used in this sentence? \nIf I see John tomorrow, I will tell him the news.",
+      "answer": "First Conditional"
+    },
+    {
+      "type": "Rewrite the sentence",
+      "question": "Rewrite the following in a third conditional form:\nI didn't go to the party because I was tired.",
+      "answer": "If I had gone to the party, I wouldn't have been tired."
+    },
+    {
+      "type": "Create your own",
+      "question": "Write a second conditional sentence about your ideal vacation.",
+      "answer": "If I had unlimited money, I would travel around the world."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in casual conversations to express possibilities and hypothetical situations, reflecting the typical American mindset of optimism and imagination. Phrasing like 'If I were you' is common in advice-giving, highlighting the informal yet direct style characteristic of American communication. Understanding and applying conditionals effectively will help you sound more natural and confident in diverse American contexts—from business meetings to everyday chats.",
+  "createdAt": "2025-12-24T04:21:23.544Z"
+}

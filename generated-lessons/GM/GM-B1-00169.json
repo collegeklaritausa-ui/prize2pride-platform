@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00169",
+  "number": 169,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and usage of common modal verbs in American English",
+    "Differentiate between various modal verbs and their nuances",
+    "Construct correct sentences using modal verbs in different contexts",
+    "Identify and correct common errors related to modal verb usage",
+    "Apply modal verbs confidently in both spoken and written American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility",
+      "example": "She can speak three languages."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses necessity or strong obligation",
+      "example": "You must finish your homework before dinner."
+    },
+    {
+      "word": "might",
+      "definition": "Indicates possibility or uncertainty",
+      "example": "It might rain later today."
+    },
+    {
+      "word": "should",
+      "definition": "Suggests advice or recommendation",
+      "example": "You should see a doctor if you're feeling unwell."
+    },
+    {
+      "word": "would",
+      "definition": "Expresses hypothetical situations or polite requests",
+      "example": "I would travel more if I had the time."
+    }
+  ],
+  "content": "In American English, modal verbs are auxiliary verbs that express ability, possibility, permission, obligation, or advice. They are used with the base form of the main verb and do not change form according to the subject.\n\nCommon modal verbs include can, could, may, might, must, shall, should, will, would, and can’t.\n\nFor example:\n- Ability: I can swim.\n- Permission: May I leave early?\n- Obligation: You must wear a seatbelt.\n- Advice: You should study harder.\n- Hypothetical: I would buy a new car if I had more money.\n\nModal verbs often help convey the speaker’s attitude or the level of certainty about the action. They are essential for expressing politeness, making suggestions, giving commands, or speculating about possibilities.\n\nRemember: Modal verbs are followed by the base form of the main verb without 'to'. For example, 'She can dance' (not 'She can to dance').\n\nIn American culture, modal verbs are frequently used in everyday conversations, professional settings, and media, contributing to clear and respectful communication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ you help me with this project?\n\nA) Can\nB) Must\nC) Should\nD) Might",
+      "answer": "A"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate modal verb: \nYou ___ see a doctor if you're feeling sick.",
+      "answer": "should"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: \nHe can to play the guitar very well.",
+      "answer": "He can play the guitar very well."
+    },
+    {
+      "type": "short answer",
+      "question": "Express a polite request using the modal verb 'Could'.",
+      "answer": "Could you pass me the salt, please?"
+    },
+    {
+      "type": "application",
+      "question": "Write a sentence using 'might' to express uncertainty about future weather.",
+      "answer": "It might snow tomorrow."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are often used to politely make requests or offers, reflecting the value placed on courtesy and respect. For example, saying 'Could you help me?' instead of a direct command shows politeness. Understanding how to use modal verbs appropriately can improve your communication skills in both casual and formal American contexts, including business, social interactions, and media.",
+  "createdAt": "2025-12-24T04:25:43.569Z"
+}

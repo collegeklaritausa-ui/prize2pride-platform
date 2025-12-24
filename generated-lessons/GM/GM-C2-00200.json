@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00200",
+  "number": 200,
+  "title": "Mastering Modal Verbs: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and understand the different modal verbs used in American English.",
+    "Apply modal verbs correctly to express ability, permission, obligation, and possibility.",
+    "Distinguish between similar modal verbs and their nuanced meanings.",
+    "Construct complex sentences using multiple modal verbs with confidence.",
+    "Demonstrate mastery of modal verb usage in both formal and informal contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Ability",
+      "definition": "The capacity to do something.",
+      "example": "She can swim across the lake."
+    },
+    {
+      "word": "Permission",
+      "definition": "Approval to do something.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement.",
+      "example": "You must submit your report by Monday."
+    },
+    {
+      "word": "Possibility",
+      "definition": "Something that might happen.",
+      "example": "It might rain later."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson in Modal Verbs—your gateway to becoming a true GOD of American English! Modal verbs are essential tools that add nuance, mood, and precision to your speech and writing. They help you express ability ('can'), permission ('may'), obligation ('must'), advice ('should'), and possibility ('might').\n\nUnderstanding their correct usage can elevate your mastery from basic to legendary. For example:\n- Ability: \"I can finish the project today.\"\n- Permission: \"May I borrow your car?\"\n- Obligation: \"You must wear a seatbelt.\"\n- Advice: \"You should see a doctor.\"\n- Possibility: \"It might snow tomorrow.\"\n\nNote that some modal verbs are interchangeable depending on context, but subtle differences change meaning. For example, 'must' versus 'have to' often both indicate obligation, but 'must' can express a strong personal obligation or deduction, whereas 'have to' tends to reflect external requirements.\n\nMastering modal verbs involves understanding their form (they do not change for tense, but their main verbs do), their placement in sentences, and their contextual appropriateness. Practice using them in different combinations to convey complex ideas.\n\nRemember, mastery of modal verbs allows you to communicate with clarity and confidence in any situation—formal or informal—making you a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb: \n___ you help me with this project?\nA) Can\nB) Must\nC) Should\nD) Might",
+      "answer": "A"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "You ___ finish your homework before you go out.\n(Choose the appropriate modal verb)",
+      "answer": "must"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error: \nShe can to speak three languages.",
+      "answer": "She can speak three languages."
+    },
+    {
+      "type": "Create a sentence",
+      "question": "Use the modal verb 'might' to make a sentence about the weather.",
+      "answer": "It might rain later."
+    },
+    {
+      "type": "Discussion",
+      "question": "Explain the difference between 'should' and 'must' when giving advice.",
+      "answer": "Both 'should' and 'must' are used to give advice or recommendations, but 'should' is softer and suggests a good idea, while 'must' indicates a stronger obligation or necessity."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are often used in informal speech to give advice or make polite requests—'Can you help me?' or 'Could you pass the salt?' are common. Understanding the nuances of modal verbs enhances not only grammatical mastery but also cultural fluency, helping you to navigate social and professional interactions with confidence and respect.",
+  "createdAt": "2025-12-24T04:27:57.826Z"
+}

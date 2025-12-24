@@ -1,0 +1,59 @@
+{
+  "id": "GM-C1-00114",
+  "number": 114,
+  "title": "Mastering Advanced Conditionals: Unlock the Power of Hypotheticals",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand and differentiate between zero, first, second, third, and mixed conditionals",
+    "Apply advanced conditional structures in complex sentences",
+    "Interpret and create nuanced hypothetical scenarios",
+    "Identify common errors and pitfalls in using advanced conditionals",
+    "Enhance fluency and sophistication in American English through precise conditional usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "hypothetical",
+      "definition": "Relating to or based on a hypothesis; not real but imagined for the purpose of discussion or analysis.",
+      "example": "In a hypothetical situation, I would have taken a different career path."
+    },
+    {
+      "word": "counterfactual",
+      "definition": "A statement or condition that is contrary to fact, often used in advanced conditional sentences.",
+      "example": "If I had studied harder, I would have passed the exam—this is a counterfactual scenario."
+    },
+    {
+      "word": "inverse conditionals",
+      "definition": "Conditional sentences that express the negation or opposite of a typical condition, often involving inversion or modal adjustments.",
+      "example": "Had I known about the meeting, I would have attended—an inverse conditional structure."
+    }
+  ],
+  "content": "In this lesson, we delve into the sophisticated realm of American English conditionals, empowering you to articulate hypothetical, counterfactual, and nuanced situations with precision. Advanced conditionals include the third conditional, mixed conditionals, and inverse conditionals, each serving different expressive purposes.\n\n**Zero Conditional:** Used for facts and general truths.\n- Structure: If + present simple, + present simple\n- Example: If you heat ice, it melts.\n\n**First Conditional:** Real future possibility.\n- Structure: If + present simple, + will + base verb\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional:** Unreal present or future.\n- Structure: If + past simple, + would + base verb\n- Example: If I were taller, I would join the basketball team.\n\n**Third Conditional:** Unreal past, expressing regret or hypothetical past.\n- Structure: If + past perfect, + would have + past participle\n- Example: If I had studied harder, I would have passed the test.\n\n**Mixed Conditionals:** Combine elements to express complex hypothetical scenarios.\n- Example: If I had taken that job (past), I would be living in New York now (present).\n\n**Inverse Conditionals:** Use inversion for formality or stylistic emphasis.\n- Example: Had I known about the traffic, I would have left earlier.\n\nMastery of these structures enables you to convey subtle distinctions in timing, reality, and possibility, elevating your command of American English to a divine level.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct form of the conditional: 'If she ____ (study) harder, she would have passed the exam.'",
+      "answer": "had studied"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the appropriate form: 'If I ____ (be) taller, I would play basketball.'",
+      "answer": "were"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence using an inverse conditional: 'If I had known about the concert, I would have gone.'",
+      "answer": "Had I known about the concert, I would have gone."
+    },
+    {
+      "type": "create",
+      "question": "Write a mixed conditional sentence describing a past decision affecting your current situation.",
+      "answer": "If I had studied law, I would be working as a lawyer now."
+    }
+  ],
+  "culturalNotes": "In American culture, the mastery of conditionals often reflects sophisticated reasoning and politeness, especially in professional and academic settings. Using advanced conditionals appropriately can convey nuance, critical thinking, and a high level of language proficiency, which are highly valued in American social and educational contexts.",
+  "createdAt": "2025-12-24T04:22:13.422Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00193",
+  "number": 193,
+  "title": "Mastering Modal Verbs: Command the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the various functions of modal verbs in American English.",
+    "Identify and correctly use common modal verbs in different contexts.",
+    "Differentiate between similar modal verbs and their specific nuances.",
+    "Construct complex sentences using multiple modal verbs accurately.",
+    "Apply modal verbs confidently in both formal and informal settings to achieve mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Necessity",
+      "definition": "The state of being required or indispensable.",
+      "example": "You must finish your homework before dinner."
+    },
+    {
+      "word": "Possibility",
+      "definition": "The likelihood that something will happen.",
+      "example": "It might rain tomorrow."
+    },
+    {
+      "word": "Permission",
+      "definition": "Approval to do something.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "Ability",
+      "definition": "The power or skill to do something.",
+      "example": "She can speak three languages."
+    }
+  ],
+  "content": "Mastering modal verbs is essential to expressing nuanced meaning and asserting authority in American English. Modal verbs are auxiliary verbs that modify the main verb to convey necessity, possibility, permission, or ability.\n\n**Common Modal Verbs and their uses:**\n- **Can / Could:** Express ability or possibility.\n  - *I can swim.*\n  - *Could you help me with this?*\n- **May / Might:** Indicate permission or possibility.\n  - *May I leave early?*\n  - *It might snow tonight.*\n- **Must:** Denotes obligation or strong certainty.\n  - *You must wear a seatbelt.*\n  - *He must be at home now.*\n- **Shall / Should:** Suggest obligation, advice, or future action.\n  - *You should see a doctor.*\n  - *Shall we go to the movies?*\n- **Will / Would:** Indicate future intention or polite requests.\n  - *I will call you tomorrow.*\n  - *Would you like some coffee?*\n\n**Modal verbs in negatives and questions:**\n- To make negatives, add 'not' after the modal:\n  - *You should not smoke.*\n- For questions, invert the modal and subject:\n  - *Can you help me?*\n\n**Advanced usage:** Combining modals for complex expressions:\n- *He might have been going to the store.*\n- *You should have told me earlier.*\n\nMastery involves recognizing the subtle differences and appropriate contexts, enabling you to communicate with clarity and authority in all situations—formal, informal, professional, or casual.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb to complete the sentence: 'You ___ finish your work before you go out.'",
+      "answer": "must"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "___ I borrow your pen? (ask for permission)",
+      "answer": "May"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error in this sentence: 'He can to play the guitar.'",
+      "answer": "He can play the guitar."
+    },
+    {
+      "type": "Create Sentences",
+      "question": "Write a sentence using 'might' to express possibility.",
+      "answer": "It might rain later, so take an umbrella."
+    },
+    {
+      "type": "Discussion",
+      "question": "Explain the difference between 'must' and 'have to' in American English.",
+      "answer": "Both express obligation, but 'must' often conveys a need imposed by the speaker, while 'have to' indicates an external requirement or rule."
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are valued. Using modal verbs confidently allows speakers to express authority, politeness, and nuance effectively. For example, saying 'You must' can sound commanding, so softer alternatives like 'You should' are often preferred in polite conversation. Understanding the cultural context of modal verb usage helps in navigating social and professional interactions smoothly in the U.S.",
+  "createdAt": "2025-12-24T04:27:27.918Z"
+}

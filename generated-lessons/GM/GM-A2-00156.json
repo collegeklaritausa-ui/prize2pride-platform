@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00156",
+  "number": 156,
+  "title": "Mastering Modal Verbs: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the purpose of modal verbs in American English sentences",
+    "Identify common modal verbs such as can, could, may, might, must, should, and will",
+    "Use modal verbs correctly in simple sentences",
+    "Differentiate between ability, permission, possibility, and obligation using modal verbs",
+    "Build confidence in speaking and writing using modal verbs appropriately"
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A helping verb that expresses ability, possibility, permission, or obligation",
+      "example": "She can swim very well."
+    },
+    {
+      "word": "Permission",
+      "definition": "The right to do something or the act of allowing someone to do something",
+      "example": "May I go to the park?"
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something",
+      "example": "You must finish your homework."
+    }
+  ],
+  "content": "Welcome to the world of modal verbs! These special verbs help us express different moods and intentions in American English. They are always used with the base form of the main verb (without 'to').\n\n**Common Modal Verbs:** can, could, may, might, must, should, will, would.\n\n**Usage Examples:**\n- Ability: She can play the guitar.\n- Permission: May I leave early today?\n- Possibility: It might rain tomorrow.\n- Obligation: You must wear a seatbelt.\n- Advice: You should see a doctor.\n\n**Tips:**\n- Use 'can' for ability and informal permission.\n- Use 'may' for polite permission or formal requests.\n- 'Must' shows a strong obligation or necessity.\n- 'Should' offers advice or recommendations.\n\nPractice makes perfect! Try creating your own sentences with each modal verb to become a master of American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb: \n\n___ I borrow your pen?\n\nA) Can\nB) Must\nC) Should",
+      "answer": "A) Can"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "You ___ finish your homework before you go outside.",
+      "answer": "must"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Make a sentence using 'might' to talk about possibility.",
+      "answer": "It might snow tonight."
+    }
+  ],
+  "culturalNotes": "In American culture, politeness and permission are important. Using modal verbs like 'may' and 'could' politely can make conversations more respectful. Also, Americans often use 'should' for friendly advice, reflecting a culture of helpfulness and support.",
+  "createdAt": "2025-12-24T04:24:53.925Z"
+}

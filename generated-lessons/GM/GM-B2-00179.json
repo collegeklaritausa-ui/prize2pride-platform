@@ -1,0 +1,76 @@
+{
+  "id": "GM-B2-00179",
+  "number": 179,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the function and usage of common modal verbs in American English",
+    "Identify the differences between modal verbs such as can, could, may, might, must, shall, should, will, and would",
+    "Apply modal verbs correctly in various contexts to express ability, possibility, permission, obligation, and future intention",
+    "Recognize subtle nuances and formal versus informal uses of modal verbs in American communication",
+    "Enhance sentence variety and clarity by mastering modal verb structures"
+  ],
+  "vocabulary": [
+    {
+      "word": "modal verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, should, must, might, and will are modal verbs."
+    },
+    {
+      "word": "ability",
+      "definition": "The power or skill to do something.",
+      "example": "She can speak three languages."
+    },
+    {
+      "word": "possibility",
+      "definition": "The likelihood that something will happen or be true.",
+      "example": "It might rain later."
+    },
+    {
+      "word": "permission",
+      "definition": "Approval to do something.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "obligation",
+      "definition": "A duty or requirement to do something.",
+      "example": "You must wear a seatbelt."
+    }
+  ],
+  "content": "Mastering modal verbs is essential to achieving fluency and nuance in American English. Modal verbs are auxiliary verbs that provide additional information about the main verb, such as ability, possibility, permission, obligation, or future intention.\n\n**Common Modal Verbs and Their Uses:**\n\n- **Can**: Indicates ability or possibility.\n  - *Example*: I can swim.\n\n- **Could**: Past ability or polite permission; also expresses possibility.\n  - *Example*: Could you help me?\n\n- **May**: Formal permission or possibility.\n  - *Example*: May I ask a question?\n\n- **Might**: Slight possibility.\n  - *Example*: It might snow tomorrow.\n\n- **Must**: Strong obligation or certainty.\n  - *Example*: You must finish your homework.\n\n- **Shall**: Formal suggestion or future action (less common in American English but still used in legal or formal contexts).\n  - *Example*: Shall we go?\n\n- **Should**: Advice or recommendation.\n  - *Example*: You should see a doctor.\n\n- **Will**: Future intent or certainty.\n  - *Example*: I will call you later.\n\n- **Would**: Polite request or hypothetical situation.\n  - *Example*: Would you like some coffee?\n\n**Modal Verbs in Negative and Interrogative Forms:**\n- Negative: Add 'not' to form negatives (e.g., cannot, should not, will not).\n- Questions: Typically invert the modal and subject (e.g., Can you help?, Should I wait?).\n\n**Nuances and Formality:**\n- In casual speech, Americans often shorten modals (e.g., *can’t* instead of *cannot*).\n- Some modals like *shall* are more formal and less common in everyday American English.\n\n**Using Modal Verbs for Different Contexts:**\n- Express ability: *She can run fast.*\n- Express possibility: *It could be true.*\n- Ask for permission: *May I leave now?*\n- Make a suggestion: *You should try this.*\n- Express obligation: *You must wear a helmet.*\n- Indicate future plans: *I will see you tomorrow.*\n\nMastering these modal verbs will give you the flexibility and clarity needed to communicate confidently in any American setting, whether formal or informal.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ you help me with this project, please?",
+      "answer": "Could"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "He ___ finish the report by tomorrow if he wants to meet the deadline.",
+      "answer": "must"
+    },
+    {
+      "type": "true/false",
+      "question": "In American English, 'shall' is commonly used in everyday casual conversation.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence using a different modal verb to express obligation:\n'You must submit the form today.'",
+      "answer": "You should submit the form today."
+    },
+    {
+      "type": "dialogue completion",
+      "question": "Fill in the blank with the correct modal: \nA: ___ I leave early today?\nB: Yes, you ___."
+    },
+    {
+      "answer": "May; may"
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are valued, especially in professional and casual conversations. Modal verbs like 'may' and 'can' are used frequently to politely request permission or offer assistance, reflecting a culture that emphasizes politeness and efficiency. Additionally, contractions such as 'can't' or 'won't' are common in spoken language, making interactions more natural and informal. Understanding the appropriate context for each modal verb will help you sound more confident and authentic in American English communication.",
+  "createdAt": "2025-12-24T04:26:26.922Z"
+}

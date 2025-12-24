@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00112",
+  "number": 112,
+  "title": "Mastering Conditionals: The Art of Hypothetical Precision",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Explain the nuances between Zero, First, Second, Third, and Mixed Conditionals in American English.",
+    "Identify and correctly use advanced conditional structures in complex sentences.",
+    "Differentiate between real and unreal conditions to enhance expressive precision.",
+    "Apply conditionals appropriately in formal and informal contexts.",
+    "Elevate language proficiency to an expert level by mastering nuanced conditional expressions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Hypothetical",
+      "definition": "Relating to or based on a hypothesis; not real but imagined.",
+      "example": "In hypothetical situations, we often use the second conditional to discuss unreal possibilities."
+    },
+    {
+      "word": "Counterfactual",
+      "definition": "A statement or belief about what is not true or what did not happen.",
+      "example": "The third conditional discusses counterfactual past events—things that did not occur."
+    },
+    {
+      "word": "Modal Verb",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, or ability.",
+      "example": "In the first conditional, 'will' is a modal verb indicating a future possibility."
+    },
+    {
+      "word": "Mixed Conditional",
+      "definition": "A combination of two different types of conditional forms used to express complex hypothetical scenarios.",
+      "example": "She would have been promoted if she had worked harder, illustrating a mixed conditional."
+    }
+  ],
+  "content": "Conditionals in American English are essential for expressing real, possible, or hypothetical situations with precision and nuance. Mastery begins with understanding their structure and usage:\n\n- Zero Conditional: Used for universal truths and scientific facts. \n  *Structure:* If + present simple, ... present simple. \n  *Example:* If you heat ice, it melts.\n\n- First Conditional: Describes real future possibilities. \n  *Structure:* If + present simple, ... will + base verb. \n  *Example:* If it rains tomorrow, we will cancel the picnic.\n\n- Second Conditional: Discusses unreal or improbable present or future situations. \n  *Structure:* If + past simple, ... would + base verb. \n  *Example:* If I won the lottery, I would buy a house.\n\n- Third Conditional: Reflects on past events that did not happen; unreal past situations. \n  *Structure:* If + past perfect, ... would have + past participle.\n  *Example:* If I had studied harder, I would have passed the exam.\n\n- Mixed Conditional: Combines elements to express complex hypothetical scenarios, often linking past conditions to present results or vice versa.\n  *Example:* If I had taken that job, I would be living in New York now.\n\nAdvanced usage involves subtle distinctions, such as using 'should' for formal suggestions in conditionals, or 'were' instead of 'was' in subjunctive mood, e.g., 'If I were you...'.\n\nIn American English, understanding context and tone is crucial for choosing the appropriate conditional form, especially in formal writing, storytelling, and persuasive speech.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which sentence correctly uses the third conditional?",
+      "answer": "She would have visited the museum if she had known about it."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "If I ____ (be) taller, I would have joined the basketball team.",
+      "answer": "had been"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite this sentence using a mixed conditional: 'He didn't study hard, so he failed the test.'",
+      "answer": "If he had studied hard, he would be passing the test now."
+    },
+    {
+      "type": "true/false",
+      "question": "The first conditional is used for unreal past situations.",
+      "answer": "False"
+    },
+    {
+      "type": "short answer",
+      "question": "Provide an example of a second conditional sentence.",
+      "answer": "If I found a wallet on the street, I would return it to the owner."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in storytelling, marketing, and persuasive speech to create compelling narratives or hypothetical scenarios. For example, advertisers may say, 'If you try our product, you'll love it,' using the first conditional to appeal to potential consumers. Understanding these nuances enhances your ability to communicate effectively and persuasively in diverse contexts, from casual conversations to professional presentations.",
+  "createdAt": "2025-12-24T04:22:04.738Z"
+}

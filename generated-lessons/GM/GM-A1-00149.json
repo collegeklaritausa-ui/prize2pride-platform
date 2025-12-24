@@ -1,0 +1,69 @@
+{
+  "id": "GM-A1-00149",
+  "number": 149,
+  "title": "Mastering Modal Verbs: Your Gateway to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what modal verbs are and their function in sentences.",
+    "Identify common modal verbs used in American English.",
+    "Use modal verbs correctly in simple sentences.",
+    "Differentiate between different modal verbs and their meanings.",
+    "Build confidence in incorporating modal verbs into everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "I can ride a bicycle."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses necessity or strong obligation.",
+      "example": "You must finish your homework."
+    },
+    {
+      "word": "may",
+      "definition": "Expresses permission or possibility.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "should",
+      "definition": "Gives advice or suggestion.",
+      "example": "You should eat more vegetables."
+    },
+    {
+      "word": "will",
+      "definition": "Expresses future intentions or decisions.",
+      "example": "I will call you tomorrow."
+    }
+  ],
+  "content": "Modal verbs are special auxiliary verbs that help us express ability, possibility, permission, obligation, and future intentions. In American English, modal verbs are simple and straightforward, making your speech clear and confident.\n\nCommon modal verbs include: can, could, may, might, must, shall, should, will, and would.\n\nFor example:\n- Ability: \"She can swim.\"\n- Permission: \"May I use your phone?\"\n- Obligation: \"You must wear a seatbelt.\"\n- Advice: \"You should see a doctor.\"\n- Future: \"I will visit my grandparents tomorrow.\"\n\nNote that modal verbs are followed by the base form of the main verb:\n- Correct: \"He can cook.\"\n- Incorrect: \"He can cooks.\"\n\nUsing modal verbs correctly helps you communicate more effectively and confidently in American English. Practice these forms in context to become a true master of modal verbs!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: 'You ___ finish your homework before playing.'",
+      "answer": "must"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate modal verb: 'She ____ come to the party if she finishes her work.'",
+      "answer": "might"
+    },
+    {
+      "type": "true/false",
+      "question": "The sentence 'He can to dance' is correct. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence using a different modal verb to express permission: 'You may leave now.'",
+      "answer": "You are allowed to leave now."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs often reflect the direct and straightforward communication style. For example, Americans frequently use 'must' and 'have to' to emphasize necessity, and 'can' to indicate ability or permission. Understanding these modal verbs helps you sound confident and polite in various social and professional situations. Additionally, the use of polite modal forms like 'may' and 'could' demonstrates respect and consideration, which are highly valued traits in American interactions.",
+  "createdAt": "2025-12-24T04:24:29.723Z"
+}

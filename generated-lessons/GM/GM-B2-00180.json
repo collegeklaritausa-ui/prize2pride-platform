@@ -1,0 +1,54 @@
+{
+  "id": "GM-B2-00180",
+  "number": 180,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different functions of modal verbs in American English.",
+    "Identify and properly use common modal verbs in various contexts.",
+    "Distinguish between modal verbs with similar meanings, such as 'must' and 'have to'.",
+    "Practice forming sentences with modal verbs to express ability, possibility, obligation, and permission.",
+    "Apply modal verbs confidently in both formal and informal American English conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something, often expressed with 'must' or 'have to'.",
+      "example": "You must finish your homework before dinner."
+    }
+  ],
+  "content": "Welcome to the world of modal verbs, the power tools of American English! Modal verbs are auxiliary verbs that add meaning to the main verb, indicating necessity, possibility, permission, or ability. They are vital for expressing nuanced ideas and attitudes.\n\n**Common Modal Verbs and Their Uses:**\n- **Can**: Ability or possibility. \n  *Example:* I can speak Spanish.\n- **Could**: Past ability or polite possibility. \n  *Example:* I could help you tomorrow.\n- **May**: Formal permission or possibility.\n  *Example:* May I leave early today?\n- **Might**: Slight possibility.\n  *Example:* It might rain later.\n- **Must**: Strong obligation or necessity.\n  *Example:* You must wear a seatbelt.\n- **Should**: Advice or recommendation.\n  *Example:* You should see a doctor.\n- **Will**: Future intention or promise.\n  *Example:* I will call you tonight.\n- **Would**: Hypothetical situations or polite requests.\n  *Example:* Would you like some coffee?\n\n**Modal Verbs with Similar Meanings:**\nWhile some modal verbs seem similar, their usage varies slightly. For example, 'must' indicates a strong obligation, whereas 'have to' can be used more casually. \n\n**Forming Sentences:**\nModal verbs are followed directly by the base form of the main verb:\n- She **can** dance.\n- They **might** arrive early.\n- You **should** study more.\n\n**Negative Forms:**\nAdd 'not' after the modal verb:\n- You **must not** smoke here.\n- He **cannot** come to the party.\n\n**Questions:**\nInvert the modal verb with the subject:\n- **Can** you help me?\n- **Should** I call him now?\n\nMastering modal verbs allows you to express your ideas with confidence and clarity, making your American English sound more natural and persuasive.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb to complete the sentence: 'You ___ finish your homework before going out.'",
+      "answer": "must"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "____ I borrow your pen? (polite request)",
+      "answer": "May"
+    },
+    {
+      "type": "Sentence Transformation",
+      "question": "Rewrite the sentence using a different modal verb with the same meaning: 'It is necessary for you to leave now.'",
+      "answer": "You have to leave now."
+    },
+    {
+      "type": "True or False",
+      "question": "Modal verbs are used to express past actions only.",
+      "answer": false
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs often reflect attitudes toward authority, politeness, and social norms. For example, using 'may' instead of 'can' in formal requests shows politeness, while 'must' indicates strong obligation. Americans value directness but also appreciate courteous language, so mastering modal verbs enhances both clarity and respect in communication.",
+  "createdAt": "2025-12-24T04:26:30.638Z"
+}

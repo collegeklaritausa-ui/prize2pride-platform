@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00126",
+  "number": 126,
+  "title": "Mastering Conditionals: Unlock the Power of Hypotheticals in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and distinguish between zero, first, second, third, and mixed conditionals.",
+    "Construct correct conditional sentences in various contexts.",
+    "Understand the nuances and appropriate usage of each conditional type.",
+    "Apply conditionals to express real and hypothetical situations accurately.",
+    "Enhance fluency and naturalness in American English conversations using conditionals."
+  ],
+  "vocabulary": [
+    {
+      "word": "hypothetical",
+      "definition": "Related to a situation that is imagined or not real.",
+      "example": "If I won the lottery, I would travel the world."
+    },
+    {
+      "word": "conditional",
+      "definition": "A sentence that expresses a condition and its result.",
+      "example": "If it rains, the game will be canceled."
+    },
+    {
+      "word": "counterfactual",
+      "definition": "A statement about a situation that did not happen but is imagined.",
+      "example": "If I had studied, I would have passed the exam."
+    }
+  ],
+  "content": "Welcome to the world of conditionals—the backbone of expressing possibilities, hypotheticals, and consequences in American English. Mastery of conditionals allows you to communicate nuanced ideas about real and imaginary situations.\n\n**Zero Conditional:** Used for facts and general truths.\n- Structure: If + present simple, ... present simple\n- Example: If you heat ice, it melts.\n\n**First Conditional:** Used for real future possibilities.\n- Structure: If + present simple, ... will + base verb\n- Example: If it rains tomorrow, we will stay indoors.\n\n**Second Conditional:** Used for hypothetical present or future situations.\n- Structure: If + past simple, ... would + base verb\n- Example: If I had a million dollars, I would buy a house.\n\n**Third Conditional:** Used for past hypotheticals; things that did not happen.\n- Structure: If + past perfect, ... would have + past participle\n- Example: If I had studied harder, I would have passed the test.\n\n**Mixed Conditionals:** Combine elements to express complex ideas, such as present consequences of past actions.\n- Example: If I had taken that job, I would be living in New York now.\n\nUnderstanding these forms enables you to articulate a wide range of scenarios, making your American English more expressive and precise.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If she ___ (study) more, she ___ (pass) the exam.'",
+      "answer": "studied / would pass"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'If I ___ (be) taller, I ___ (play) basketball professionally.'",
+      "answer": "were / would play"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence as a third conditional: 'I didn't go to the party, so I didn't meet Sarah.'",
+      "answer": "If I had gone to the party, I would have met Sarah."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conditional type to its usage:\n1. Zero\n2. First\n3. Second\n4. Third\n\nA. Hypotheticals about the present or future\nB. Facts and general truths\nC. Past hypotheticals\nD. Real future possibilities",
+      "answer": "1-B, 2-D, 3-A, 4-C"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals often reflects a pragmatic approach to possibilities and outcomes, emphasizing directness and clarity. For example, in everyday conversations, Americans frequently use first conditionals to discuss plans ('If it rains, we'll cancel the picnic') and are comfortable discussing hypothetical scenarios to explore future opportunities and past regrets. Mastery of conditionals enhances your ability to participate confidently in both casual and professional American English interactions, conveying ideas with precision and nuance.",
+  "createdAt": "2025-12-24T04:22:59.677Z"
+}

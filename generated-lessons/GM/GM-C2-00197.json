@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00197",
+  "number": 197,
+  "title": "Mastering Modal Verbs: Unlocking American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and understand the different modal verbs used in American English.",
+    "Apply modal verbs correctly in various grammatical contexts.",
+    "Distinguish between modals expressing ability, permission, obligation, and possibility.",
+    "Construct sophisticated sentences using a range of modal verbs to demonstrate mastery.",
+    "Develop an intuitive sense for the nuances and cultural implications of modal usage in American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, might, must, should, would, could, will, shall, ought to."
+    },
+    {
+      "word": "Possibility",
+      "definition": "The likelihood that something can happen or be true.",
+      "example": "It might rain tomorrow."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something.",
+      "example": "You must submit your assignment by Friday."
+    },
+    {
+      "word": "Permission",
+      "definition": "The act of allowing someone to do something.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "Ability",
+      "definition": "The skill or capacity to do something.",
+      "example": "She can speak three languages."
+    }
+  ],
+  "content": "Mastering modal verbs is essential to achieving mastery in American English. Modal verbs such as 'can,' 'could,' 'may,' 'might,' 'must,' 'should,' 'would,' 'will,' 'shall,' and 'ought to' serve various functions that convey ability, permission, obligation, advice, and possibility.\n\nFor example, 'can' expresses ability: 'I can swim.' 'May' and 'might' denote possibility or permission: 'May I leave early?' 'It might rain later.' 'Must' indicates obligation or strong necessity: 'You must wear a seatbelt.' 'Should' offers advice or expectation: 'You should see a doctor.' 'Would' and 'will' express future intentions or polite requests: 'I will call you tomorrow.'\n\nUnderstanding the nuances between these modals enhances clarity and sophistication in communication. Note that in American English, modals are followed directly by the base form of the verb: 'She can dance,' not 'She can to dance.'\n\nAdditionally, modal verbs can be combined with other expressions to convey complex meanings, such as 'might have' or 'should have,' indicating possibility or regret about past actions.\n\nPracticing the correct usage of these modals in diverse contexts will elevate your linguistic mastery, making your speech and writing sound naturally fluent and culturally aligned with American English norms.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ I borrow your pen?",
+      "answer": "May"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She ___ finish her project by tomorrow if she works late tonight.",
+      "answer": "must"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence using a different modal verb to express ability: 'He can solve the problem.'",
+      "answer": "'He is able to solve the problem.'"
+    },
+    {
+      "type": "true/false",
+      "question": "In American English, 'must' can be used to give permission. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "short answer",
+      "question": "Provide an example sentence using 'might' to express possibility.",
+      "answer": "It might snow this weekend."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs often reflect politeness and social norms. For example, when making requests, Americans tend to use 'could' or 'may' to sound polite. Also, the use of 'must' is often associated with rules or regulations, such as 'You must wear a mask indoors.' Understanding the cultural context of modal verbs helps in interpreting the tone and intent behind American English communication, whether in casual conversations, business settings, or official instructions.",
+  "createdAt": "2025-12-24T04:27:45.885Z"
+}

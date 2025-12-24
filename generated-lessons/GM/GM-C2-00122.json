@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00122",
+  "number": 122,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and distinguish between zero, first, second, third, and mixed conditionals.",
+    "Identify the correct conditional form in context.",
+    "Construct accurate conditional sentences for different situations.",
+    "Understand the nuances and usage of conditionals in American English.",
+    "Apply conditionals effectively in both spoken and written communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional",
+      "definition": "A grammatical structure expressing the result of a hypothetical situation.",
+      "example": "If it rains, we will stay indoors."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Related to or based on a situation that is imagined or not real.",
+      "example": "Suppose you won the lottery—that's a hypothetical scenario."
+    },
+    {
+      "word": "Outcome",
+      "definition": "The result or consequence of an action or situation.",
+      "example": "The outcome depends on whether you study or not."
+    }
+  ],
+  "content": "Welcome to the realm of conditionals—the core of expressing possibilities, hypotheses, and consequences in American English. Mastering conditionals elevates your ability to articulate nuanced thoughts and respond appropriately in various contexts.\n\n**Zero Conditional**: Used for universal truths or facts.\n- Structure: If + present simple, present simple\n- Example: If you heat ice, it melts.\n\n**First Conditional**: Real future possibilities.\n- Structure: If + present simple, will + base verb\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional**: Hypothetical present or future.\n- Structure: If + past simple, would + base verb\n- Example: If I had a million dollars, I would buy a house.\n\n**Third Conditional**: Hypothetical past, regret, or speculation.\n- Structure: If + past perfect, would have + past participle\n- Example: If I had studied harder, I would have passed the exam.\n\n**Mixed Conditionals**: Combine elements to express complex situations.\n- Example: If I had taken that job, I would be living in New York now.\n\nUnderstanding when and how to use each type allows you to communicate ideas with clarity and confidence. Pay attention to verb tenses and context to choose the correct form.\n\nRemember, in American English, contractions are common in spoken and casual written language, e.g., \"If you'd called me, I would have helped.\"",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conditional form: 'If she ___ (study) more, she ___ (pass) the test.'",
+      "answer": "studied, would pass"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the appropriate form: 'If I ___ (be) taller, I ___ (play) basketball professionally.'",
+      "answer": "were, would play"
+    },
+    {
+      "type": "Sentence Creation",
+      "question": "Create a third conditional sentence expressing regret about missing an event.",
+      "answer": "If I had arrived earlier, I would have seen the beginning of the concert."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'If it will rain, we stay inside.'",
+      "answer": "If it rains, we stay inside."
+    },
+    {
+      "type": "Discussion",
+      "question": "Describe a situation using the second conditional about a dream or ambition.",
+      "answer": "If I were an astronaut, I would travel to Mars."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often appear in storytelling, discussions about future plans, and expressing regrets or hypothetical scenarios. They reflect the pragmatic, optimistic, and sometimes regretful nature of American communication. The casual contractions and straightforward structure make conditionals accessible and commonly used in everyday conversation, media, and literature, enhancing your fluency and idiomatic understanding.",
+  "createdAt": "2025-12-24T04:22:44.333Z"
+}

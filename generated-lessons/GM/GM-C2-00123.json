@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00123",
+  "number": 123,
+  "title": "Mastering Conditionals: Unlock the Power of Possibility",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the different types of conditionals in American English",
+    "Identify and correctly use zero, first, second, and third conditionals in context",
+    "Distinguish between real and unreal conditions in spoken and written language",
+    "Apply conditionals accurately in complex sentences and conversations",
+    "Gain confidence to use conditionals naturally in everyday situations"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure expressing a hypothetical situation and its result.",
+      "example": "If it rains tomorrow, we'll cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to an imagined or unreal situation.",
+      "example": "Suppose you won the lottery, what would you do?"
+    },
+    {
+      "word": "factual",
+      "definition": "Based on facts; used to describe the zero conditional.",
+      "example": "If you heat water to 100°C, it boils."
+    }
+  ],
+  "content": "Welcome to the ultimate mastery of conditionals in American English! Conditionals are essential for expressing possibilities, hypotheses, and real or imaginary scenarios. We will explore four main types:\n\n1. Zero Conditional: Used for facts or universal truths.\n   - Structure: If + present simple, present simple\n   - Example: If you mix red and blue, you get purple.\n\n2. First Conditional: Used for real future possibilities.\n   - Structure: If + present simple, will + base verb\n   - Example: If it rains today, we will stay inside.\n\n3. Second Conditional: Used for unreal or hypothetical present or future situations.\n   - Structure: If + past simple, would + base verb\n   - Example: If I had a million dollars, I would travel the world.\n\n4. Third Conditional: Used for unreal past situations.\n   - Structure: If + past perfect, would have + past participle\n   - Example: If I had studied harder, I would have passed the test.\n\nUnderstanding these conditionals allows you to express a range of ideas from certainty to hypothetical scenarios. Practice their structure and usage through real-life examples and conversation.\n\nRemember, mastering conditionals empowers you to communicate more precisely and confidently in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If she ___ (be) here, she could help us.'",
+      "answer": "were"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form: 'If I ___ (know) about the party, I would have attended.'",
+      "answer": "had known"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence using the second conditional: 'I don't have a car, so I can't drive to the beach.'",
+      "answer": "If I had a car, I would drive to the beach."
+    },
+    {
+      "type": "matching",
+      "question": "Match the conditional type to its structure:\nA) Zero Conditional\nB) First Conditional\nC) Second Conditional\nD) Third Conditional\n\n1. If + past simple, would + base verb\n\n2. If + present simple, present simple\n\n3. If + past perfect, would have + past participle\n\n4. If + present simple, will + base verb",
+      "answer": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "3"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often appear in everyday speech, especially when discussing plans, regrets, or hypothetical situations. Phrases like 'If I were you...' are common in advice-giving. Understanding and using conditionals naturally helps in forming persuasive arguments, sharing stories, and expressing opinions confidently in American social and professional contexts.",
+  "createdAt": "2025-12-24T04:22:48.550Z"
+}

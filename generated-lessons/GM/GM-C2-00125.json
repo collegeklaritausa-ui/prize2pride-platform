@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00125",
+  "number": 125,
+  "title": "Mastering Conditionals: Unlock the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the different types of conditional sentences in American English",
+    "Identify and correctly use zero, first, second, third, and mixed conditionals",
+    "Recognize common mistakes in forming conditionals and avoid them",
+    "Apply conditionals accurately in both written and spoken American English",
+    "Enhance fluency and comprehension through complex conditional structures"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional sentence",
+      "definition": "A sentence that expresses a condition and its result, often using 'if' or other subordinating conjunctions.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Related to an imagined or unreal situation.",
+      "example": "If I were a millionaire, I would travel the world."
+    },
+    {
+      "word": "Real conditions",
+      "definition": "Situations that are possible or likely to happen.",
+      "example": "If you study hard, you'll pass the exam."
+    },
+    {
+      "word": "Unreal conditions",
+      "definition": "Situations that are imaginary or contrary to reality.",
+      "example": "If I had more time, I would learn to play the guitar."
+    },
+    {
+      "word": "Mixed conditionals",
+      "definition": "Sentences that combine different types of conditionals to describe complex situations.",
+      "example": "If I had studied harder, I would have a better job now."
+    }
+  ],
+  "content": "Welcome to the mastery of conditionals in American English! Conditionals are essential for expressing possibilities, hypothetical scenarios, and consequences. Let's dive into each type:\n\n**Zero Conditional:** Used for general truths and scientific facts.\n- Structure: If + present simple, present simple\n- Example: If water reaches 100°C, it boils.\n\n**First Conditional:** Talks about real and possible future situations.\n- Structure: If + present simple, will + base verb\n- Example: If it rains tomorrow, we will stay indoors.\n\n**Second Conditional:** Describes unreal or unlikely present or future situations.\n- Structure: If + past simple, would + base verb\n- Example: If I won the lottery, I would buy a house.\n\n**Third Conditional:** Reflects on past situations that didn't happen.\n- Structure: If + past perfect, would have + past participle\n- Example: If I had studied harder, I would have passed the test.\n\n**Mixed Conditionals:** Combine different time references.\n- Example 1 (Past Unreal + Present Result): If I had taken that job, I would be living in New York.\n- Example 2 (Present Unreal + Past Result): If I were taller, I would have joined the basketball team.\n\nRemember, mastering these structures allows you to express complex ideas with clarity and confidence. Practice using each type in context to internalize their usage.\n\nNow, let's elevate your command of conditionals to GOD level!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct sentence that uses the second conditional.",
+      "answer": "If I knew her address, I would visit her."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Complete the sentence: If she ____ (study) harder, she ____ (pass) the exam.",
+      "answer": "studied; would pass"
+    },
+    {
+      "type": "Rearrangement",
+      "question": "Arrange the words to form a correct third conditional sentence: (had / I / the / not / missed / bus / I / would / have / arrived / on / time).",
+      "answer": "If I had not missed the bus, I would have arrived on time."
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a short paragraph using at least two different types of conditionals to describe a hypothetical situation and its consequences.",
+      "answer": "Students should create a paragraph demonstrating mastery, e.g., 'If I had studied more, I would have scored higher on the test. Now, I wish I had prepared better.'"
+    }
+  ],
+  "culturalNotes": "In American culture, using conditionals accurately is crucial for expressing opinions, making polite requests, and discussing possibilities in both casual and formal contexts. Americans value clarity and directness, so mastering conditionals helps you communicate effectively in everyday conversations, business meetings, and creative writing. Incorporating idiomatic expressions with conditionals, such as 'If I were you...' or 'If push comes to shove...', can also enhance your fluency and cultural understanding.",
+  "createdAt": "2025-12-24T04:22:56.122Z"
+}

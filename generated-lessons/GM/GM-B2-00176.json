@@ -1,0 +1,79 @@
+{
+  "id": "GM-B2-00176",
+  "number": 176,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different functions of modal verbs in American English.",
+    "Identify and correctly use modal verbs to express ability, permission, obligation, and advice.",
+    "Distinguish between similar modal verbs and their nuances.",
+    "Apply modal verbs accurately in various contexts through sentence construction.",
+    "Enhance fluency and confidence in speaking and writing using modal verbs."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, ability, or obligation.",
+      "example": "Can, could, may, might, shall, should, will, would, must."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something.",
+      "example": "You must finish your homework before going out."
+    },
+    {
+      "word": "Permission",
+      "definition": "Formal or informal approval to do something.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "Possibility",
+      "definition": "The chance that something may happen.",
+      "example": "It might rain later."
+    },
+    {
+      "word": "Ability",
+      "definition": "The power or skill to do something.",
+      "example": "She can speak three languages."
+    }
+  ],
+  "content": "In American English, modal verbs are essential tools that convey a range of meanings including ability, permission, obligation, advice, and possibility. They are always followed by the base form of the main verb without 'to'.\n\n**Common Modal Verbs and Their Functions:**\n\n- **Can / Could:** Express ability or possibility.\n  - *I can swim.*\n  - *Could you help me?*\n\n- **May / Might:** Indicate permission or possibility.\n  - *May I use your phone?*\n  - *It might snow tonight.*\n\n- **Shall / Should:** Offer suggestions, or express obligation.\n  - *Shall we go?*\n  - *You should see a doctor.*\n\n- **Will / Would:** Future intentions, polite requests, or hypothetical situations.\n  - *I will call you tomorrow.*\n  - *Would you like some coffee?*\n\n- **Must / Have to:** Express obligation or necessity.\n  - *You must wear a seatbelt.*\n  - *I have to finish this report.*\n\nRemember, modal verbs do not change according to the subject (I, you, he, she, it, we, they). Also, they do not have past forms in the same way regular verbs do, but some modals like 'could', 'might', and 'would' serve as past tense equivalents.\n\n**Modal Questions & Negatives:**\n\n- To form negatives, add 'not' after the modal verb: *I cannot (can't) attend.*\n- To ask questions, invert the subject and modal: *Can you help me?*",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n\n___ you help me with this project?",
+      "answer": "Can"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She ___ finish the report by tomorrow if she works late tonight.",
+      "answer": "might"
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verb with its function:\n\n1. Must  \n2. Should  \n3. May  \n4. Can\n\nA. Permission\nB. Obligation\nC. Advice\nD. Ability",
+      "answer": {
+        "1": "B",
+        "2": "C",
+        "3": "A",
+        "4": "D"
+      }
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: \n\nHe can to swim very well.",
+      "answer": "He can swim very well."
+    },
+    {
+      "type": "short answer",
+      "question": "Write a sentence using 'should' to give advice.",
+      "answer": "You should take a break and relax."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are often used in polite requests and suggestions, reflecting the value placed on politeness and respect. Phrases like 'Could you...' or 'Would you mind...' are common in everyday conversations and customer service contexts. Understanding how to appropriately use modal verbs enhances not only grammatical accuracy but also cultural fluency in American social interactions.",
+  "createdAt": "2025-12-24T04:26:12.642Z"
+}

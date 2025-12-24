@@ -1,0 +1,64 @@
+{
+  "id": "GM-GL-00131",
+  "number": 131,
+  "title": "Mastering American English Conditionals: The Path to Divine Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand and differentiate between zero, first, second, third, and mixed conditionals in American English.",
+    "Identify the correct grammatical structures for each type of conditional.",
+    "Construct complex sentences using advanced conditional forms relevant to American context.",
+    "Interpret nuanced meanings conveyed through various conditional sentences in American speech and writing.",
+    "Apply conditionals confidently in both formal and informal American English conversations and texts."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure expressing that one action depends on another.",
+      "example": "If I study hard, I will pass the exam."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are imagined or not real.",
+      "example": "If I were a millionaire, I would donate to charity."
+    },
+    {
+      "word": "counterfactual",
+      "definition": "A statement about an unreal or contrary-to-fact condition.",
+      "example": "If I had known, I would have acted differently."
+    },
+    {
+      "word": "imperfect",
+      "definition": "In grammar, referring to an action that was ongoing or incomplete in the past.",
+      "example": "If I was watching TV, I didn't hear the phone ring."
+    }
+  ],
+  "content": "Welcome to the realm of American English conditionals—your gateway to expressing possibilities, hypothetical scenarios, and regrets with divine precision. Mastery over conditionals elevates your language from mere communication to an art form that captures nuance and complexity.\n\n**Zero Conditional**: Used for universal truths and facts.\n- Structure: If + present simple, present simple.\n- Example: If water reaches 100°C, it boils.\n\n**First Conditional**: Talks about real and possible future situations.\n- Structure: If + present simple, will + base verb.\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional**: For unreal, hypothetical present or future situations.\n- Structure: If + past simple, would + base verb.\n- Example: If I had a million dollars, I would buy a house.\n\n**Third Conditional**: Reflects on past regrets or missed opportunities.\n- Structure: If + past perfect, would have + past participle.\n- Example: If I had studied harder, I would have passed the test.\n\n**Mixed Conditionals**: Combine elements to reflect complex time relationships.\n- Example: If I had taken that job (past), I would be more confident now (present).\n\nIn American English, conditionals also carry cultural nuances—such as expressions of hope, regret, or skepticism—often used in idiomatic forms:\n- 'If I were you...' (giving advice)\n- 'Had I known...' (expressing regret)\n\nUnderstanding these structures allows you to convey depth and subtlety, mirroring the richness of American thought and speech.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form for the sentence: 'If she ___ the instructions carefully, she wouldn't have made mistakes.'",
+      "answer": "had followed"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the appropriate form: 'If I ___ (be) taller, I could play basketball professionally.'",
+      "answer": "were"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Rewrite the sentence as a third conditional: 'I didn't study enough, so I failed the exam.'",
+      "answer": "If I had studied enough, I would not have failed the exam."
+    },
+    {
+      "type": "short answer",
+      "question": "Provide an example of a mixed conditional related to American culture.",
+      "answer": "If I had moved to New York five years ago, I would be working at a major finance firm now."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often reflect values such as optimism, possibility, and regret—especially in storytelling and personal narratives. Phrases like 'If I had known then what I know now' are common in American movies and speeches, emphasizing growth and reflection. Additionally, the informal use of conditionals in everyday speech—such as in advice ('If I were you...')—highlights the conversational and pragmatic nature of American English. Understanding these cultural nuances enhances your ability to communicate authentically and persuasively across diverse American contexts.",
+  "createdAt": "2025-12-24T04:23:19.289Z"
+}

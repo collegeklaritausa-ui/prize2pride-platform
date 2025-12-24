@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00167",
+  "number": 167,
+  "title": "Mastering Modal Verbs: Unlocking the Power of Possibility and Necessity",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and understand the different modal verbs used in American English.",
+    "Use modal verbs to express ability, permission, obligation, and possibility accurately.",
+    "Differentiate between similar modal verbs and their specific meanings.",
+    "Construct correct sentences using various modal verbs in different contexts.",
+    "Apply modal verbs appropriately in both spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "modal verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "obligation",
+      "definition": "A duty or requirement to do something, often expressed with 'must' or 'have to'.",
+      "example": "You must finish your homework before playing."
+    },
+    {
+      "word": "possibility",
+      "definition": "The chance that something might happen, often expressed with 'may', 'might', or 'could'.",
+      "example": "It might rain tomorrow."
+    },
+    {
+      "word": "permission",
+      "definition": "Approval to do something, often expressed with 'may' or 'can'.",
+      "example": "May I go outside?"
+    },
+    {
+      "word": "ability",
+      "definition": "The capacity to do something, expressed with 'can' or 'could'.",
+      "example": "She can speak three languages."
+    }
+  ],
+  "content": "Modal verbs are essential tools in American English that help us convey different shades of meaning related to ability, permission, obligation, advice, and possibility. Unlike regular verbs, modal verbs do not change form according to the subject or tense (with some exceptions). They are always followed by the base form of the main verb.\n\nCommon modal verbs include:\n- Can / Could: Express ability or possibility.\n- May / Might: Indicate permission or chance.\n- Must / Have to: Show obligation or necessity.\n- Should / Ought to: Offer advice or recommendations.\n- Will / Would: Express future intentions or hypothetical situations.\n\nExamples:\n- Ability: \"I can swim.\"\n- Permission: \"May I leave early today?\"\n- Obligation: \"You must wear a seatbelt.\"\n- Advice: \"You should see a doctor.\"\n- Future: \"I will call you tomorrow.\"\n\nRemember, modal verbs are versatile and can change the tone of your message. Use 'must' for strong necessity, 'should' for advice, and 'might' or 'may' for uncertainty or possibility. Practice these in sentences to become a true GOD of American English modal mastery!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb: \n\n___ you help me with this project?",
+      "answer": "Can"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She ___ finish her homework before going out. (obligation)",
+      "answer": "must"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: \n\nHe can to play the guitar very well.",
+      "answer": "He can play the guitar very well."
+    },
+    {
+      "type": "short answer",
+      "question": "Give an example of a sentence expressing possibility using 'might'.",
+      "answer": "It might snow later today."
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verb with its function:\n\n1. May\n2. Should\n3. Must\n\nA. Advice\nB. Permission\nC. Obligation",
+      "answer": "1-B, 2-A, 3-C"
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are often used to politely request permission ('May I...?'), express necessity ('You must...'), or show possibility and uncertainty ('It might...'). Politeness and clarity are highly valued, especially in formal or professional settings. Understanding and correctly using modal verbs will help you communicate more effectively and confidently in diverse American social and business environments.",
+  "createdAt": "2025-12-24T04:25:36.232Z"
+}

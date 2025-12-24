@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00152",
+  "number": 152,
+  "title": "Mastering Modal Verbs: The Keys to Expressing Ability, Permission, and Possibility",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic functions of common modal verbs in American English",
+    "Identify and use the modal verbs: can, could, may, might, must, should, and will",
+    "Formulate sentences expressing ability, permission, obligation, and possibility",
+    "Recognize the correct placement of modal verbs in sentences",
+    "Apply modal verbs correctly in everyday conversations"
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A helping verb that expresses ability, possibility, permission, or obligation",
+      "example": "She **can** swim very well."
+    },
+    {
+      "word": "Ability",
+      "definition": "The power or skill to do something",
+      "example": "I **can** ride a bike."
+    },
+    {
+      "word": "Permission",
+      "definition": "Approval to do something",
+      "example": "May I go outside?"
+    },
+    {
+      "word": "Possibility",
+      "definition": "Something that could happen",
+      "example": "It **might** rain today."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or necessity to do something",
+      "example": "You **must** finish your homework."
+    }
+  ],
+  "content": "In American English, modal verbs are essential tools that help us express different meanings related to ability, permission, obligation, and possibility. Modal verbs are always followed by the base form of the main verb. They do not change form according to the subject.\n\nCommon modal verbs include:\n- **Can**: Express ability or permission. e.g., \"I **can** speak three languages.\"\n- **Could**: Past ability or polite permission. e.g., \"When I was a child, I **could** run fast.\"\n- **May**: Formal permission or possibility. e.g., \"**May** I leave early today?\"\n- **Might**: Suggests possibility. e.g., \"It **might** snow tomorrow.\"\n- **Must**: Obligation or strong necessity. e.g., \"You **must** wear a seatbelt.\"\n- **Should**: Advice or suggestion. e.g., \"You **should** eat more vegetables.\"\n- **Will**: Future intention or promise. e.g., \"I **will** call you tomorrow.\"\n\nRemember, modal verbs are used at the beginning of the verb phrase and do not have ‘s’, ‘ed’, or ‘ing’ endings. For example: \"He **can** help us,\" not \"He **cans** help us.\"\n\nLet’s look at some example sentences:\n- Ability: \"She **can** play the piano.\"\n- Permission: \"**May** I sit here?\"\n- Obligation: \"You **must** finish your homework.\"\n- Possibility: \"They **might** visit us this weekend.\"\n\nPracticing these will help you become confident in expressing different ideas in American English!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ you help me with this project?\nA) Can\nB) Should\nC) Might",
+      "answer": "A) Can"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "You ___ go to bed early if you want to wake up refreshed.",
+      "answer": "should"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the mistake: \nHe can to swim very fast.",
+      "answer": "He can swim very fast."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the modal verb with its meaning:\n1) May\n2) Must\n3) Might\n\nA) Possibility\nB) Permission\nC) Obligation",
+      "answer": "1) May - B) Permission\n2) Must - C) Obligation\n3) Might - A) Possibility"
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are used frequently in both formal and informal contexts. Saying 'Can I?' or 'May I?' is common when requesting permission, with 'Can I?' being more casual and 'May I?' more formal. Understanding and correctly using modal verbs can help you sound polite, confident, and clear in your communication, whether you're making a request, giving advice, or talking about possibilities. Remember, Americans value directness and clarity, so mastering modal verbs will help you express yourself effectively and politely.",
+  "createdAt": "2025-12-24T04:24:41.572Z"
+}

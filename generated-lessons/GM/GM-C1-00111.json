@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00111",
+  "number": 111,
+  "title": "Mastering the Art of Advanced Conditionals: From Myth to Mastery",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand and distinguish between zero, first, second, third, and mixed conditionals in complex contexts.",
+    "Analyze nuanced conditional sentences to determine implied meanings and subtleties.",
+    "Construct sophisticated conditional sentences appropriate for professional and academic settings.",
+    "Identify common errors and pitfalls in using advanced conditionals and correct them.",
+    "Apply conditional structures to hypothetical scenarios reflecting American cultural and societal nuances."
+  ],
+  "vocabulary": [
+    {
+      "word": "counterfactual",
+      "definition": "A statement or idea that is contrary to fact or reality.",
+      "example": "If I had known about the meeting, I would have attended — a counterfactual situation about the past."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Suppositional or imagined; not real but used for reasoning about possibilities.",
+      "example": "What would you do in a hypothetical scenario where you won a million dollars?"
+    },
+    {
+      "word": "modal perfect",
+      "definition": "A combination of modal verbs with the perfect aspect to express different shades of possibility, necessity, or regret in conditional forms.",
+      "example": "You should have called me if you needed help — a modal perfect expressing regret about a past condition."
+    },
+    {
+      "word": "mixed conditionals",
+      "definition": "Conditional sentences that combine different time references from different types of conditionals.",
+      "example": "If I had studied harder (past), I would be more confident now (present)."
+    },
+    {
+      "word": "subjunctive",
+      "definition": "A grammatical mood used to express wishes, hypotheticals, or conditions contrary to fact.",
+      "example": "If I were you, I would take the opportunity."
+    }
+  ],
+  "content": "To achieve mastery over advanced conditionals in American English, students must recognize the subtle distinctions among various forms and their appropriate contexts. Zero conditionals describe general truths, e.g., \"If you heat water to 100°C, it boils.\" First conditionals express real and possible future situations: \"If it rains tomorrow, I will bring an umbrella.\" Second conditionals depict hypothetical present or future scenarios: \"If I were rich, I would travel the world.\" Third conditionals refer to past hypotheticals: \"If I had studied harder, I would have passed the exam.\" \n\nMixed conditionals blend these forms to accurately reflect complex situations—such as, \"If I had taken that job (past), I would be living in New York now (present).\" Recognizing the use of modal perfects adds nuance, allowing expressions of regret or probability, e.g., \"You should have told me earlier.\" \n\nIn American cultural contexts, conditionals are often used to discuss hypothetical career moves, cultural norms, or societal expectations, emphasizing personal choice and potential outcomes. Mastery involves understanding subtle contrasts, using conditionals to articulate complex ideas, and tailoring sentences to professional, academic, or colloquial registers for maximum impact.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If she ___ (study) harder, she would pass the test.'",
+      "answer": "studied"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with an appropriate form: 'If I ___ (be) you, I would accept the offer.'",
+      "answer": "were"
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error: 'If he would have arrived earlier, he could have seen the beginning of the movie.'",
+      "answer": "The correct sentence is: 'If he had arrived earlier, he could have seen the beginning of the movie.'"
+    },
+    {
+      "type": "writing",
+      "question": "Write a complex mixed conditional sentence about a personal decision and its current consequence.",
+      "answer": "If I had studied business in college, I would be working in a corporate office now."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often reflect individual agency, emphasizing personal choices and their potential impacts. They are frequently used in motivational contexts, such as career advice or self-improvement discussions, highlighting the importance of hypothetical decision-making. Understanding these nuances can enhance your ability to communicate effectively in professional and social settings, resonating with American values of opportunity and self-determination.",
+  "createdAt": "2025-12-24T04:22:00.791Z"
+}

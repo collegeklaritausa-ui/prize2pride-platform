@@ -1,0 +1,74 @@
+{
+  "id": "GM-B1-00165",
+  "number": 165,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify and understand the different modal verbs used in American English.",
+    "Use modal verbs correctly to express ability, possibility, permission, and obligation.",
+    "Differentiate between similar modal verbs and their nuanced meanings.",
+    "Construct complex sentences using appropriate modal verbs in various contexts.",
+    "Enhance fluency and confidence in speaking and writing by mastering modal verb usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "I can speak three languages."
+    },
+    {
+      "word": "might",
+      "definition": "Indicates possibility or uncertainty.",
+      "example": "It might rain later."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses obligation or strong necessity.",
+      "example": "You must finish your homework before dinner."
+    },
+    {
+      "word": "should",
+      "definition": "Gives advice or recommendation.",
+      "example": "You should see a doctor."
+    },
+    {
+      "word": "may",
+      "definition": "Expresses permission or possibility.",
+      "example": "May I leave early today?"
+    }
+  ],
+  "content": "Welcome to the world of Modal Verbs, the essential tools for expressing ability, possibility, permission, obligation, and advice in American English. Mastery of modal verbs elevates your communication skills, making you sound confident and natural.\n\n**Understanding Modal Verbs:**\nModal verbs are auxiliary verbs that modify the main verb to express various shades of meaning. Unlike regular verbs, modals do not change form according to tense; instead, they are followed by the base form of the main verb.\n\n**Common Modal Verbs and Their Uses:**\n- **Can:** Ability (I can run fast), Permission (Can I go out?), Possibility (It can get cold here.)\n- **Could:** Past ability (I could swim when I was five), Polite requests (Could you help me?)\n- **May:** Permission (May I leave early?), Possibility (It may snow tomorrow.)\n- **Might:** Less certain possibility (She might come to the party.)\n- **Must:** Obligation (You must wear a seatbelt.), Strong recommendation (You must see this movie.)\n- **Should:** Advice (You should study more.), Expectation (They should be here by now.)\n- **Would:** Polite offers (Would you like some coffee?), Hypothetical situations (I would travel more if I had time.)\n\n**Using Modal Verbs in Sentences:**\n- Affirmative: Subject + modal + base verb (He can drive.)\n- Negative: Subject + modal + not + base verb (She cannot attend.)\n- Questions: Modal + subject + base verb? (May I enter?)\n\n**Note on Formality and Tone:**\nIn American English, modal verbs often convey politeness and respect, especially in requests and offers. Choose your modal carefully to match the context.\n\nBy practicing these patterns and understanding their nuances, you'll soon speak with the authority of a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which modal verb best completes the sentence? \"You ___ finish your work before you leave.\"",
+      "answer": "must"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct modal verb: \"I ___ visit my grandparents this weekend.\"",
+      "answer": "might"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence using a different modal verb without changing the meaning: \"You should see a doctor.\"",
+      "answer": "You ought to see a doctor."
+    },
+    {
+      "type": "True/False",
+      "question": "The modal verb 'can' is used to express obligation.",
+      "answer": "False"
+    },
+    {
+      "type": "Scenario-based",
+      "question": "You're politely asking a friend for permission to borrow their car. Which modal verb would you use?",
+      "answer": "May I borrow your car?"
+    }
+  ],
+  "culturalNotes": "In American culture, polite requests and expressions of permission often use modal verbs like 'may' and 'can,' reflecting a balance of politeness and directness. Americans tend to value direct communication combined with courtesy, so mastering modal verbs helps you navigate social interactions confidently and respectfully.",
+  "createdAt": "2025-12-24T04:25:28.904Z"
+}

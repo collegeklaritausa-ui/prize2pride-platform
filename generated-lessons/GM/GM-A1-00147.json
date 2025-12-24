@@ -1,0 +1,69 @@
+{
+  "id": "GM-A1-00147",
+  "number": 147,
+  "title": "Mastering Modal Verbs: The Key to Expressing Ability, Permission, and Possibility",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what modal verbs are and their function in sentences",
+    "Identify common modal verbs used in American English",
+    "Use modal verbs correctly to express ability, permission, and possibility",
+    "Differentiate between similar modal verbs in different contexts",
+    "Practice forming sentences with modal verbs to gain confidence and fluency"
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility",
+      "example": "I can ride a bike."
+    },
+    {
+      "word": "could",
+      "definition": "Past ability or polite permission",
+      "example": "Could you help me with this?"
+    },
+    {
+      "word": "may",
+      "definition": "Expresses permission or possibility",
+      "example": "May I use your phone?"
+    },
+    {
+      "word": "might",
+      "definition": "Indicates possibility, usually less certain",
+      "example": "It might rain today."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses necessity or strong obligation",
+      "example": "You must finish your homework."
+    }
+  ],
+  "content": "Modal verbs are special words used alongside main verbs to express ideas such as ability, permission, possibility, or obligation. They do not change form based on the subject and are followed by the base form of the main verb.\n\nFor example:\n- Ability: \"She can swim.\"\n- Permission: \"May I leave early?\"\n- Possibility: \"It might snow tomorrow.\"\n\nCommon modal verbs in American English include can, could, may, might, must, shall, should, will, and would.\n\nUsing these modal verbs correctly helps you sound more natural and fluent. Here are some tips:\n- Use \"can\" to show ability or possibility.\n- Use \"may\" or \"might\" to ask or give permission and to express uncertain possibility.\n- Use \"must\" for obligations or strong recommendations.\n\nExample sentences:\n- I can speak three languages.\n- May I sit here?\n- You must wear a seatbelt.\n- It might be cold outside.\n\nRemember, modal verbs are followed by the base form of the main verb. For example, \"can go,\" not \"can goes.\"",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ I borrow your pen?",
+      "answer": "May"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She ___ play the piano when she was five years old.",
+      "answer": "could"
+    },
+    {
+      "type": "true/false",
+      "question": "The modal verb 'must' is used to ask for permission. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the modal verb 'might' to talk about a possibility.",
+      "answer": "It might rain later."
+    }
+  ],
+  "culturalNotes": "In American culture, polite requests often involve modal verbs like 'may' or 'could.' When asking for permission, Americans typically say 'May I...' instead of 'Can I...' as it is considered more formal and polite. Understanding modal verbs enhances your ability to communicate effectively and respectfully in various social situations across the United States.",
+  "createdAt": "2025-12-24T04:24:23.238Z"
+}

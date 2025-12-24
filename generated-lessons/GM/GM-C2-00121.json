@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00121",
+  "number": 121,
+  "title": "Mastering American English Conditionals: Becoming a Grammar God",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the four main types of conditionals in American English",
+    "Differentiate between zero, first, second, and third conditionals",
+    "Construct accurate conditional sentences in various contexts",
+    "Use conditionals to express real, hypothetical, and impossible situations confidently",
+    "Apply conditionals in both spoken and written American English with mastery"
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure used to express that one action depends on another.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are imagined or not real.",
+      "example": "If I were president, I would improve education."
+    },
+    {
+      "word": "impossible",
+      "definition": "Referring to situations that cannot happen.",
+      "example": "If I had wings, I could fly."
+    }
+  ],
+  "content": "Welcome to the mastery of conditionals in American English! Conditionals are essential for expressing different levels of certainty, possibility, and imagination. Let's break down the four main types:\n\n1. Zero Conditional:\n- Use: Facts and general truths.\n- Structure: If + Present Simple, Present Simple.\n- Example: If you heat ice, it melts.\n\n2. First Conditional:\n- Use: Real and possible future situations.\n- Structure: If + Present Simple, will + Base Verb.\n- Example: If it rains tomorrow, we will stay indoors.\n\n3. Second Conditional:\n- Use: Unlikely or hypothetical present or future situations.\n- Structure: If + Past Simple, would + Base Verb.\n- Example: If I won the lottery, I would travel the world.\n\n4. Third Conditional:\n- Use: Regret or imagining a different past.\n- Structure: If + Past Perfect, would have + Past Participle.\n- Example: If I had studied harder, I would have passed the exam.\n\nMastering these structures allows you to speak and write with precision, conveying different levels of reality and imagination. Practice constructing sentences in each category to become a true grammar god!\n\nRemember, in American English, contractions like 'I'll,' 'would've,' and 'it's' are common and often preferred in casual speech and writing.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence: If she __________ (study) more, she __________ (pass) the test.",
+      "answer": "studied / would pass"
+    },
+    {
+      "type": "Transform",
+      "question": "Rewrite the following sentence using the third conditional: 'They didn't leave early, so they missed the beginning.'",
+      "answer": "If they had left early, they would have seen the beginning."
+    },
+    {
+      "type": "Multiple choice",
+      "question": "Choose the correct conditional form: 'If he __________ (be) taller, he __________ (play) basketball.'\nA) is / plays\nB) were / would play\nC) was / will play",
+      "answer": "B) were / would play"
+    },
+    {
+      "type": "Create your own",
+      "question": "Write a sentence using the second conditional about your dream job.",
+      "answer": "If I were a famous chef, I would open my own restaurant."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in informal speech to express possibilities and hypothetical scenarios, such as in conversations about future plans, regrets, or imagination. Phrasal and contracted forms are very common, reflecting the relaxed and expressive nature of American English. Understanding and confidently using conditionals can greatly enhance your communication skills, making your language sound natural and fluent in American social and professional settings.",
+  "createdAt": "2025-12-24T04:22:40.817Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00109",
+  "number": 109,
+  "title": "Mastering Conditionals: Unlocking the Power of Hypotheticals in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different types of conditionals in American English (Zero, First, Second, Third, and Mixed).",
+    "Identify the structure and usage of each conditional type in context.",
+    "Construct correct conditional sentences to express real and unreal situations.",
+    "Differentiate between formal and informal uses of conditionals in American English.",
+    "Apply conditionals effectively in speaking and writing to convey nuanced meanings."
+  ],
+  "vocabulary": [
+    {
+      "word": "Hypothetical",
+      "definition": "Relating to or based on a hypothesis; not real but imagined or supposed.",
+      "example": "In a hypothetical scenario, I would travel the world if I had more free time."
+    },
+    {
+      "word": "Unreal",
+      "definition": "Not real or actual; imaginary.",
+      "example": "If I were a millionaire, I would buy a mansion."
+    },
+    {
+      "word": "Conditional",
+      "definition": "A sentence that expresses a condition and its result, often using 'if' or other conjunctions.",
+      "example": "If it rains, we will cancel the picnic."
+    }
+  ],
+  "content": "Conditionals are essential in American English for discussing cause-and-effect relationships, hypothetical situations, and future possibilities. They are often introduced by 'if' or other conjunctions like 'unless' or 'provided that.' Understanding the nuances between different types of conditionals enables you to communicate more precisely.\n\n1. Zero Conditional: Uses the present simple in both clauses to talk about facts or general truths.\n   - Structure: If + present simple, present simple.\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Discusses real and possible situations in the future.\n   - Structure: If + present simple, will + base verb.\n   - Example: If it rains tomorrow, we will stay indoors.\n\n3. Second Conditional: Describes hypothetical or unlikely present or future situations.\n   - Structure: If + past simple, would + base verb.\n   - Example: If I won the lottery, I would buy a house.\n\n4. Third Conditional: Reflects on past situations that did not happen.\n   - Structure: If + past perfect, would have + past participle.\n   - Example: If you had studied harder, you would have passed the exam.\n\n5. Mixed Conditionals: Combine elements of second and third conditionals to express complex hypothetical scenarios.\n   - Example: If I had taken that job, I would be living in New York now.\n\nIn American English, conditionals are often used in both formal and informal contexts, with contractions like 'if' + 'you're' instead of 'if you are,' and in casual speech, contractions are very common.\n\nMastering conditionals allows you to express ideas with clarity and nuance, essential for advanced communication in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct conditional form: 'If she ___ (study) more, she would pass the test.'",
+      "answer": "studied"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'If I ___ (be) taller, I could play basketball.'",
+      "answer": "were"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: 'If he will help us, we can finish faster.'",
+      "answer": "If he helps us, we can finish faster."
+    },
+    {
+      "type": "creation",
+      "question": "Write a third conditional sentence about a past mistake you made.",
+      "answer": "If I had studied earlier, I would have done better on the test."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are frequently used in everyday conversations, especially to give advice, make promises, or discuss hypothetical scenarios. Informal speech often features contractions and relaxed structures, such as 'If I were you...' or 'If it’s okay with you...' Understanding how Americans naturally use conditionals enhances both comprehension and fluency. Additionally, storytelling often involves hypothetical situations, reflecting the American value of imagination and problem-solving.",
+  "createdAt": "2025-12-24T04:21:52.495Z"
+}

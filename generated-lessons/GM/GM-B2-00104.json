@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00104",
+  "number": 104,
+  "title": "Mastering Conditionals: Unlocking the Power of If-Statements",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and differentiate between zero, first, second, third, and mixed conditionals.",
+    "Construct correct conditional sentences for various real-life situations.",
+    "Understand the contextual usage of different conditionals in American English.",
+    "Apply conditionals to express hypothetical, future, and past scenarios effectively.",
+    "Enhance fluency and accuracy in spoken and written American English through mastery of conditionals."
+  ],
+  "vocabulary": [
+    {
+      "word": "hypothetical",
+      "definition": "Relating to or based on a hypothesis; imagined or supposed scenario.",
+      "example": "If I won the lottery, I would buy a house by the beach."
+    },
+    {
+      "word": "conditional sentence",
+      "definition": "A sentence that expresses a condition and its result, often using 'if' or other conjunctions.",
+      "example": "If it rains tomorrow, the picnic will be canceled."
+    },
+    {
+      "word": "certainty",
+      "definition": "The state of being completely sure about something.",
+      "example": "She always studies hard because she is certain of her success."
+    }
+  ],
+  "content": "In American English, conditionals are essential for expressing possibilities, hypotheses, and real or imagined situations. They are categorized into five main types:\n\n1. Zero Conditional: Used for general truths and scientific facts.\n   - Structure: If + present simple, ... present simple.\n   - Example: If water reaches 100°C, it boils.\n\n2. First Conditional: Expresses real and possible future situations.\n   - Structure: If + present simple, ... will + base verb.\n   - Example: If you study hard, you will pass the exam.\n\n3. Second Conditional: Describes hypothetical or unlikely present or future situations.\n   - Structure: If + past simple, ... would + base verb.\n   - Example: If I were taller, I would play basketball.\n\n4. Third Conditional: Reflects on past situations that did not happen.\n   - Structure: If + past perfect, ... would have + past participle.\n   - Example: If I had known about the party, I would have gone.\n\n5. Mixed Conditionals: Combine elements of second and third conditionals, often to express past situations with present results.\n   - Example: If I had studied harder, I would be more confident now.\n\nIn American idiomatic expressions, conditionals are often used more flexibly, especially in spoken language, emphasizing immediacy and personal perspective. Mastery of these forms allows for nuanced communication, whether discussing facts, possibilities, or regrets.\n\nRemember, the choice of tense and structure depends on the time frame and reality of the situation you're describing.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which sentence correctly uses the second conditional?",
+      "answer": "If I had more free time, I would travel more."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: If it __________ (rain) tomorrow, the game __________ (be) canceled.",
+      "answer": "rains, will be"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the third conditional sentence: 'She didn't study, so she failed the test.' (Use 'if' and the third conditional structure.)",
+      "answer": "If she had studied, she would have passed the test."
+    },
+    {
+      "type": "true/false",
+      "question": "The zero conditional is used to talk about unlikely or hypothetical situations.",
+      "answer": "False"
+    },
+    {
+      "type": "creative writing",
+      "question": "Write a short paragraph about what you would do if you won a million dollars, using at least two different types of conditionals.",
+      "answer": "If I won a million dollars, I would buy a house. I would also donate some money to charity. If I had more time, I would travel around the world."
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals often reflects personal opinions, dreams, and hypothetical scenarios, especially in casual conversation. Americans frequently use the second conditional to express aspirations or fantasies, such as 'If I were rich...' or 'If I had superpowers...'. The third conditional is commonly used when talking about regrets or missed opportunities, which can sometimes be a topic of personal storytelling or motivational speech. Understanding these nuances helps in grasping the informal and expressive nature of American English communication.",
+  "createdAt": "2025-12-24T04:21:31.805Z"
+}

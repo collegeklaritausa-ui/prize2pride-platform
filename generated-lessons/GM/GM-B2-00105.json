@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00105",
+  "number": 105,
+  "title": "Mastering Conditionals: Unlock the Power of Hypothetical American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different types of conditionals used in American English",
+    "Identify and correctly use the zero, first, second, third, and mixed conditionals",
+    "Gain mastery in forming conditional sentences with proper structure and tense agreement",
+    "Recognize common errors in conditional sentences and learn how to avoid them",
+    "Apply conditionals confidently in both written and spoken American English contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Hypothetical",
+      "definition": "Based on or involving a hypothesis; not real but imagined or supposed.",
+      "example": "In American English, we often use hypothetical situations to express possibilities or regrets."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that expresses time, such as past, present, or future.",
+      "example": "Correct tense usage is essential when constructing conditional sentences to convey the right time frame."
+    },
+    {
+      "word": "Contrary-to-fact",
+      "definition": "Statements or conditions that are not true or are imagined; often used in second and third conditionals.",
+      "example": "If I were rich, I would buy a house in the suburbs — a contrary-to-fact situation."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson on conditionals in American English, where you'll learn to craft sentences that reflect real, unreal, and hypothetical situations with precision and style. Conditionals are essential for expressing possibilities, regrets, advice, and imaginary scenarios. They are classified into several types:\n\n1. Zero Conditional: Used for facts and general truths.\n   - Structure: If + present simple, + present simple\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Discusses real future possibilities.\n   - Structure: If + present simple, + will + base verb\n   - Example: If it rains tomorrow, I will stay indoors.\n\n3. Second Conditional: Describes hypothetical present or future situations.\n   - Structure: If + past simple, + would + base verb\n   - Example: If I won the lottery, I would travel the world.\n\n4. Third Conditional: Reflects on past situations that did not happen.\n   - Structure: If + past perfect, + would have + past participle\n   - Example: If I had studied harder, I would have passed the exam.\n\n5. Mixed Conditionals: Combine different time frames to express complex hypothetical scenarios.\n   - Example: If I had taken that job, I would be living in New York now.\n\nUnderstanding the nuances of each type helps you sound more natural and confident. Pay attention to tense accuracy, especially in the second and third conditionals, where common errors include incorrect tense agreement or omission of 'were' in subjunctive forms.\n\nRemember, mastering conditionals allows you to articulate possibilities, regrets, and advice with clarity and flair, elevating your American English to GOD-level proficiency.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conditional form: 'If she ___ the instructions carefully, she wouldn't make mistakes.'",
+      "answer": "had followed"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct form: 'If I ___ (be) you, I would accept the offer.'",
+      "answer": "were"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify the error: 'If he would have studied, he would pass the test.'",
+      "answer": "Replace 'would have studied' with 'had studied' to form the third conditional: 'If he had studied, he would have passed the test.'"
+    },
+    {
+      "type": "Create Your Own",
+      "question": "Write a third conditional sentence about a missed opportunity in your past.",
+      "answer": "Sample answer: If I had practiced more, I would have performed better in the competition."
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals often reflects an optimistic or pragmatic attitude toward possibilities and regrets. For example, Americans frequently use 'what if' scenarios to discuss personal choices or to consider future opportunities, embodying a mindset of proactive problem-solving and resilience. Mastering conditionals allows you to participate fully in conversations about future plans, past regrets, and hypothetical situations—a common feature in American social and professional interactions.",
+  "createdAt": "2025-12-24T04:21:35.785Z"
+}

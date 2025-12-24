@@ -1,0 +1,73 @@
+{
+  "id": "GM-A2-00155",
+  "number": 155,
+  "title": "Mastering Modal Verbs: Your First Step to English Greatness",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what modal verbs are and how they are used in sentences.",
+    "Identify common modal verbs in American English.",
+    "Use basic modal verbs correctly in simple sentences.",
+    "Differentiate between modal verbs for ability, permission, and possibility.",
+    "Build confidence to incorporate modal verbs in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "I can ride a bike."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses obligation or necessity.",
+      "example": "You must do your homework."
+    },
+    {
+      "word": "may",
+      "definition": "Expresses permission or possibility.",
+      "example": "May I go outside?"
+    },
+    {
+      "word": "should",
+      "definition": "Gives advice or recommendation.",
+      "example": "You should eat vegetables."
+    },
+    {
+      "word": "will",
+      "definition": "Expresses future intention or promise.",
+      "example": "I will call you tomorrow."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on modal verbs—small words that carry big meaning. Modal verbs include can, must, may, should, and will. They help us express ability, permission, obligation, possibility, and future actions.\n\nFor example:\n- Ability: I can swim.\n- Permission: May I leave early?\n- Obligation: You must finish your homework.\n- Advice: You should see a doctor.\n- Future: I will visit my friend tomorrow.\n\nRemember, modal verbs are always followed by the base form of the main verb (no ‘to’). For example: can go, must study.\n\nPractice speaking and writing these sentences using different modal verbs to become more confident. The more you practice, the more you master these essential words—and become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which modal verb best completes this sentence? 'You ___ wear a seatbelt.'",
+      "answer": "must"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct modal verb: '___ I use your phone?'",
+      "answer": "May"
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verb to its meaning:\n1. can\n2. should\n3. will\n\nA. Future action\nB. Ability\nC. Advice",
+      "answer": {
+        "1": "can - B",
+        "2": "should - C",
+        "3": "will - A"
+      }
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using 'might' to express possibility.",
+      "answer": "It might rain tomorrow."
+    }
+  ],
+  "culturalNotes": "In American culture, using modal verbs correctly is important for politeness and clarity. Saying 'May I' is a respectful way to ask for permission, reflecting the American value of politeness. Understanding modal verbs also helps in understanding American movies, TV shows, and daily conversations, making you more immersed in the language and culture.",
+  "createdAt": "2025-12-24T04:24:51.502Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-GL-00132",
+  "number": 132,
+  "title": "Mastering the Divine: The Ultimate Conditionals in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand and distinguish between zero, first, second, third, and mixed conditionals.",
+    "Construct complex conditional sentences with precision and style.",
+    "Identify subtle nuances in conditional usage within American idiomatic expressions.",
+    "Apply conditionals confidently in both formal and informal contexts.",
+    "Achieve mastery over conditional contractions and variations for natural fluency."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional",
+      "definition": "A grammatical structure expressing a hypothesis and its possible outcome.",
+      "example": "If you study hard, you will pass the exam."
+    },
+    {
+      "word": "Hypothesis",
+      "definition": "An assumption or supposition made for the sake of argument or exploration.",
+      "example": "In conditional sentences, the hypothesis is the 'if' clause."
+    },
+    {
+      "word": "Subjunctive",
+      "definition": "A grammatical mood expressing wishes, hypotheticals, or conditions contrary to fact.",
+      "example": "If I were you, I would reconsider."
+    }
+  ],
+  "content": "Welcome to the pinnacle of American English mastery: the art of conditionals—your gateway to expressing possibilities, hypotheses, and counterfactuals with divine precision.\n\n**1. Zero Conditional:**\nUsed for universal truths and scientific facts.\n- Structure: If + present simple, + present simple.\n- Example: If water reaches 100°C, it boils.\n\n**2. First Conditional:**\nExpresses real and possible future situations.\n- Structure: If + present simple, + will + base verb.\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**3. Second Conditional:**\nDiscusses hypothetical or unlikely present/future situations.\n- Structure: If + past simple, + would + base verb.\n- Example: If I won the lottery, I would buy a house.\n\n**4. Third Conditional:**\nReflects on past situations that didn't happen.\n- Structure: If + past perfect, + would have + past participle.\n- Example: If I had studied harder, I would have passed the test.\n\n**5. Mixed Conditionals:**\nCombine elements to express complex hypotheticals.\n- Example: If I had gone to college (past), I would be a doctor now (present).\n\n**Usage Tips:**\n- Use contractions for natural speech: I’d, you’d, she’d.\n- Emphasize the difference between real possibility and hypothetical scenarios.\n- Practice switching between conditionals to convey nuanced meaning.\n\nRemember, mastering conditionals elevates your language from mere communication to divine expression—allowing you to articulate possibilities with the precision of a linguistic deity.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conditional form: If she ___ (study), she ___ (pass) the exam.",
+      "answer": "studies, will pass"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence: If I ___ (be) taller, I ___ (reach) the top shelf.",
+      "answer": "were, would reach"
+    },
+    {
+      "type": "Transformation",
+      "question": "Rewrite the sentence using the third conditional: 'She didn't attend the party, and she missed the fun.'",
+      "answer": "If she had attended the party, she would have had fun."
+    },
+    {
+      "type": "Identify the Conditional",
+      "question": "Identify the type of conditional: 'If you had told me earlier, I would have helped.'",
+      "answer": "Third Conditional"
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a hypothetical scenario about your future using the second conditional.",
+      "answer": "If I become a famous musician, I would perform all over the world."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in motivational contexts, such as 'If you work hard, you can achieve anything.' They also appear frequently in idiomatic expressions and everyday speech, emphasizing possibilities, advice, and reflections. Mastery over conditionals allows speakers to craft persuasive arguments, tell compelling stories, and convey nuanced hypotheticals in the dynamic landscape of American English communication.",
+  "createdAt": "2025-12-24T04:23:23.097Z"
+}

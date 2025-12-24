@@ -1,0 +1,59 @@
+{
+  "id": "GM-GL-00140",
+  "number": 140,
+  "title": "Mastering the Infinite Possibilities: The Art of Conditionals in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the foundational structures of zero, first, second, third, and mixed conditionals",
+    "Apply conditionals accurately in complex sentences and hypothetical scenarios",
+    "Distinguish between real and unreal situations using appropriate conditional forms",
+    "Express nuanced ideas involving probability, necessity, and speculation",
+    "Integrate conditionals seamlessly into advanced writing and speaking for rhetorical effect"
+  ],
+  "vocabulary": [
+    {
+      "word": "Hypothetical",
+      "definition": "Relating to a situation that is imagined or possible but not real",
+      "example": "If I were a billionaire, I would travel the world."
+    },
+    {
+      "word": "Counterfactual",
+      "definition": "A statement or situation that is contrary to known facts",
+      "example": "If she had studied harder, she would have passed the exam."
+    },
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb used to express ability, possibility, permission, or obligation",
+      "example": "might, could, should, would"
+    }
+  ],
+  "content": "To become a GOD of American English, mastery over conditionals is essential. Conditionals allow us to navigate reality, possibility, and imagination with finesse.\n\n**Zero Conditional:** Used for universal truths and scientific facts.\n- Structure: If + present simple, ... present simple\n- Example: If water reaches 100°C, it boils.\n\n**First Conditional:** Used for real and possible future situations.\n- Structure: If + present simple, ... will + base verb\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional:** For hypothetical present or future situations unlikely or contrary to current facts.\n- Structure: If + past simple, ... would + base verb\n- Example: If I won the lottery, I would buy a house.\n\n**Third Conditional:** For past hypotheticals, used to discuss regrets or missed opportunities.\n- Structure: If + past perfect, ... would have + past participle\n- Example: If she had studied harder, she would have aced the exam.\n\n**Mixed Conditionals:** Combine different time frames, often to express complex hypotheticals.\n- Example: If I had taken that job (past), I would be living in New York now (present).\n\nMastering these forms involves understanding their subtle differences and mastering their usage in varied contexts. Remember, conditionals are not just grammar—they're the keys to expressing complex ideas and nuanced emotions in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which sentence correctly uses the second conditional?",
+      "answer": "If I were taller, I would play basketball."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "If she ____ (study) harder, she ____ (pass) the exam.",
+      "answer": "had studied; would have passed"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence using a third conditional: 'He didn't bring an umbrella, so he got wet.'",
+      "answer": "If he had brought an umbrella, he wouldn't have gotten wet."
+    },
+    {
+      "type": "Scenario Analysis",
+      "question": "Imagine you missed an important flight. Express the situation using a third conditional.",
+      "answer": "If I had left earlier, I would have caught my flight."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used to discuss future plans, regrets, and hypothetical scenarios in both casual conversations and professional contexts. Americans value clarity and directness, so mastering conditionals enhances your ability to communicate ideas precisely—whether you're discussing a business strategy, telling a story, or engaging in everyday dialogue. Additionally, the use of 'if' clauses can reflect optimism, regret, or speculating about possibilities, which are common themes in American storytelling and rhetoric.",
+  "createdAt": "2025-12-24T04:23:59.196Z"
+}

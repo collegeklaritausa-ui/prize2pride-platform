@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00143",
+  "number": 143,
+  "title": "Mastering Modal Verbs: Your Gateway to American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose and use of modal verbs in American English.",
+    "Identify common modal verbs such as can, could, may, might, must, shall, should, will, would.",
+    "Construct correct sentences using different modal verbs.",
+    "Differentiate between modal verbs to express ability, possibility, permission, and obligation.",
+    "Apply modal verbs confidently in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "Can, should, might, must are modal verbs."
+    },
+    {
+      "word": "Permission",
+      "definition": "The right or allowed to do something.",
+      "example": "May I go outside?"
+    },
+    {
+      "word": "Obligation",
+      "definition": "A requirement or duty to do something.",
+      "example": "You must finish your homework."
+    }
+  ],
+  "content": "Welcome to the world of modal verbs, the secret power tools in your American English toolkit! Modal verbs help you express your ability, possibilities, permissions, and obligations clearly and politely. Let's explore the most common modal verbs:\n\n- **Can**: Express ability or possibility. \n  *Example:* I **can** swim.\n\n- **Could**: Past ability or polite permission. \n  *Example:* **Could** you help me?\n\n- **May**: Formal permission or possibility. \n  *Example:* **May** I leave early?\n\n- **Might**: Possibility, less certain than may. \n  *Example:* It **might** rain today.\n\n- **Must**: Strong obligation or certainty. \n  *Example:* You **must** wear a seatbelt.\n\n- **Shall**: Offer or suggestion, often used in formal contexts. \n  *Example:* **Shall** we dance?\n\n- **Should**: Advice or recommendation. \n  *Example:* You **should** study harder.\n\n- **Will**: Future intention or promise. \n  *Example:* I **will** call you tomorrow.\n\n- **Would**: Polite requests or hypothetical situations. \n  *Example:* **Would** you like some coffee?\n\nRemember, modal verbs do not change form according to the subject. They are followed directly by the base verb (without 'to').\n\nExample sentences to practice:\n- I **can** speak English.\n- She **must** finish her work.\n- They **might** come to the party.\n\nPractice using these modal verbs in your sentences to become more confident in expressing yourself in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: I ___ go to the store now.",
+      "answer": "can"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "He ____ finish his homework before playing video games.",
+      "answer": "must"
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verbs with their meanings:\n1. May\n2. Should\n3. Might\n4. Will\n\nA. Future intention\nB. Possibility\nC. Permission\nD. Advice",
+      "answer": {
+        "May": "C",
+        "Should": "D",
+        "Might": "B",
+        "Will": "A"
+      }
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: She can to sing well.",
+      "answer": "She can sing well."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are used politely and respectfully, especially when making requests or giving advice. For example, saying 'May I' instead of 'Can I' can sound more formal or polite. Understanding these nuances helps you communicate effectively and respectfully in everyday American interactions, from casual conversations to professional settings.",
+  "createdAt": "2025-12-24T04:24:10.307Z"
+}

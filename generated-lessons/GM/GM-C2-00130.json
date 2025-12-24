@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00130",
+  "number": 130,
+  "title": "Mastering American English Conditionals: Unlock Your Language Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and differentiate between zero, first, second, third, and mixed conditionals in American English.",
+    "Construct correct conditional sentences for various real and hypothetical situations.",
+    "Understand the subtle nuances and appropriate usage of each conditional type.",
+    "Apply conditionals confidently in both spoken and written American English contexts.",
+    "Elevate your language mastery to become a true GOD of American English grammar."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure expressing cause-and-effect relationships or hypothetical situations.",
+      "example": "In American English, conditionals often involve 'if' clauses to discuss possibilities and regrets."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to imagined or theoretical situations.",
+      "example": "Second and third conditionals are used to talk about hypothetical scenarios that are contrary to reality."
+    },
+    {
+      "word": "reality",
+      "definition": "The actual state of affairs; the real world.",
+      "example": "Zero conditional describes real, everyday facts, like 'If you heat ice, it melts.'"
+    }
+  ],
+  "content": "In American English, conditionals are essential tools that allow speakers and writers to express facts, possibilities, wishes, and regrets. Mastery over conditionals transforms your communication, making it precise and expressive.\n\n**Zero Conditional:** Used for universal truths and facts. Structure: 'If' + present simple, + present simple.\nExample: \"If you mix red and blue, you get purple.\"\n\n**First Conditional:** Used for real future possibilities. Structure: 'If' + present simple, + will + base verb.\nExample: \"If it rains tomorrow, we will stay indoors.\"\n\n**Second Conditional:** Used for hypothetical situations in the present or future. Structure: 'If' + past simple, + would + base verb.\nExample: \"If I had a million dollars, I would buy a house.\"\n\n**Third Conditional:** Used for hypothetical situations in the past; regrets or missed opportunities. Structure: 'If' + past perfect, + would have + past participle.\nExample: \"If I had studied harder, I would have passed the exam.\"\n\n**Mixed Conditionals:** Combine different times and realities, often to express past hypotheticals affecting the present. Example: \"If I had taken that job, I would be living abroad now.\"\n\nRemember, mastering conditionals enables precise expression of reality, possibilities, and regrets—cornerstones of compelling American English communication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Identify the type of conditional in the following sentence: 'If she studies, she will pass the test.'",
+      "answer": "First Conditional"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form: 'If I ___ (be) taller, I would play basketball.'",
+      "answer": "were"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence as a third conditional: 'I didn't go to the party because I was sick.'",
+      "answer": "If I had gone to the party, I wouldn't have been sick."
+    },
+    {
+      "type": "true/false",
+      "question": "The zero conditional is used to describe hypothetical, unlikely situations.",
+      "answer": "False"
+    },
+    {
+      "type": "scenario-based",
+      "question": "Create a sentence using a mixed conditional to express a past action affecting your current situation.",
+      "answer": "If I had studied more in college, I would have a better job now."
+    }
+  ],
+  "culturalNotes": "American English speakers frequently use conditionals in everyday conversations to speculate about future plans, express regrets, or discuss facts. Understanding and applying conditionals confidently enhances your ability to engage naturally and fluently, whether in casual chats, academic settings, or professional environments. The American tendency to blend practicality with expressive depth makes mastery of conditionals a valuable asset in your language arsenal.",
+  "createdAt": "2025-12-24T04:23:15.224Z"
+}

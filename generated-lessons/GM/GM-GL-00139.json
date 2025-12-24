@@ -1,0 +1,64 @@
+{
+  "id": "GM-GL-00139",
+  "number": 139,
+  "title": "Mastering the Infinite Possibilities: Advanced Conditionals for American English Gods",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Comprehend and distinguish between all four types of conditionals in American English.",
+    "Apply complex conditional structures accurately in both written and spoken form.",
+    "Manipulate mixed conditionals to express nuanced hypothetical scenarios.",
+    "Identify and correct common errors in the use of advanced conditionals.",
+    "Appreciate cultural nuances in conditional expressions within American contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Counterfactual",
+      "definition": "A statement or hypothesis about something that did not happen or is not true, often expressed using the past perfect or modal perfect forms.",
+      "example": "If I had studied harder, I would have passed the exam."
+    },
+    {
+      "word": "Mixed Conditional",
+      "definition": "A conditional sentence that combines different times or types of conditionals to express complex hypothetical situations.",
+      "example": "If I had taken that job, I would be living in New York now."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Situations or statements that are not real but imagined for the purpose of reasoning or discussion.",
+      "example": "Suppose you won the lottery—that's a hypothetical scenario."
+    }
+  ],
+  "content": "Welcome to the pinnacle of American English mastery—where your command of conditionals becomes as natural as breathing. In this lesson, we'll delve into the intricacies of conditionals, including zero, first, second, third, and mixed types, with a focus on their nuanced uses in sophisticated contexts.\n\n**Zero Conditional:** Used for general truths or facts. \n- Structure: If + present simple, + present simple.\n- Example: If you heat ice, it melts.\n\n**First Conditional:** Real future possibilities.\n- Structure: If + present simple, + will + verb.\n- Example: If it rains tomorrow, we will cancel the picnic.\n\n**Second Conditional:** Unreal present or future situations.\n- Structure: If + past simple, + would + verb.\n- Example: If I were rich, I would travel the world.\n\n**Third Conditional:** Unreal past situations.\n- Structure: If + past perfect, + would have + past participle.\n- Example: If I had studied harder, I would have passed the test.\n\n**Mixed Conditional:** Combines elements of second and third conditionals to express complex hypothetical scenarios.\n- Example: If I had gone to college, I would be a doctor now.\n- Usage: This connects a past unreal condition with a present result.\n\n**Advanced Usage & Nuances:**\n- Modal variations: could, might, should, must.\n- Emphatic and rhetorical conditionals.\n- Conditional inversion for formal or literary style.\n\nPractice applying these structures in varied contexts to elevate your mastery and express subtle shades of meaning in American English.\n\nRemember, mastery of conditionals empowers you to articulate complex ideas, speculate convincingly, and engage deeply with cultural conversations.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct form of the conditional: If she ____ (study) harder, she ____ (pass) the exam.",
+      "answer": "studied; would pass"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence with the appropriate form: If I ____ (be) taller, I ____ (play) basketball professionally.",
+      "answer": "were; would play"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the following sentence as a mixed conditional: 'She didn't go to college, so now she isn't a lawyer.'",
+      "answer": "If she had gone to college, she would be a lawyer now."
+    },
+    {
+      "type": "Error Identification",
+      "question": "Identify and correct the mistake: 'If I would have known about the party, I would go.'",
+      "answer": "Correct form: If I had known about the party, I would have gone."
+    },
+    {
+      "type": "Creative Application",
+      "question": "Create a complex conditional sentence expressing a hypothetical situation about your future and its consequences.",
+      "answer": "If I enroll in this advanced course, I will become a true American English God."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often appear in motivational speeches, business negotiations, and storytelling to emphasize possibilities and hypothetical scenarios. Americans value pragmatic optimism, and conditionals are frequently used to express hope, ambitions, and strategic planning. Mastery of these structures enables you to participate confidently in dynamic conversations, persuasive writing, and persuasive rhetoric characteristic of American discourse styles.",
+  "createdAt": "2025-12-24T04:23:55.589Z"
+}

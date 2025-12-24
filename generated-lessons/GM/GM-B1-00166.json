@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00166",
+  "number": 166,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and usage of common modal verbs in American English.",
+    "Differentiate between modal verbs and other auxiliary verbs.",
+    "Gain the ability to correctly incorporate modal verbs into sentences for various contexts.",
+    "Identify subtle differences in meaning and tone conveyed by different modals.",
+    "Apply modal verbs confidently in both spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "She can speak three languages."
+    },
+    {
+      "word": "must",
+      "definition": "Indicates necessity or strong obligation.",
+      "example": "You must wear a seatbelt."
+    },
+    {
+      "word": "might",
+      "definition": "Shows possibility or probability, often less certain.",
+      "example": "It might rain later."
+    },
+    {
+      "word": "should",
+      "definition": "Provides advice or recommendation.",
+      "example": "You should study for the test."
+    },
+    {
+      "word": "would",
+      "definition": "Expresses hypothetical situations or polite requests.",
+      "example": "I would travel more if I had the time."
+    }
+  ],
+  "content": "Modal verbs are auxiliary (helping) verbs that add meaning to the main verb, expressing ability, possibility, necessity, obligation, or permission. In American English, modal verbs are used universally across formal and informal contexts, playing a crucial role in conveying intention and attitude.\n\nCommon modal verbs include: can, could, may, might, shall, should, will, would, must, and ought to. Each modal has specific nuances:\n\n- 'Can' indicates ability or possibility. Example: \"I can swim.\"\n- 'Must' expresses necessity or a strong obligation. Example: \"You must finish your homework.\"\n- 'Might' suggests a possibility with less certainty. Example: \"They might come to the party.\"\n- 'Should' gives advice or recommends. Example: \"You should see a doctor.\"\n- 'Would' is used for hypothetical situations or polite requests. Example: \"Would you like some coffee?\"\n\nRemember, modal verbs do not take '-s' in the third person singular and are followed directly by the base form of the main verb. For example, \"He can go,\" not \"He cans go.\"\n\nModal verbs can also express different shades of meaning based on context and tone, which is vital in American English communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ you help me with this project?\n\nA) Can\nB) Must\nC) Should\nD) Might",
+      "answer": "A"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "You ___ see a doctor if you're feeling unwell.",
+      "answer": "should"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the mistake: \nHe can to play the piano.",
+      "answer": "He can play the piano."
+    },
+    {
+      "type": "Discussion",
+      "question": "Explain the difference in meaning between 'must' and 'should' when giving advice.",
+      "answer": "'Must' indicates a strong obligation or necessity, implying that something is required. 'Should' offers advice or recommendations, suggesting that something is a good idea but not obligatory."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are often used in casual speech to convey politeness, suggestions, or uncertainty. For example, using 'might' or 'could' softens requests, making conversations more polite and less direct. Additionally, the emphasis on individual ability ('I can do it') reflects American values of independence and self-reliance. Understanding the appropriate use of modal verbs enhances not only grammatical accuracy but also cultural fluency in American English interactions.",
+  "createdAt": "2025-12-24T04:25:32.367Z"
+}

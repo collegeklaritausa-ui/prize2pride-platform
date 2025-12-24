@@ -1,0 +1,59 @@
+{
+  "id": "GM-C1-00118",
+  "number": 118,
+  "title": "Mastering Advanced Conditionals: Unlock the Power of Hypothetical Mastery",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Analyze complex third and mixed conditional structures with precision",
+    "Differentiate between real and unreal conditionals in nuanced contexts",
+    "Construct sophisticated conditional sentences to express hypothetical scenarios",
+    "Apply advanced conditionals to formal and informal American English communication",
+    "Identify and correct common errors in the use of advanced conditionals"
+  ],
+  "vocabulary": [
+    {
+      "word": "counterfactual",
+      "definition": "A statement or scenario that is contrary to known facts or reality.",
+      "example": "If I had studied harder, I would have passed the exam."
+    },
+    {
+      "word": "mixed conditional",
+      "definition": "A conditional sentence that combines two different time references, often past condition with present result or vice versa.",
+      "example": "If I had taken the job, I would be living in New York now."
+    },
+    {
+      "word": "subjunctive mood",
+      "definition": "A grammatical mood expressing wishes, hypotheticals, or conditions contrary to fact.",
+      "example": "I wish I were taller."
+    }
+  ],
+  "content": "In this lesson, we delve into the realm of advanced conditionals, a cornerstone of expressive and precise American English. Conditionals allow speakers and writers to discuss hypothetical situations, their consequences, and contrasting realities. While basic conditionals (zero, first, second) are familiar, mastering their advanced forms—third, mixed, and subjunctive—is essential for achieving linguistic mastery.\n\n**Third Conditional:** Used to express hypothetical past situations and their unreal past results.\n- Structure: If + past perfect, + would have + past participle\n- Example: If I had known about the party, I would have attended.\n\n**Mixed Conditionals:** Combine different times to reflect complex hypothetical scenarios.\n- Past condition with present result: If + past perfect, + would + base verb\n- Example: If I had studied economics, I would be working in finance now.\n- Present condition with past result: If + simple past, + would have + past participle\n- Example: If you were more careful, you wouldn’t have broken the vase.\n\n**Subjunctive Mood:** Used for wishes, suggestions, or hypotheticals that are contrary to fact.\n- Example: I wish I were better at public speaking.\n\nUnderstanding the nuances of these structures empowers you to articulate sophisticated hypotheses and reflect on complex scenarios with clarity and precision. Practice integrating these advanced conditionals into your speech and writing to elevate your command of American English.\n\nRemember: The key to mastery is not only in knowing the forms but also in recognizing when and how to use them effectively in context.",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence with the correct form of the conditional: _If she ____ (study) harder, she ____ (pass) the test._",
+      "answer": "had studied, would have passed"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct mixed conditional: _If I ____ (not miss) the bus, I ____ (be) on time for the meeting._",
+      "answer": "had not missed, would be"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following sentence using the subjunctive mood: _I am not tall enough to reach the top shelf._",
+      "answer": "I wish I were tall enough to reach the top shelf."
+    },
+    {
+      "type": "identify errors",
+      "question": "Identify the mistake in this sentence: _If I would have known, I would tell you._",
+      "answer": "Incorrect use of 'would have' in the 'if' clause; it should be 'If I had known...'"
+    }
+  ],
+  "culturalNotes": "In American culture, hypothetical language is often used in informal conversations to express wishes, regrets, or to speculate about alternative scenarios. For example, Americans frequently say, 'If I were you...' to give advice. Mastery of advanced conditionals not only enhances grammatical accuracy but also aligns with the conversational style of expressing nuanced ideas and social politeness. Recognizing the context—whether casual or formal—is key to using these structures effectively in American settings.",
+  "createdAt": "2025-12-24T04:22:30.209Z"
+}

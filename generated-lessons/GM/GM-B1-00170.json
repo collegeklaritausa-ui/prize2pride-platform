@@ -1,0 +1,73 @@
+{
+  "id": "GM-B1-00170",
+  "number": 170,
+  "title": "Mastering Modal Verbs: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and importance of modal verbs in American English.",
+    "Identify and correctly use common modal verbs such as can, could, may, might, must, shall, should, will, and would.",
+    "Differentiate between similar modal verbs based on context and meaning.",
+    "Construct grammatically correct sentences using modal verbs to express ability, possibility, necessity, and obligation.",
+    "Apply modal verbs accurately in both formal and informal American English situations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability.",
+      "example": "She **can** finish the project tomorrow."
+    },
+    {
+      "word": "Ability",
+      "definition": "The skill or power to do something.",
+      "example": "He **can** swim well."
+    },
+    {
+      "word": "Possibility",
+      "definition": "The likelihood that something will happen.",
+      "example": "It **might** rain later."
+    },
+    {
+      "word": "Necessity",
+      "definition": "Something that is required or unavoidable.",
+      "example": "You **must** wear a seatbelt."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or commitment to do something.",
+      "example": "Students **should** submit their assignments on time."
+    }
+  ],
+  "content": "Modal verbs are auxiliary verbs that provide additional meaning to the main verb, expressing ideas such as ability, possibility, permission, obligation, or necessity. They do not change form according to the subject and are always followed by the base form of the main verb.\n\nCommon modal verbs include: can, could, may, might, must, shall, should, will, and would.\n\n**Examples:**\n- Ability: **She can** speak three languages.\n- Permission: **May** I leave early today?\n- Obligation: You **must** finish your homework.\n- Advice: You **should** see a doctor.\n- Possibility: It **might** snow tonight.\n\n**Using Modal Verbs in Context:**\nIn American English, modal verbs are often used to express attitudes, politeness, and social norms. For example, using **can** or **may** to politely ask for permission shows respect.\n\n**Modality Nuances:**\n- **Can** is used for ability and informal permission.\n- **May** is more formal for permission.\n- **Must** indicates strong necessity or obligation.\n- **Should** offers advice or recommendation.\n\nUnderstanding the subtle differences helps you communicate more effectively in diverse situations across American social and professional settings.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which modal verb best completes this sentence? \n\n___ you help me with this project?\n\nA) Can\nB) Should\nC) Might\nD) Must",
+      "answer": "A) Can"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She ____ attend the meeting tomorrow because she has a prior commitment.",
+      "answer": "might"
+    },
+    {
+      "type": "Rewrite the sentence using a different modal verb to express obligation:\n\nYou have to submit your report by Friday.",
+      "answer": "You must submit your report by Friday."
+    },
+    {
+      "type": "True/False",
+      "question": "Using 'shall' is common in American English to express future intentions or offers.",
+      "answer": "False"
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain the difference between 'must' and 'should' in American English.",
+      "answer": "'Must' expresses a strong obligation or necessity, while 'should' offers advice or suggests something is good to do but is less forceful."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs reflect social norms of politeness and directness. For example, Americans often use 'can' or 'may' when requesting permission, emphasizing respect and politeness. Additionally, the use of 'must' in legal or formal contexts signifies strict obligation, common in workplace and legal communications. Understanding these nuances helps non-native speakers navigate social interactions smoothly and demonstrates cultural awareness in language usage.",
+  "createdAt": "2025-12-24T04:25:47.456Z"
+}

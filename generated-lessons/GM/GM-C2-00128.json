@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00128",
+  "number": 128,
+  "title": "Mastering Conditionals: Unlock the Power of Hypothetical and Real Situations",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and distinguish between zero, first, second, third, and mixed conditionals.",
+    "Identify correct conditional structures in various sentences.",
+    "Formulate conditional sentences to express real, hypothetical, and past situations.",
+    "Apply conditionals accurately in both written and spoken American English.",
+    "Understand cultural nuances in the use of conditionals in American conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "conditional",
+      "definition": "A grammatical structure used to express actions or events that depend on other conditions.",
+      "example": "If it rains, we will cancel the picnic."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to situations that are imagined or not real.",
+      "example": "If I were a millionaire, I would buy a house."
+    },
+    {
+      "word": "certainty",
+      "definition": "The state of being sure about something; often expressed with zero or first conditionals.",
+      "example": "If you heat ice, it melts."
+    }
+  ],
+  "content": "Mastering conditionals is essential for expressing a wide range of ideas in American English, from facts to fantasies. There are five main types:\n\n1. Zero Conditional: Used for general truths and scientific facts.\n   - Structure: If + present simple, present simple\n   - Example: If you mix red and blue, you get purple.\n\n2. First Conditional: Used for real and possible future situations.\n   - Structure: If + present simple, will + base verb\n   - Example: If it rains tomorrow, we will stay indoors.\n\n3. Second Conditional: Used for hypothetical present or future situations.\n   - Structure: If + past simple, would + base verb\n   - Example: If I had a million dollars, I would travel the world.\n\n4. Third Conditional: Used for hypothetical past situations.\n   - Structure: If + past perfect, would have + past participle\n   - Example: If I had studied harder, I would have passed the test.\n\n5. Mixed Conditional: Combines elements of second and third conditionals, often to express past actions with present results.\n   - Example: If I had taken that job, I would be living in New York now.\n\nIn American English, the use of 'if' is common, but in informal speech, contractions like 'I'd' (I would), 'you'd' (you would), and 'we'd' (we would) are frequently used to sound more natural.\n\nUnderstanding the nuances and correct structures of conditionals enables you to articulate complex ideas and hypothetical scenarios confidently, aligning with American cultural communication styles that value clarity and nuance.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Identify the type of conditional in the following sentence:\n\"If I see John, I will tell him the news.\"",
+      "answer": "First Conditional"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence with the correct form:\n\"If she ____ (study) harder, she ____ (pass) the exam.\"",
+      "answer": "studies, will pass"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following sentence as a third conditional:\n\"I didn't go to the party, so I didn't see her.\"",
+      "answer": "If I had gone to the party, I would have seen her."
+    },
+    {
+      "type": "matching",
+      "question": "Match each sentence with its conditional type:\n1. If it snows, schools close.\n2. If I won the lottery, I would buy a house.\n3. If I had known about the meeting, I would have attended.\n4. If I were you, I would apologize.\n\na. Zero Conditional\nb. First Conditional\nc. Third Conditional\n d. Second Conditional",
+      "answer": "1-b, 2-d, 3-c, 4-d"
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in everyday conversations to politely suggest possibilities, make hypothetical statements, or discuss future plans and past regrets. For example, in casual conversations, Americans might say, \"If I were you, I’d take the job,\" which reflects politeness and perspective-taking. Understanding these nuances helps non-native speakers communicate more naturally in American social and professional settings, where indirectness and hypothetical expressions are common and valued.",
+  "createdAt": "2025-12-24T04:23:07.420Z"
+}

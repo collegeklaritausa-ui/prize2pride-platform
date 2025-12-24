@@ -1,0 +1,78 @@
+{
+  "id": "GM-B1-00164",
+  "number": 164,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and usage of common modal verbs in American English.",
+    "Differentiate between modal verbs to express ability, permission, necessity, and obligation.",
+    "Construct correct sentences using modal verbs in various contexts.",
+    "Identify and correct common errors in the use of modal verbs.",
+    "Apply modal verbs effectively in both spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "She can swim across the lake."
+    },
+    {
+      "word": "must",
+      "definition": "Indicates necessity or strong obligation.",
+      "example": "You must finish your homework before going out."
+    },
+    {
+      "word": "may",
+      "definition": "Expresses permission or possibility.",
+      "example": "May I borrow your car tonight?"
+    },
+    {
+      "word": "should",
+      "definition": "Provides advice or moral obligation.",
+      "example": "You should eat more vegetables."
+    },
+    {
+      "word": "might",
+      "definition": "Indicates a lesser possibility or uncertainty.",
+      "example": "It might rain later."
+    }
+  ],
+  "content": "In American English, modal verbs are auxiliary verbs that add meaning to the main verb, expressing ability, permission, necessity, advice, or possibility. Unlike other verbs, modal verbs do not change form according to the subject and are followed directly by the base form of the main verb.\n\nCommon modal verbs include: can, could, may, might, must, shall, should, will, would.\n\nFor example:\n- Ability: \"I can speak three languages.\"\n- Permission: \"May I leave early today?\"\n- Necessity: \"You must wear a seatbelt.\"\n- Advice: \"You should see a doctor.\"\n- Possibility: \"It might snow tomorrow.\"\n\nIt's important to note that modal verbs can be combined with other modal verbs to express nuanced meanings, such as \"might have\" or \"should have,\" which refer to past possibilities or regrets.\n\nIn American English, modal verbs are essential for polite requests, giving advice, expressing obligation, and discussing possibilities. Mastering their correct usage allows you to communicate more effectively and confidently in diverse situations.\n\nRemember, practice makes perfect—try constructing sentences with each modal to become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which modal verb best completes the sentence? 'You ___ finish your homework before you go outside.'",
+      "answer": "must"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "___ I use your phone to make a quick call?",
+      "answer": "May"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: 'He can to swim very fast.'",
+      "answer": "He can swim very fast."
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verb with its function:\n1. should\n2. might\n3. can\n\nA. Expressing ability\nB. Giving advice\nC. Indicating possibility",
+      "answer": {
+        "1": "B",
+        "2": "C",
+        "3": "A"
+      }
+    },
+    {
+      "type": "short answer",
+      "question": "Give an example sentence using 'might' to show uncertainty.",
+      "answer": "It might rain later, so take an umbrella."
+    }
+  ],
+  "culturalNotes": "In American culture, politeness and respect are highly valued. Using modal verbs like 'may' and 'could' when making requests or asking for permission reflects good manners. Additionally, modal verbs are often used to soften statements or show uncertainty, which is appreciated in casual and professional communication alike. Understanding the nuances of modal verbs enhances your ability to navigate social interactions with confidence and cultural awareness.",
+  "createdAt": "2025-12-24T04:25:24.864Z"
+}

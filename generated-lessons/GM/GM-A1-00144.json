@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00144",
+  "number": 144,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose and function of modal verbs in American English.",
+    "Identify common modal verbs and use them correctly in sentences.",
+    "Differentiate between ability, permission, obligation, and possibility using modal verbs.",
+    "Construct sentences using modal verbs confidently and accurately.",
+    "Recognize the importance of modal verbs in everyday American communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses ability, permission, possibility, obligation, or necessity.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Permission",
+      "definition": "Approval to do something.",
+      "example": "May I leave early today?"
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something.",
+      "example": "You must finish your homework."
+    }
+  ],
+  "content": "In American English, modal verbs are essential tools that help us express different meanings such as ability, permission, obligation, and possibility. They are always followed by the base form of the main verb without 'to'.\n\nCommon modal verbs include: \n- Can (ability, permission)\n- Could (past ability, polite permission)\n- May (possibility, permission)\n- Might (less certain possibility)\n- Must (obligation, necessity)\n- Should (advice)\n- Will (future intention)\n- Would (polite requests, hypothetical situations)\n\nExamples:\n- I **can** swim.\n- **May** I leave early today?\n- You **must** wear a seatbelt.\n- She **should** see a doctor.\n- We **will** meet tomorrow.\n\nRemember, modal verbs do not change form for different subjects. For example:\n- I **can** help.\n- She **can** help.\n\nPractice using modal verbs to make your statements more confident and clear in American English.\n\nTip: Modal verbs are often used in questions and negative sentences as well. For example:\n- **Can** you help me?\n- You **cannot** park here.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ you help me with this project?",
+      "answer": "Can"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She ___ finish her homework before going out.",
+      "answer": "must"
+    },
+    {
+      "type": "true/false",
+      "question": "Might is used to express certainty about something happening. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence expressing permission using 'may'.",
+      "answer": "May I use your phone?"
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs often reflect politeness and respect, especially when asking for permission or making requests. Saying 'May I' is considered polite, while 'Can I' is more informal. Using modal verbs correctly can help you sound more confident and respectful in American social and professional settings.",
+  "createdAt": "2025-12-24T04:24:13.286Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-C2-00191",
+  "number": 191,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the core functions and meanings of common modal verbs.",
+    "Identify and correctly use modal verbs in various sentence structures.",
+    "Distinguish between similar modal verbs and their specific nuances.",
+    "Apply modal verbs to express ability, possibility, necessity, and permission with mastery.",
+    "Develop the confidence to incorporate modal verbs seamlessly into everyday American English conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "I can speak three languages."
+    },
+    {
+      "word": "must",
+      "definition": "Indicates necessity or strong obligation.",
+      "example": "You must finish your homework before going out."
+    },
+    {
+      "word": "might",
+      "definition": "Conveys possibility or uncertainty.",
+      "example": "It might rain later."
+    },
+    {
+      "word": "should",
+      "definition": "Suggests recommendation or advice.",
+      "example": "You should see a doctor."
+    },
+    {
+      "word": "would",
+      "definition": "Expresses hypothetical situations or polite requests.",
+      "example": "I would travel more if I had time."
+    }
+  ],
+  "content": "In American English, modal verbs are auxiliary verbs that add meaning to the main verb, indicating ability, possibility, permission, obligation, or advice. Mastering their use transforms your speech from mere communication to language mastery.\n\n**Core Modal Verbs and Their Functions:**\n- **Can:** Express ability or possibility.\n  *Example:* I can run a mile in six minutes.\n- **Could:** Past ability or polite possibility.\n  *Example:* When I was younger, I could climb trees.\n- **May & Might:** Formal or uncertain possibility.\n  *Example:* It may snow tomorrow.\n- **Must:** Strong obligation or certainty.\n  *Example:* You must wear a seatbelt.\n- **Should:** Advice or recommendation.\n  *Example:* You should try the new restaurant.\n- **Would:** Hypothetical situations or polite requests.\n  *Example:* I would help if I could.\n\n**Using Modal Verbs in Context:**\n- **Ability:** \"She can play the guitar.\"\n- **Permission:** \"May I borrow your car?\"\n- **Necessity:** \"You must submit the report by Friday.\"\n- **Possibility:** \"They might come to the party.\"\n- **Advice:** \"You should see a dentist.\"\n- **Politeness:** \"Would you like some coffee?\"\n\n**Note:** Modal verbs do not change form based on the subject. They are followed directly by the base form of the verb.\n\n**Common Mistakes to Avoid:**\n- Using modal verbs with 'to' (e.g., *must to go*) — incorrect.\n- Confusing 'can' and 'may' — 'can' for ability, 'may' for permission.\n- Overusing 'should' when 'must' is necessary.\n\n**Tip for Mastery:** Practice constructing sentences with each modal verb in various contexts to internalize their nuances and improve fluency.",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Choose the correct modal verb: __ you help me with this task? (can / must / might)",
+      "answer": "Can"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence correctly uses a modal verb to express obligation?",
+      "answer": "You must finish your homework before dinner."
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Rewrite the sentence using a different modal verb to express possibility: 'It might rain today.'",
+      "answer": "It may rain today."
+    },
+    {
+      "type": "short answer",
+      "question": "Provide a polite request using 'could'.",
+      "answer": "Could you please pass the salt?"
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verb to its function:\n1. Should\n2. Might\n3. Must\n4. Would\n\na) Hypothetical situation\nb) Advice\nc) Necessity\nd) Possibility",
+      "answer": "1-b, 2-d, 3-c, 4-a"
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are frequently used in polite requests and suggestions, reflecting the value placed on politeness and respect in communication. For instance, saying 'Could you help me?' instead of a direct command demonstrates courtesy. Understanding these nuances enhances social interactions and professional communication in the United States.",
+  "createdAt": "2025-12-24T04:27:18.903Z"
+}

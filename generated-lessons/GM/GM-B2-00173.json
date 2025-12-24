@@ -1,0 +1,58 @@
+{
+  "id": "GM-B2-00173",
+  "number": 173,
+  "title": "Mastering Modal Verbs: Unlocking the Power of Possibility and Obligation",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and correctly use the main modal verbs in American English.",
+    "Differentiate between modal verbs expressing ability, permission, obligation, and possibility.",
+    "Construct sentences using modal verbs to convey nuanced meanings.",
+    "Recognize common errors in modal verb usage and correct them.",
+    "Apply modal verbs appropriately in formal and informal American English contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, or ability, such as can, could, may, might, must, shall, should, will, would.",
+      "example": "Modal verbs are essential for expressing different shades of meaning in English."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something, often expressed with 'must' or 'have to'.",
+      "example": "You must complete your homework before going outside."
+    },
+    {
+      "word": "Possibility",
+      "definition": "The chance that something might happen, often expressed with 'might', 'may', or 'could'.",
+      "example": "It might rain later, so take an umbrella."
+    }
+  ],
+  "content": "In American English, modal verbs are indispensable tools that help us convey various shades of meaning related to ability, permission, obligation, and possibility. Unlike regular verbs, modal verbs do not change form for tense; instead, they are followed by the base form of the main verb.\n\n**Common Modal Verbs and Their Uses:**\n- **Can**: Ability or informal permission. \n  - *I can swim.*\n  - *Can I borrow your pen?*\n- **Could**: Past ability, polite requests, or possibility.\n  - *When I was younger, I could run five miles.*\n  - *Could you help me with this?*\n- **May**: Formal permission or possibility.\n  - *May I leave early today?*\n  - *It may snow tonight.*\n- **Might**: Slight possibility.\n  - *There might be traffic on the way.*\n- **Must**: Obligation or strong certainty.\n  - *You must wear a seatbelt.*\n  - *He must be at home; I saw his car outside.*\n- **Should**: Advice or recommendation.\n  - *You should see a doctor.*\n- **Will**: Future intention or certainty.\n  - *I will call you tomorrow.*\n- **Would**: Politeness, hypothetical situations, or habitual past actions.\n  - *Would you like some coffee?*\n\n**Modal Verbs and Nuance:**\n- Modals like 'might' and 'could' suggest less certainty.\n- 'Must' indicates a necessity or logical conclusion.\n- 'Should' offers advice rather than obligation.\n\n**Modal Verbs in Different Contexts:**\n- Formal: 'May I ask a question?'\n- Informal: 'Can you help me?\n- Giving advice: 'You should try this.'\n- Expressing certainty: 'She must be tired.'\n\nRemember, the key to mastering modal verbs is understanding their subtle differences and practicing their use in authentic contexts.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb to complete the sentence: \n___ I borrow your book?\nA) Can\nB) Must\nC) Should",
+      "answer": "A) Can"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She ___ finish her work before leaving the office.\nAnswer: must / has to"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the error: 'He can to speak three languages.'",
+      "answer": "He can speak three languages."
+    },
+    {
+      "type": "Creative writing",
+      "question": "Write a short paragraph using at least three different modal verbs to describe your plans for the weekend.",
+      "answer": "Students' responses will vary."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs often reflect politeness, especially in requests and offers. For example, using 'could' or 'may' in polite inquiries demonstrates respect and consideration. Additionally, the flexibility in modal verb usage allows Americans to navigate formal and informal situations effectively. Understanding these nuances can help non-native speakers communicate more naturally and confidently across different social contexts.",
+  "createdAt": "2025-12-24T04:26:00.412Z"
+}

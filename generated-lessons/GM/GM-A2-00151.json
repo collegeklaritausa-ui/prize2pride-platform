@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00151",
+  "number": 151,
+  "title": "Mastering Modal Verbs: Unlock Your American English Power!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what modal verbs are and their function in sentences.",
+    "Identify common modal verbs used in American English.",
+    "Use modal verbs correctly in simple sentences.",
+    "Differentiate between different modal verbs and their meanings.",
+    "Build confidence to incorporate modal verbs in daily conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Expresses ability or possibility.",
+      "example": "I can play basketball."
+    },
+    {
+      "word": "must",
+      "definition": "Expresses obligation or necessity.",
+      "example": "You must finish your homework."
+    },
+    {
+      "word": "should",
+      "definition": "Gives advice or suggestion.",
+      "example": "You should eat more vegetables."
+    },
+    {
+      "word": "may",
+      "definition": "Expresses permission or possibility.",
+      "example": "May I go outside?"
+    },
+    {
+      "word": "will",
+      "definition": "Expresses future intention or promise.",
+      "example": "I will help you with your project."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on modal verbs, which are special words that help us express ability, permission, obligation, advice, and future actions.\n\n**What are Modal Verbs?**\nModal verbs are auxiliary (helping) verbs that add meaning to the main verb in a sentence. They do not change form for different subjects.\n\n**Common Modal Verbs in American English:**\n- can (ability, possibility)\n- must (obligation, strong suggestion)\n- should (advice, recommendation)\n- may (permission, possibility)\n- will (future intention)\n\n**Examples:**\n- I can swim.\n- You must see the doctor.\n- We should study more.\n- May I use your phone?\n- He will arrive tomorrow.\n\n**Using Modal Verbs Correctly:**\n- Place the modal before the base form of the main verb.\n- Do not add ‘s’ or ‘ed’ to modal verbs.\n- Use 'must' for strong obligation, 'should' for advice, and 'may' for permission.\n\n**Practice Tip:**\nThink about your daily routine and try to make sentences using different modal verbs. For example, \"I can wake up early,\" or \"I should call my friend.\"\n\nWith practice, you'll command these modal verbs like a true American English GOD!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which modal verb is used to give advice?",
+      "answer": "should"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "You ___ finish your homework before playing outside.",
+      "answer": "must"
+    },
+    {
+      "type": "true or false",
+      "question": "The word 'can' is used to express obligation.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Make a sentence using the modal verb 'will'.",
+      "answer": "I will visit my grandma tomorrow."
+    }
+  ],
+  "culturalNotes": "In the United States, modal verbs are frequently used in everyday conversations, especially in requests, offers, and giving advice. Americans value clarity and politeness, so modals like 'may' and 'could' are often used to make polite requests. Mastering modal verbs will help you sound confident and courteous in American social and professional settings.",
+  "createdAt": "2025-12-24T04:24:36.930Z"
+}

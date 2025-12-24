@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00115",
+  "number": 115,
+  "title": "Mastering Advanced Conditionals: Unlock the Power of Hypotheticals",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Analyze and differentiate between zero, first, second, third, and mixed conditionals in American English.",
+    "Construct complex conditional sentences to convey nuanced hypothetical scenarios.",
+    "Identify common errors in the use of advanced conditionals and correct them with precision.",
+    "Apply conditionals effectively in both formal and informal American contexts.",
+    "Interpret and evaluate conditional expressions in authentic American media and literature."
+  ],
+  "vocabulary": [
+    {
+      "word": "counterfactual",
+      "definition": "A statement or situation that is contrary to fact, often expressed using the third conditional.",
+      "example": "If I had studied harder, I would have passed the exam."
+    },
+    {
+      "word": "pluperfect",
+      "definition": "A grammatical tense used to describe an action that was completed before another past action, often in third conditional sentences.",
+      "example": "She had already left when I arrived."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "Related to or involving a hypothesis; something imagined or supposed rather than real.",
+      "example": "Imagine if you won the lottery—that's a hypothetical scenario."
+    },
+    {
+      "word": "mixed conditional",
+      "definition": "A conditional sentence combining different time references, often to express a past condition with a present result.",
+      "example": "If I had taken that job, I would be living in New York now."
+    },
+    {
+      "word": "irrealis",
+      "definition": "A grammatical mood expressing a wish, doubt, or hypothetical situation, often used in advanced conditionals.",
+      "example": "If I were you, I wouldn’t do that."
+    }
+  ],
+  "content": "In American English, conditionals are essential for expressing hypothetical, unreal, or probable situations across various tenses and moods. Mastery begins with understanding the five primary types:\n\n1. Zero Conditional: Used for general truths and scientific facts.\n   - Structure: If + present simple, present simple\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: For real future possibilities.\n   - Structure: If + present simple, will + verb\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional: For unreal or improbable present or future situations.\n   - Structure: If + past simple, would + verb\n   - Example: If I won the lottery, I would buy a house.\n\n4. Third Conditional: For unreal past situations.\n   - Structure: If + past perfect, would have + past participle\n   - Example: If I had studied harder, I would have passed.\n\n5. Mixed Conditional: Combining past and present results.\n   - Structure: Past perfect in the if-clause + would + base verb (present)\n   - Example: If I had taken that opportunity, I would be successful now.\n\nAdvanced mastery involves understanding the nuances of unrealisability, especially with the use of 'were' in subjunctive mood (e.g., 'If I were...') and recognizing the subtleties in mixed conditionals that reflect complex temporal relationships.\n\nExamples of nuanced usage include:\n- In casual American speech, 'was' is often used instead of 'were' in subjunctive forms (e.g., 'If I was you...'), though 'were' remains formal.\n- Mixed conditionals often express regrets or hypothetical scenarios with lasting consequences.\n\nUnderstanding and practicing these forms will elevate your command of American English, enabling precise and sophisticated expression of hypotheticals.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct form to complete the sentence: 'If she ____ harder, she would have passed the test.'",
+      "answer": "had studied"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'If I ____ (be) you, I would accept the offer.'",
+      "answer": "were"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite as a third conditional: 'They didn't leave early, so they missed the start.'",
+      "answer": "If they had left early, they would have missed the start."
+    },
+    {
+      "type": "identify error",
+      "question": "Identify the error in this sentence: 'If I was you, I would apologize.'",
+      "answer": "Use 'were' instead of 'was' in the subjunctive mood: 'If I were you...'."
+    },
+    {
+      "type": "creative writing",
+      "question": "Write a short paragraph imagining a different past using a third conditional.",
+      "answer": "Example answer: If I had studied abroad, I would have learned a lot about different cultures and improved my language skills."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals often appear in motivational speeches, political debates, and everyday conversations to speculate on choices and their consequences. The common use of 'was' instead of 'were' in casual speech reflects the informal and pragmatic nature of American English, though formal writing still adheres to traditional grammatical rules. Recognizing these nuances can help students sound more natural and confident in diverse contexts, from business to casual dialogue.",
+  "createdAt": "2025-12-24T04:22:18.100Z"
+}

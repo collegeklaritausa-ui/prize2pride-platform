@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00124",
+  "number": 124,
+  "title": "Mastering Conditionals: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the different types of conditional sentences in American English",
+    "Identify and correctly use zero, first, second, and third conditionals",
+    "Construct complex conditional sentences with proper syntax",
+    "Apply conditionals accurately in both formal and informal contexts",
+    "Recognize cultural nuances in conditional expressions within American conversations"
+  ],
+  "vocabulary": [
+    {
+      "word": "Conditional",
+      "definition": "A grammatical feature that expresses the result of a condition being met.",
+      "example": "If you study hard, you will pass the exam."
+    },
+    {
+      "word": "Hypothetical",
+      "definition": "Relating to situations that are imagined or not real.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "Indicative",
+      "definition": "A grammatical mood used for factual statements.",
+      "example": "She goes to the gym if she has time."
+    },
+    {
+      "word": "Subjunctive",
+      "definition": "A grammatical mood expressing wishes, hypotheticals, or conditions contrary to fact.",
+      "example": "I wish I were taller."
+    }
+  ],
+  "content": "Conditionals are a vital aspect of American English, allowing speakers to discuss possibilities, hypothetical situations, and future outcomes based on certain conditions. They are categorized into four main types:\n\n1. Zero Conditional: Used for general truths or facts.\n   - Structure: If + present simple, + present simple\n   - Example: If you heat water to 100°C, it boils.\n\n2. First Conditional: Used for real and possible future situations.\n   - Structure: If + present simple, + will + base verb\n   - Example: If it rains tomorrow, we will cancel the picnic.\n\n3. Second Conditional: Used for hypothetical present or future situations.\n   - Structure: If + past simple, + would + base verb\n   - Example: If I won the lottery, I would buy a new house.\n\n4. Third Conditional: Used for hypothetical past situations; regrets or unreal past conditions.\n   - Structure: If + past perfect, + would have + past participle\n   - Example: If I had studied harder, I would have passed the test.\n\nIn American English, condtional sentences are also often used in idiomatic expressions and casual speech, such as:\n- \"If I were you...\"\n- \"If only...\"\n\nMastering these forms enables you to communicate complex ideas effectively and sound like a true American language GOD!\n\nRemember, the key to mastery is not just understanding the forms but also practicing their application in real-life conversations and writing.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct form of the verb to complete the first conditional: \"If she ____ (study) hard, she ____ (pass) the exam.\"",
+      "answer": "studies, will pass"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct conditional form: \"If I ____ (be) you, I ____ (talk) to the manager about the issue.\"",
+      "answer": "were, would talk"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence using the third conditional: \"They didn't leave early, so they missed the beginning of the show.\"",
+      "answer": "If they had left early, they would have caught the beginning of the show."
+    },
+    {
+      "type": "Scenario-based",
+      "question": "Imagine you're giving advice to a friend who missed a deadline. Use a second conditional sentence to advise them.",
+      "answer": "If I were you, I would talk to your boss and explain the situation."
+    }
+  ],
+  "culturalNotes": "In American culture, conditionals are often used in casual conversation to give advice, express regrets, or discuss possibilities. Phrases like \"If I were you...\" are common in everyday speech, reflecting the value placed on practical advice and empathy. Understanding these nuances helps non-native speakers sound natural and connect more deeply with American interlocutors.",
+  "createdAt": "2025-12-24T04:22:52.079Z"
+}

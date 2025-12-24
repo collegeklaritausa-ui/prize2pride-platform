@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00175",
+  "number": 175,
+  "title": "Mastering Modal Verbs: Unlock the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the various functions and nuances of modal verbs in American English.",
+    "Identify and correctly use modal verbs to express ability, permission, obligation, and possibility.",
+    "Differentiate between similar modal verbs and their appropriate contexts.",
+    "Apply modal verbs accurately in both written and spoken American English.",
+    "Gain confidence in conveying subtle meanings and intentions through modal verb usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, ability, or obligation.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement to do something.",
+      "example": "You must finish your homework before going out."
+    },
+    {
+      "word": "Permission",
+      "definition": "The approval to do something.",
+      "example": "May I leave early today?"
+    }
+  ],
+  "content": "In American English, modal verbs are essential tools for expressing a wide range of meanings succinctly and effectively. They help convey ability (can, could), permission (may, might), obligation (must, should), and possibility (might, may). For example:\n\n- Ability: I can speak three languages.\n- Permission: May I borrow your car?\n- Obligation: You must wear a seatbelt.\n- Possibility: It might rain today.\n\nModal verbs are followed by the base form of the main verb without 'to'. For instance: 'She should study more.'\n\nIt's important to understand the subtle differences between modal verbs. For example, 'should' suggests advice or recommendation, while 'must' indicates a strong obligation. Similarly, 'may' and 'might' both express possibility, but 'may' is often used for permission.\n\nIn questions and negatives, modal verbs are placed before the subject:\n- Question: Can you help me?\n- Negative: I cannot attend the meeting.\n\nRemember, modal verbs do not change form for different subjects or tenses, but they are often used with other auxiliary forms to indicate past or future nuances (e.g., could have, should have). Mastery of modal verbs will make your communication more precise and nuanced, elevating your American English skills to a mastery level.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: 'You ___ see a doctor if you're feeling sick.'",
+      "answer": "should"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate modal verb: 'They ___ be at the park now; the weather is beautiful.'",
+      "answer": "might"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: 'He can to swim when he was five.'",
+      "answer": "He could swim when he was five."
+    },
+    {
+      "type": "short answer",
+      "question": "Explain the difference between 'must' and 'should' in expressing obligation.",
+      "answer": "'Must' indicates a strong obligation or necessity, often mandatory, while 'should' suggests advice or a recommendation without being compulsory."
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs are frequently used in polite requests and professional settings, reflecting values of politeness and respect. For instance, saying 'May I...' is common when asking for permission, embodying American etiquette. Additionally, the use of modals like 'should' and 'must' can reflect societal norms and expectations, such as safety regulations or moral obligations, which are emphasized in various contexts like workplaces, schools, and public policies.",
+  "createdAt": "2025-12-24T04:26:08.577Z"
+}

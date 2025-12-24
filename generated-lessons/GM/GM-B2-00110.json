@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00110",
+  "number": 110,
+  "title": "Mastering American English Conditionals: Unlock Your Language Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conditionals",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Explain the different types of conditionals in American English (Zero, First, Second, Third, and Mixed).",
+    "Identify and correctly use conditional structures in various contexts.",
+    "Distinguish between real and unreal conditionals and their appropriate usage.",
+    "Apply advanced conditionals to express hypothetical and future scenarios with confidence.",
+    "Integrate conditionals seamlessly into spoken and written American English to sound fluent and natural."
+  ],
+  "vocabulary": [
+    {
+      "word": "Hypothetical",
+      "definition": "Related to a situation that is imagined or not real but used for discussion or analysis.",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "Unreal",
+      "definition": "Not real; used to describe situations contrary to fact.",
+      "example": "If he had studied harder, he would have passed the test."
+    },
+    {
+      "word": "Conditional",
+      "definition": "A sentence structure that expresses a condition and its result.",
+      "example": "If it rains, we will cancel the picnic."
+    }
+  ],
+  "content": "Welcome to the world of conditionals, a cornerstone of American English that allows you to express possibilities, hypotheticals, regrets, and future plans with nuance and precision. Understanding the five main types of conditionals will elevate your mastery:\n\n1. Zero Conditional: Used for universal truths or facts. Structure: *If + present simple, ... + present simple.*\n   - Example: If you heat ice, it melts.\n\n2. First Conditional: Real possibility in the future. Structure: *If + present simple, ... + will + verb.*\n   - Example: If it rains tomorrow, we will stay indoors.\n\n3. Second Conditional: Unreal or unlikely present or future. Structure: *If + past simple, ... + would + verb.*\n   - Example: If I won the lottery, I would buy a new car.\n\n4. Third Conditional: Unreal past situations; regrets. Structure: *If + past perfect, ... + would have + past participle.*\n   - Example: If you had told me, I would have helped.\n\n5. Mixed Conditional: Combines second and third for unreal past with present consequences. Example: *If I had studied law, I would be a lawyer now.*\n\nPractice by creating sentences using each conditional type to describe real situations, hypothetical scenarios, and regrets. Pay attention to tense consistency and context.\n\nRemember, mastering conditionals makes your speech and writing more expressive and convincing, reflecting natural American English usage.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conditional form: \"If she ______ (study) harder, she would pass the exam.\"",
+      "answer": "studied"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete with the appropriate form: \"If I ______ (be) you, I would apologize immediately.\"",
+      "answer": "were"
+    },
+    {
+      "type": "Sentence Creation",
+      "question": "Write a third conditional sentence expressing regret about missing an event.",
+      "answer": "If I had known about the party, I would have attended."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the conditional type to its description:\n  - Zero Conditional\n  - First Conditional\n  - Second Conditional\n  - Third Conditional\n\n  a) Unreal past situations\n  b) Universal truths\n  c) Real future possibilities\n  d) Unreal past with present consequences",
+      "answer": {
+        "Zero Conditional": "b",
+        "First Conditional": "c",
+        "Second Conditional": "a",
+        "Third Conditional": "d"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conditionals often reflects a proactive mindset, emphasizing practical outcomes and future possibilities. Americans value directness and clarity, so mastering conditionals enhances your ability to communicate plans, regrets, and hypothetical situations effectively. In everyday conversation, you'll hear conditionals used in personal stories, business negotiations, and even casual planning—demonstrating confidence and fluency. For example, Americans might say, \"If we leave now, we'll beat the traffic,\" highlighting a practical approach to planning. Understanding and using conditionals properly shows cultural awareness and linguistic mastery in American English.",
+  "createdAt": "2025-12-24T04:21:56.427Z"
+}

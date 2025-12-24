@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00158",
+  "number": 158,
+  "title": "Mastering Modal Verbs: Your First Step to English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what modal verbs are and their role in sentences",
+    "Identify common modal verbs used in American English",
+    "Use modal verbs correctly in simple sentences",
+    "Differentiate between certainty, possibility, and permission using modal verbs",
+    "Build confidence to express ability, necessity, and requests"
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "Used to express ability or possibility",
+      "example": "I can ride a bike."
+    },
+    {
+      "word": "must",
+      "definition": "Used to show necessity or obligation",
+      "example": "You must do your homework."
+    },
+    {
+      "word": "may",
+      "definition": "Used to ask for permission or indicate possibility",
+      "example": "May I use your pen?"
+    },
+    {
+      "word": "should",
+      "definition": "Used to give advice or suggest something",
+      "example": "You should eat more vegetables."
+    },
+    {
+      "word": "will",
+      "definition": "Used to express future intentions or decisions",
+      "example": "I will call you tomorrow."
+    }
+  ],
+  "content": "Welcome to your American English journey! Today, we're learning about modal verbs—special words that help us talk about ability, permission, necessity, and future plans. Modal verbs are simple but powerful. For example, 'can' shows what you are able to do: 'I can swim.' When you're allowed to do something, you might say, 'May I go outside?' To express obligation, use 'must': 'You must wear your seatbelt.' For suggestions, try 'should': 'You should study more.' And to talk about the future, use 'will': 'I will visit my grandma.' Remember, modal verbs are always followed by the base form of a verb. For example, 'can' + 'dance' = 'can dance.' Practice using these modals in your daily conversations to become more confident!\n\nExample sentences:\n- I can help you.\n- She must finish her homework.\n- May I open the window?\n- You should drink water.\n- We will see a movie tonight.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct modal verb: I ___ go to the party because I have homework.",
+      "answer": "cannot / can't"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "___ I borrow your pencil?",
+      "answer": "May"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "She musts go to school every day.",
+      "answer": "She must go to school every day."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the modal verb with its meaning:\n1. Can\n2. Must\n3. May\n4. Should\n5. Will\n\na. Future intention\nb. Permission\nc. Ability\n d. Obligation\n e. Advice",
+      "answer": "1-c, 2-d, 3-b, 4-e, 5-a"
+    }
+  ],
+  "culturalNotes": "In American culture, modal verbs often show respect and politeness, especially when making requests or asking for permission. Saying 'May I' is polite, while using 'Can I' is more casual but still acceptable in informal settings. Americans value clarity and directness, so learning to use modal verbs confidently helps you communicate effectively in everyday situations like asking for help, giving advice, or making plans.",
+  "createdAt": "2025-12-24T04:25:00.708Z"
+}
