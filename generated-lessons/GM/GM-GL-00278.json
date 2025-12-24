@@ -1,0 +1,59 @@
+{
+  "id": "GM-GL-00278",
+  "number": 278,
+  "title": "Mastering the Divine Passive Voice: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the fundamental structure and function of the passive voice in American English.",
+    "Identify when to correctly use passive constructions in complex sentences.",
+    "Transform active sentences into passive voice with precision and clarity.",
+    "Recognize common passive voice pitfalls and avoid grammatical errors.",
+    "Apply advanced passive voice usage to enhance formal and literary American English expressions."
+  ],
+  "vocabulary": [
+    {
+      "word": "passive voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the sentence, emphasizing the action over the actor.",
+      "example": "The cake was baked by the chef."
+    },
+    {
+      "word": "agent",
+      "definition": "The doer or performer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The novel was written by the author."
+    },
+    {
+      "word": "tense",
+      "definition": "The grammatical category that locates the time of the action or state in time, essential for accurate passive constructions.",
+      "example": "She is being celebrated today."
+    }
+  ],
+  "content": "In the realm of American English mastery, the passive voice stands as a powerful tool for emphasizing the action or the recipient of the action rather than the actor. To forge your path as a God of language, understanding its structure and strategic use is imperative.\n\nThe passive voice is formed by combining a form of the verb ‘to be’ with the past participle of the main verb. For example:\n\nActive: The committee approved the new policy.\nPassive: The new policy was approved by the committee.\n\nNote that the agent (the doer) can be included or omitted depending on the emphasis or context:\n\nWith agent: The project was completed by the team.\nWithout agent: The project was completed.\n\nAdvanced passive voice usage involves mastering various tenses, aspects, and modal verbs:\n\n- Present simple: The reports are reviewed weekly.\n- Past perfect: The documents had been signed before the meeting.\n- Future: The results will be announced tomorrow.\n- Modal: The decision can be made swiftly.\n\nBeware of overuse or awkward constructions. Passive voice often appears in formal, scientific, or journalistic contexts. Clarity and emphasis are your guiding principles.\n\nTransformations: Practice converting active sentences into passive to internalize mastery and recognize passive constructions in reading and speech.\n\nExample exercise:\nActive: The artist painted a beautiful mural.\nPassive: ________________",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the active sentence 'The chef cooked a delicious meal' into the passive voice.",
+      "answer": "A delicious meal was cooked by the chef."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The documents were signed by the manager.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Correction",
+      "question": "Correct the passive voice in this sentence: 'The letter was write by Sarah.'",
+      "answer": "The letter was written by Sarah."
+    },
+    {
+      "type": "Application",
+      "question": "Create a passive sentence using the present perfect tense: 'The team has completed the project.'",
+      "answer": "The project has been completed by the team."
+    }
+  ],
+  "culturalNotes": "In American professional and academic environments, passive voice is frequently employed in formal writing, such as research papers, reports, and official statements. It signifies objectivity, professionalism, and a focus on processes or results rather than individual actors. Understanding the nuances of passive constructions enhances your ability to communicate with authority and finesse in American contexts, whether delivering a speech, composing a report, or engaging in diplomatic dialogue.",
+  "createdAt": "2025-12-24T04:32:51.329Z"
+}

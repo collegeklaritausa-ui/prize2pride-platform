@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00282",
+  "number": 282,
+  "title": "Mastering Reported Speech: Speak Like an American Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of reported speech in American English",
+    "Identify the difference between direct and indirect speech",
+    "Convert direct speech into reported speech correctly",
+    "Practice using reported speech in everyday conversations",
+    "Gain confidence to communicate more naturally in American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Direct Speech",
+      "definition": "The exact words spoken by someone, enclosed in quotation marks.",
+      "example": "\"I'm hungry,\" he said."
+    },
+    {
+      "word": "Indirect Speech",
+      "definition": "A way of reporting what someone said without quoting them directly.",
+      "example": "He said he was hungry."
+    }
+  ],
+  "content": "Welcome to the lesson on Reported Speech! In American English, reported speech helps you share what someone said without repeating their exact words. It is very useful in conversations, interviews, and storytelling. \n\n**Direct Speech** uses quotation marks to show the exact words spoken. For example: \"I'm going shopping,\" she said.\n\n**Reported Speech** transforms those words into a form that reports what was said, often changing pronouns, verb tenses, and time references. For example: She said she was going shopping.\n\n**Steps to convert direct speech to reported speech:**\n1. Remove the quotation marks.\n2. Change the pronouns if needed (I → she/he, my → her/his).\n3. Shift the verb tense back in time (present to past, present perfect to past perfect).\n4. Adjust time and place references (today → that day, now → then).\n\n**Example Conversion:**\n- Direct: He said, \"I will call you tomorrow.\"\n- Reported: He said he would call me the next day.\n\nPractice these patterns to become more fluent and natural in your American English conversations!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Change the following direct speech into reported speech: She said, \"I am reading a book.\"",
+      "answer": "She said she was reading a book."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Direct: He said, \"I have finished my homework.\" \nReported: He said he ______ finished his homework.",
+      "answer": "had"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Convert: \"We are going to the park,\" they said. (Reported speech)",
+      "answer": "They said they were going to the park."
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech is often used in everyday conversations, interviews, and storytelling. Americans value clarity and politeness, so adjusting speech when reporting helps maintain respectful and clear communication. Using reported speech also shows good listening skills and allows for more natural, flowing conversations without always quoting directly.",
+  "createdAt": "2025-12-24T04:33:06.167Z"
+}

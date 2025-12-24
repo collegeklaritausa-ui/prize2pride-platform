@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00224",
+  "number": 224,
+  "title": "Passive Voice Power: Mastering the Basics",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what passive voice is in American English.",
+    "Identify sentences in passive voice.",
+    "Convert active sentences into passive voice.",
+    "Use passive voice correctly in simple sentences.",
+    "Recognize when to use passive voice appropriately."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence where the object of an active sentence becomes the subject in a passive sentence.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A sentence where the subject performs the action.",
+      "example": "Sarah baked the cake."
+    },
+    {
+      "word": "Verb (Past Participle)",
+      "definition": "The form of a verb used with 'was,' 'were,' or 'been' to create passive sentences.",
+      "example": "baked, eaten, written"
+    }
+  ],
+  "content": "Welcome to your journey to becoming a master of American English! Today, we focus on the passive voice, a way to emphasize the action or the object receiving the action rather than who is doing it.\n\n**What is Passive Voice?**\nIn passive voice, the focus is on the action and its recipient, not the doer. For example:\n- Active: **The dog chased the cat.**\n- Passive: **The cat was chased by the dog.**\n\n**How to Form Passive Voice:**\n1. Take the object of the active sentence.\n2. Make it the subject of the passive sentence.\n3. Use the correct form of the verb 'to be' (am, is, are, was, were) + the past participle of the main verb.\n4. Optionally, include the doer after 'by'.\n\n**Examples:**\n- Active: The teacher teaches students.\n- Passive: Students are taught by the teacher.\n\n**More Examples:**\n- Active: They built the house.\n- Passive: The house was built by them.\n\nRemember, passive voice is often used when the doer is unknown, unimportant, or implied.\n\n**Tip:** Use passive voice in formal writing or when the focus is on the action, not who performs it.\n\nCongratulations! You're beginning to unlock the power of passive voice in American English!",
+  "exercises": [
+    {
+      "type": "Identify",
+      "question": "Is the following sentence in active or passive voice? 'The letter was written by Sarah.'",
+      "answer": "Passive voice"
+    },
+    {
+      "type": "Convert",
+      "question": "Convert the active sentence 'The chef cooks the meal' into passive voice.",
+      "answer": "The meal is cooked by the chef."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The movie ____ (watch) by many people last night.",
+      "answer": "was watched"
+    },
+    {
+      "type": "Create",
+      "question": "Write a passive sentence using the verb 'to read' and the object 'the book.'",
+      "answer": "The book was read by her."
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is often used in formal writing, news reports, and scientific contexts to maintain objectivity and focus on the action or results. While common in professional settings, overusing passive voice in casual conversation can sound impersonal. Mastery of passive voice gives you the flexibility to communicate effectively in various American English contexts.",
+  "createdAt": "2025-12-24T04:29:28.173Z"
+}

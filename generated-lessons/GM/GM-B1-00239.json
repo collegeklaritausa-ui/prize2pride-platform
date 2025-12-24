@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00239",
+  "number": 239,
+  "title": "Mastering the Passive Voice: Unlocking Fluency in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Define and identify the passive voice in sentences.",
+    "Differentiate between active and passive voice structures.",
+    "Transform active sentences into passive voice and vice versa.",
+    "Understand appropriate contexts for using the passive voice in American English.",
+    "Enhance writing clarity and variation by mastering passive constructions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the focus is on the action or the recipient of the action rather than the doer.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The report was prepared by the team."
+    },
+    {
+      "word": "Verb (Past Participle)",
+      "definition": "The form of a verb used with 'be' in passive constructions; often ending in -ed, -en, or irregular forms.",
+      "example": "The window was broken during the storm."
+    }
+  ],
+  "content": "The passive voice shifts the focus from the subject performing an action to the action itself or its recipient. In American English, passive constructions are often used to emphasize the action or when the doer is unknown or unimportant.\n\n**Forming the Passive Voice:**\n- Use the appropriate form of the verb 'to be' (am, is, are, was, were, be, been, being).\n- Follow with the past participle of the main verb.\n- Optional: include the agent preceded by 'by'.\n\n**Examples:**\n- Active: The chef prepares the meal.\n- Passive: The meal is prepared by the chef.\n\n**Transforming Sentences:**\n- Active: The children are reading the book.\n- Passive: The book is being read by the children.\n\n**Notes on Usage:**\n- Use the passive voice to focus on the action or when the subject is unknown or irrelevant.\n- Be cautious: overusing passive voice can make writing less direct. Use it judiciously to add variety or formality.\n\n**Common Passive Constructions in American English:**\n- Present Simple: The report is submitted daily.\n- Past Simple: The car was repaired yesterday.\n- Present Continuous: The house is being cleaned.\n- Present Perfect: The documents have been signed.\n- Modal + Passive: The issue can be resolved quickly.\n\nBy mastering the passive voice, you'll add versatility to your language skills and elevate your American English to a mastery level, allowing for more nuanced and professional communication.",
+  "exercises": [
+    {
+      "type": "Identify the Passive Voice",
+      "question": "Identify whether the following sentence is in active or passive voice: 'The novel was written by the famous author.'",
+      "answer": "Passive voice"
+    },
+    {
+      "type": "Transform to Passive",
+      "question": "Convert the active sentence to passive: 'The team will complete the project tomorrow.'",
+      "answer": "The project will be completed by the team tomorrow."
+    },
+    {
+      "type": "Create Sentences",
+      "question": "Write a sentence in passive voice using the verb 'to fix' in the past tense.",
+      "answer": "The broken window was fixed by the maintenance team."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive voice sentence: \nA) The teacher is grading the tests.\nB) The tests are being graded by the teacher.\nC) The teacher graded the tests.\nD) The tests have been graded.",
+      "answer": "B) The tests are being graded by the teacher."
+    }
+  ],
+  "culturalNotes": "In American culture, the passive voice is often used in formal writing, official reports, and news reporting to maintain objectivity and focus on actions rather than performers. Understanding when and how to use the passive voice can help you sound more professional and polished in business and academic settings. However, in casual conversation, active voice tends to be preferred for clarity and directness.",
+  "createdAt": "2025-12-24T04:30:18.106Z"
+}

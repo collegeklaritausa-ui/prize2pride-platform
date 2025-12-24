@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00263",
+  "number": 263,
+  "title": "Mastering the Passive Voice: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and identify the passive voice in American English sentences.",
+    "Differentiate between active and passive voice with clear examples.",
+    "Transform active sentences into passive constructions accurately.",
+    "Construct complex sentences using the passive voice with proper tense and structure.",
+    "Apply the passive voice appropriately in both formal and informal contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject in a passive sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical feature that locates a situation in time, such as past, present, or future.",
+      "example": "She is writing a letter."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a sentence, often introduced with 'by' in passive constructions.",
+      "example": "The book was read by the student."
+    }
+  ],
+  "content": "The passive voice is a fundamental aspect of American English grammar that allows speakers and writers to shift focus from the doer of an action to the action itself or its recipient. In active voice, the subject performs the action: 'The chef cooked the meal.' In passive voice, the focus shifts to the recipient: 'The meal was cooked by the chef.' This structure is especially useful when the doer is unknown, unimportant, or implied.\n\nTo form the passive voice, follow this structure:\n[Object] + [appropriate form of 'to be'] + [past participle of verb] + (optional: 'by' + agent).\n\nExample conversions:\n- Active: The team will complete the project.\n- Passive: The project will be completed by the team.\n\nNote that the tense remains consistent; for example, present simple passive: 'The reports are reviewed by the manager.'\n\nMastery involves understanding how to correctly use passive structures across various tenses and contexts, including formal writing, reports, and even casual speech when emphasis is needed. Be aware of overusing passive voice, which can lead to vague or wordy sentences. Use it judiciously to enhance clarity and style.\n\nRemember, mastering the passive voice not only improves your grammatical precision but also empowers you to craft nuanced and sophisticated expressions in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Identify the passive voice sentence among the following:",
+      "answer": "C. The new policy was announced by the company."
+    },
+    {
+      "type": "Transformation",
+      "question": "Rewrite the active sentence in passive voice:\n'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence in passive voice:\n'The cookies ____ (bake) yesterday by my mother.'",
+      "answer": "were baked"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a passive voice sentence in past perfect tense using the following words:\n'The chef / prepare / the meal.'",
+      "answer": "The meal had been prepared by the chef."
+    },
+    {
+      "type": "Discussion",
+      "question": "In what situations might it be better to use the passive voice instead of the active voice?",
+      "answer": "The passive voice is preferable when the focus is on the action or recipient rather than the doer, such as in scientific writing, official reports, or when the agent is unknown or irrelevant."
+    }
+  ],
+  "culturalNotes": "In American English, the passive voice is frequently employed in formal writing, journalism, and scientific contexts to emphasize objectivity and focus on results rather than actors. However, in everyday conversation, active voice tends to be more direct and engaging. Mastery of the passive voice enhances your ability to adapt your language style appropriately across different American cultural and professional settings, allowing for clearer, more polished communication.",
+  "createdAt": "2025-12-24T04:31:49.023Z"
+}

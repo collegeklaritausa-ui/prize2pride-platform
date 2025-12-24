@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00229",
+  "number": 229,
+  "title": "Become a Passive Voice Pro: Mastering the Basics",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what the passive voice is in American English.",
+    "Identify when to use the passive voice in sentences.",
+    "Form simple sentences in the passive voice correctly.",
+    "Transform active sentences into passive sentences.",
+    "Recognize common passive voice structures in everyday language."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence where the object of an active sentence becomes the subject of the passive sentence, often focusing on the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that indicates the time of the action, such as past, present, or future.",
+      "example": "The cake **is** baked every Sunday."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The book was written **by** J.K. Rowling."
+    }
+  ],
+  "content": "Welcome to the world of American English grammar! Today, we focus on the passive voice, a way to emphasize the action or the recipient of an action rather than who is doing it.\n\nIn active sentences, the subject performs the action: 'Sarah bakes the cake.' The focus is on Sarah. \n\nIn passive sentences, the focus shifts to the cake, which receives the action: 'The cake was baked by Sarah.' Notice the structure:\n\n- The object of the active sentence becomes the subject of the passive sentence.\n- The verb is changed to a form of 'be' + the past participle of the main verb.\n- The doer of the action (agent) can be included with 'by' or omitted if unknown or unimportant.\n\n**Forming the passive voice:**\n\n1. Identify the object of the active sentence.\n2. Use the correct form of 'be' + past participle of the main verb.\n3. (Optional) Add 'by' + the doer of the action.\n\n**Examples:**\n- Active: The teacher explains the lesson.\n- Passive: The lesson **is explained** by the teacher.\n\nTry transforming these active sentences into passive:\n- The dog chased the ball.\n- They will complete the project.\n\nRemember, the passive voice is useful in many situations, especially when the focus is on the action or when the doer is unknown or unimportant.\n\nKeep practicing to become a passive voice master!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a correct passive voice sentence?\n\na) The chef cooks the meal.\n\nb) The meal is cooked by the chef.",
+      "answer": "b"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence in passive voice: The letters ______ (write) by Emily.",
+      "answer": "are written"
+    },
+    {
+      "type": "transformation",
+      "question": "Transform the active sentence into passive: The kids play soccer.",
+      "answer": "Soccer is played by the kids."
+    }
+  ],
+  "culturalNotes": "In American culture, the passive voice is often used in formal writing, reports, and news articles to emphasize the action or the object rather than the doer. For example, in news headlines, the focus is typically on the event itself, e.g., 'The bridge was damaged in the storm.' Understanding passive constructions helps in both understanding and creating clear, professional communication in American English.",
+  "createdAt": "2025-12-24T04:29:43.091Z"
+}

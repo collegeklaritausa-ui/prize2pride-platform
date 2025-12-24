@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00274",
+  "number": 274,
+  "title": "Mastering the Passive Voice: Supreme Command of American English Syntax",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Define the passive voice and distinguish it from the active voice with precision.",
+    "Construct complex sentences using the passive voice across various tenses and moods.",
+    "Identify and correct overuse or misuse of the passive voice in advanced writing.",
+    "Transform active sentences into passive voice while maintaining clarity and emphasis.",
+    "Analyze American literary and media texts for effective passive voice implementation to enhance stylistic mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, emphasizing the action or recipient rather than the doer.",
+      "example": "The cake was baked by Mary."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by 'by'.",
+      "example": "The novel was written by the author."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the action in time, such as past, present, or future, crucial for accurate passive construction.",
+      "example": "The project will be completed by next week."
+    },
+    {
+      "word": "Causative",
+      "definition": "A form or usage expressing that someone causes something to happen, often involved in passive structures.",
+      "example": "She had her car repaired."
+    }
+  ],
+  "content": "The passive voice is a formidable tool in the arsenal of an American English god. Unlike the active voice, which emphasizes the subject performing an action, the passive voice shifts focus to the recipient of the action, often revealing nuance, formality, or emphasis suited for various contexts.\n\nConstructing the passive voice involves using the appropriate form of the verb 'to be' plus the past participle of the main verb. For instance, 'The manager reviews the reports' (active) transforms into 'The reports are reviewed by the manager' (passive).\n\nMastery at the god level entails fluency across all tenses:\n- Present: The laws are enforced by the authorities.\n- Past: The speeches were delivered by the senator.\n- Future: The documents will be signed by the CEO.\n\nAdvanced usage includes passive infinitives and participles, enabling nuanced expression:\n- It is believed that the project will be completed on time.\n- Having been warned, the team prepared accordingly.\n\nRemember, overuse can weaken clarity. Use passive constructions judiciously, especially when the doer is unknown, irrelevant, or implied.\n\nTransform active to passive with precision:\n- Active: The committee approved the proposal.\n- Passive: The proposal was approved by the committee.\n\nIn media and literature, passive voice often conveys formality, objectivity, or subtlety, aligning with American stylistic conventions for certain genres and rhetorical effects.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Convert the following active sentence to passive voice: 'The team will complete the project tomorrow.'",
+      "answer": "The project will be completed by the team tomorrow."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive voice form of: 'The chef cooked a delicious meal.'",
+      "answer": "A) A delicious meal was cooked by the chef. B) A delicious meal is cooked by the chef. C) The chef is cooking a delicious meal. D) The chef has cooked a delicious meal."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'The reports were reviewing by the manager.'",
+      "answer": "The reports were reviewed by the manager."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the active sentence into passive voice: 'They are building a new bridge.'",
+      "answer": "A new bridge is being built by them."
+    },
+    {
+      "type": "Analysis",
+      "question": "Analyze the following sentence for passive voice usage and discuss its effectiveness: 'The new policies were implemented swiftly by the administration.'",
+      "answer": "The sentence correctly employs passive voice to emphasize the swift implementation of policies by the administration, highlighting efficiency and authority, which aligns with American corporate and governmental communication styles."
+    }
+  ],
+  "culturalNotes": "In American English, the passive voice is often used in formal writing, journalism, and official documentation to convey objectivity and authority. It is prevalent in political speeches, legal contexts, and scientific reporting, where the focus is on actions and results rather than the actors. Mastery of passive constructions allows students to adapt their tone and style to fit various American cultural and professional settings, enhancing their rhetorical power and stylistic versatility.",
+  "createdAt": "2025-12-24T04:32:34.130Z"
+}

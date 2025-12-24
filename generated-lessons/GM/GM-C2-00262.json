@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00262",
+  "number": 262,
+  "title": "Mastering the Passive Voice: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and identify passive voice in American English sentences.",
+    "Differentiate between active and passive voice with clear examples.",
+    "Transform active sentences into passive voice correctly.",
+    "Construct original sentences using passive voice with proper syntax.",
+    "Recognize the appropriate contexts and nuances for using passive voice in American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the sentence, often emphasizing the action or the recipient rather than the doer.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Syntax",
+      "definition": "The arrangement of words and phrases to create well-formed sentences.",
+      "example": "Understanding passive voice syntax is essential for mastering sentence transformation."
+    }
+  ],
+  "content": "In American English, the passive voice is a powerful grammatical tool that shifts focus from the doer to the action or the recipient of the action. It is formed by combining a form of the verb 'to be' (am, is, are, was, were, be, been) with the past participle of the main verb. For example, in the active sentence 'The chef cooked the meal,' the focus is on the subject performing the action. In the passive voice, it becomes 'The meal was cooked by the chef,' emphasizing the meal as the recipient of the action.\n\nMastering the passive voice involves understanding when and how to use it effectively. Use it when the doer is unknown, irrelevant, or you want to emphasize the action or recipient. For example:\n- Unknown agent: 'The window was broken.'\n- Emphasizing the recipient: 'The proposal was accepted by the committee.'\n\nTransforming active sentences into passive voice requires identifying the object, making it the new subject, conjugating 'to be' accordingly, and converting the main verb into its past participle. Example:\nActive: 'They will complete the project tomorrow.'\nPassive: 'The project will be completed tomorrow.'\n\nRemember, passive constructions can sometimes make sentences less direct or more formal. Use them judiciously to enhance clarity and emphasis in your writing.\n\nIn American professional and casual contexts, mastering passive voice can help you articulate ideas with nuance and sophistication, making your communication more impactful.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which sentence is in the passive voice?",
+      "answer": "The letter was sent by Jenna."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the active sentence into passive voice: 'The team completed the project.'",
+      "answer": "The project was completed by the team."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Identify the correct form of 'to be' and past participle to complete the passive sentence: 'The report ___ (finish) by the manager.'",
+      "answer": "was finished"
+    },
+    {
+      "type": "Creation",
+      "question": "Write an original passive voice sentence about a recent event in your life.",
+      "answer": "Sample answer: 'The dinner was prepared by my sister.'"
+    }
+  ],
+  "culturalNotes": "In American culture, clarity and directness are highly valued, especially in professional settings. While passive voice is often viewed as less direct than active voice, it is frequently used in formal reports, scientific writing, and legal documents to emphasize objectivity and neutrality. Understanding when to use passive voice helps you communicate appropriately across diverse American contexts, from business meetings to casual conversations.",
+  "createdAt": "2025-12-24T04:31:45.407Z"
+}

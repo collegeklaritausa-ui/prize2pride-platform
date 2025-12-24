@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00238",
+  "number": 238,
+  "title": "Mastering Passive Voice: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the structure and function of passive voice in American English.",
+    "Identify passive voice in various sentences and contexts.",
+    "Convert active sentences into passive voice and vice versa.",
+    "Recognize common uses of passive voice in American communication and media.",
+    "Apply passive voice appropriately to enhance clarity and professionalism."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "The form of a verb used with 'to be' to create passive voice; often ends in -ed, -d, -t, -en, or -n.",
+      "example": "The windows are cleaned every week."
+    }
+  ],
+  "content": "Welcome to the lesson on Passive Voice, a crucial component for mastering American English grammar. Passive voice shifts the focus from who is performing an action to the action itself or its recipient. It is especially useful in formal writing, journalism, and situations where the agent is unknown or irrelevant.\n\n**Structure of Passive Voice:**\n- Subject + form of 'to be' + past participle + (optional 'by' + agent)\n\n**Examples:**\n- Active: The chef cooked the meal.\n- Passive: The meal was cooked by the chef.\n\n**When to Use Passive Voice:**\n- When the doer is unknown or unimportant (e.g., The window was broken last night.)\n- To emphasize the action or recipient.\n- In formal or scientific writing.\n\n**Converting Active to Passive:**\n1. Make the object of the active sentence the subject.\n2. Use the correct form of 'to be' matching the tense.\n3. Use the past participle of the main verb.\n4. Add 'by' + the original subject if necessary.\n\n**Example Conversion:**\n- Active: The team will complete the project.\n- Passive: The project will be completed by the team.\n\nPractice helps in mastering passive constructions. Remember, overuse can make writing dull or indirect; use it judiciously for clarity and emphasis.\n\nCongratulations on taking a step toward becoming a GOD of American English grammar!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive form of the sentence: 'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Convert to passive: 'They are painting the house.'",
+      "answer": "The house is being painted by them."
+    },
+    {
+      "type": "Identify",
+      "question": "Is the following sentence active or passive? 'The results were analyzed by scientists.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the active sentence as passive: 'The chef prepares the meal.'",
+      "answer": "The meal is prepared by the chef."
+    }
+  ],
+  "culturalNotes": "In American media, passive voice is often used in news reports and formal announcements to maintain objectivity and focus on the event rather than the actor. For example, 'The bridge was constructed in 2020.' Mastering passive voice enables you to understand and produce professional, polished communication typical in American journalism, business, and academia.",
+  "createdAt": "2025-12-24T04:30:14.600Z"
+}

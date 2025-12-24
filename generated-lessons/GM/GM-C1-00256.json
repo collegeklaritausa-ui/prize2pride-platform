@@ -1,0 +1,64 @@
+{
+  "id": "GM-C1-00256",
+  "number": 256,
+  "title": "Mastering the Art of Passive Voice: The Advanced Guide to American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Interpret and analyze complex sentences utilizing advanced passive constructions",
+    "Transform active sentences into passive voice with precision and nuance",
+    "Identify subtle differences between passive voice forms in various contexts",
+    "Apply advanced passive structures in both formal and informal American English settings",
+    "Critically evaluate the use of passive voice for tone, emphasis, and clarity in writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by 'by'.",
+      "example": "The novel was written by the author in less than a month."
+    },
+    {
+      "word": "Impersonal passive",
+      "definition": "A passive construction where the agent is omitted or unspecified, often used for general statements or formal tone.",
+      "example": "It is believed that the policy will impact economic growth."
+    },
+    {
+      "word": "Causative passive",
+      "definition": "A passive voice used to indicate that someone caused an action to happen by someone else.",
+      "example": "She had her car repaired after the accident."
+    },
+    {
+      "word": "Stative passive",
+      "definition": "Passive form used to describe a state resulting from an action, often with adjectives.",
+      "example": "The windows are broken."
+    }
+  ],
+  "content": "In this lesson, we delve into the nuances of the passive voice at an advanced level, exploring its various forms, functions, and stylistic uses in American English. Unlike the straightforward passive constructions learned earlier, advanced passive voice often involves complex tense forms, modal auxiliaries, and stylistic considerations.\n\n**1. Advanced Passive Constructions:**\n- Passive with perfect tenses: 'The project has been completed.'\n- Passive with modals: 'The documents must be reviewed.'\n- Causative passive: 'The manager had the reports prepared.'\n\n**2. Stylistic Uses:**\n- Emphasizing the action over the actor: 'Much was accomplished during the conference.'\n- Formal, objective tone in academic and official writing.\n- Impersonal statements to maintain neutrality.\n\n**3. Nuances and Pitfalls:**\n- Overuse can lead to vague or dull writing.\n- Sometimes active voice is clearer; choose passive deliberately.\n- Recognize when the agent is intentionally omitted for stylistic reasons.\n\n**4. Examples in Context:**\n- Formal Report: 'The data were analyzed using advanced statistical methods.'\n- Business Memo: 'All expenses must be approved before reimbursement.'\n- Journalistic Style: 'The suspect was apprehended after a lengthy chase.'\n\n**5. Transformation Techniques:**\n- From active to passive: 'The committee approved the proposal.' → 'The proposal was approved by the committee.'\n- Using modal verbs in passive: 'They might have overlooked the error.' → 'The error might have been overlooked.'\n\nBy mastering these advanced passive structures, students will elevate their command of American English, enabling precise, formal, and stylistically nuanced communication.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following active sentence into an advanced passive form: 'The team will complete the project by next week.'",
+      "answer": "The project will be completed by the team by next week."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence employs a causative passive, impersonal passive, or stative passive: 'The windows are cleaned every morning.'",
+      "answer": "Stative passive"
+    },
+    {
+      "type": "Correction",
+      "question": "Rewrite the passive sentence to improve clarity: 'The reports was reviewed by the manager.'",
+      "answer": "The reports were reviewed by the manager."
+    },
+    {
+      "type": "Application",
+      "question": "Create a formal sentence in passive voice using a modal: 'They can finish the project today.'",
+      "answer": "The project can be finished today."
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, the passive voice is often used to maintain objectivity, especially in scientific reports, news articles, and official documentation. While active voice is preferred for clarity and engagement, mastering the nuanced use of passive constructions demonstrates mastery over tone, formality, and stylistic sophistication. Recognizing when to employ passive voice aligns with American cultural values of professionalism, neutrality, and emphasis on actions rather than actors.",
+  "createdAt": "2025-12-24T04:31:22.890Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00295",
+  "number": 295,
+  "title": "Mastering Reported Speech: Speak Like a True American",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of reported speech in American English.",
+    "Identify and convert direct speech into reported speech.",
+    "Use common reporting verbs accurately.",
+    "Apply reported speech in everyday conversations.",
+    "Recognize cultural nuances in American reporting and storytelling."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say', 'tell', 'ask'.",
+      "example": "He told me he was coming."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the original speech when converting to reported speech.",
+      "example": "Present tense to past tense: 'I am happy' becomes 'He said he was happy.'"
+    }
+  ],
+  "content": "Welcome to the lesson on Reported Speech! In American English, reported speech helps us tell others what someone else has said, without quoting them directly. It’s very useful in storytelling, conversations, and reporting news.\n\n**Direct Speech vs. Reported Speech:**\n- Direct: She said, \"I am tired.\"\n- Reported: She said she was tired.\n\n**Steps to Convert to Reported Speech:**\n1. Remove the quotation marks.\n2. Change the pronouns if needed.\n3. Shift the verb tense back (present to past, past to past perfect, etc.).\n4. Adjust time expressions if necessary.\n\n**Examples:**\n- Direct: \"I will call you tomorrow,\" he said.\n- Reported: He said he would call me the next day.\n\n**Common Reporting Verbs:**\n- Said\n- Told\n- Asked\n- Mentioned\n- Explained\n\n**Note:** When using 'tell', always include the person being told: 'He told me...' or 'She told him...'.\n\n**Important Tense Changes:**\n- Present simple to past simple\n- Present continuous to past continuous\n- Will + verb to would + verb\n- Can to could\n\nPractice makes perfect! Use reported speech to share stories or relay conversations, making your American English sound natural and confident.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Convert the direct speech to reported speech: She said, 'I am tired.'",
+      "answer": "She said she was tired."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "He _____ (say) he would help us later.",
+      "answer": "said"
+    },
+    {
+      "type": "True or False",
+      "question": "In reported speech, the tense of the verb always stays the same as in direct speech.",
+      "answer": false
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite this sentence in reported speech: 'They are playing outside,' she said.",
+      "answer": "She said they were playing outside."
+    }
+  ],
+  "culturalNotes": "In American culture, storytelling and sharing personal experiences are common in everyday conversations. Using reported speech appropriately helps you connect more naturally with others, especially when recounting stories or relaying information. Americans often adapt their speech based on context, making mastery of reported speech a valuable skill for social and professional communication.",
+  "createdAt": "2025-12-24T04:33:51.547Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00255",
+  "number": 255,
+  "title": "Mastering the Art of Passive Voice: The Advanced American English Challenge",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Explain the nuanced differences between active and passive voice in complex sentences.",
+    "Identify passive constructions in various contexts with precision.",
+    "Transform active sentences into passive voice while maintaining original meanings.",
+    "Construct sophisticated sentences using passive voice for emphasis and clarity.",
+    "Apply passive voice appropriately in formal and informal American English settings."
+  ],
+  "vocabulary": [
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Impersonal Passive",
+      "definition": "A form where the agent is omitted, often used in formal or general statements.",
+      "example": "It is believed that... / It is said that..."
+    },
+    {
+      "word": "Causative Construction",
+      "definition": "A passive structure indicating that someone causes an action to be performed.",
+      "example": "The windows were broken by the storm."
+    },
+    {
+      "word": "Passive Perfect",
+      "definition": "A passive voice form using 'has been' or 'had been' to indicate completed actions.",
+      "example": "The project has been completed successfully."
+    }
+  ],
+  "content": "In advanced American English, mastering the passive voice involves more than just recognizing 'was' or 'were' + past participle. It encompasses nuanced uses such as impersonal constructions, causative forms, and passive perfect tenses. Passive sentences often serve to emphasize the action or the recipient of the action rather than the doer, making them invaluable in formal writing, scientific reports, and journalistic contexts.\n\nFor example:\n- Active: The committee approved the new policy.\n- Passive: The new policy was approved by the committee.\n\nNotice how the focus shifts from the agent (the committee) to the action (approval). In advanced usage, you might omit the agent:\n- Passive: The new policy was approved.\n\nImpersonal passive constructions are common in American English when the agent is unknown or irrelevant:\n- It is believed that climate change is accelerating.\n\nCausative passive structures are used to indicate that someone caused an action:\n- The chef caused the restaurant to be renowned.\n\nFurthermore, understanding passive perfect forms helps articulate the timing of actions:\n- The documents have been reviewed by the legal team.\n\nMastering these forms enhances the clarity, professionalism, and stylistic versatility of your communication in American English.",
+  "exercises": [
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The scientists have conducted the experiment.'",
+      "answer": "Active"
+    },
+    {
+      "type": "Transformation",
+      "question": "Rewrite the active sentence into passive voice: 'The chef prepared the meal.'",
+      "answer": "The meal was prepared by the chef."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence with the correct passive form: 'The reports ____ (finish) by the team yesterday.'",
+      "answer": "were finished"
+    },
+    {
+      "type": "Creative Construction",
+      "question": "Create an advanced passive sentence using a causative construction related to a business scenario.",
+      "answer": "The new policies were implemented by the management to improve efficiency."
+    },
+    {
+      "type": "Analysis",
+      "question": "Explain the purpose and effect of using passive voice in the sentence: 'It is believed that the solution will be effective.'",
+      "answer": "The passive construction emphasizes the belief and general consensus rather than the agent, making the statement more formal and impersonal."
+    }
+  ],
+  "culturalNotes": "In American professional and academic writing, passive voice is often employed to maintain objectivity and focus on processes or results rather than personal action. While active voice is generally preferred for clarity and directness, the strategic use of passive constructions can elevate the formality of communication, especially in scientific, legal, and journalistic contexts. Understanding when and how to use passive voice appropriately is a hallmark of mastery in American English language norms.",
+  "createdAt": "2025-12-24T04:31:18.848Z"
+}

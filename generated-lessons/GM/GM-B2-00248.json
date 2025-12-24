@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00248",
+  "number": 248,
+  "title": "Mastering the Art of Passive Voice: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the structure and formation of passive voice in American English.",
+    "Identify when to use passive voice versus active voice in various contexts.",
+    "Transform active sentences into passive sentences with accuracy.",
+    "Enhance writing clarity and style by appropriately employing passive constructions.",
+    "Recognize common pitfalls and errors related to passive voice and avoid them."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or recipient rather than the doer.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The letter was mailed by John."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "A verb form typically ending in -ed for regular verbs, used in perfect tenses and passive constructions.",
+      "example": "The results were analyzed by the team."
+    }
+  ],
+  "content": "In American English, passive voice is a grammatical tool used to shift focus from the doer of an action to the action itself or its recipient. It is formed using the appropriate form of the verb 'to be' followed by the past participle of the main verb.\n\n**Formation of Passive Voice:**\n- For present simple: Subject + is/are/am + past participle\n  - Active: The chef prepares the meal.\n  - Passive: The meal is prepared by the chef.\n- For past simple: Subject + was/were + past participle\n  - Active: The company launched the new product.\n  - Passive: The new product was launched by the company.\n- For future simple: Subject + will be + past participle\n  - Active: The team will complete the project.\n  - Passive: The project will be completed by the team.\n\n**When to Use Passive Voice:**\n- When the doer is unknown or unimportant.\n- To emphasize the action or the recipient.\n- In formal or scientific writing.\n\n**Transforming Active to Passive:**\n1. Identify the object of the active sentence.\n2. Make it the subject of the passive sentence.\n3. Use the correct form of 'to be' + past participle.\n4. (Optional) Include the original subject with 'by'.\n\n**Example:**\n- Active: The researcher conducted the experiment.\n- Passive: The experiment was conducted by the researcher.\n\n**Common Errors:**\n- Using the wrong form of 'to be'.\n- Forgetting the past participle.\n- Overuse of passive voice leading to vague or wordy sentences.\n\n**Tip:** Use passive voice judiciously to maintain clarity and style in your writing.\n\nBy mastering passive voice, you'll add variety and professionalism to your American English communication, transforming your language skills into true mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correctly transformed passive sentence:\nActive: The students completed the assignment.\nA) The assignment was completed by the students.\nB) The assignment is completed by the students.\nC) The students are completing the assignment.",
+      "answer": "A) The assignment was completed by the students."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert this active sentence into passive voice:\nThe chef is cooking the meal.",
+      "answer": "The meal is being cooked by the chef."
+    },
+    {
+      "type": "true/false",
+      "question": "Passive voice is often used to emphasize the doer of the action.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following sentence in passive voice:\nThe teacher will grade the exams.",
+      "answer": "The exams will be graded by the teacher."
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, passive voice is frequently used to maintain objectivity and formality, especially in scientific reports, news articles, and official documents. However, overuse can lead to dull or unclear writing. American writers value clarity and directness, so balancing passive and active voice enhances effective communication.",
+  "createdAt": "2025-12-24T04:30:51.478Z"
+}

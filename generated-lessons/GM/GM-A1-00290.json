@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00290",
+  "number": 290,
+  "title": "Mastering Reported Speech: Speak Like an American Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of reported speech in American English.",
+    "Identify the change in tense when converting direct speech to reported speech.",
+    "Practice transforming direct statements into reported speech accurately.",
+    "Learn common reporting verbs used in American English.",
+    "Apply reported speech in real-life conversational contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said, without quoting their exact words.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'ask,' etc.",
+      "example": "He told me he was hungry."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when converting direct speech to reported speech.",
+      "example": "Present tense changes to past tense, e.g., 'I am happy' becomes 'He said he was happy.'"
+    }
+  ],
+  "content": "Welcome, future Gods of American English! Today, we conquer the art of reported speech, a key skill to sound natural and confident in conversations. In direct speech, you quote someone's exact words, like: \"I am hungry.\" But in reported speech, you relay what someone said without quoting directly, such as: She said she was hungry.\n\n**Key Rules:**\n1. Tense Shift: Usually, the present tense in direct speech changes to the past tense in reported speech.\n   - Present Simple ➔ Past Simple\n   - Present Continuous ➔ Past Continuous\n   - Present Perfect ➔ Past Perfect\n   - Past Simple ➔ Past Perfect\n\n2. Pronoun and Time/Place Adjustments: Change pronouns and time expressions to fit the context.\n   - \"I\" becomes \"he\" or \"she.\"\n   - \"Today\" becomes \"that day.\"\n   - \"Now\" becomes \"then.\"\n\n**Examples:**\n- Direct: \"I will call you tomorrow,\" she said.\n  Reported: She said she would call me the next day.\n- Direct: \"Are you coming to the party?\" he asked.\n  Reported: He asked if I was coming to the party.\n\n**Common Reporting Verbs:**\n- say, tell, ask, explain, suggest, admit\n\nBy mastering reported speech, you can confidently share stories and information, sounding like a true American English hero!\n\nRemember: Practice makes perfect. Use reported speech daily in conversations and writing to become fluent!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Change the direct speech to reported speech: 'I am going to the store,' she said.",
+      "answer": "She said she was going to the store."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Direct: 'We will visit the museum,' Tom said. \nReported: Tom said they __________ visit the museum.",
+      "answer": "would"
+    },
+    {
+      "type": "matching",
+      "question": "Match the direct speech with its reported speech form:\n1. 'I have finished my homework.'\n2. 'Are you hungry?'\n3. 'I can help you.'\nA. He asked if I was hungry.\nB. She said she had finished her homework.\nC. He said he could help me.",
+      "answer": "1-B, 2-A, 3-C"
+    },
+    {
+      "type": "short answer",
+      "question": "Convert this direct speech into reported speech: 'They are playing soccer,' he said.",
+      "answer": "He said they were playing soccer."
+    }
+  ],
+  "culturalNotes": "In American culture, direct communication is often valued for its clarity and honesty. However, reported speech allows for polite indirect communication, especially in formal situations or when sharing news. Americans appreciate straightforwardness but also value tact and context awareness when relaying information. Mastery of reported speech helps you navigate both casual conversations and professional settings with confidence and cultural understanding.",
+  "createdAt": "2025-12-24T04:33:33.736Z"
+}

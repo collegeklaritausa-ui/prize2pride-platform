@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00215",
+  "number": 215,
+  "title": "Mastering the Passive Voice: Your Path to American English Excellence",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept and structure of the passive voice in American English.",
+    "Identify sentences written in passive and active voice.",
+    "Convert active sentences into passive voice.",
+    "Recognize common usage situations for passive voice.",
+    "Apply passive voice correctly in writing and speaking to sound more fluent and natural."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence structure where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or the receiver of the action.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Verb 'to be'",
+      "definition": "A helping verb used in forming the passive voice, indicating tense and agreement with the subject.",
+      "example": "is, was, were, am, be, being, been"
+    }
+  ],
+  "content": "Welcome to the world of the passive voice — a vital tool for mastering American English! In active sentences, the subject performs the action: 'The teacher explains the lesson.' In passive sentences, the focus shifts to the receiver of the action: 'The lesson is explained by the teacher.'\n\n**Structure of Passive Voice:**\n\n- Subject + form of 'to be' + past participle + (by + agent)\n\n**Examples:**\n- Active: The chef cooked the meal.\n- Passive: The meal was cooked by the chef.\n\n**When to Use Passive Voice:**\n- When the doer is unknown or unimportant: 'My bike was stolen.'\n- To emphasize the action or the receiver: 'The letter was sent yesterday.'\n- In formal or scientific writing: 'The experiment was conducted by the researchers.'\n\n**Converting Active to Passive:**\n1. Identify the object of the active sentence.\n2. Make it the subject of the passive sentence.\n3. Use the correct form of 'to be' matching the tense.\n4. Add the past participle of the main verb.\n5. Optionally, include the original subject with 'by.'\n\n**Example conversion:**\n- Active: The children play games.\n- Passive: Games are played by the children.\n\nPractice makes perfect! Keep practicing passive constructions to sound more natural and sophisticated in American English conversations and writing.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a correct passive voice sentence?",
+      "answer": "The book was written by the author."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The cake ____ (bake) by Sarah yesterday.",
+      "answer": "was baked"
+    },
+    {
+      "type": "conversion",
+      "question": "Convert this active sentence into passive voice: 'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "identify",
+      "question": "Is the sentence 'The window was cleaned by the janitor' active or passive?",
+      "answer": "Passive"
+    }
+  ],
+  "culturalNotes": "In American culture, clarity and directness are valued. Using passive voice appropriately can help you sound more formal and polished, especially in professional settings like business emails, reports, and academic papers. However, overusing passive voice may make your writing less direct and harder to follow. Balance active and passive constructions to communicate effectively and naturally in American English.",
+  "createdAt": "2025-12-24T04:29:00.881Z"
+}

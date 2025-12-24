@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00289",
+  "number": 289,
+  "title": "Mastering Reported Speech: Speak Like an American English GOD!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what reported speech is and why it is important in American English.",
+    "Learn how to convert direct speech into reported speech correctly.",
+    "Identify key changes in tense, pronouns, and time expressions in reported speech.",
+    "Practice transforming sentences from direct to reported speech.",
+    "Gain confidence to use reported speech in everyday conversations and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said, often using indirect language.",
+      "example": "She said she was coming to the party."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when converting direct speech to reported speech.",
+      "example": "He said, 'I am tired.' → He said he was tired."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Changing pronouns to match the perspective of the speaker in reported speech.",
+      "example": "Direct: 'I like this song,' she said. → Reported: She said she liked that song."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words that indicate when an event happened, which may change in reported speech.",
+      "example": "Today → That day, tomorrow → The next day."
+    }
+  ],
+  "content": "Welcome, future GODS of American English! Today, we dive into the powerful world of Reported Speech — a crucial skill for sounding natural and confident in conversations. When someone tells you something, you can report it to others without quoting them directly. Instead, you paraphrase, often changing words and tense.\n\n**Key concepts:**\n- **Tense Shift:** When converting direct speech into reported speech, the verb tense usually shifts back in time. For example, 'I am happy,' becomes 'he said he was happy.'\n- **Pronoun Adjustment:** Change pronouns to match the speaker's perspective. If someone says, 'I am tired,' and you report it, it becomes, 'He said he was tired.'\n- **Time and Place Expressions:** Words like 'today,' 'tomorrow,' or 'here' often change when reported. For example, 'I will see you tomorrow,' becomes 'He said he would see me the next day.'\n\n**Examples:**\n- Direct: She said, 'I love this song.'\n- Reported: She said she loved that song.\n\n- Direct: He said, 'I am going to the store.'\n- Reported: He said he was going to the store.\n\nPractice converting sentences to build mastery and become a true GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Convert the sentence to reported speech: She said, 'I am feeling sick.'",
+      "answer": "She said she was feeling sick."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "He said, 'I will call you tomorrow.' → He said he ____ call me the next day.",
+      "answer": "would"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Change to reported speech: \"They are coming to the party,\" he said.",
+      "answer": "He said they were coming to the party."
+    },
+    {
+      "type": "matching",
+      "question": "Match the direct speech with its reported speech form:\n1. \"I saw the movie yesterday.\"\n2. \"We are going on vacation.\"\nA. He said he had seen the movie the day before.\nB. They said they were going on vacation.",
+      "answer": "1-A, 2-B"
+    }
+  ],
+  "culturalNotes": "In American culture, storytelling and casual conversations frequently involve reported speech. Americans value clear communication, and mastering reported speech allows you to share stories, relay information, and engage confidently in social and professional settings. Remember, using reported speech naturally and correctly can make you sound more fluent and trustworthy — true GOD status in American English!",
+  "createdAt": "2025-12-24T04:33:29.855Z"
+}

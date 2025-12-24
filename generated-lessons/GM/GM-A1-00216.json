@@ -1,0 +1,49 @@
+{
+  "id": "GM-A1-00216",
+  "number": 216,
+  "title": "Passive Voice Power: Become a Master of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of passive voice in American English.",
+    "Identify sentences written in passive voice versus active voice.",
+    "Convert active sentences into passive voice correctly.",
+    "Use passive voice appropriately in everyday communication.",
+    "Enhance sentence variety and clarity in writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence structure where the subject receives the action rather than doing the action.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A sentence structure where the subject performs the action.",
+      "example": "Sarah baked the cake."
+    }
+  ],
+  "content": "Welcome to the world of Passive Voice! In American English, sentences can be structured in two ways: active and passive. The active voice emphasizes the doer of the action, making sentences direct and clear. For example, 'The dog chased the ball.' In contrast, the passive voice shifts the focus to the receiver of the action, often used when the doer is unknown or unimportant. For example, 'The ball was chased by the dog.' \n\nTo form the passive voice, follow this simple formula:\n\nPassive = be verb + past participle of the main verb.\n\nExamples:\n- Active: The teacher explains the lesson.\n- Passive: The lesson is explained by the teacher.\n\nUse passive voice when:\n- The doer is unknown or irrelevant.\n- You want to emphasize the action or the object.\n\nRemember, overusing passive voice can make your writing sound dull. Use it wisely to add variety and clarity to your sentences.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Identify the sentence in passive voice:",
+      "answer": "The book was read by Sarah."
+    },
+    {
+      "type": "Transformation",
+      "question": "Convert the active sentence to passive voice: 'The chef cooked a delicious meal.'",
+      "answer": "A delicious meal was cooked by the chef."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "The emails __________ (send) by the manager every morning.",
+      "answer": "are sent"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is valued, especially in casual conversations and professional settings. Using active voice is common for straightforward messages, but passive voice is often used in formal writing, press releases, and scientific reports. Understanding when and how to use passive voice helps you sound more natural and adaptable in diverse American contexts.",
+  "createdAt": "2025-12-24T04:29:03.443Z"
+}

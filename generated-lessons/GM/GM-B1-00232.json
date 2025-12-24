@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00232",
+  "number": 232,
+  "title": "Mastering the Passive Voice: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the structure and formation of the passive voice in American English.",
+    "Identify sentences that are written in passive voice versus active voice.",
+    "Convert active sentences into passive sentences with correct grammar.",
+    "Recognize common situations where passive voice is preferred in American English.",
+    "Enhance clarity and variety in your writing by skillfully using passive voice."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The book was read by many students."
+    },
+    {
+      "word": "Passive Conjugation",
+      "definition": "The verb form used in passive sentences, typically involving a form of the verb 'to be' plus the past participle.",
+      "example": "is eaten, was taken, will be completed"
+    }
+  ],
+  "content": "The passive voice is a key grammatical structure in American English that allows speakers and writers to emphasize the action or the recipient rather than the doer. Unlike active voice, where the subject performs the action, passive voice shifts focus and can provide variety and formality to your communication.\n\n**Formation of Passive Voice:**\n- Use the appropriate form of the verb 'to be' (am, is, are, was, were, will be, has been, have been) based on the tense.\n- Follow with the past participle of the main verb.\n\n**Examples:**\n- Active: The chef prepared the meal.\n- Passive: The meal was prepared by the chef.\n\n**When to Use Passive Voice:**\n- When the agent is unknown or unimportant.\n- To emphasize the action or result.\n- In formal or scientific writing.\n\n**Converting Active to Passive:**\n- Identify the object of the active sentence.\n- Move it to the subject position.\n- Use the correct form of 'to be' and the past participle.\n\n**Example Conversion:**\n- Active: The teacher grades the exams.\n- Passive: The exams are graded by the teacher.\n\nRemember, overusing passive voice can make your writing seem dull or indirect. Balance it with active sentences to keep your communication lively and clear.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence in passive voice:",
+      "answer": "The report was completed by the team."
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Convert the active sentence to passive voice: \"The kids broke the window.\"",
+      "answer": "The window was broken by the kids."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The cake _____ (bake) by Sarah yesterday.",
+      "answer": "was baked"
+    },
+    {
+      "type": "identify",
+      "question": "Is the following sentence active or passive? \"The emails are sent by the manager every morning.\"",
+      "answer": "Passive"
+    },
+    {
+      "type": "creation",
+      "question": "Write a sentence in passive voice about a recent event at your school.",
+      "answer": "Answers will vary but should follow passive voice structure, e.g., \"The project was presented by the students yesterday.\""
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, the passive voice is often used to maintain objectivity and professionalism, especially in scientific writing, reports, and formal communication. Understanding when and how to use passive constructions can help you adapt your language to different settings, whether in business, education, or media. Americans value clarity and directness, but mastering passive voice adds stylistic flexibility and nuance to your language skills.",
+  "createdAt": "2025-12-24T04:29:53.239Z"
+}

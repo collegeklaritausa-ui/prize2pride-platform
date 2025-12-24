@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00226",
+  "number": 226,
+  "title": "Passive Voice Power: Become a Master of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what the passive voice is in American English.",
+    "Identify sentences written in the passive voice.",
+    "Transform active sentences into passive sentences.",
+    "Use the passive voice correctly in everyday situations.",
+    "Boost confidence in using passive constructions in speech and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence structure where the focus is on the action or the receiver of the action, not the doer.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person or thing that performs the action or is described in a sentence.",
+      "example": "The teacher praised the student. (Active) | The student was praised by the teacher. (Passive)"
+    },
+    {
+      "word": "Verb",
+      "definition": "An action word that describes what the subject does or is.",
+      "example": "eat, run, see, cook"
+    }
+  ],
+  "content": "Welcome to your lesson on Passive Voice! In American English, the passive voice is used when we want to emphasize the action or the receiver of the action rather than who is doing it. \n\n**Active Voice Example:**\n- The chef cooked the meal.\n\n**Passive Voice Example:**\n- The meal was cooked by the chef.\n\n**How to form the passive voice:**\n1. Find the object of the active sentence.\n2. Make that object the subject of the sentence.\n3. Use the correct form of the verb 'to be' + the past participle of the main verb.\n\n**Examples:**\n- Active: The kids play soccer.\n- Passive: Soccer is played by the kids.\n\n**Note:** Not all sentences are suitable for passive voice, especially when the doer (agent) is unknown or unimportant.\n\n**Tip:** Use passive voice to focus on the action or when the doer is obvious or unimportant.\n\nPractice makes perfect! Let's try transforming some active sentences into passive sentences and vice versa to become true passive voice gods!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the passive voice sentence:",
+      "answer": "The book was read by Emily."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The cake ____ (bake) by my mom yesterday.",
+      "answer": "was baked"
+    },
+    {
+      "type": "conversion",
+      "question": "Change the active sentence to passive: The teacher explains the lesson.",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "true/false",
+      "question": "Passive voice emphasizes the doer of the action.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued. Using the passive voice appropriately can help you sound more polished and professional, especially in formal writing or speeches. Americans often use passive constructions in news reporting and official statements to maintain objectivity or focus on the action rather than the person performing it.",
+  "createdAt": "2025-12-24T04:29:33.935Z"
+}

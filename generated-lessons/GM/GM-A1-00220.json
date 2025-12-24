@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00220",
+  "number": 220,
+  "title": "Mastering the Passive Voice: The Beginner's Guide to American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of passive voice in American English.",
+    "Identify sentences written in passive voice.",
+    "Convert active sentences into passive voice.",
+    "Recognize common uses of passive voice in everyday communication.",
+    "Avoid common mistakes when using the passive voice."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence where the object of an active sentence becomes the subject of the passive sentence.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A sentence where the subject performs the action.",
+      "example": "Sarah baked the cake."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that shows the time of an action.",
+      "example": "is baked, was baked, will be baked"
+    }
+  ],
+  "content": "Welcome to the world of American English! Today, we focus on the passive voice, a way to emphasize the action or the recipient of an action rather than the doer. In active voice, the subject performs the action: 'The teacher grades the exams.' In passive voice, the focus shifts: 'The exams are graded by the teacher.' The structure typically follows: subject + be verb + past participle (+ by + doer). For example:\n\n- Active: The chef cooked the meal.\n- Passive: The meal was cooked by the chef.\n\nPassive voice is often used in formal writing, news reports, or when the doer is unknown or unimportant. Remember, the key is matching the correct form of 'be' with the past participle of the main verb, based on tense. For beginners, focus on simple present and simple past tenses.\n\nExamples:\n- Present: The packages are delivered daily.\n- Past: The letter was sent yesterday.\n\nPractice converting active sentences to passive voice to become comfortable with this structure. For example, change 'The children played soccer' to 'Soccer was played by the children.' Keep practicing to master this powerful grammatical tool!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences is in passive voice?",
+      "answer": "The book was read by Sarah."
+    },
+    {
+      "type": "Conversion",
+      "question": "Convert the active sentence into passive voice: 'The dog chased the cat.'",
+      "answer": "The cat was chased by the dog."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The mail ____ delivered every morning. (Use the correct form of 'be' + past participle)",
+      "answer": "is delivered"
+    },
+    {
+      "type": "True or False",
+      "question": "Passive voice sentences always include the word 'by'.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is frequently used in news reporting and formal writing to present information objectively. Recognizing and understanding passive constructions can help in interpreting news articles, official statements, and formal communications more effectively. While active voice is generally preferred for clarity and directness, mastering passive voice adds variety and nuance to your language skills.",
+  "createdAt": "2025-12-24T04:29:15.369Z"
+}

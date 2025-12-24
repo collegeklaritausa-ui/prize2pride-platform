@@ -1,0 +1,65 @@
+{
+  "id": "GM-C2-00266",
+  "number": 266,
+  "title": "Mastering the Passive Voice: Unlock the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and identify passive voice in American English sentences.",
+    "Differentiate between active and passive voice with clear examples.",
+    "Construct correct passive voice sentences across various tenses.",
+    "Recognize common mistakes and learn how to avoid them when using passive voice.",
+    "Apply passive voice appropriately in formal and informal contexts to enhance clarity and style."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the subject receives the action rather than performs it.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer or performer of the action in a sentence, usually introduced with 'by'.",
+      "example": "The book was written by the author."
+    },
+    {
+      "word": "Tense",
+      "definition": "The grammatical category that expresses time of the action or state.",
+      "example": "She is writing a letter. (present continuous tense)"
+    }
+  ],
+  "content": "Welcome to the mastery of the passive voice in American English! Understanding how to use the passive voice is crucial for emphasizing the action or the recipient of an action, especially in formal writing, journalism, and professional communication.\n\n**What is Passive Voice?**\nPassive voice shifts the focus from the doer of an action to the recipient. In active voice, the subject performs the action: 'The chef cooked the meal.' In passive voice, the focus shifts: 'The meal was cooked by the chef.'\n\n**Forming the Passive Voice**\nThe basic structure involves a form of the verb 'to be' + past participle:\n- Present simple: am/are/is + past participle\n- Past simple: was/were + past participle\n- Future simple: will be + past participle\n- Present perfect: has been/have been + past participle\n- Past perfect: had been + past participle\n\n**Examples:**\n- Active: The team will complete the project.\n- Passive: The project will be completed by the team.\n\n**Using Passive Voice Effectively:**\n- To emphasize the action or its recipient.\n- When the doer is unknown or irrelevant.\n- In formal and scientific writing.\n\n**Important Tips:**\n- Avoid overusing passive voice; balance with active voice for clarity.\n- Ensure the correct tense and form of 'to be' are used.\n- Always include the agent ('by' + doer) when necessary for clarity.\n\nRemember, mastering passive voice empowers you to craft sophisticated and versatile sentences that fit a variety of contexts in American English.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Identify the passive voice sentence:",
+      "answer": "The windows were cleaned by the janitor.",
+      "choices": [
+        "The janitor cleaned the windows.",
+        "The windows were cleaned by the janitor.",
+        "The janitor is cleaning the windows.",
+        "The janitor had cleaned the windows."
+      ]
+    },
+    {
+      "type": "Transformative",
+      "question": "Rewrite the active sentence in passive voice: 'The teacher grades the exams.'",
+      "answer": "The exams are graded by the teacher."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence in the correct passive form: 'The cake ____ (bake) by Sarah yesterday.'",
+      "answer": "was baked"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'The report was finish by John yesterday.'",
+      "answer": "The report was finished by John yesterday."
+    }
+  ],
+  "culturalNotes": "In American culture, the passive voice is often employed in journalism, scientific reports, and formal communications to maintain objectivity and focus on facts rather than the doer. Understanding when and how to use passive voice enhances professionalism and clarity in your writing, reflecting the American emphasis on precise and effective communication.",
+  "createdAt": "2025-12-24T04:31:59.896Z"
+}

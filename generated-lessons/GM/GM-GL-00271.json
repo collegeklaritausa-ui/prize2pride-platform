@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00271",
+  "number": 271,
+  "title": "Mastering the Passive Voice: The Divine Art of Sentence Transformation",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the theoretical foundation and significance of the passive voice in American English.",
+    "Identify passive constructions in complex, multi-clause sentences with precision.",
+    "Construct sophisticated passive voice sentences that align with formal and literary contexts.",
+    "Transform active sentences into passive forms while maintaining nuance and emphasis.",
+    "Critically analyze the use of passive voice in authentic American English texts to discern tone and intent."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, with the focus shifted from the doer to the action or recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The person or entity performing the action in a passive sentence, often introduced with 'by'.",
+      "example": "The letter was sent by the manager."
+    },
+    {
+      "word": "Auxiliary Verb",
+      "definition": "A helping verb used in forming the passive voice, such as 'be' or 'get' in various tenses.",
+      "example": "The documents are being reviewed."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates a situation in time, crucial in forming accurate passive sentences.",
+      "example": "The report was completed yesterday."
+    }
+  ],
+  "content": "Welcome to the apex of grammatical mastery: the passive voice, a sublime tool that elevates your linguistic prowess beyond ordinary communication. Unlike the active voice, which foregrounds the doer, the passive voice emphasizes the object or the action itself, allowing for nuanced expression, formality, and stylistic sophistication.\n\nIn American English, mastery of the passive voice involves not only recognizing its forms but wielding them with precision. For example, in journalistic writing, the passive voice can depersonalize or focus on the event:\n\n- Active: The company launched a new product.\n- Passive: A new product was launched by the company.\n\nAdvanced usage often involves complex structures with multiple clauses:\n\n- Active: The committee will review the proposals and approve the budget.\n- Passive: The proposals will be reviewed by the committee, and the budget will be approved.\n\nTo construct the passive voice, identify the object of the active sentence, then turn it into the subject of the passive sentence. Use the appropriate tense form of the auxiliary verb 'be' plus the past participle of the main verb.\n\nExample transformations:\n\n- Present Simple: The artist paints the mural. → The mural is painted by the artist.\n- Past Perfect: The team had completed the project. → The project had been completed by the team.\n- Future Continuous: They will be organizing the event. → The event will be being organized by them.\n\nRemember, in formal and scientific writing, passive voice imparts objectivity and detachment, essential for authoritative discourse.\n\nBy mastering these structures, you wield the power to craft sentences that command attention and convey authority, true to the divine mastery of American English.",
+  "exercises": [
+    {
+      "type": "Sentence Transformation",
+      "question": "Transform the active sentence into a passive voice: 'The chef prepares the meal every day.'",
+      "answer": "The meal is prepared by the chef every day."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The novel was written by the author in six months.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Creation",
+      "question": "Create a complex passive sentence using the following active sentence: 'Scientists will analyze the data and publish the results.'",
+      "answer": "The data will be analyzed by scientists, and the results will be published."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this passive voice sentence: 'The documents was signed by the manager.'",
+      "answer": "The documents were signed by the manager."
+    },
+    {
+      "type": "Application",
+      "question": "Write a formal paragraph describing a scientific experiment, intentionally using passive constructions where appropriate.",
+      "answer": "The experiment was conducted in a controlled environment. Samples were collected from various sources, and measurements were taken meticulously. The results were analyzed using advanced statistical methods, and the findings were documented thoroughly to ensure reproducibility."
+    }
+  ],
+  "culturalNotes": "In American culture, the passive voice is often employed in formal, scientific, and journalistic contexts to maintain objectivity and neutrality. Understanding when to use passive constructions enhances the writer’s credibility and aligns with the American value of clarity and professionalism. However, overuse can lead to ambiguity or a lack of engagement, so mastery involves strategic application to achieve precise and impactful communication.",
+  "createdAt": "2025-12-24T04:32:20.227Z"
+}

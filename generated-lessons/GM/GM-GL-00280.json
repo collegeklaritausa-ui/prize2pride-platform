@@ -1,0 +1,64 @@
+{
+  "id": "GM-GL-00280",
+  "number": 280,
+  "title": "Mastering the Passive Voice: The Ultimate American English Domination",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Define and explain the passive voice in American English with precision.",
+    "Identify passive voice constructions in complex sentences and distinguish them from active voice.",
+    "Transform active sentences into passive voice and vice versa while maintaining grammatical correctness.",
+    "Analyze subtle nuances and contextual appropriateness of passive voice in formal and informal settings.",
+    "Craft sophisticated sentences using the passive voice to elevate their linguistic mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an action becomes the subject of the sentence, emphasizing the action over the actor.",
+      "example": "The novel was written by the author."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, typically introduced by 'by'.",
+      "example": "The cake was baked by Mary."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "A verb form used with 'be' in passive constructions to indicate completed actions.",
+      "example": "The movie has been watched by millions."
+    }
+  ],
+  "content": "Welcome, future Gods of American English! Today, we delve into the depths of the passive voice—an indispensable tool for elevating your linguistic prowess. The passive voice shifts focus from the doer to the receiver of the action, allowing for nuanced expression and stylistic variation. In American English, mastering this structure enhances your ability to write formally, create suspense, or omit unwanted actors in a sentence.\n\n**Understanding the Structure:**\n- Active: Subject + verb + object\n- Passive: Object + be + past participle + (by + agent)\n\n**Example:**\n- Active: The chef cooked the meal.\n- Passive: The meal was cooked by the chef.\n\n**Usage Tips:**\n- Use passive voice to emphasize the action or the recipient.\n- Reserve passive constructions for formal writing, scientific reports, or when the actor is unknown or irrelevant.\n- Avoid overusing passive voice, as it can lead to vague or wordy sentences.\n\n**Transforming Active to Passive:**\n- Identify the object of the active sentence.\n- Make that object the subject of the passive sentence.\n- Insert the appropriate form of 'be' + past participle.\n- Include the original subject after 'by', if necessary.\n\n**Complex Sentences:**\nPassive voice can be embedded within complex sentences to add sophistication. Example:\n- Active: The committee will approve the new policy tomorrow.\n- Passive: The new policy will be approved by the committee tomorrow.\n\nEmbrace the passive voice as a powerful instrument, and soon you'll command American English with godlike mastery!\n",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Rewrite the following active sentence in passive voice: 'The students completed the project.'",
+      "answer": "The project was completed by the students."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The novel was praised by critics.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Creation",
+      "question": "Create a complex sentence using passive voice to describe a scientific process.",
+      "answer": "The experiment was conducted by the scientists under strict supervision to ensure accuracy."
+    },
+    {
+      "type": "Analysis",
+      "question": "Explain why the passive voice might be preferred in a formal scientific report.",
+      "answer": "The passive voice emphasizes the process and results rather than the actor, making the tone more objective and impersonal, which is preferred in scientific writing."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this passive sentence: 'The cake was baked by Mary yesterday.'",
+      "answer": "The sentence is correct; no correction needed."
+    }
+  ],
+  "culturalNotes": "In American culture, the passive voice is frequently employed in scientific, legal, and formal contexts, reflecting a value for objectivity and professionalism. Understanding when and how to use passive constructions allows you to adapt to various professional and social registers, ensuring your language commands respect and clarity in diverse settings.",
+  "createdAt": "2025-12-24T04:32:59.452Z"
+}

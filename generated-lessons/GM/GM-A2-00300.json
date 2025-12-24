@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00300",
+  "number": 300,
+  "title": "Mastering Reported Speech: Speak Like a Native!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of reported speech in American English.",
+    "Identify when to use reported speech in conversation.",
+    "Convert direct speech into reported speech correctly.",
+    "Practice changing verb tenses and pronouns in reported speech.",
+    "Build confidence in using reported speech in everyday situations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of telling what someone else said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense",
+      "definition": "The form of a verb that shows the time of an action.",
+      "example": "He is running. (present tense)"
+    },
+    {
+      "word": "Pronoun",
+      "definition": "A word that replaces a noun in a sentence.",
+      "example": "John → He, Sarah → She"
+    }
+  ],
+  "content": "In American English, reported speech is used to share what someone else said. Instead of quoting the exact words, you tell the message in your own words. For example, if John says, 'I am hungry,' you can report it as, 'John said he was hungry.' Notice the changes:\n\n- Shifting the tense: 'am' becomes 'was' because it's in the past.\n- Changing pronouns: 'I' becomes 'he'.\n\n**Steps to convert direct speech into reported speech:**\n1. Identify the tense of the original sentence.\n2. Shift the tense back one step (present to past, past to past perfect, etc.).\n3. Change pronouns to match the new subject.\n4. Remove quotation marks.\n\n**Examples:**\n- Direct: She said, 'I will go to the store.'\n- Reported: She said she would go to the store.\n\n- Direct: They said, 'We are playing soccer.'\n- Reported: They said they were playing soccer.\n\n**Note:** Some words like 'today,' 'tomorrow,' and 'here' may change when converting to reported speech:\n- 'Today' → 'that day'\n- 'Tomorrow' → 'the next day' or 'the following day'\n- 'Here' → 'there'\n\nPractice makes perfect! Remember, the goal is to convey what was said, not to quote directly.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Convert this direct speech into reported speech: He said, 'I am tired.'",
+      "answer": "He said he was tired."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She said she ______ (visit) her grandma yesterday.",
+      "answer": "had visited"
+    },
+    {
+      "type": "true/false",
+      "question": "Reported speech always requires changing the pronouns and verb tenses. (True/False)",
+      "answer": "True"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following in reported speech: \"I will call you tomorrow,\" he said.",
+      "answer": "He said he would call me the next day."
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is frequently used in storytelling, news reporting, and casual conversations to share information politely and indirectly. Americans value clarity and context, so adjusting tense and pronouns helps ensure the message is understood accurately across different situations.",
+  "createdAt": "2025-12-24T04:34:07.755Z"
+}

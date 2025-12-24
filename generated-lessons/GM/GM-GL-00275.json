@@ -1,0 +1,74 @@
+{
+  "id": "GM-GL-00275",
+  "number": 275,
+  "title": "Dominating the Passive Voice: The Ultimate Mastery",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Define and distinguish the passive voice from the active voice in American English.",
+    "Identify passive constructions in complex sentences with multiple clauses.",
+    "Transform active sentences into passive voice with correct tense and structure.",
+    "Construct sophisticated passive sentences to enhance clarity and emphasis.",
+    "Apply advanced passive voice structures in academic, professional, and creative contexts to achieve mastery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or recipient.",
+      "example": "The report was completed by the team."
+    },
+    {
+      "word": "Auxiliary Verb",
+      "definition": "A helping verb used with the main verb to form passive voice, such as 'be' in various tenses.",
+      "example": "The project **is being** reviewed by the manager."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "The third form of a verb, often used in passive constructions.",
+      "example": "The window **was broken** by the storm."
+    },
+    {
+      "word": "Tense Consistency",
+      "definition": "Maintaining the same tense throughout a sentence or paragraph, especially important when transforming active to passive voice.",
+      "example": "She **had written** the report before the meeting."
+    },
+    {
+      "word": "Causative Passive",
+      "definition": "A complex passive structure where the subject causes an action to be performed by someone else.",
+      "example": "She **had** her car **repaired** by the mechanic."
+    }
+  ],
+  "content": "Welcome to the apex of grammatical mastery—the Passive Voice at God-Level. While most learners stumble over passive constructions, you will ascend to a new echelon of linguistic power. The passive voice shifts the focus from the doer to the action or recipient, an invaluable tool for emphasizing certain elements in communication.\n\n**Fundamental Structure:**\n- Subject + form of 'be' + past participle + (optional agent)\n\n**Tense Variations:**\n- Present: The report **is prepared** by the team.\n- Past: The report **was prepared** by the team.\n- Future: The report **will be prepared** by the team.\n- Perfect: The report **has been prepared**.\n- Continuous: The report **is being prepared**.\n\n**Transforming Active to Passive:**\nActive: The committee **approved** the new policy.\nPassive: The new policy **was approved** by the committee.\n\n**Complex and Advanced Passive:**\n- Causative passive: She **had** her car **repaired**.\n- Passive with modals: The documents **must be signed** by tomorrow.\n- Passive with embedded clauses: It is believed that the results **were manipulated**.\n\n**Key Points for Mastery:**\n- Always match tense and voice carefully.\n- Use passive voice to shift emphasis or when the agent is unknown or irrelevant.\n- Master complex passive structures for formal and academic writing.\n\nBy mastering these structures, you'll wield the passive voice with precision, nuance, and stylistic elegance—true power players in American English.\n",
+  "exercises": [
+    {
+      "type": "Transformational Exercise",
+      "question": "Convert the following active sentence into a passive sentence in the present perfect tense: 'The chef has prepared the meal.'",
+      "answer": "The meal has been prepared by the chef."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is in active or passive voice: 'The results were analyzed by the scientists.'",
+      "answer": "Passive voice."
+    },
+    {
+      "type": "Construction",
+      "question": "Create a passive voice sentence in the future tense with the verb 'to complete' and the subject 'the team.'",
+      "answer": "The project **will be completed** by the team."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this passive sentence: 'The book was read by many students yesterday.'",
+      "answer": "The sentence is correct; no correction needed."
+    },
+    {
+      "type": "Advanced Application",
+      "question": "Write a causative passive sentence involving a manager, a report, and a secretary.",
+      "answer": "The manager **had** the secretary **prepare** the report."
+    }
+  ],
+  "culturalNotes": "In American professional and academic environments, the passive voice is often employed to maintain objectivity and formality. It enables speakers and writers to focus on actions and results rather than actors, fostering a tone of professionalism and neutrality. Mastery of passive constructions aligns with effective communication in business, journalism, and academia, where authority and clarity are paramount.",
+  "createdAt": "2025-12-24T04:32:38.453Z"
+}

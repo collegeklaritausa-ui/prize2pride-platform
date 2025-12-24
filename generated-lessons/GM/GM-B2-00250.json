@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00250",
+  "number": 250,
+  "title": "Mastering the Passive Voice: Unlocking American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Define and identify the passive voice in American English sentences.",
+    "Differentiate between active and passive voice structures.",
+    "Convert sentences from active to passive voice and vice versa.",
+    "Understand the appropriate contexts for using passive voice in American English.",
+    "Enhance writing clarity and style by mastering passive constructions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject in a passive sentence, often emphasizing the action or recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Tense",
+      "definition": "A grammatical category that locates the time of an action (past, present, future).",
+      "example": "The project was completed yesterday."
+    }
+  ],
+  "content": "In American English, the passive voice is a vital grammatical tool that shifts focus from the doer to the receiver of an action. Typically, it forms with the appropriate form of 'to be' plus the past participle of the main verb. For example, active: 'The chef cooked the meal.' Passive: 'The meal was cooked by the chef.' The passive voice is especially useful when the doer is unknown, irrelevant, or we want to emphasize the action or recipient. It’s common in formal writing, news reports, and scientific contexts.\n\nTo identify passive voice, look for a form of 'to be' (am, is, are, was, were, be, been, being) followed by a past participle. To convert active to passive:\n1. Move the object of the active sentence to the subject position.\n2. Use the correct form of 'to be' matching the original verb's tense.\n3. Add 'by' + the original subject (if necessary).\n\nExample:\nActive: The team will complete the project.\nPassive: The project will be completed by the team.\n\nRemember, overusing passive voice can make sentences less direct and more complex. Use it judiciously to enhance clarity and style.\n\nIn American English, passive constructions are common in official documents, scientific writing, and news media, where objectivity and focus on results are valued.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Identify the passive voice sentence:",
+      "answer": "The window was broken by the children."
+    },
+    {
+      "type": "Transformation",
+      "question": "Convert the active sentence to passive: 'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The emails ____ (send) yesterday by the receptionist.",
+      "answer": "were sent"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive form: 'The police ____ (investigate) the case.'",
+      "answer": "The case is investigated by the police."
+    },
+    {
+      "type": "Writing",
+      "question": "Write a sentence in passive voice about a recent event in your life.",
+      "answer": "Answers will vary; ensure the sentence uses correct passive structure."
+    }
+  ],
+  "culturalNotes": "In American culture, clarity and directness are valued, especially in professional and casual communication. Mastery of passive voice allows speakers and writers to emphasize the action or recipient, which is often preferred in formal reporting, journalism, and academic writing. Understanding when and how to use the passive is crucial for effective communication in diverse American contexts, from business to media. Recognizing passive constructions also helps in interpreting news reports and scientific articles, where objectivity and focus on results are prioritized.",
+  "createdAt": "2025-12-24T04:30:58.685Z"
+}

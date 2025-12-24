@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00221",
+  "number": 221,
+  "title": "Passive Voice Power: Unlocking the Secret of American English!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of the passive voice in American English.",
+    "Identify sentences that are in the passive voice.",
+    "Transform active sentences into passive sentences.",
+    "Recognize common uses and situations for the passive voice.",
+    "Build confidence in using passive voice correctly in everyday communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence where the focus is on the action or the receiver of the action, not who is performing it.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person or thing that the sentence is about.",
+      "example": "The book was read by the student."
+    }
+  ],
+  "content": "Welcome to the world of the passive voice! In American English, the passive voice is used to emphasize the action or the object of the action rather than who is doing it. For example, instead of saying 'The chef cooked the meal,' you can say 'The meal was cooked by the chef.' This form is common in news reports, instructions, and formal writing.\n\nThe basic structure of a passive sentence is:\n\n[Object] + [to be verb] + [past participle] + [by + doer (optional)]\n\nExamples:\n- Active: The teacher explains the lesson.\n- Passive: The lesson is explained by the teacher.\n\nNotice that in the passive sentence, the focus shifts to 'the lesson,' the object in the active sentence.\n\nLet's look at how to transform active sentences into passive:\n1. Identify the object.\n2. Make the object the subject of the new sentence.\n3. Use the correct form of 'to be' (am, is, are, was, were) depending on tense.\n4. Add the past participle of the main verb.\n5. Optionally, include the doer with 'by.'\n\nExample:\nActive: The workers build the house.\nPassive: The house is built by the workers.\n\nRemember, in the present tense, use 'is,' 'are,' or 'am'; in the past tense, use 'was' or 'were.'\n\nPractice makes perfect! Soon, you'll be using the passive voice like a true American English GOD!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct passive form of the sentence: 'The children play games.'",
+      "answer": "The games are played by the children."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Transform this active sentence into passive: 'She writes a letter.'",
+      "answer": "A letter is written by her."
+    },
+    {
+      "type": "true or false",
+      "question": "Passive voice is often used to emphasize the doer of the action.",
+      "answer": "False"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the sentence in passive voice: 'The dog chased the cat.'",
+      "answer": "The cat was chased by the dog."
+    }
+  ],
+  "culturalNotes": "In American English, passive voice is frequently used in formal contexts such as news reports, scientific writing, and official instructions. While active voice is often preferred for clarity and directness in everyday conversation, mastering the passive voice allows you to understand and imitate a wide range of American English styles. In the U.S., understanding passive constructions can help you better interpret news, literature, and professional communication, making you a true GOD of American English!",
+  "createdAt": "2025-12-24T04:29:18.525Z"
+}

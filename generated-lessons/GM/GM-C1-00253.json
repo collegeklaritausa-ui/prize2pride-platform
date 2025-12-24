@@ -1,0 +1,64 @@
+{
+  "id": "GM-C1-00253",
+  "number": 253,
+  "title": "Mastering the Art of Passive Voice: The Advanced American English Approach",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Explain the nuanced differences between passive and active voice in complex sentences",
+    "Identify passive constructions in diverse contexts and genres",
+    "Transform active sentences into passive and vice versa with precision",
+    "Utilize passive voice to emphasize specific sentence elements effectively",
+    "Apply advanced passive structures in formal, academic, and professional writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by 'by'.",
+      "example": "The novel was written by the author."
+    },
+    {
+      "word": "Impersonal Construction",
+      "definition": "A passive sentence where the agent is omitted or implied, often used for generalizations or formal tone.",
+      "example": "It is believed that the project will succeed."
+    },
+    {
+      "word": "Periphrastic Passive",
+      "definition": "A passive construction using a form of 'to be' plus a past participle, often with modal auxiliary verbs.",
+      "example": "The results can be analyzed using this method."
+    }
+  ],
+  "content": "In advanced American English, the passive voice serves as a sophisticated tool to shift focus from the doer to the action or the recipient of the action. Unlike basic passive constructions, advanced passive structures often involve complex tenses, modal verbs, and impersonal forms that enhance clarity and emphasis in formal writing.\n\n**Key Concepts:**\n- **Complex Passive Constructions:** Employing perfect tenses (e.g., 'has been', 'had been') and continuous forms (e.g., 'is being') to describe ongoing or completed actions.\n- **Passive with Modal Verbs:** Using modal auxiliaries (e.g., 'can', 'should', 'must') with passive forms to convey possibility, obligation, or necessity.\n- **Impersonal Passives:** Omitting the agent to create a neutral or objective tone, common in legal, scientific, or bureaucratic language.\n\n**Examples:**\n- Active: \"Researchers are analyzing the data.\"\n- Passive: \"The data are being analyzed by researchers.\"\n\n- Active: \"The committee will approve the policy.\"\n- Passive: \"The policy will be approved by the committee.\"\n\n- Active: \"They had completed the project before the deadline.\"\n- Passive: \"The project had been completed before the deadline.\"\n\n**Transformative Practice:**\n- Convert complex active sentences into passive forms, paying attention to tense and modality.\n- Use impersonal constructions to express general truths or scientific facts.\n\n**Advanced Tips:**\n- Use passive voice to vary sentence structure and avoid repetition of the subject.\n- Recognize when passive voice enhances formality and objectivity.\n- Be cautious of overusing passive constructions in informal contexts, where active voice may be clearer.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following active sentence into a passive voice with a perfect tense: 'The engineers have completed the project.'",
+      "answer": "The project has been completed by the engineers."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The results can be analyzed using this method.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Creation",
+      "question": "Create an impersonal passive sentence suitable for a scientific context using the verb 'to publish'.",
+      "answer": "It is believed that the article was published last month."
+    },
+    {
+      "type": "Correction",
+      "question": "Rewrite the following sentence to improve its formality using passive voice: 'The company will launch the new product tomorrow.'",
+      "answer": "The new product will be launched by the company tomorrow."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly uses the passive voice?\nA) The team has finished the report.\nB) The report has been finished by the team.\nC) The team finished the report.\nD) The report was finishing by the team.",
+      "answer": "B) The report has been finished by the team."
+    }
+  ],
+  "culturalNotes": "In American professional and academic environments, the passive voice is often favored in formal writing to emphasize objectivity, neutrality, and professionalism. Scientific publications, legal documents, and business reports frequently employ advanced passive structures to maintain an impersonal tone. Understanding when and how to use the passive voice appropriately reflects mastery of American English and enhances clarity and credibility in communication.",
+  "createdAt": "2025-12-24T04:31:10.475Z"
+}

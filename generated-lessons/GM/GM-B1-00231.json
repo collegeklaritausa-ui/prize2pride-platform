@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00231",
+  "number": 231,
+  "title": "Mastering the Passive Voice: Unlock Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Define the passive voice and understand its structure in American English.",
+    "Identify sentences written in the passive voice versus the active voice.",
+    "Transform active voice sentences into passive voice and vice versa.",
+    "Recognize appropriate contexts for using the passive voice in American English.",
+    "Enhance clarity and variety in writing by mastering the passive voice."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The report was completed by the team."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of a verb that indicates the time of the action or state.",
+      "example": "The project is being completed (present continuous passive)."
+    }
+  ],
+  "content": "Welcome to the realm of American English mastery! Today, we delve into the passive voice—a powerful grammatical tool that shifts focus from the doer to the action or recipient. In active voice, the subject performs the action: 'The chef cooked the meal.' In passive voice, the focus shifts to the action or the object receiving it: 'The meal was cooked by the chef.' \n\n**Structure of Passive Voice:**\n- For most tenses, the passive voice follows this pattern:\n  **be** + past participle of the main verb.\n- Example in present simple: 'The documents are prepared by the staff.'\n- Example in past perfect: 'The problem had been solved by the technician.'\n\n**When to Use the Passive Voice:**\n- When the doer is unknown or unimportant:\n  - 'The window was broken during the storm.'\n- To emphasize the action or recipient:\n  - 'The novel was written in 1920.'\n- In formal or scientific writing:\n  - 'The experiment was conducted over three days.'\n\n**Transforming Active to Passive:**\n- Identify the object, make it the subject.\n- Use the correct form of 'be' matching the tense.\n- Add the past participle.\n- Optionally, include the original subject preceded by 'by'.\n\n**Example Transformations:**\n- Active: 'The students completed the project.'\n- Passive: 'The project was completed by the students.'\n\nBy mastering the passive voice, you'll add versatility and precision to your American English, making your communication more impactful and sophisticated.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive voice form of the sentence: 'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the active sentence into passive voice: 'The chef is cooking the dinner.'",
+      "answer": "The dinner is being cooked by the chef."
+    },
+    {
+      "type": "Identification",
+      "question": "Is the following sentence in active or passive voice? 'The report was submitted by the team.'",
+      "answer": "Passive voice."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence in passive voice: 'The emails __________ (send) by the assistant yesterday.'",
+      "answer": "were sent"
+    }
+  ],
+  "culturalNotes": "In American professional and academic environments, the passive voice is often used in formal writing, scientific reports, and official documents to emphasize objectivity and neutrality. Understanding when and how to use the passive voice reflects a command of tone and style appreciated in American culture. However, overuse can lead to vague or impersonal communication—balance is key to mastering this grammatical form.",
+  "createdAt": "2025-12-24T04:29:49.607Z"
+}

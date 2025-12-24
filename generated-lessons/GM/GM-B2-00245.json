@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00245",
+  "number": 245,
+  "title": "Mastering the Passive Voice: The Power of the Hidden Actor",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Define and identify the passive voice in American English sentences.",
+    "Differentiate between active and passive voice in various contexts.",
+    "Transform active sentences into passive constructions and vice versa.",
+    "Understand the appropriate usage of passive voice for emphasis and tone.",
+    "Apply passive voice correctly in both formal and informal American English communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the subject receives the action rather than performs it.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "A verb form used with 'be' in passive constructions; often ending in -ed, -en, or irregular forms.",
+      "example": "The letter was mailed yesterday."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A grammatical form where the subject performs the action.",
+      "example": "The chef cooked the meal."
+    },
+    {
+      "word": "Emphasis",
+      "definition": "Highlighting a particular part of a sentence to draw attention or convey importance.",
+      "example": "Passive voice can emphasize the action or the receiver."
+    }
+  ],
+  "content": "Welcome to the realm of the passive voice, a vital tool in American English that allows speakers and writers to shift focus from the doer to the recipient of an action. Mastering the passive voice enhances your ability to craft nuanced, formal, and sometimes more diplomatic sentences.\n\n**Understanding Passive Voice:**\nIn active voice, the subject performs the action: 'The teacher grades the papers.' In passive voice, the object becomes the subject: 'The papers are graded by the teacher.'\n\n**Forming the Passive Voice:**\nThe passive is formed with the verb 'to be' + past participle:\n- Present simple: am / is / are + past participle (e.g., The house is cleaned daily.)\n- Past simple: was / were + past participle (e.g., The report was completed yesterday.)\n- Future simple: will be + past participle (e.g., The documents will be signed tomorrow.)\n- Present perfect: has been / have been + past participle (e.g., The dishes have been washed.)\n\n**Using the Agent:**\nThe agent (who performs the action) can be included with 'by':\n- The song was sung by the artist.\n\n**When to Use Passive Voice:**\n- When the doer is unknown or unimportant: 'My wallet was stolen.'\n- To emphasize the action or recipient: 'The movie was enjoyed by everyone.'\n- In formal writing, reports, or scientific contexts.\n\n**Transforming Sentences:**\n- Active: The chef cooked a delicious meal.\n- Passive: A delicious meal was cooked by the chef.\n\nPractice transforming sentences and identifying passive constructions to solidify your mastery.\n\nRemember, while the passive voice is powerful, overusing it can make sentences less direct and more convoluted. Use it judiciously to enhance clarity and emphasis in your communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the sentence written in passive voice:",
+      "answer": "The homework was completed by the students."
+    },
+    {
+      "type": "Transformation",
+      "question": "Rewrite the active sentence in passive voice: 'The engineer designs the bridge.'",
+      "answer": "The bridge is designed by the engineer."
+    },
+    {
+      "type": "Identification",
+      "question": "Is the following sentence active or passive? 'The emails are sent by the manager every morning.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The project ____ (finish) by the team last week.",
+      "answer": "was finished"
+    },
+    {
+      "type": "Create",
+      "question": "Write a sentence in passive voice about a recent event in your life.",
+      "answer": "Sample answer: The report was submitted by me yesterday."
+    }
+  ],
+  "culturalNotes": "In American workplaces and formal communication, the passive voice is often employed to maintain politeness, neutrality, or focus on the action rather than the actor. For instance, in corporate reports and scientific papers, passive constructions are common to emphasize the process or results rather than the individual responsible. Understanding when and how to use the passive voice appropriately reflects professionalism and cultural awareness in American English contexts.",
+  "createdAt": "2025-12-24T04:30:39.883Z"
+}

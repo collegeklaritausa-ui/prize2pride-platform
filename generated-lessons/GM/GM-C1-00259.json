@@ -1,0 +1,59 @@
+{
+  "id": "GM-C1-00259",
+  "number": 259,
+  "title": "Mastering the Art of Passive Voice: Unlocking Advanced American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the nuanced structure of passive voice in complex sentences",
+    "Identify passive constructions in advanced texts and speech",
+    "Transform active sentences into passive voice with precision",
+    "Use passive voice appropriately to emphasize the action or recipient",
+    "Apply passive voice effectively in formal and academic contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by 'by'",
+      "example": "The letter was mailed by the assistant."
+    },
+    {
+      "word": "Causative Construction",
+      "definition": "A grammatical structure where one causes another to do something, often rendered in passive voice to emphasize the action's recipient or the causation itself",
+      "example": "She had her car repaired by the mechanic."
+    },
+    {
+      "word": "Impersonal Passive",
+      "definition": "A passive sentence where the agent is omitted, often used in formal or scientific writing",
+      "example": "It is believed that the virus spreads quickly."
+    }
+  ],
+  "content": "Welcome to the realm of advanced passive voice mastery. While passive constructions are common in everyday speech, their sophisticated use elevates your command of American English, especially in academic, professional, and literary contexts.\n\n**Understanding Complex Passive Structures:**\nPassive voice is formed using the verb 'to be' in various tenses + the past participle of the main verb. At an advanced level, it often involves complex tenses, causative structures, and the omission of agents for stylistic purposes.\n\n**Examples:**\n- Simple Passive: \"The novel was written by the author.\"\n- Perfect Passive: \"The project has been completed by the team.\"\n- Future Passive: \"The results will be announced by the committee.\"\n- Causative Passive: \"She had her house renovated by a renowned contractor.\"\n- Impersonal Passive: \"It is estimated that the economy will grow significantly.\"\n\n**Transforming Sentences:**\nTransform active sentences into passive by:\n1. Moving the object of the active sentence to the subject position.\n2. Using the appropriate tense of 'to be'.\n3. Conjugating the main verb into the past participle.\n\nExample:\n- Active: \"The committee will review the applications.\"\n- Passive: \"The applications will be reviewed by the committee.\"\n\n**Stylistic and Functional Use:**\nChoose passive voice when the doer is unknown, unimportant, or when you want to emphasize the action or recipient. In scientific writing, passive voice lends objectivity, e.g., \"The experiment was conducted under controlled conditions.\"\n\nMastering advanced passive voice enhances clarity, formality, and stylistic flexibility, turning you into a true GOD of American English.\n",
+  "exercises": [
+    {
+      "type": "Conversion",
+      "question": "Transform the active sentence into a passive one: 'The engineer designed the new system.'",
+      "answer": "The new system was designed by the engineer."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the passive voice sentence and specify the tense: 'The results have been analyzed by the team.'",
+      "answer": "Passive voice; Present Perfect tense."
+    },
+    {
+      "type": "Creation",
+      "question": "Create an advanced passive sentence using causative construction about a professional service.",
+      "answer": "She had her manuscript edited by a renowned publisher."
+    },
+    {
+      "type": "Correction",
+      "question": "Correct the following passive sentence: 'The cake is eaten by the children yesterday.'",
+      "answer": "The cake was eaten by the children yesterday."
+    }
+  ],
+  "culturalNotes": "In American academic and professional settings, passive voice is often used to convey neutrality, objectivity, and professionalism. For example, scientific papers, legal documents, and formal reports favor passive constructions to focus on actions and findings rather than the actors. Understanding when and how to employ passive voice reflects cultural appreciation for clarity, formality, and respect for the process over the person, a hallmark of American communication style at an advanced level.",
+  "createdAt": "2025-12-24T04:31:33.975Z"
+}

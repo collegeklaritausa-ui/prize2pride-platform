@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00244",
+  "number": 244,
+  "title": "Mastering Passive Voice: Command the American English Stage",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Define and identify passive voice in sentences",
+    "Differentiate between active and passive voice",
+    "Transform sentences from active to passive voice and vice versa",
+    "Analyze the usage of passive voice in various contexts",
+    "Apply passive voice correctly in both formal and informal American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or the recipient rather than the doer.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by.'",
+      "example": "The novel was written by the author."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of a verb that indicates the time of the action or state, important for constructing correct passive sentences.",
+      "example": "The car is being repaired."
+    }
+  ],
+  "content": "The passive voice is a powerful tool in American English that shifts focus from the subject performing an action to the recipient of that action. It is especially useful when the doer is unknown, irrelevant, or implied.\n\n**Formation of Passive Voice:**\n- Use the appropriate form of the verb 'to be' based on the tense.\n- Add the past participle of the main verb.\n\n**Examples:**\n- Active: The company will launch the new product.\n- Passive: The new product will be launched by the company.\n\n**Transforming sentences:**\n- Active: The chef cooked a delicious meal.\n- Passive: A delicious meal was cooked by the chef.\n\n**Passive voice in different tenses:**\n- Present: The emails are sent daily.\n- Past: The report was finished yesterday.\n- Future: The package will be delivered tomorrow.\n\n**Using passive voice effectively:**\n- Use when the doer is unknown or unimportant.\n- Avoid overusing passive voice to keep your writing clear and direct.\n- Incorporate passive voice in formal writing, such as reports and official documents.\n\n**Active vs. Passive:**\n- Active: The students completed the assignment.\n- Passive: The assignment was completed by the students.\n\nUnderstanding when and how to use passive voice will elevate your command of American English, making your speech and writing more nuanced and professional.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Identify whether the following sentence is in active or passive voice:\n\n'The artist painted a beautiful mural.'",
+      "answer": "Active"
+    },
+    {
+      "type": "transformation",
+      "question": "Rewrite the following active sentence in passive voice:\n\n'The team will finish the project tomorrow.'",
+      "answer": "The project will be finished by the team tomorrow."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct form of 'to be' and the past participle to complete the passive sentence:\n\n'The cookies ____ baked by grandma.'",
+      "answer": "are; were"
+    },
+    {
+      "type": "short answer",
+      "question": "Explain why passive voice might be preferred in a formal report.",
+      "answer": "Passive voice is preferred in formal reports because it emphasizes the action or results rather than the doer, creating a more objective tone and focusing on the information being presented."
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, passive voice is often used to maintain objectivity and formality. For example, scientific reports and official documents frequently utilize passive constructions to focus on procedures and results rather than on individuals. Understanding the appropriate use of passive voice will help students sound more polished and credible in their American English language skills.",
+  "createdAt": "2025-12-24T04:30:35.869Z"
+}

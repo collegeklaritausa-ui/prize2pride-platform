@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00261",
+  "number": 261,
+  "title": "Mastering the Passive Voice: Become a God of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and identify passive voice in sentences.",
+    "Differentiate between active and passive voice with clarity.",
+    "Transform active sentences into passive voice accurately.",
+    "Use passive voice appropriately in various contexts.",
+    "Enhance writing skills to achieve a more formal and polished tone."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the subject receives the action of the verb.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced by 'by'.",
+      "example": "The song was sung by the choir. ('by the choir' is the agent)"
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that indicates the time of the action or state.",
+      "example": "The letter was sent yesterday. ('was sent' is in past tense)"
+    }
+  ],
+  "content": "The passive voice shifts the focus from the doer of an action (the subject in an active sentence) to the recipient of the action (the subject in a passive sentence). It is formed using the appropriate form of the verb 'to be' + the past participle of the main verb. For example, active: 'The chef cooked the meal.' Passive: 'The meal was cooked by the chef.' \n\nActive sentences are often more direct and lively, but passive voice is useful for emphasizing the action or when the doer is unknown or unimportant. Recognizing passive voice involves identifying the 'to be' verb forms (am, is, are, was, were, be, being, been) combined with a past participle.\n\nExamples of transforming active to passive:\n- Active: The teacher explains the lesson.\n- Passive: The lesson is explained by the teacher.\n\nNote that not all sentences should be converted to passive; overuse can make writing dull or unclear. Use passive voice strategically to enhance clarity, objectivity, or formality in your communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Identify the passive voice sentence:",
+      "answer": "The project was completed on time."
+    },
+    {
+      "type": "Transformation",
+      "question": "Rewrite the active sentence in passive voice: 'The students submitted their assignments yesterday.'",
+      "answer": "The assignments were submitted by the students yesterday."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Fill in the blank with the correct form of 'to be' and the past participle: 'The new policies ___ (implement) by the management last week.'",
+      "answer": "were implemented"
+    },
+    {
+      "type": "True or False",
+      "question": "Passive voice is always less effective than active voice. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a short paragraph about your favorite hobby using at least two passive sentences.",
+      "answer": "My favorite hobby is painting. Many beautiful landscapes are created by me during my free time. Supplies are bought from the art store, and inspiration is often drawn from nature."
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is often used in formal writing, legal documents, and scientific reports to maintain objectivity and professionalism. While it is sometimes viewed as less direct, mastering passive voice allows you to adapt your tone to formal contexts, such as business communication, academic papers, and official statements, enhancing your mastery of American English.",
+  "createdAt": "2025-12-24T04:31:41.092Z"
+}

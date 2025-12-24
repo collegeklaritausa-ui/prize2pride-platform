@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00299",
+  "number": 299,
+  "title": "Mastering Reported Speech: Speak Like a Native!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of reported speech in American English.",
+    "Identify how to change direct speech into reported speech.",
+    "Use correct tense changes when transforming sentences.",
+    "Practice converting direct quotes to reported speech in various contexts.",
+    "Gain confidence to use reported speech accurately in conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of telling what someone else said without quoting them directly.",
+      "example": "Direct: She said, 'I am happy.' | Reported: She said that she was happy."
+    },
+    {
+      "word": "Tense",
+      "definition": "The form of a verb that shows the time of an action or condition.",
+      "example": "Today is present tense; yesterday is past tense."
+    },
+    {
+      "word": "Pronouns",
+      "definition": "Words that replace nouns in sentences.",
+      "example": "He, she, it, they."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on reported speech, a fundamental skill for everyday conversations and storytelling.\n\nReported speech is used to tell someone what another person said, without quoting exactly. Instead of repeating the words directly, you 'report' the message.\n\n**How to form reported speech:**\n- Change the tense of the verb to a past tense. \n  Example: \"I am tired,\" she said. → She said she was tired.\n- Adjust pronouns and time expressions.\n  Example: \"I will see you tomorrow,\" he said. → He said he would see me the next day.\n\n**Examples:**\n1. Direct: \"I love pizza,\" Tom said.\n   Reported: Tom said that he loved pizza.\n2. Direct: \"We are going to the park,\" they said.\n   Reported: They said they were going to the park.\n3. Direct: \"I have finished my homework,\" she said.\n   Reported: She said she had finished her homework.\n\n**Key Tips:**\n- Always check the tense of the original sentence.\n- Change pronouns appropriately.\n- Use 'that' after verbs like said, told, explained, etc.\n\nBy mastering reported speech, you will be able to share stories, give explanations, and communicate more confidently in American English!\n\nLet's practice to become true GODS of this skill!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Change the direct speech to reported speech: She said, 'I am tired.'",
+      "answer": "She said that she was tired."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "He said, 'I will help you tomorrow.' → He said he ____ help me the next day.",
+      "answer": "would"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite this sentence in reported speech: 'They are playing soccer,' John said.",
+      "answer": "John said that they were playing soccer."
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is commonly used in storytelling, journalism, and everyday conversations. Americans value clear communication, so mastering this skill helps you share stories and ideas effectively. When reporting speech, Americans often use 'that' to introduce the reported message, and tense changes show the shift in time, reflecting the straightforward and direct communication style typical in American English.",
+  "createdAt": "2025-12-24T04:34:04.809Z"
+}

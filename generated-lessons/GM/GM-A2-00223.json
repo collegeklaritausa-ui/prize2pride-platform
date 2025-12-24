@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00223",
+  "number": 223,
+  "title": "Mastering the Passive Voice: Become a Hero of American English!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what the passive voice is and how it is used in American English.",
+    "Identify sentences written in the passive voice versus active voice.",
+    "Form passive voice sentences correctly in the present tense.",
+    "Recognize common situations where passive voice is appropriate.",
+    "Transform active sentences into passive sentences with confidence."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence structure where the object of an active sentence becomes the subject in the passive sentence.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A sentence structure where the subject performs the action.",
+      "example": "Sarah baked the cake."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of a verb that shows the time of the action.",
+      "example": "The present tense is 'bake,' the past tense is 'baked.'"
+    }
+  ],
+  "content": "Welcome, future gods of American English! Today, we'll explore the passive voice, a useful way to focus on the action or the recipient of an action. In active voice, you say who does something: 'The dog chased the ball.' In passive voice, you focus on what is done or to whom: 'The ball was chased by the dog.' \n\nPassive voice is formed with the correct form of the verb 'to be' plus the past participle of the main verb. For example:\n- Present tense: 'The letter is written by the student.'\n- Past tense: 'The house was built by workers.'\n\nUse the passive voice when the doer is unknown, unimportant, or obvious. For instance:\n- 'The cake was eaten.' (We don't know who ate it.)\n- 'The bills are paid every month.'\n\nLet's look at some examples:\n- Active: 'The teacher explains the lesson.'\n- Passive: 'The lesson is explained by the teacher.'\n\nRemember, mastering passive voice adds flexibility and variety to your sentences, making you a true GOD of American English!\n\nNow, let's practice transforming sentences from active to passive voice and vice versa to cement your knowledge.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence written in passive voice:",
+      "answer": "A) The chef cooked dinner.\nB) Dinner was cooked by the chef.\nC) The children play in the park.\nD) She reads a book."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence in passive voice: 'The song ______ (perform) by the band yesterday.'",
+      "answer": "was performed"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the active sentence in passive voice: 'The students complete the homework.'",
+      "answer": "The homework is completed by the students."
+    },
+    {
+      "type": "true/false",
+      "question": "Passive voice is used to emphasize the doer of the action.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, the passive voice is often used in formal writing, news reports, and when the focus is on the action or event rather than the performer. Understanding when to use active or passive voice can help you sound more natural and professional. Americans value clarity and directness, so mastering both voices allows you to communicate effectively in various contexts, from casual conversations to formal writing.",
+  "createdAt": "2025-12-24T04:29:24.668Z"
+}

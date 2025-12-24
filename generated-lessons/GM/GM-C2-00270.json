@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00270",
+  "number": 270,
+  "title": "Mastering the Passive Voice: Elevate Your American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define the passive voice and distinguish it from the active voice",
+    "Identify passive constructions in American English sentences",
+    "Transform active sentences into passive voice with correct grammar",
+    "Use passive voice appropriately in different contexts",
+    "Develop mastery to enhance clarity and stylistic variety in writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the subject receives the action instead of performing it.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The book was read by John."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "A verb form used in perfect tenses and passive constructions, typically ending in -ed, -en, or irregular forms.",
+      "example": "chosen, eaten, written"
+    }
+  ],
+  "content": "The passive voice is a vital aspect of American English, especially useful for emphasizing the action or the recipient rather than the doer. Constructing the passive involves turning the object of an active sentence into the subject of the passive sentence, often using a form of 'to be' plus the past participle of the main verb.\n\nFor example, the active sentence: 'The chef cooked the meal.' can be transformed into the passive: 'The meal was cooked by the chef.' Here, 'the meal' becomes the subject, and 'was cooked' is the passive verb form.\n\n**Steps to form the passive voice:**\n1. Identify the object of the active sentence.\n2. Make that object the subject of the new sentence.\n3. Use the correct form of the verb 'to be' matching the tense of the original verb.\n4. Add the past participle of the main verb.\n5. Optionally, include the original subject preceded by 'by'.\n\n**Examples by tense:**\n- Present: 'The team completes the project.' → 'The project is completed by the team.'\n- Past: 'The company launched the product.' → 'The product was launched by the company.'\n- Future: 'The manager will review the report.' → 'The report will be reviewed by the manager.'\n\n**When to use passive voice:**\n- When the doer is unknown or unimportant.\n- To emphasize the action or the recipient.\n- In formal or scientific writing.\n\nMastering the passive voice enhances your ability to write more versatile, precise, and stylistically rich American English.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the active sentence to passive voice: 'The students completed the assignment.'",
+      "answer": "The assignment was completed by the students."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The novel was written by the author.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Creation",
+      "question": "Write a passive voice sentence using the verb 'to cook' in the past tense.",
+      "answer": "The dinner was cooked by my mother."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive form: 'The committee (approves/was approved) the new policy.'",
+      "answer": "approves"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The emails are ______ (send) by the secretary every morning.",
+      "answer": "sent"
+    }
+  ],
+  "culturalNotes": "In American professional and academic settings, the passive voice is often used to maintain objectivity and formality, especially in scientific reports, press releases, and official documents. Understanding when and how to use passive constructions allows you to communicate more effectively and appropriately within American cultural norms for clarity and neutrality.",
+  "createdAt": "2025-12-24T04:32:14.646Z"
+}

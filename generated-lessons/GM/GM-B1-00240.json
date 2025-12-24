@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00240",
+  "number": 240,
+  "title": "Mastering the Passive Voice: Unlock the Power of Subtle Expression",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Define and identify the passive voice in American English sentences.",
+    "Differentiate between active and passive voice structures.",
+    "Transform active voice sentences into passive voice correctly.",
+    "Recognize common uses and contexts of passive voice in communication.",
+    "Apply passive voice appropriately to enhance clarity and emphasis in writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject in a passive sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a sentence, usually introduced by the word 'by' in passive constructions.",
+      "example": "The song was sung by the choir."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that indicates the time of the action or state of being.",
+      "example": "The project is being completed (present continuous passive)."
+    }
+  ],
+  "content": "The passive voice is a grammatical structure used to emphasize the action or the recipient of an action rather than the doer. In American English, passive constructions are common in formal writing, news reports, and situations where the actor is unknown or unimportant.\n\n**Forming the Passive Voice:**\n- Use the appropriate form of the verb 'to be' + the past participle of the main verb.\n- The structure varies with tense:\n  - Present Simple: is/are + past participle (e.g., The report is prepared daily.)\n  - Past Simple: was/were + past participle (e.g., The cake was baked by John.)\n  - Present Continuous: is/are + being + past participle (e.g., The emails are being sent now.)\n  - Present Perfect: has/have been + past participle (e.g., The documents have been approved.)\n  - Future: will be + past participle (e.g., The package will be shipped tomorrow.)\n\n**Active to Passive Transformation:**\n- Identify the object, the subject, and the verb.\n- Move the object to the subject position.\n- Change the verb into the correct form of 'to be' + past participle.\n- Include the agent if necessary, introduced by 'by'.\n\n**Examples:**\n- Active: The teacher grades the exams.\n- Passive: The exams are graded by the teacher.\n\n**When to Use Passive Voice:**\n- When the doer is unknown or unimportant.\n- To emphasize the action or the recipient.\n- To create a formal tone.\n\n**Note:** While passive voice is useful, overusing it can make sentences unclear or cumbersome. Use it judiciously to balance clarity and emphasis.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence written in passive voice.",
+      "answer": "The cake was eaten by the children."
+    },
+    {
+      "type": "transformation",
+      "question": "Convert the active sentence to passive voice: 'The chef prepares the meal.'",
+      "answer": "The meal is prepared by the chef."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The letters _____ (send) by the secretary yesterday.",
+      "answer": "were sent"
+    },
+    {
+      "type": "identify",
+      "question": "Is the following sentence active or passive? 'The car was repaired by the mechanic.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "creative application",
+      "question": "Write a sentence in passive voice about a recent event at your school.",
+      "answer": "Your answer should include a subject, a form of 'to be,' and a past participle, e.g., 'The new library was opened by the principal.'"
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, passive voice is often used in reports, official statements, and news articles to maintain objectivity and formality. While active voice is preferred for clarity and directness, mastering passive constructions allows you to adapt your communication style to various contexts, enhancing your versatility and credibility in American English settings.",
+  "createdAt": "2025-12-24T04:30:22.091Z"
+}

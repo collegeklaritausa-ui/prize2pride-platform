@@ -1,0 +1,59 @@
+{
+  "id": "GM-C1-00251",
+  "number": 251,
+  "title": "Mastering the Art of Passive Voice: The Ultimate Advanced Guide",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Comprehend the nuanced structure of passive voice in complex sentences.",
+    "Transform active sentences into passive voice with precision and style.",
+    "Identify passive constructions in diverse texts and contexts.",
+    "Employ passive voice effectively to enhance clarity and emphasis in writing.",
+    "Recognize common pitfalls and exceptions in advanced passive voice usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "agent",
+      "definition": "The doer of an action in a sentence, often introduced by 'by' in passive constructions.",
+      "example": "The report was prepared by the team."
+    },
+    {
+      "word": "tense",
+      "definition": "A grammatical category that locates a situation in time, crucial in forming passive voice correctly.",
+      "example": "Changing from active to passive requires adjusting the tense appropriately."
+    },
+    {
+      "word": "voice",
+      "definition": "Grammatical voice indicates whether the subject performs or receives the action; passive voice emphasizes receiving.",
+      "example": "Active: The chef cooked the meal. Passive: The meal was cooked by the chef."
+    }
+  ],
+  "content": "Welcome to the pinnacle of grammatical mastery—advanced passive voice. Unlike basic transformations, mastering this skill involves understanding subtle nuances that can elevate your communication to a professional level.\n\n**Structure and Nuance:**\nPassive voice is formed by combining a suitable form of the verb 'to be' with the past participle of the main verb. For advanced mastery, pay attention to tense consistency and the appropriate use of 'by' to introduce the agent.\n\n**Examples:**\n- Present perfect passive: \"The documents have been reviewed by the committee.\"\n- Future passive: \"The results will be announced by the organizers.\"\n- Past perfect passive: \"The project had been completed before the deadline.\"\n\n**Transforming Sentences:**\n- Active: \"The CEO is analyzing the data.\"\n- Passive: \"The data is being analyzed by the CEO.\"\n\n**Special Cases:**\n- When the agent is unknown or irrelevant, omit 'by' and the agent.\n- Use passive voice to shift focus, especially in scientific, formal, or journalistic writing.\n\n**Advanced Tips:**\n- Modulate the tone by choosing the appropriate tense and voice.\n- Be cautious with complex tenses like perfect continuous, which are rarely used in passive form.\n- Recognize when passive voice enhances clarity versus when it causes ambiguity.\n\nBy mastering these elements, you will wield passive voice with sophistication, ensuring your writing is both precise and compelling.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following active sentence into a passive voice suitable for formal writing: 'The committee evaluates the proposals regularly.'",
+      "answer": "The proposals are evaluated by the committee regularly."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The novel was written by the acclaimed author.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Correction",
+      "question": "Identify and correct the incorrect passive voice sentence: 'The solution was misunderstanding by the team.'",
+      "answer": "The sentence is incorrect because 'misunderstanding' is a noun; correct passive: 'The solution was misunderstood by the team.'"
+    },
+    {
+      "type": "Application",
+      "question": "Write an advanced passive voice sentence using the future perfect tense to describe a completed action.",
+      "answer": "The project will have been finalized by the project managers before the review meeting."
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, passive voice is often employed to maintain objectivity, formal tone, and focus on processes rather than individuals. Understanding its nuanced use reflects mastery and aligns with conventions in scientific writing, journalism, and corporate communication. Balancing active and passive constructions appropriately can elevate your credibility and clarity in American English discourse.",
+  "createdAt": "2025-12-24T04:31:01.977Z"
+}

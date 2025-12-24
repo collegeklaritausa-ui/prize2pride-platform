@@ -1,0 +1,59 @@
+{
+  "id": "GM-C1-00258",
+  "number": 258,
+  "title": "Mastering the Art of Passive Voice: The Advanced American English Warrior",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the nuanced use of passive voice in complex American English contexts",
+    "Identify passive constructions in sophisticated texts and speech",
+    "Transform active sentences into passive voice with precision and style",
+    "Recognize when passive voice enhances clarity or emphasis in communication",
+    "Apply advanced passive voice structures confidently in writing and speaking"
+  ],
+  "vocabulary": [
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often expressed with 'by'",
+      "example": "The novel was written by the acclaimed author."
+    },
+    {
+      "word": "Impersonal Construction",
+      "definition": "A passive structure used to emphasize the action or situation rather than the agent",
+      "example": "It is believed that the policy will succeed."
+    },
+    {
+      "word": "Causative Passive",
+      "definition": "A passive construction indicating that someone causes an action to be performed",
+      "example": "She had her car repaired yesterday."
+    }
+  ],
+  "content": "Welcome to the realm of advanced passive voice mastery, where your mastery transforms your ability to craft nuanced, sophisticated sentences that resonate with clarity and authority in American English. The passive voice is not merely a grammatical construct but a powerful tool to shift focus, create formality, or introduce variety in your language.\n\nIn complex contexts, passive voice often appears in academic writing, legal documents, and formal speeches. For example, consider the sentence: 'The legislation was enacted by Congress after extensive debate.' Here, the emphasis is on the legislation rather than the agents involved.\n\nTo elevate your passive voice skills, familiarize yourself with advanced structures such as the causative passive: 'The project was completed by the team ahead of schedule,' which subtly assigns responsibility while emphasizing the achievement.\n\nTransform active sentences like 'The committee approved the new policy' into: 'The new policy was approved by the committee.' Notice the shift in emphasis and the subtle change in tone.\n\nBeware of overusing passive voice, which can lead to ambiguity or a lack of engagement. Use it strategically to highlight specific elements or to maintain a formal tone.\n\nRemember, mastery involves knowing when and how to wield the passive voice to enhance your communication—making you a true GOD of American English.\n",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the active sentence 'The CEO announced the new strategy' into an advanced passive voice construction.",
+      "answer": "The new strategy was announced by the CEO."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The results were analyzed carefully by the research team.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Creation",
+      "question": "Create an impersonal passive sentence related to a recent technological advancement.",
+      "answer": "It is believed that the new AI system will revolutionize the industry."
+    },
+    {
+      "type": "Correction",
+      "question": "Rewrite the following sentence to improve clarity using passive voice: 'The company has completed the project successfully.'",
+      "answer": "The project has been successfully completed by the company."
+    }
+  ],
+  "culturalNotes": "In American professional and academic environments, the passive voice is often employed to maintain objectivity, professionalism, and formality. Notably, legal writing and scientific reports rely heavily on passive constructions to emphasize procedures and findings over the actors. Recognizing and correctly utilizing the passive voice aligns with American cultural norms of clarity, professionalism, and respect for neutrality in formal discourse.",
+  "createdAt": "2025-12-24T04:31:30.323Z"
+}

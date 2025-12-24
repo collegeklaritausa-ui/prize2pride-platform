@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00285",
+  "number": 285,
+  "title": "Mastering Reported Speech: Speak Like a Native!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of reported speech in American English.",
+    "Identify and transform direct speech into reported speech.",
+    "Use correct tense changes when converting sentences.",
+    "Recognize common reporting verbs such as 'say', 'tell', 'ask'.",
+    "Improve overall fluency and accuracy in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said that she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "Verbs used to introduce reported speech, such as 'say', 'tell', 'ask'.",
+      "example": "He told me to wait."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when converting direct speech into reported speech.",
+      "example": "He said, 'I am happy.' → He said that he was happy."
+    }
+  ],
+  "content": "Welcome to the world of reported speech! In American English, reported speech allows us to share what someone else has said without quoting them directly. It’s commonly used in conversations, news, and storytelling. To transform direct speech into reported speech, follow these simple steps:\n\n1. **Identify the reporting verb:** Common verbs include 'say', 'tell', 'ask'.\n2. **Change the tense of the verb:** Past tense is often used in reported speech.\n3. **Adjust pronouns and time expressions:** Change 'I' to 'he/she', 'today' to 'that day', etc.\n\n**Examples:**\n- Direct: She said, 'I am tired.'\n- Reported: She said that she was tired.\n\n- Direct: John told me, 'Can you help me?'\n- Reported: John asked if I could help him.\n\n**Important Rules:**\n- When reporting questions, use 'ask' and invert the sentence structure if necessary.\n- Be mindful of tense shifts to accurately reflect the original statement.\n\nBy mastering these principles, you'll confidently report conversations and improve your clarity in communication!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Convert the following direct speech into reported speech: 'She said, 'I will visit tomorrow.''",
+      "answer": "She said that she would visit the next day."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "He asked, 'Are you coming to the party?' → He asked if _____ coming to the party.",
+      "answer": "you are"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Transform the direct speech into reported speech: 'They said, 'We are happy.''",
+      "answer": "They said that they were happy."
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is often used in informal conversations, news reporting, and storytelling. Americans value clarity and directness, so mastering reported speech helps you communicate more effectively and naturally. Remember that context determines how formal or casual your reporting language should be, especially in personal versus professional settings.",
+  "createdAt": "2025-12-24T04:33:15.699Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00236",
+  "number": 236,
+  "title": "Mastering the Passive Voice: Unlock the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the structure and usage of the passive voice in American English.",
+    "Identify sentences written in the passive voice versus active voice.",
+    "Transform active sentences into passive voice and vice versa.",
+    "Recognize common situations where passive voice enhances clarity or formality.",
+    "Apply passive voice correctly in both spoken and written American English contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or recipient rather than the doer.",
+      "example": "The cake was baked by Mary."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, usually introduced with 'by'.",
+      "example": "The letter was mailed by John."
+    },
+    {
+      "word": "Transitive Verb",
+      "definition": "A verb that requires a direct object to complete its meaning, often used in forming passive sentences.",
+      "example": "She **wrote** a letter."
+    }
+  ],
+  "content": "The passive voice is a vital aspect of American English, especially in formal writing, journalism, and situations where the focus is on the action or the recipient rather than the doer. To form the passive voice, use the appropriate form of the verb 'to be' plus the past participle of the main verb. For example, in the present tense, 'The chef cooks the meal' (active) becomes 'The meal is cooked by the chef' (passive). \n\n**When to Use the Passive Voice:**\n- When the doer is unknown or unimportant (e.g., 'The window was broken yesterday.')\n- To emphasize the action or the recipient of the action.\n- In formal or scientific writing (e.g., 'The experiment was conducted in 2020.')\n\n**Passive Voice Structure:**\n- Subject + be (conjugated) + past participle + (optional 'by' + agent)\n\n**Examples:**\n- Active: The students completed the project.\n- Passive: The project was completed by the students.\n\n**Note:** Be cautious not to overuse the passive voice, as it can sometimes make sentences less direct or harder to read. A good rule of thumb is to use it when it clarifies the sentence or fits the context appropriately.",
+  "exercises": [
+    {
+      "type": "Identify the Voice",
+      "question": "Determine whether the following sentence is in active or passive voice:\n\n'The report was finished by the team.'",
+      "answer": "Passive voice"
+    },
+    {
+      "type": "Convert to Passive",
+      "question": "Transform this active sentence into passive voice:\n\n'The children are playing soccer.'",
+      "answer": "Soccer is being played by the children."
+    },
+    {
+      "type": "Rewrite the Sentence",
+      "question": "Rewrite the following sentence in active voice:\n\n'The documents have been signed by the manager.'",
+      "answer": "The manager has signed the documents."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Complete the sentence in passive voice:\n\nThe cake ____ (bake) by Sarah yesterday.",
+      "answer": "was baked"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct passive form of the verb:\n\n'The scientist ____ the experiment.'\n\na) conducted\nb) is conducting\nc) was conducted\nd) conduct",
+      "answer": "c) was conducted"
+    }
+  ],
+  "culturalNotes": "In American culture, clarity and directness are highly valued in communication. Using the passive voice appropriately can lend a formal or professional tone to writing, such as in news reports, scientific articles, and official documents. However, overusing passive constructions may reduce clarity, so effective writers balance active and passive voice based on the context. Awareness of this nuance enhances your mastery of American English and helps you communicate with precision and cultural sensitivity.",
+  "createdAt": "2025-12-24T04:30:07.974Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00214",
+  "number": 214,
+  "title": "Mastering the Passive Voice: Your Gateway to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of passive voice in American English.",
+    "Identify sentences written in passive voice versus active voice.",
+    "Formulate sentences correctly using the passive voice.",
+    "Recognize common situations where passive voice is used.",
+    "Improve their writing and speaking skills by incorporating passive voice appropriately."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence structure where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Verb tense",
+      "definition": "The form of a verb that shows the time of the action, such as past, present, or future.",
+      "example": "She is writing a letter. (present continuous tense)"
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a sentence, often introduced with 'by' in passive sentences.",
+      "example": "The letter was sent by John."
+    }
+  ],
+  "content": "Welcome to your lesson on the Passive Voice! In American English, the passive voice is a way to focus on the action or the receiver of the action rather than the doer. For example, instead of saying 'John painted the wall,' you can say 'The wall was painted by John.'\n\nForming the passive voice involves two main steps:\n1. Use the correct form of the verb 'to be' based on the tense.\n2. Add the past participle of the main verb.\n\nExamples:\n- Present Simple: The cookie is made daily.\n- Past Simple: The homework was completed by the students.\n- Future: The project will be finished tomorrow.\n\nPassive voice is especially useful when the doer is unknown, unimportant, or obvious. For instance, \"The window was broken\" doesn't specify who broke it.\n\nRemember, overusing passive voice can make sentences seem vague or impersonal. Use it wisely to enhance clarity and emphasis in your communication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence written in passive voice:",
+      "answer": "The cake was eaten by the children."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The letter ___ (write) by Sarah yesterday.",
+      "answer": "was written"
+    },
+    {
+      "type": "transformation",
+      "question": "Change the active sentence to passive voice: 'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and direct communication is valued. Passive voice is often used in formal writing, news reports, and professional settings to maintain objectivity or focus on the action rather than the actor. Understanding when and how to use passive voice can help you sound more polished and culturally aware in your English usage.",
+  "createdAt": "2025-12-24T04:28:57.688Z"
+}

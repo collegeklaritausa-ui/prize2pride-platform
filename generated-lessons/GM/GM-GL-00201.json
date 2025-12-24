@@ -1,0 +1,79 @@
+{
+  "id": "GM-GL-00201",
+  "number": 201,
+  "title": "Mastering Modal Verbs: The Divine Power of Expression",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Modal Verbs",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the function and nuances of all primary modal verbs in American English.",
+    "Differentiate between similar modal verbs based on context and meaning.",
+    "Apply modal verbs confidently to express ability, permission, obligation, and possibility.",
+    "Manipulate modal verb structures to create complex, nuanced sentences.",
+    "Recognize cultural implications and idiomatic uses of modal verbs in American speech."
+  ],
+  "vocabulary": [
+    {
+      "word": "Modal Verb",
+      "definition": "A type of auxiliary verb that expresses modality—such as ability, possibility, permission, or obligation.",
+      "example": "Can, could, may, might, must, shall, should, will, would."
+    },
+    {
+      "word": "Permission",
+      "definition": "The act of allowing someone to do something, often conveyed through modal verbs like 'may' or 'can.'",
+      "example": "You may leave early today."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A requirement or duty expressed using modal verbs like 'must' or 'have to.'",
+      "example": "Employees must wear identification badges."
+    },
+    {
+      "word": "Possibility",
+      "definition": "The chance that something may happen, often conveyed through 'might,' 'may,' or 'could.'",
+      "example": "It might rain later."
+    },
+    {
+      "word": "Ability",
+      "definition": "The capacity to do something, expressed with 'can' or 'could.'",
+      "example": "I can swim."
+    }
+  ],
+  "content": "Welcome to the realm of modal verbs, the divine tools that empower your language with nuance and authority. In American English, modal verbs are essential for expressing different shades of meaning such as ability, permission, obligation, and possibility.\n\n**1. Ability:** Use 'can' to denote present or general ability.\n- Example: I can solve complex problems.\n- Past ability is expressed with 'could.'\n- Example: When I was young, I could run five miles.\n\n**2. Permission:** 'May' and 'can' are used to grant permission.\n- Formal: You may leave when you're finished.\n- Informal: Can I borrow your book?\n\n**3. Obligation:** 'Must' and 'have to' convey necessity.\n- Example: You must submit your report by Friday.\n- Note: 'Have to' often reflects external requirements, whereas 'must' can also express internal necessity.\n\n**4. Possibility:** 'Might,' 'may,' and 'could' express uncertainty.\n- Example: It might snow tonight.\n- 'Could' also indicates past possibility.\n- Example: She could have arrived earlier.\n\n**5. Suggestions and Advice:** 'Should' and 'ought to' are used for recommendations.\n- Example: You should see a doctor.\n- 'Ought to' has a slightly formal tone.\n\n**6. Future Intentions and Promises:** 'Will' and 'shall' express determination or future plans.\n- Example: I will call you tomorrow.\n- 'Shall' is more formal or traditional, often used in legal or formal contexts.\n\n**7. Hypothetical Situations:** 'Would' and 'could' describe imagined scenarios.\n- Example: If I were rich, I would travel the world.\n\nMastering modal verbs elevates your speech to divine levels, allowing you to convey subtlety, certainty, and politeness with finesse. Remember, in American English, context guides the choice of modal verbs, reflecting cultural values of directness, politeness, and practicality.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct modal verb to complete the sentence: 'You ___ see a doctor if you're feeling unwell.'",
+      "answer": "should"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate modal verb: 'He ___ finish the project by tomorrow.'",
+      "answer": "must"
+    },
+    {
+      "type": "true/false",
+      "question": "The modal verb 'might' indicates certainty about an event.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence using a different modal verb to express permission: 'Can I leave early today?'",
+      "answer": "May I leave early today?"
+    },
+    {
+      "type": "matching",
+      "question": "Match the modal verb with its primary use:\n1. Can\n2. Must\n3. Might\n4. Should\n\nA. Advice\nB. Ability\nC. Obligation\nD. Possibility",
+      "answer": {
+        "1": "B",
+        "2": "C",
+        "3": "D",
+        "4": "A"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are highly valued, which influences the use of modal verbs. For instance, asking 'Can I leave early?' is common and polite, reflecting a value placed on straightforward communication. Additionally, modal verbs like 'may' are often considered more formal or polite than 'can,' especially in professional or official contexts. Understanding these nuances enhances not only grammatical mastery but also cultural competence in American social and business interactions.",
+  "createdAt": "2025-12-24T04:28:03.319Z"
+}

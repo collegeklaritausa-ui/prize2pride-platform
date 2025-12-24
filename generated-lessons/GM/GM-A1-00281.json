@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00281",
+  "number": 281,
+  "title": "Mastering Reported Speech: Speak Like a Pro!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what reported speech is and when to use it",
+    "Learn how to change direct speech into reported speech",
+    "Identify key grammar rules for reporting statements, questions, and commands",
+    "Practice transforming sentences from direct to reported speech",
+    "Gain confidence in using reported speech in everyday conversations"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way to tell what someone else said without quoting their exact words.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that shows the time of the action.",
+      "example": "He is running. → She said he was running."
+    },
+    {
+      "word": "Direct Speech",
+      "definition": "The exact words spoken by someone, usually enclosed in quotation marks.",
+      "example": "He said, 'I am hungry.'"
+    },
+    {
+      "word": "Indirect Speech",
+      "definition": "Another term for reported speech, where the meaning of what was said is conveyed without using exactly the same words.",
+      "example": "He said he was hungry."
+    }
+  ],
+  "content": "Welcome to your journey toward becoming a GOD of American English grammar! Today, we focus on Reported Speech, a crucial skill for sharing what others have said.\n\n**What is Reported Speech?**\nReported speech is used when you tell someone what another person said, but you don't use their exact words. Instead, you paraphrase or summarize.\n\n**Key Rules:**\n1. When converting direct speech to reported speech, change the tense of the verb back in time (this is called 'backshifting').\n   - Present tense verbs change to past tense:\n     - 'I am tired' → 'He said he was tired.'\n2. Pronouns often change to match the reporting subject:\n   - 'I' becomes 'he' or 'she', 'you' becomes 'I' or 'we', etc.\n3. Time expressions may change:\n   - 'Today' becomes 'that day', 'tomorrow' becomes 'the next day'.\n4. Questions and commands are also transformed:\n   - Yes/no questions: 'Are you coming?' → 'He asked if I was coming.'\n   - Commands: 'Close the door!' → 'He told me to close the door.'\n\n**Examples:**\n- Direct: She said, 'I love pizza.'\n- Reported: She said she loved pizza.\n\n- Direct: He asked, 'Are you busy?'\n- Reported: He asked if I was busy.\n\n- Direct: The teacher said, 'Finish your homework.'\n- Reported: The teacher told us to finish our homework.\n\nPractice makes perfect! Keep practicing transforming direct speech into reported speech to master this essential skill.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Change the direct speech to reported speech: He said, 'I will help you.'",
+      "answer": "He said he would help me."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "He asked, 'Are you coming to the party?' → He asked if I ______ to the party.",
+      "answer": "was coming"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Transform the following into reported speech: 'Please close the window,' she said.",
+      "answer": "She asked me to close the window."
+    },
+    {
+      "type": "true/false",
+      "question": "In reported speech, present tense verbs change to past tense. (True/False)",
+      "answer": "True"
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech is common in everyday conversations, news reporting, and storytelling. Americans value directness but also appreciate polite indirectness when sharing information. Mastering reported speech helps you communicate clearly and respectfully in social and professional settings, enhancing your fluency and confidence in American English.",
+  "createdAt": "2025-12-24T04:33:03.166Z"
+}

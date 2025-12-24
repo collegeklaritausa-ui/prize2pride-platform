@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00225",
+  "number": 225,
+  "title": "Passive Voice Power: Become a Master of American English!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic structure of the passive voice in American English.",
+    "Identify sentences written in the passive voice.",
+    "Convert active sentences into passive voice.",
+    "Recognize situations where passive voice is used naturally.",
+    "Improve clarity and variety in writing by using passive voice correctly."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive voice",
+      "definition": "A sentence where the object of an action becomes the focus, often with the verb 'to be' plus the past participle.",
+      "example": "The cake was eaten by the children."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person or thing that performs the action in a sentence.",
+      "example": "The teacher explains the lesson."
+    },
+    {
+      "word": "Object",
+      "definition": "The person or thing that receives the action.",
+      "example": "She reads the book."
+    }
+  ],
+  "content": "Welcome to the world of passive voice! In American English, the passive voice is used to emphasize the action or the recipient of the action, rather than who performs it. The structure typically involves the verb 'to be' in the correct tense, followed by the past participle of the main verb.\n\n**Active voice example:**\n- The chef cooks the meal.\n\n**Passive voice example:**\n- The meal is cooked by the chef.\n\nNotice how the focus shifts from 'the chef' (the doer) to 'the meal' (the recipient). To form the passive voice:\n1. Identify the object of the active sentence.\n2. Use the correct form of 'to be' based on the tense.\n3. Use the past participle of the main verb.\n\n**Examples:**\n- Present: The students read the books. → The books are read by the students.\n- Past: The workers built the house. → The house was built by the workers.\n\n**When to use passive voice:**\n- When the doer is unknown or unimportant.\n- To emphasize the action or the recipient.\n- In formal writing.\n\nPractice converting sentences from active to passive to master this skill and become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct passive voice form: The teacher ____ the homework.",
+      "answer": "is assigned"
+    },
+    {
+      "type": "transformation",
+      "question": "Convert this active sentence to passive voice: They clean the park every morning.",
+      "answer": "The park is cleaned by them every morning."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The letter ____ (write) by Sarah yesterday.",
+      "answer": "was written"
+    },
+    {
+      "type": "true/false",
+      "question": "Passive voice sentences always include the word 'by'.",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is often used in formal writing, news reports, and official statements to maintain objectivity and professionalism. Understanding when and how to use passive constructions can help you sound more polished and credible in your communication.",
+  "createdAt": "2025-12-24T04:29:31.049Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00287",
+  "number": 287,
+  "title": "Mastering Reported Speech: Speak Like a Pro!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the concept of reported speech in American English",
+    "Identify the difference between direct and indirect speech",
+    "Convert direct speech statements into reported speech",
+    "Use appropriate tense changes when shifting to reported speech",
+    "Practice creating sentences with reported speech confidently"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Direct Speech",
+      "definition": "The exact words spoken, enclosed in quotation marks.",
+      "example": "\"I'm hungry,\" he said."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when converting from direct to reported speech.",
+      "example": "Present tense to past tense: \"I am happy,\" becomes \"He said he was happy.\""
+    }
+  ],
+  "content": "Welcome to your journey to becoming a god of American English grammar! Today, we focus on reported speech, a powerful tool to relay conversations smoothly.\n\n**What is Reported Speech?**\nReported speech allows us to tell someone what another person said, without using their exact words. For example, if John says, \"I love pizza,\" you can report it as, \"John said he loved pizza.\"\n\n**Difference Between Direct and Reported Speech:**\n- *Direct Speech:* Quoting exact words, e.g., She said, \"I will call you.\"\n- *Reported Speech:* Paraphrasing the words, e.g., She said she would call me.\n\n**Tense Changes in Reported Speech:**\nWhen converting from direct to reported speech, tense often shifts back one step:\n- Present simple → Past simple\n- Present continuous → Past continuous\n- Present perfect → Past perfect\n- Past simple → Past perfect (rare)\n\n**Examples:**\n- Direct: \"I am tired,\" he said.\n- Reported: He said he was tired.\n\n**Steps to Convert:**\n1. Remove quotation marks.\n2. Change the tense of the verb as needed.\n3. Adjust time and place references:\n   - today → that day\n   - now → then\n   - here → there\n\n**Practice Example:**\n- Direct: \"We are going to the park,\" they said.\n- Reported: They said they were going to the park.\n\nBy mastering reported speech, you can confidently share conversations and express ideas more naturally in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Change the direct speech to reported speech: She said, \"I have finished my homework.\"",
+      "answer": "She said she had finished her homework."
+    },
+    {
+      "type": "fill in the blanks",
+      "question": "Convert to reported speech: \"I will visit you tomorrow,\" he said.",
+      "answer": "He said he would visit me the next day."
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following in reported speech: John said, \"I am feeling sick.\"",
+      "answer": "John said he was feeling sick."
+    }
+  ],
+  "culturalNotes": "In American culture, casual conversations often include reported speech when sharing stories or relaying information. Mastering this skill helps you sound more natural and confident in everyday interactions, whether chatting with friends or participating in business discussions. Americans value clarity and directness, so using reported speech effectively enhances your communication skills in diverse settings.",
+  "createdAt": "2025-12-24T04:33:22.197Z"
+}

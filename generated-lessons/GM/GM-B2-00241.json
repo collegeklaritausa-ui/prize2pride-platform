@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00241",
+  "number": 241,
+  "title": "Mastering the Passive Voice: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Define and identify the passive voice in American English sentences.",
+    "Distinguish between active and passive voice in different contexts.",
+    "Transform active sentences into passive voice accurately and vice versa.",
+    "Understand the appropriate use cases for passive voice in formal and informal settings.",
+    "Enhance writing clarity and variety by skillfully employing the passive voice."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction in which the subject receives the action of the verb rather than performing it.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by 'by'.",
+      "example": "The letter was mailed by John."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "A verb form used in perfect tenses and passive voice constructions, typically ending in -ed or irregular forms.",
+      "example": "Completed, eaten, gone."
+    }
+  ],
+  "content": "The passive voice is an essential aspect of American English grammar, allowing speakers and writers to emphasize the action or the recipient of the action rather than the doer. Active sentences follow the structure: Subject + Verb + Object (e.g., 'The chef cooked the meal.'), whereas passive sentences invert this structure to: Object + form of 'to be' + past participle + (by + Agent). For example, 'The meal was cooked by the chef.' \n\nUnderstanding when and how to use the passive voice enhances your ability to write more formally, vary sentence structure, and focus on different parts of a message. In American English, the passive voice is commonly used in news reports, scientific writing, and formal documentation, but overuse can make writing seem dull or impersonal.\n\nHere's how to transform active sentences into passive:\n1. Identify the object of the active sentence.\n2. Make that object the subject of the passive sentence.\n3. Use the appropriate form of 'to be' based on the tense.\n4. Add the past participle of the main verb.\n5. Optionally, include the agent introduced by 'by'.\n\nExamples:\n- Active: The company will launch the new product.\n- Passive: The new product will be launched by the company.\n\nPractice transforming sentences to master this skill and become a true GOD of American English grammar mastery.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a correct passive sentence?",
+      "answer": "The report was written by the manager."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the active sentence into passive voice: 'The students submitted the assignments.'",
+      "answer": "The assignments were submitted by the students."
+    },
+    {
+      "type": "Identify",
+      "question": "Is the following sentence active or passive? 'The book was read by many students.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence in passive voice: 'The cake ___ (bake) by the chef yesterday.'",
+      "answer": "was baked"
+    },
+    {
+      "type": "Create",
+      "question": "Write a passive voice sentence about a recent news event.",
+      "answer": "The new policy was announced by the government yesterday."
+    }
+  ],
+  "culturalNotes": "In American journalism and formal writing, passive voice is often used to focus on actions and outcomes rather than actors, for example in scientific reports or official statements. However, in everyday conversation, Americans tend to prefer active voice for clarity and directness. Balancing the use of passive voice with active constructions is key to sounding natural and professional in American English.",
+  "createdAt": "2025-12-24T04:30:25.626Z"
+}

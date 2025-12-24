@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00247",
+  "number": 247,
+  "title": "Mastering the Passive Voice: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Define and identify the passive voice in American English sentences.",
+    "Differentiate between active and passive voice structures.",
+    "Convert active voice sentences into passive voice and vice versa.",
+    "Understand and apply the appropriate use cases for passive voice in formal and informal contexts.",
+    "Enhance clarity and variety in writing by skillfully employing passive constructions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical structure where the object of an active sentence becomes the subject of the sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced with 'by'.",
+      "example": "The report was prepared by the team."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of a verb that indicates the time of action or state.",
+      "example": "The project is completed (present); The project was completed (past)."
+    }
+  ],
+  "content": "The passive voice is a vital aspect of American English, especially in formal writing, journalism, and scientific communication. It shifts focus from the doer to the action or recipient. To form the passive voice, use the appropriate form of 'to be' plus the past participle of the main verb.\n\n**Structure:**\n- Active: Subject + verb + object\n- Passive: Object + form of 'to be' + past participle + (by + agent)\n\n**Examples:**\n- Active: The chef prepared the meal.\n- Passive: The meal was prepared by the chef.\n\nIn the passive voice, the emphasis is on 'the meal,' making it useful when the doer is unknown, unimportant, or implied.\n\n**Conversion tips:**\n- Identify the object in an active sentence.\n- Make that object the subject of the new sentence.\n- Use the correct form of 'to be' matching the tense.\n- Add the past participle of the main verb.\n- Optionally, include the agent with 'by.'\n\n**Common passive constructions in American English:**\n- News reports: 'The bill was passed yesterday.'\n- Scientific writing: 'The experiment was conducted by the researchers.'\n- Formal correspondence: 'Your application has been reviewed.'\n\nMastering the passive voice enhances your ability to write with variety, formality, and precision, making you a true GOD of American English grammar.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is a correct passive voice sentence?",
+      "answer": "The letter was sent by John."
+    },
+    {
+      "type": "Conversion",
+      "question": "Convert the active sentence to passive: 'The teacher grades the exams.'",
+      "answer": "The exams are graded by the teacher."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is in active or passive voice: 'The book was written by the author.'",
+      "answer": "Passive voice"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence in passive voice: 'The documents ____ (sign) by the manager yesterday.'",
+      "answer": "were signed"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the following sentence in active voice: 'The report was reviewed by the team.'",
+      "answer": "The team reviewed the report."
+    }
+  ],
+  "culturalNotes": "In American professional and academic environments, the passive voice is often used to maintain objectivity and formality. It allows the speaker or writer to focus on actions and results rather than individuals, aligning with the cultural value placed on professionalism, neutrality, and clarity. However, overuse can lead to vague or impersonal writing, so balance is key. Understanding when and how to employ passive constructions is essential for mastering effective communication in the U.S.",
+  "createdAt": "2025-12-24T04:30:47.572Z"
+}

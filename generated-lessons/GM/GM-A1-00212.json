@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00212",
+  "number": 212,
+  "title": "Mastering Passive Voice: The Beginner's Guide to American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what passive voice is and how it differs from active voice.",
+    "Identify passive voice sentences in American English.",
+    "Convert active sentences into passive voice correctly.",
+    "Recognize common situations where passive voice is used.",
+    "Build confidence in using passive voice to improve clarity and variety in writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence structure where the object of an active sentence becomes the subject, and the action is performed on it.",
+      "example": "The cake was eaten by the children."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A sentence structure where the subject performs the action.",
+      "example": "The children ate the cake."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that shows when an action takes place.",
+      "example": "is eaten, was eaten, will be eaten"
+    }
+  ],
+  "content": "Welcome to your first step in mastering the passive voice! In American English, passive voice is used to emphasize the action or the recipient of the action rather than the doer. For example, instead of saying 'The chef cooked the meal,' you can say 'The meal was cooked by the chef.'\n\nPassive voice is formed with a form of the verb 'to be' plus the past participle of the main verb. The structure varies depending on the verb tense. Here are some examples:\n- Present Simple: The book is read by many students.\n- Past Simple: The letter was sent yesterday.\n- Future Simple: The package will be delivered tomorrow.\n\nNote that in casual American English, the phrase 'by + doer' is often omitted when the doer is unknown or unimportant, e.g., 'The window was broken.'\n\nUsing passive voice can make your writing more formal or focus on the action rather than the subject performing it. Practice converting active sentences into passive to become more comfortable with this structure.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the passive voice version of the sentence: 'The teacher grades the exams.'",
+      "answer": "The exams are graded by the teacher."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The cake ______ (bake) by my mother yesterday.",
+      "answer": "was baked"
+    },
+    {
+      "type": "Conversion",
+      "question": "Rewrite this active sentence in passive voice: 'The cat chased the mouse.'",
+      "answer": "The mouse was chased by the cat."
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is often used in formal writing, news reports, and official documents to maintain objectivity and focus on the action. Understanding when to use passive voice can help you write more professionally and appropriately in various contexts such as school, work, and media.",
+  "createdAt": "2025-12-24T04:28:51.733Z"
+}

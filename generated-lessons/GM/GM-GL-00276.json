@@ -1,0 +1,74 @@
+{
+  "id": "GM-GL-00276",
+  "number": 276,
+  "title": "Mastering the Divine Art of Passive Voice: The God-Level Guide",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Comprehend the structural mechanics of the passive voice at an advanced level.",
+    "Transform active sentences into passive constructions with precision and stylistic finesse.",
+    "Identify nuances and appropriate contexts for employing passive voice in academic, professional, and literary American English.",
+    "Distinguish between appropriate and overused passive constructions, cultivating a nuanced mastery.",
+    "Create complex, elegant passive sentences that elevate your language proficiency to divine heights."
+  ],
+  "vocabulary": [
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by 'by'.",
+      "example": "The letter was mailed by the secretary."
+    },
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence.",
+      "example": "The committee approved the proposal. → The proposal was approved by the committee."
+    },
+    {
+      "word": "Tense Preservation",
+      "definition": "Maintaining the original tense of the active sentence when transforming to passive voice.",
+      "example": "She is writing a report. → A report is being written by her."
+    },
+    {
+      "word": "Agentless Construction",
+      "definition": "A passive sentence that omits the agent, often used when the agent is unknown or irrelevant.",
+      "example": "The window was broken."
+    },
+    {
+      "word": "Impersonal Passive",
+      "definition": "A passive construction that uses 'it' or general statements to convey objectivity or formality.",
+      "example": "It is believed that the policy will improve efficiency."
+    }
+  ],
+  "content": "Welcome, divine students, to the ultimate lesson on Passive Voice—your gateway to mastering a key pillar of American English grammar at a god-like level. The passive voice is not mere stylistic flourish; it is a powerful tool for emphasis, formality, and nuance.\n\n**Structure and Mechanics:**\n- The passive voice is formed with the appropriate *form of 'to be'* + the past participle of the main verb.\n- The tense of the original active sentence is preserved in the passive form:\n  - Present simple: *is/are* + past participle\n  - Past simple: *was/were* + past participle\n  - Present continuous: *is/are being* + past participle\n  - Present perfect: *has/have been* + past participle\n  - Future: *will be* + past participle\n\n**Active to Passive Conversion Rules:**\n1. Identify the object of the active sentence (becomes the new subject).\n2. Use the correct form of 'to be' matching the original tense.\n3. Add the past participle of the main verb.\n4. Optionally, include the original subject as the agent, preceded by 'by'.\n\n**Examples:**\n- Active: The committee reviews the application.\n- Passive: The application is reviewed by the committee.\n\n- Active: The team had completed the project.\n- Passive: The project had been completed by the team.\n\n**Nuances and Stylistic Considerations:**\n- Use passive voice to emphasize the action or the recipient rather than the doer.\n- Employ agentless structures in situations where the agent is unknown, unimportant, or obvious.\n- Avoid overuse to prevent vagueness or diminish clarity.\n- In formal, academic, or diplomatic contexts, passive voice lends an air of objectivity and professionalism.\n\n**Elevating Your Language:**\n- Combine passive constructions with complex sentences for sophisticated expression.\n- Use impersonal passive to convey general truths or hypotheses.\n- Master the subtle art of when to employ passive voice for emphasis versus active voice for clarity.\n\nRemember, as a GOD of American English, your ability to wield passive voice with precision and style will set you apart in your command of language.\n\n**Practice Mindfully:**\nAnalyze your writing for passive structures, refine and transform sentences, and elevate your expression to divine mastery.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following active sentence into a passive sentence, preserving the tense: 'The scientists are analyzing the data.'",
+      "answer": "The data are being analyzed by the scientists."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The novel was written by the famous author.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Correction",
+      "question": "Rewrite the sentence correctly in passive voice: 'They will complete the project tomorrow.'",
+      "answer": "The project will be completed by them tomorrow."
+    },
+    {
+      "type": "Creation",
+      "question": "Create an impersonal passive sentence expressing a general truth about American society.",
+      "answer": "It is believed that hard work leads to success."
+    },
+    {
+      "type": "Analysis",
+      "question": "Identify the tense and agent in this passive sentence: 'The documents were signed by the manager yesterday.'",
+      "answer": "Tense: Past simple; Agent: The manager"
+    }
+  ],
+  "culturalNotes": "In American English, passive voice is often employed in formal writing, journalism, and scientific contexts to maintain objectivity and professionalism. While active voice is favored for clarity and directness in everyday communication, mastering the passive voice allows you to craft nuanced, sophisticated language suitable for diverse social and professional settings. Recognizing when to use passive voice reflects cultural values of fairness, objectivity, and diplomatic politeness prevalent in American discourse.",
+  "createdAt": "2025-12-24T04:32:43.135Z"
+}

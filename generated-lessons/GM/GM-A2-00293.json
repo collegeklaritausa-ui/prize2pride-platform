@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00293",
+  "number": 293,
+  "title": "Mastering Reported Speech: Speak Like an American English GOD!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the concept of reported speech in American English.",
+    "Identify how to transform direct speech into reported speech.",
+    "Recognize common reporting verbs used in American English.",
+    "Apply reported speech rules to simple sentences.",
+    "Gain confidence in using reported speech in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way to tell what someone else said without quoting them directly.",
+      "example": "She said she was happy."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'ask.'",
+      "example": "He told me the news."
+    },
+    {
+      "word": "Direct Speech",
+      "definition": "The exact words spoken by someone, usually in quotation marks.",
+      "example": "She said, 'I am tired.'"
+    },
+    {
+      "word": "Indirect Speech",
+      "definition": "Another term for reported speech, where the speaker's words are paraphrased.",
+      "example": "She said she was tired."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on reported speech, a powerful tool to share what others have said.\n\n**What is Reported Speech?**\nReported speech is when you tell someone what another person said, but you do not use the exact words. Instead, you paraphrase or summarize.\n\n**Direct Speech vs. Reported Speech**\n- Direct Speech: She said, \"I love ice cream!\"\n- Reported Speech: She said she loved ice cream.\n\n**How to Change Direct to Reported Speech:**\n1. Remove quotation marks.\n2. Change pronouns if needed (I, you, he, she, they).\n3. Adjust verb tense: present tense often shifts to past tense.\n4. Use reporting verbs like 'say,' 'tell,' or 'ask.'\n\n**Examples:**\n- Direct: John said, \"I am a student.\"\n- Reported: John said he was a student.\n\n- Direct: Mary asked, \"Are you coming?\"\n- Reported: Mary asked if I was coming.\n\n**Common Reporting Verbs:**\n- say\n- tell\n- ask\n- explain\n- mention\n\nRemember, mastering reported speech will make your American English sound more natural and confident!\n\nLet's practice transforming sentences together to become true GODS of American English!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Convert the direct speech to reported speech: She said, \"I like pizza.\"",
+      "answer": "She said she liked pizza."
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct reported speech: He asked, \"Are you hungry?\"",
+      "answer": "He asked if I was hungry."
+    },
+    {
+      "type": "translation",
+      "question": "Rewrite in reported speech: 'I will call you tomorrow,' he said.",
+      "answer": "He said he would call me the next day."
+    },
+    {
+      "type": "sentence formation",
+      "question": "Create a sentence using reported speech with the verb 'tell' and the sentence: 'I found your keys.'",
+      "answer": "She told me she found my keys."
+    }
+  ],
+  "culturalNotes": "In American culture, direct and clear communication is highly valued. Using reported speech appropriately helps in sharing information politely and effectively. Americans often use reporting verbs like 'say,' 'tell,' and 'ask' in everyday conversations, interviews, and media. Mastering reported speech can help you sound more natural and confident in both casual and formal settings.",
+  "createdAt": "2025-12-24T04:33:44.573Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00242",
+  "number": 242,
+  "title": "Mastering the Passive Voice: Unlocking American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Define and identify passive voice in American English sentences.",
+    "Differentiate between active and passive voice with clarity.",
+    "Transform active sentences into passive voice accurately.",
+    "Construct complex sentences using passive voice effectively.",
+    "Apply passive voice appropriately in various contexts to enhance writing and speaking skills."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the passive sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, typically introduced with 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of a verb that indicates the time of the action or state of being, crucial in passive constructions.",
+      "example": "The report will be submitted tomorrow."
+    }
+  ],
+  "content": "In American English, the passive voice is a powerful grammatical tool that shifts the focus from the doer of an action to the recipient or the action itself. It's particularly useful when the agent is unknown, unimportant, or deliberately omitted to emphasize the action.\n\n**Identifying Passive Voice:**\n- Look for a form of the verb \"to be\" (am, is, are, was, were, be, being, been) + the past participle of the main verb.\n- Example: \"The letter was mailed yesterday.\"\n\n**Active vs. Passive:**\n- Active: \"The chef prepared the meal.\"\n- Passive: \"The meal was prepared by the chef.\"\n\n**Transforming Active to Passive:**\n1. Make the object of the active sentence the subject of the passive sentence.\n2. Use the appropriate form of \"to be\" matching the tense.\n3. Add the past participle of the main verb.\n4. (Optional) Include the original subject preceded by \"by\".\n\nExample:\n- Active: \"The engineer designs the plans.\"\n- Passive: \"The plans are designed by the engineer.\"\n\n**Using Passive Voice Effectively:**\n- Use in formal writing, scientific reports, or when the actor is unknown.\n- Avoid overusing passive voice in casual conversation to maintain clarity.\n- Be mindful of tense consistency to ensure clarity.\n\n**Practice Tip:** Practice transforming active sentences into passive form regularly to build mastery and recognize passive structures effortlessly.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Identify the sentence in passive voice.",
+      "answer": "The cookies were baked by the children."
+    },
+    {
+      "type": "Transformation",
+      "question": "Rewrite the active sentence in passive voice: 'The teacher explains the lesson.'",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The report ____ (write) by the manager yesterday.",
+      "answer": "was written"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the passive voice in this sentence: 'The results was announced by the officials.'",
+      "answer": "The results were announced by the officials."
+    }
+  ],
+  "culturalNotes": "In American culture, clarity and directness are valued in communication. While passive voice is an essential grammatical tool, Americans often prefer active voice for straightforward and engaging narratives. Understanding when to use passive voice can enhance professional writing, such as in business reports, journalism, and scientific documentation, where objectivity and formality are prioritized.",
+  "createdAt": "2025-12-24T04:30:29.111Z"
+}

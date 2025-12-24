@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00268",
+  "number": 268,
+  "title": "Mastering the Passive Voice: Become a Grammar GOD of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and identify passive voice in American English sentences",
+    "Differentiate between active and passive voice structures",
+    "Construct correct passive voice sentences across various tenses",
+    "Convert active sentences into passive voice and vice versa",
+    "Apply passive voice appropriately in formal and informal contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the subject receives the action of the verb, often using a form of 'to be' plus the past participle.",
+      "example": "The cake was eaten by the children."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, typically introduced with 'by'.",
+      "example": "The book was written by the author."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "The form of a verb used in perfect and passive constructions, often ending in -ed, -en, or irregular forms.",
+      "example": "Eaten, written, driven."
+    }
+  ],
+  "content": "The passive voice is a fundamental aspect of English grammar where the focus shifts from the doer of an action to the receiver of that action. In American English, passive constructions are frequently used in formal writing, news reporting, and scientific documentation to emphasize the action or the recipient rather than the actor.\n\n**Structure of Passive Voice:**\n- **Active:** Subject + verb + object\n- **Passive:** Object + form of 'to be' + past participle + (by + agent)\n\n**Examples:**\n- Active: The chef cooked the meal.\n- Passive: The meal was cooked by the chef.\n\n**Tense Transformations:**\n- Present: The manager reviews the reports. → The reports are reviewed by the manager.\n- Past: She completed the project. → The project was completed by her.\n- Future: They will approve the plan. → The plan will be approved by them.\n\n**Converting Active to Passive:**\n1. Move the object of the active sentence to the subject position.\n2. Use the appropriate form of 'to be' for the tense.\n3. Add the past participle of the main verb.\n4. (Optional) Add 'by' + original subject.\n\n**Important Tips:**\n- Not all active sentences can be converted into passive (especially intransitive verbs).\n- Passive voice often makes sentences more formal and impersonal.\n- Overusing passive voice can lead to vague or wordy writing; use it judiciously.\n\nMastery of passive constructions will elevate your command over American English, allowing you to write more formally and understand complex texts with ease.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correctly written passive sentence:",
+      "answer": "The letter was sent by John."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the active sentence into passive voice: 'The students are reading the book.'",
+      "answer": "The book is being read by the students."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The report ____ (prepare) by the team yesterday.",
+      "answer": "was prepared"
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'A new policy was introduced by the company.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Create",
+      "question": "Write a passive voice sentence about a recent event in your life.",
+      "answer": "Answers will vary."
+    }
+  ],
+  "culturalNotes": "In American professional and academic contexts, passive voice is often employed to emphasize objectivity and neutrality. News articles, scientific papers, and official reports frequently utilize passive constructions to maintain an impersonal tone. Understanding when and how to use the passive voice will help you communicate with clarity, professionalism, and cultural fluency in the United States.",
+  "createdAt": "2025-12-24T04:32:06.797Z"
+}

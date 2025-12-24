@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00227",
+  "number": 227,
+  "title": "Passive Voice Power: Mastering the Art of the Hidden Action",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what passive voice is in American English.",
+    "Identify sentences written in passive voice versus active voice.",
+    "Form sentences in the passive voice correctly using different tenses.",
+    "Transform active sentences into passive sentences.",
+    "Recognize when to use passive voice appropriately in everyday communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive voice",
+      "definition": "A sentence structure where the focus is on the action or the receiver of the action, not on who or what is performing the action.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Active voice",
+      "definition": "A sentence structure where the subject performs the action directly.",
+      "example": "Sarah baked the cake."
+    },
+    {
+      "word": "Verb",
+      "definition": "A word that shows action or state of being.",
+      "example": "run, is, believe"
+    }
+  ],
+  "content": "Welcome to the world of passive voice! In American English, sentences can be structured in two main ways: active and passive. In active voice, the subject performs the action: 'The dog eats the food.' In passive voice, the focus shifts to the action itself or the receiver: 'The food is eaten by the dog.' \n\nPassive voice is useful when the doer of the action is unknown, unimportant, or when you want to emphasize the action or recipient.\n\n**Forming the Passive Voice:**\n\n- Use the correct form of the verb 'to be' (am, is, are, was, were, will be, etc.).\n- Add the past participle of the main verb.\n\n**Examples:**\n- Active: \"The teacher grades the papers.\"\n- Passive: \"The papers are graded by the teacher.\"\n\n**Practice:**\nTransform the following active sentences into passive:\n1. The chef cooks the meal.\n2. They will finish the project.\n3. The children play soccer.\n\nRemember, passive voice is common in formal writing, notices, and when the focus is on the action or object rather than the doer.\n\nBy mastering passive voice, you will be able to add variety to your sentences and understand more complex English structures!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences is in passive voice?",
+      "answer": "The book was read by the student."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert to passive voice: The cat chased the mouse.",
+      "answer": "The mouse was chased by the cat."
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Change the active sentence into passive: 'The chef prepares the meal.'",
+      "answer": "The meal is prepared by the chef."
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is often used in formal writing, such as reports, official notices, and news articles, to convey objectivity or focus on the action rather than the actor. Understanding when and how to use passive voice helps you sound more polished and professional in your communication.",
+  "createdAt": "2025-12-24T04:29:36.912Z"
+}

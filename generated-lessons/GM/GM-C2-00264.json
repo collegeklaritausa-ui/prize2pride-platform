@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00264",
+  "number": 264,
+  "title": "Mastering the Passive Voice: The Path to American English Mastery",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and recognize the passive voice in American English.",
+    "Convert active sentences into passive voice with accuracy.",
+    "Identify common situations where passive voice is appropriately used.",
+    "Differentiate between active and passive structures in complex sentences.",
+    "Apply the passive voice appropriately in both formal and informal contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the sentence, often emphasizing the action or the recipient.",
+      "example": "The cake was baked by Mary."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, often introduced by the word 'by'.",
+      "example": "The book was read by the student."
+    },
+    {
+      "word": "Past Participle",
+      "definition": "A verb form used in perfect tenses and passive voice constructions, typically ending in -ed, -en, or irregular forms.",
+      "example": "Written, eaten, done."
+    }
+  ],
+  "content": "The passive voice shifts the focus from who is performing an action to the action itself or its recipient. In American English, passive constructions are common in formal writing, journalism, and situations where the agent is unknown or unimportant.\n\n**Formation of Passive Voice:**\n- Use the appropriate form of the verb \"to be\" (am, is, are, was, were, be, been, being).\n- Follow with the past participle of the main verb.\n\n**Examples:**\n- Active: The chef prepared the meal.\n- Passive: The meal was prepared by the chef.\n\n**When to Use the Passive Voice:**\n- When the focus is on the action or the recipient.\n- When the doer is unknown or irrelevant.\n- To create a formal tone.\n\n**Transforming Sentences:**\n- Active: The company will launch the new product.\n- Passive: The new product will be launched by the company.\n\n**Note:** While passive voice is useful, overuse can make writing vague or inefficient. Use it judiciously to enhance clarity and emphasis.\n\n**Common Passive Constructions:**\n- Present: The reports are reviewed weekly.\n- Past: The letters were sent yesterday.\n- Future: The project will be completed by next month.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences is in the passive voice?",
+      "answer": "The package was delivered by the courier."
+    },
+    {
+      "type": "Conversion",
+      "question": "Convert the active sentence into passive voice: 'The students completed the project.'",
+      "answer": "The project was completed by the students."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the sentence is active or passive: 'The novel was written by the author.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with the correct form of 'to be' and the past participle: 'The emails ____ (send) yesterday by the secretary.'",
+      "answer": "were sent"
+    },
+    {
+      "type": "Application",
+      "question": "Write a short paragraph using at least two passive voice sentences to describe a recent event you attended.",
+      "answer": "[This will vary based on student response.]"
+    }
+  ],
+  "culturalNotes": "In American English, the passive voice often appears in journalistic writing, legal documents, and formal reports to emphasize objectivity and neutrality. While it is sometimes criticized for making sentences less direct, it is an essential tool for precise and formal communication. Understanding when and how to use the passive voice reflects mastery of American English stylistic conventions.",
+  "createdAt": "2025-12-24T04:31:52.491Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00217",
+  "number": 217,
+  "title": "Mastering the Passive Voice: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what the passive voice is and how it differs from the active voice.",
+    "Identify sentences written in the passive voice.",
+    "Convert active sentences into passive sentences and vice versa.",
+    "Use the passive voice correctly in everyday American English conversations.",
+    "Recognize the common situations where the passive voice is preferred."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence construction where the subject receives the action rather than doing it.",
+      "example": "The cake was baked by Sarah."
+    },
+    {
+      "word": "Active Voice",
+      "definition": "A sentence construction where the subject performs the action.",
+      "example": "Sarah baked the cake."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The time of the action or state of being expressed by the verb.",
+      "example": "is baked (present), was baked (past)."
+    }
+  ],
+  "content": "Welcome to your lesson on the passive voice! In American English, understanding the passive voice helps you sound more natural and versatile. \n\nThe passive voice is formed using a form of the verb 'to be' + the past participle of the main verb. For example: 'The letter was sent by John.' This emphasizes the action or the object receiving the action, rather than who is performing it.\n\nIn contrast, the active voice focuses on the subject performing the action. For example: 'John sent the letter.'\n\n**When to use the passive voice:**\n- When the doer of the action is unknown or unimportant.\n- To emphasize the action or the recipient.\n- In formal or scientific writing.\n\n**Examples:**\n- Active: The chef cooked a delicious meal.\n- Passive: A delicious meal was cooked by the chef.\n\nTransforming sentences:\n- Active: The kids cleaned the park.\n- Passive: The park was cleaned by the kids.\n\nRemember, in casual American conversations, active voice is more common, but the passive voice is useful especially in formal contexts, news reports, or when the focus is on the action itself.\n\nLet's practice turning active sentences into passive ones and vice versa to master this skill!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence written in the passive voice:",
+      "answer": "The cake was eaten by the children."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert to passive voice: The teacher explains the lesson.",
+      "answer": "The lesson is explained by the teacher."
+    },
+    {
+      "type": "true/false",
+      "question": "The passive voice emphasizes the doer of the action.",
+      "answer": "False"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the active sentence in the passive voice: The manager approves the project.",
+      "answer": "The project is approved by the manager."
+    }
+  ],
+  "culturalNotes": "In American English, the passive voice is often used in formal writing, news reports, and academic contexts. Americans value clarity and directness, so while the passive voice has its place, active voice is typically preferred in everyday conversations. Understanding when and how to use the passive voice enhances your ability to communicate effectively in various American settings, from business meetings to casual talks.",
+  "createdAt": "2025-12-24T04:29:06.466Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00233",
+  "number": 233,
+  "title": "Mastering the Passive Voice: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the structure and usage of the passive voice in American English.",
+    "Identify active and passive sentences in various contexts.",
+    "Transform active sentences into passive voice and vice versa.",
+    "Recognize common passive voice constructions in American media and literature.",
+    "Apply passive voice appropriately to enhance clarity and emphasis in writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A grammatical construction where the object of an active sentence becomes the subject of the sentence, often focusing on the action or recipient rather than the doer.",
+      "example": "The cake was eaten by the children."
+    },
+    {
+      "word": "Agent",
+      "definition": "The doer of the action in a passive sentence, typically introduced with 'by'.",
+      "example": "The book was written by the author."
+    },
+    {
+      "word": "Verb Tense",
+      "definition": "The form of the verb that indicates the time of the action, crucial for constructing correct passive sentences.",
+      "example": "The project will be completed by next week."
+    }
+  ],
+  "content": "The passive voice is an essential component of American English, used to shift focus from the subject performing an action to the action itself or its recipient. It is formed with the appropriate form of the verb 'to be' plus the past participle of the main verb. For example, in the present tense, 'The manager reviews the reports' becomes 'The reports are reviewed by the manager.' In the past tense, 'The team completed the project' becomes 'The project was completed by the team.' Using passive voice can emphasize the action or the recipient, create variety in sentence structure, or maintain focus on an object when the doer is unknown or irrelevant.\n\nHere's a breakdown of common passive voice constructions:\n- Present Simple: Subject + am/is/are + past participle\n  e.g., The mail is delivered daily.\n- Past Simple: Subject + was/were + past participle\n  e.g., The documents were signed yesterday.\n- Future Simple: Subject + will be + past participle\n  e.g., The packages will be shipped tomorrow.\n\nActive: The teacher grades the exams.\nPassive: The exams are graded by the teacher.\n\nNote that in formal or academic writing, passive voice is often preferred to focus on the process or results rather than the actor. However, overusing passive constructions can make writing less direct or lively.\n\nIn American media, passive voice is frequently used in news reports, scientific writing, and formal communications to maintain objectivity or focus on the event rather than the actor.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the passive voice version of the active sentence: 'The chef cooks the meal.'",
+      "answer": "The meal is cooked by the chef."
+    },
+    {
+      "type": "Transformation",
+      "question": "Convert the following active sentence into passive voice: 'The students will complete the project.'",
+      "answer": "The project will be completed by the students."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify whether the following sentence is active or passive: 'The new policies were implemented quickly.'",
+      "answer": "Passive"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The report _____ (write) by the team last week.",
+      "answer": "was written"
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a short paragraph describing a recent event using at least three passive voice sentences.",
+      "answer": "Last weekend, the city park was renovated by a team of workers. New benches and pathways were installed, and the old playground was replaced. Many visitors enjoyed the improvements, and the event was covered by local news."
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is often used in formal writing, such as official reports, scientific articles, and news reports, to maintain objectivity and focus on actions rather than individuals. While it can sometimes create a sense of detachment, it also lends authority and professionalism to communication. Understanding how and when to use passive constructions helps students navigate both academic and professional American English contexts successfully.",
+  "createdAt": "2025-12-24T04:29:57.094Z"
+}

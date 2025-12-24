@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00230",
+  "number": 230,
+  "title": "Passive Voice Power: Mastering the Art of the Hidden Action",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Passive Voice",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what passive voice is in American English.",
+    "Identify sentences written in passive voice.",
+    "Convert active sentences into passive voice.",
+    "Use passive voice correctly in simple sentences.",
+    "Recognize when to use passive voice appropriately."
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive Voice",
+      "definition": "A sentence where the focus is on the action or the receiver of the action, not the doer.",
+      "example": "The cake was eaten by the children."
+    },
+    {
+      "word": "Subject",
+      "definition": "The person or thing that performs the action in a sentence.",
+      "example": "The teacher explains the lesson."
+    },
+    {
+      "word": "Object",
+      "definition": "The person or thing that receives the action in a sentence.",
+      "example": "She reads the book."
+    }
+  ],
+  "content": "Welcome to your lesson on passive voice! In American English, the passive voice shifts the focus from who is doing the action to what is being done or who/what receives the action. It is formed with the verb 'to be' plus the past participle of the main verb.\n\nFor example, active: 'The dog chased the cat.' Passive: 'The cat was chased by the dog.'\n\nNotice how the focus is on 'the cat'—the receiver of the action. Passive voice is often used in formal writing, news reports, and when the doer is unknown or unimportant.\n\nTo form passive voice:\n1. Identify the object of the active sentence.\n2. Move the object to the subject position.\n3. Use the correct form of 'to be' (am, is, are, was, were) matching the tense.\n4. Add the past participle of the main verb.\n\nExample:\nActive: \"The chef cooks the meal.\"\nPassive: \"The meal is cooked by the chef.\"\n\nRemember, in elementary English, passive sentences are usually simple and straightforward. Practice transforming active sentences to passive to become a master of this form!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the passive voice sentence:",
+      "answer": "The letter was sent by Sarah."
+    },
+    {
+      "type": "Conversion",
+      "question": "Convert this active sentence to passive voice: \"The children play soccer.\"",
+      "answer": "Soccer is played by the children."
+    },
+    {
+      "type": "Fill-in-the-Blank",
+      "question": "The cake ___ (bake) by my mother.",
+      "answer": "was baked"
+    },
+    {
+      "type": "Identify",
+      "question": "Is the following sentence active or passive? 'The book was read by Tom.'",
+      "answer": "Passive"
+    }
+  ],
+  "culturalNotes": "In American culture, passive voice is frequently used in formal writing, such as news reports and official announcements, to emphasize objectivity and politeness. While active voice is more common in everyday conversation, mastering passive voice gives you the flexibility to adapt your language to different contexts, especially in professional or academic settings.",
+  "createdAt": "2025-12-24T04:29:46.032Z"
+}
