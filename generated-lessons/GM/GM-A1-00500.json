@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00500",
+  "number": 500,
+  "title": "Mastering Conjunctions: Connect and Communicate with Confidence",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose of conjunctions in sentence construction",
+    "Identify common coordinating and subordinating conjunctions",
+    "Use conjunctions correctly to join words, phrases, and clauses",
+    "Differentiate between coordinating and subordinating conjunctions",
+    "Create complex and compound sentences using conjunctions"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses within a sentence.",
+      "example": "and, but, or, because, although"
+    },
+    {
+      "word": "coordinate",
+      "definition": "To join equal parts or elements, often using coordinating conjunctions.",
+      "example": "She likes apples and oranges."
+    },
+    {
+      "word": "subordinate",
+      "definition": "To join a dependent clause to an independent clause using subordinating conjunctions.",
+      "example": "Although it was raining, we went for a walk."
+    }
+  ],
+  "content": "Welcome to the world of conjunctions, the essential connectors that make your sentences clear and dynamic! Conjunctions are words that link different parts of a sentence, allowing you to express ideas smoothly and logically.\n\nThere are two main types of conjunctions:\n\n1. Coordinating Conjunctions: These join words, phrases, or independent clauses of equal importance. The main coordinating conjunctions are **and**, **but**, **or**, **nor**, **for**, **yet**, and **so**.\n\n   - Example: I want to watch a movie **and** I want to read a book.\n   - Example: She is tired, **but** she keeps working.\n\n2. Subordinating Conjunctions: These connect a dependent clause to an independent clause, showing a relationship like cause, contrast, or time. Examples include **because**, **although**, **since**, **if**, **when**, and **while**.\n\n   - Example: I stayed inside **because** it was raining.\n   - Example: **Although** he was late, he still managed to catch the bus.\n\nUsing conjunctions correctly helps create sentences that are richer and more professional. Practice makes perfect!\n\nReady to become a master? Let’s move on to some exercises!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Choose the correct conjunction to complete the sentence: I wanted to go to the park, ___ it started raining.",
+      "answer": "but"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word best connects these two ideas: She was tired ___ she kept working?",
+      "answer": "but"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the subordinating conjunction 'because'.",
+      "answer": "I stayed home because it was snowing."
+    },
+    {
+      "type": "identify the conjunction",
+      "question": "In the sentence 'He studied hard so he passed the test,' what is the conjunction?",
+      "answer": "so"
+    }
+  ],
+  "culturalNotes": "In American English, conjunctions are vital in everyday conversations, professional writing, and storytelling. Americans value clarity and connection in communication, so mastering conjunctions will help you express ideas more effectively. For example, using 'and' to list multiple activities or 'because' to explain reasons are common in American speech and writing, reflecting the culture's emphasis on openness and reasoning.",
+  "createdAt": "2025-12-24T04:47:18.597Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00401",
+  "number": 401,
+  "title": "Mastering Articles: The Key to Flawless American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the different types of articles in American English (definite and indefinite).",
+    "Identify when to use 'a,' 'an,' and 'the' in various contexts.",
+    "Apply article rules accurately in both written and spoken language.",
+    "Recognize common errors related to article usage and correct them.",
+    "Develop the ability to choose the correct article to enhance clarity and precision."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the sentence 'I saw a dog,' 'a' is an indefinite article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to specific or known items.",
+      "example": "Pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used for nonspecific items.",
+      "example": "I want to buy a car."
+    }
+  ],
+  "content": "In American English, articles are essential for conveying specificity and quantity. There are two main types: indefinite ('a' and 'an') and definite ('the'). Indefinite articles are used when mentioning something for the first time or when the item is not specified. Use 'a' before words that begin with a consonant sound, and 'an' before words that begin with a vowel sound. For example, 'a cat,' 'an elephant.'\n\nThe definite article 'the' is used when referring to a specific item known to the speaker and listener, or something that has been previously mentioned. For example, 'I saw a dog. The dog was barking.'\n\nSpecial rules include omitting articles with plural nouns when talking about things in general (e.g., 'Dogs are friendly'). Also, use no article with proper nouns, certain expressions, and abstract concepts.\n\nExample sentences:\n- I saw a movie last night.\n- The movie was fantastic.\n- She wants an apple.\n- He is the best player on the team.\n\nUnderstanding these nuances will elevate your command of American English, making your speech and writing more precise and natural.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ cat in the garden.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate article: She is ___ engineer.",
+      "answer": "an"
+    },
+    {
+      "type": "correct the sentence",
+      "question": "Correct the article usage: I want to buy a orange.",
+      "answer": "I want to buy an orange."
+    },
+    {
+      "type": "matching",
+      "question": "Match the noun with the correct article: \n1. ___ apple\n2. ___ university\n3. ___ books",
+      "answer": "1. an\n2. a\n3. (no article)"
+    }
+  ],
+  "culturalNotes": "In American culture, precise article usage is associated with professionalism and clarity, especially in formal writing and speech. Misusing articles can sometimes lead to misunderstandings or may be perceived as a sign of non-native speech. Mastery of articles not only improves grammatical accuracy but also enhances your ability to communicate effectively in diverse contexts, from casual conversations to professional environments.",
+  "createdAt": "2025-12-24T04:41:02.185Z"
+}

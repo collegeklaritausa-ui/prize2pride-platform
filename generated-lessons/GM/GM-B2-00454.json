@@ -1,0 +1,62 @@
+{
+  "id": "GM-B2-00454",
+  "number": 454,
+  "title": "Prepositions Unleashed: Mastering the Art of American English Precision",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and correctly use common prepositions in various contexts.",
+    "Distinguish between similar prepositions based on nuanced meaning.",
+    "Construct complex sentences employing prepositions accurately.",
+    "Interpret prepositional phrases to understand idiomatic expressions.",
+    "Apply prepositional knowledge to enhance clarity and fluency in spoken and written English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition, its object, and any modifiers, functioning as a unit within a sentence.",
+      "example": "Under the old oak tree, children played happily."
+    },
+    {
+      "word": "Nuance",
+      "definition": "A subtle difference in meaning or expression.",
+      "example": "Understanding the nuance between 'in' and 'inside' improves precision."
+    }
+  ],
+  "content": "Welcome to the ultimate mastery of prepositions in American English. Prepositions are small words with big influence—they connect nouns, pronouns, and phrases to other words, providing clarity and detail. For upper-intermediate learners, mastering prepositions involves understanding their precise usage in both literal and idiomatic expressions.\n\nCommon prepositions include 'in,' 'on,' 'at,' 'by,' 'with,' 'about,' 'for,' 'to,' 'from,' and 'over.' For example, consider the difference:\n- 'She is at the concert.' (specific location)\n- 'She arrived at 8 pm.' (specific time)\n\nPrepositions also form prepositional phrases, which can add descriptive detail:\n- 'The keys are **on the counter**.'\n- '**Under the bridge**, the water flows swiftly.'\n\nMany prepositions are used idiomatically, such as 'in charge of,' 'by accident,' or 'out of control.' Recognizing these idioms is crucial for advanced comprehension.\n\nUnderstanding the subtle nuances between similar prepositions enhances your ability to communicate precisely. For instance, 'interested in' versus 'interested by' reflects different relationships—one of focus, the other of cause.\n\nRemember, prepositions can sometimes be tricky because they vary with context and idiomatic usage. Always pay attention to collocations and fixed expressions to sound more natural and sophisticated in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: \n\"She is really good ___ painting.\"",
+      "answer": "at"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate preposition:\n\"He arrived ___ the airport just in time for his flight.\"",
+      "answer": "at"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the sentence with a prepositional phrase to add detail:\n\"The children played in the park.\"",
+      "answer": "The children played **in the park near the old fountain**."
+    },
+    {
+      "type": "matching",
+      "question": "Match the idiomatic expression with its meaning:\n1. Out of control\n2. In charge of\n\nA. Responsible for\nB. Not manageable or under control",
+      "answer": {
+        "1": "Out of control - B",
+        "2": "In charge of - A"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in idiomatic expressions, sports commentary, and everyday conversation. For example, the phrase 'hit the road' means to start a journey, and 'under the weather' indicates feeling ill. Being familiar with these expressions enhances your cultural fluency and helps you sound more natural in social interactions. Americans also frequently use prepositions in specific contexts like sports ('score **on** the goal') and business ('in charge **of** a project'), reflecting their importance in daily communication.",
+  "createdAt": "2025-12-24T04:44:15.017Z"
+}

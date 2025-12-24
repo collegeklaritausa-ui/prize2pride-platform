@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00437",
+  "number": 437,
+  "title": "Mastering Prepositions: Your First Step to English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the function of prepositions in sentences.",
+    "Identify common prepositions used in American English.",
+    "Use prepositions correctly in simple sentences.",
+    "Differentiate between various prepositions based on their context.",
+    "Build confidence to incorporate prepositions accurately in speech and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "A place or position.",
+      "example": "In, on, at, under, near."
+    },
+    {
+      "word": "Direction",
+      "definition": "Indicates movement toward or away from something.",
+      "example": "To, from, toward."
+    }
+  ],
+  "content": "Welcome to your journey of becoming a GOD of American English! Today, we focus on prepositions—small words with big power. Prepositions link nouns or pronouns to other words in a sentence, helping us describe where things are or where they are going. For example, in the sentence 'The cat is under the table,' the preposition 'under' tells us the position of the cat relative to the table.\n\nCommon prepositions include: in, on, at, under, over, above, below, near, between, behind, in front of, to, from, with.\n\nHere are some examples:\n- Location: \"The keys are in the drawer.\"\n- Direction: \"She is going to the store.\"\n- Time (sometimes considered a preposition): \"We will meet at 3 PM.\"\n\nRemember, prepositions are essential for making your sentences clear and precise. Practice using them to describe places, directions, and times. Now, let's put your new knowledge into action!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: The picture is ___ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "He is walking ___ the park.",
+      "answer": "through"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the mistake: The dog is under the table.",
+      "answer": "No mistake. The sentence is correct."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the preposition with its meaning:\n1. Behind\n2. Near\n3. To\n\nA. Movement toward\nB. At the back of\nC. Close to",
+      "answer": "1-B, 2-C, 3-A"
+    }
+  ],
+  "culturalNotes": "In American English, prepositions are often used in idiomatic expressions that reflect cultural norms. For example, 'at the corner' is common when giving directions, and 'on time' emphasizes punctuality, highly valued in American culture. Understanding these prepositions helps you navigate social interactions and follow directions confidently in the U.S.",
+  "createdAt": "2025-12-24T04:43:12.802Z"
+}

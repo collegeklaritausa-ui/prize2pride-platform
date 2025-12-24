@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00450",
+  "number": 450,
+  "title": "Mastering Prepositions: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify common American English prepositions and their correct usage.",
+    "Distinguish between prepositions of time, place, and direction.",
+    "Apply prepositions correctly in sentences to improve clarity and accuracy.",
+    "Understand and avoid common preposition errors made by intermediate learners.",
+    "Enhance overall fluency and confidence in constructing natural American English sentences."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating direction, place, time, or method.",
+      "example": "She sat **on** the chair."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers.",
+      "example": "The book **on the table** is mine."
+    },
+    {
+      "word": "Dangling Preposition",
+      "definition": "A preposition that appears at the end of a sentence or clause, often considered informal or incorrect in formal contexts.",
+      "example": "What are you talking **about**?"
+    }
+  ],
+  "content": "Prepositions are small but mighty words that connect nouns or pronouns to other parts of the sentence, providing essential details about time, location, direction, and relationships. In American English, prepositions are used extensively to create clear and natural expressions.\n\n**Types of Prepositions:**\n- **Prepositions of Place:** **in, on, at, under, between, among**\n  - *Example:* The keys are **in** the drawer.\n- **Prepositions of Time:** **before, after, during, at, on, in**\n  - *Example:* We will meet **at** 3 PM.\n- **Prepositions of Direction:** **to, into, onto, toward, through**\n  - *Example:* She walked **toward** the park.\n\n**Prepositional Phrases** add detail and depth to sentences. For example, \"The cat slept **under the warm blanket**\" provides more context.\n\n**Common Errors:**\n- Ending sentences with a preposition (e.g., \"What are you talking about?\") is acceptable in American English and often preferred for natural flow.\n- Confusing similar prepositions, such as **in** and **on**:\n  - *Correct:* The picture is **on** the wall.\n  - *Incorrect:* The picture is **in** the wall.\n\nMastering prepositions involves understanding their roles and practicing their correct placement to make your speech and writing more natural and precise.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'She is sitting ____ the chair.'",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: 'We will meet ____ noon.'",
+      "answer": "at"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error in this sentence: 'He walked into the room and sat on the chair.'",
+      "answer": "No correction needed; the sentence is correct."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions to their categories:\n1. in\n2. during\n3. toward\n4. under\nOptions:\nA. Place\nB. Time\nC. Direction",
+      "answer": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "A"
+      }
+    },
+    {
+      "type": "short answer",
+      "question": "Create a sentence using the preposition 'between.'",
+      "answer": "The conference room is located between the lobby and the offices."
+    }
+  ],
+  "culturalNotes": "In American culture, the preposition 'on' is frequently used for days and dates (e.g., 'on Monday,' 'on July 4th'), reflecting a preference for straightforward and practical language. Additionally, ending sentences with prepositions, once considered grammatically incorrect, is now widely accepted in American speech and informal writing, emphasizing natural communication over prescriptive rules.",
+  "createdAt": "2025-12-24T04:43:58.289Z"
+}

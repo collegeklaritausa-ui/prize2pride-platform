@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00426",
+  "number": 426,
+  "title": "Mastering Prepositions: The Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the role of prepositions in sentences",
+    "Identify common prepositions used in everyday American English",
+    "Use prepositions correctly to describe location, time, and direction",
+    "Differentiate between similar prepositions in context",
+    "Construct accurate sentences using appropriate prepositions"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "The position or place where something is situated.",
+      "example": "She is at the park."
+    },
+    {
+      "word": "Time",
+      "definition": "When an action occurs.",
+      "example": "The meeting is at 3 PM."
+    },
+    {
+      "word": "Direction",
+      "definition": "Indicates movement toward something.",
+      "example": "He walked into the room."
+    }
+  ],
+  "content": "Welcome to the world of prepositions, the tiny words that pack a big punch in American English! Prepositions help us describe where things are, when events happen, and how actions are directed. For beginners, mastering prepositions is essential to making your sentences clear and natural.\n\nCommon prepositions include: in, on, at, to, into, from, with, about, over, under, and between. For example:\n- Location: The keys are in the drawer.\n- Time: The party starts at 7 PM.\n- Direction: She is going to the store.\n\nRemember, prepositions are always followed by a noun or pronoun, called the object of the preposition. For example, in the phrase 'on the table,' 'on' is the preposition and 'the table' is the object.\n\nPractice makes perfect! Try replacing prepositions in your sentences to see how meaning changes and to build confidence in your usage.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: \nShe is sitting ____ the chair.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: \nWe will meet ____ 5 o'clock.",
+      "answer": "at"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the preposition 'into'.",
+      "answer": "He walked into the room."
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct usage:\n1. In\n2. Under\n3. Between\n\nA. The ball rolled ____ the table.\nB. The shoes are ____ the bed.\nC. The park is ____ the library and the school.",
+      "answer": "1-A, 2-B, 3-C"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in casual conversations to describe spatial relationships and time. For example, when giving directions, Americans commonly say 'Go **down** the street' or 'Turn **into** the parking lot.' Understanding prepositions helps in navigating social interactions, such as asking for help or giving instructions, making your communication clearer and more natural.",
+  "createdAt": "2025-12-24T04:42:38.074Z"
+}

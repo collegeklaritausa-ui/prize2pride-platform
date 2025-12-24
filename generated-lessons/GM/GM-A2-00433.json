@@ -1,0 +1,69 @@
+{
+  "id": "GM-A2-00433",
+  "number": 433,
+  "title": "Prepositions Power: Mastering the Basics of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the purpose of prepositions in sentences.",
+    "Identify common prepositions used in everyday American English.",
+    "Use prepositions correctly with nouns and pronouns.",
+    "Construct simple sentences using basic prepositions.",
+    "Gain confidence in speaking and writing with prepositions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "Where something is situated.",
+      "example": "The cat is under the chair."
+    },
+    {
+      "word": "Direction",
+      "definition": "Where someone or something is moving toward.",
+      "example": "She walked into the room."
+    },
+    {
+      "word": "Time",
+      "definition": "When something happens.",
+      "example": "We will meet at 3 p.m."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English grammar! Today, we focus on prepositions—small words with big power. Prepositions tell us where, when, or how something happens. For example, in the sentence 'The ball is **in** the box,' the word 'in' shows where the ball is.\n\nCommon prepositions include 'in,' 'on,' 'at,' 'under,' 'over,' 'between,' 'to,' 'from,' and 'with.' These words help create clear and precise sentences. \n\nLet's look at some examples:\n- Location: The keys are **on** the table.\n- Direction: She is going **to** the store.\n- Time: The meeting is **at** 5 o'clock.\n\nRemember, prepositions are usually followed by a noun or pronoun, called the object of the preposition. For example, in 'The dog sleeps **under** the bed,' 'under' is the preposition, and 'the bed' is its object.\n\nPractice using prepositions in your own sentences to improve your mastery. With time and practice, you'll be unstoppable in your American English skills!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The picture hangs ___ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: She is sitting ___ her friends at the cafe.",
+      "answer": "with"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Make a sentence using the preposition 'under.'",
+      "answer": "The cat is under the table."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions with their meanings:\n1. in  \n2. at  \n3. to  \n4. under\n\na. Moving toward something\nb. Inside something\nc. A specific point or location\nd. Beneath something",
+      "answer": {
+        "1": "b",
+        "2": "c",
+        "3": "a",
+        "4": "d"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are essential for clear communication, especially when giving directions or describing locations. For example, Americans often give detailed instructions using prepositions like 'turn **at** the corner' or 'the store is **next to** the bank.' Mastering prepositions will help you navigate and communicate effectively in everyday American settings.",
+  "createdAt": "2025-12-24T04:42:59.398Z"
+}

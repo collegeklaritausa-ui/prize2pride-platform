@@ -1,0 +1,68 @@
+{
+  "id": "GM-A2-00440",
+  "number": 440,
+  "title": "Prepositions Power: Mastering Basic Location Words",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the function of common prepositions in sentences",
+    "Identify prepositions that describe location and position",
+    "Use prepositions correctly in simple sentences",
+    "Distinguish between different prepositions of place",
+    "Build confidence in speaking and writing with prepositions"
+  ],
+  "vocabulary": [
+    {
+      "word": "in",
+      "definition": "Inside a space or area",
+      "example": "The books are in the backpack."
+    },
+    {
+      "word": "on",
+      "definition": "Touching a surface or platform",
+      "example": "The coffee is on the table."
+    },
+    {
+      "word": "under",
+      "definition": "Below or beneath something",
+      "example": "The shoes are under the bed."
+    },
+    {
+      "word": "next to",
+      "definition": "Adjacent or beside something",
+      "example": "The school is next to the park."
+    },
+    {
+      "word": "between",
+      "definition": "In the middle of two things",
+      "example": "The library is between the bank and the supermarket."
+    }
+  ],
+  "content": "Welcome to the world of prepositions! Prepositions are small words that link nouns or pronouns to other words in a sentence, giving us information about location, direction, or time. Today, we focus on prepositions of place, which tell us where something is.\n\nCommon prepositions of place include 'in', 'on', 'under', 'next to', and 'between'.\n\n- 'In' is used when something is inside a space: 'The cat is in the box.'\n- 'On' describes a surface: 'The book is on the table.'\n- 'Under' indicates below: 'The shoes are under the bed.'\n- 'Next to' means beside or close to: 'My friend sits next to me.'\n- 'Between' refers to something in the middle of two objects: 'The park is between the school and the library.'\n\nPractice using these prepositions by describing your surroundings or drawing pictures to show different locations.\n\nRemember, correct preposition use makes your sentences clearer and more natural in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Where is the book? The book is ___ the table.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The dog is ___ the sofa.",
+      "answer": "under"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition to its meaning:\n1. In\n2. Next to\n3. Between\nA. Beside\nB. Inside\nC. In the middle of two objects",
+      "answer": {
+        "1": "B",
+        "2": "A",
+        "3": "C"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, being precise with prepositions is important for clear communication, especially when giving directions or describing locations. Americans often use landmarks and specific prepositions to help others find places easily, such as 'The restaurant is next to the movie theater' or 'The park is between the school and the supermarket.' Practice describing your environment using prepositions to connect with American conversational style!",
+  "createdAt": "2025-12-24T04:43:22.173Z"
+}

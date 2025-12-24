@@ -1,0 +1,74 @@
+{
+  "id": "GM-B2-00451",
+  "number": 451,
+  "title": "Mastering Prepositions: Elevate Your American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the core functions and importance of prepositions in American English.",
+    "Identify common prepositions and their correct usage in sentences.",
+    "Differentiate between similar prepositions based on context.",
+    "Apply prepositional phrases to enhance clarity and expression.",
+    "Avoid common prepositional errors to sound more natural and confident."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that links nouns, pronouns, or phrases to other words within a sentence, showing relationships such as location, direction, time, or introducing an object.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers.",
+      "example": "Under the old oak tree, children played happily."
+    },
+    {
+      "word": "Directional Prepositions",
+      "definition": "Prepositions that indicate movement toward or away from something.",
+      "example": "She walked into the room."
+    },
+    {
+      "word": "Temporal Prepositions",
+      "definition": "Prepositions that specify time relationships.",
+      "example": "We will meet after lunch."
+    },
+    {
+      "word": "Preposition of Place",
+      "definition": "Prepositions used to describe the location of something.",
+      "example": "The keys are above the drawer."
+    }
+  ],
+  "content": "Prepositions are essential building blocks of clear and effective American English communication. They connect nouns and pronouns to other words, providing context and clarity. For upper-intermediate students, mastering prepositions involves understanding their nuanced uses and common pitfalls.\n\n**Types of Prepositions:**\n- **Place:** in, on, at, under, above, below, between, among\n- **Time:** before, after, during, since, until, by\n- **Direction:** to, into, onto, toward, through, across, out of\n- **Agent or Instrument:** by, with\n\n**Using Prepositions Effectively:**\n- Prepositions often form part of prepositional phrases which act as modifiers, adding descriptive detail:\n  - \"The cat is **under the sofa**.\"\n  - \"We will meet **after the movie**.\"\n- Choose the correct preposition based on context: \n  - Correct: \"She is interested **in** music.\"\n  - Incorrect: \"She is interested **on** music.\"\n- Be aware of preposition rules with verbs, adjectives, and nouns. For example, certain verbs are followed by specific prepositions:\n  - \"Listen **to** the teacher.\"\n  - \"Happy **about** the news.\"\n\n**Common Errors to Avoid:**\n- Ending sentences with prepositions (e.g., \"Where are you at?\")—more formal: \"Where are you?\"\n- Confusing similar prepositions—\"between\" (for two things) vs. \"among\" (for more than two).\n- Omitting prepositions where necessary, leading to ambiguity.\n\n**Tips for Mastery:**\n- Practice prepositional phrases regularly.\n- Read diverse American English texts to see prepositions in context.\n- Use visualization and diagramming to understand relationships.\n- Engage in exercises to reinforce correct usage.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: \nShe is sitting ____ the chair.",
+      "answer": "on"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "We will meet ____ noon.",
+      "answer": "at"
+    },
+    {
+      "type": "Identify the prepositional phrase",
+      "question": "In the sentence 'The students are under the trees,' what is the prepositional phrase?",
+      "answer": "under the trees"
+    },
+    {
+      "type": "Error correction",
+      "question": "Identify and correct the error: \nHe arrived to the party late.",
+      "answer": "He arrived **at** the party late."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the prepositions to their appropriate context:\n1. Before\n2. Into\n3. During\n4. Above\n\na. Time\nb. Place\nc. Direction",
+      "answer": "1-a, 2-c, 3-a, 4-b"
+    }
+  ],
+  "culturalNotes": "In American English, prepositions often reflect casual and conversational patterns, especially in spoken language. Americans tend to favor prepositions that denote directness and clarity, especially in everyday communication. Understanding prepositions also helps in comprehending idiomatic expressions, such as \"on the house\" (free of charge) or \"behind the scenes\" (secret or private activity). Mastery of prepositions enhances not only grammatical correctness but also cultural fluency, making your speech sound more natural and confident in American social and professional contexts.",
+  "createdAt": "2025-12-24T04:44:03.600Z"
+}

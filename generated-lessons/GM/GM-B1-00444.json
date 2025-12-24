@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00444",
+  "number": 444,
+  "title": "Mastering Prepositions: Your Path to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify common prepositions used in American English.",
+    "Understand the role of prepositions in sentence structure.",
+    "Distinguish between correct and incorrect preposition usage.",
+    "Use prepositions accurately in both written and spoken American English.",
+    "Apply prepositional phrases to enhance clarity and style."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other elements in a sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition, its object, and any modifiers.",
+      "example": "She sat **by the window** to enjoy the view."
+    },
+    {
+      "word": "Object of a Preposition",
+      "definition": "The noun or pronoun that follows a preposition and completes its meaning.",
+      "example": "He walked **through the park**."
+    }
+  ],
+  "content": "Prepositions are essential in American English as they help specify relationships of location, direction, time, and more. For example, in the sentence 'The cat is **under** the table,' the preposition 'under' indicates the position of the cat relative to the table. Common prepositions include 'in,' 'on,' 'at,' 'by,' 'with,' 'about,' 'for,' and 'to.'\n\nUnderstanding how prepositions work involves recognizing their placement and function within sentences. Prepositions are usually followed by a noun or pronoun called the object of the preposition, forming a prepositional phrase. For example, in 'She arrived **after the meeting**,' the prepositional phrase 'after the meeting' indicates when she arrived.\n\nIt's crucial to use prepositions correctly to avoid confusion. For instance, saying 'She is interested **on** music' is incorrect; it should be 'She is interested **in** music.'\n\nIn American English, prepositions often appear in set phrases and idiomatic expressions, such as 'look **forward to**' or 'be **about to**' happen. Mastery of prepositions enhances both your clarity and stylistic finesse in communication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: 'He is very good ___ basketball.'",
+      "answer": "at"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: 'We will meet ___ 3 PM tomorrow.'",
+      "answer": "at"
+    },
+    {
+      "type": "identify the preposition",
+      "question": "In the sentence 'The keys are **inside** the drawer,' what is the preposition?",
+      "answer": "inside"
+    },
+    {
+      "type": "correct the mistake",
+      "question": "Identify and correct the error: 'She is interested on learning new languages.'",
+      "answer": "She is interested **in** learning new languages."
+    },
+    {
+      "type": "create a sentence",
+      "question": "Use the preposition 'between' in a sentence about choosing options.",
+      "answer": "I couldn't decide **between** the red and blue shirts."
+    }
+  ],
+  "culturalNotes": "Prepositions in American English often appear in idiomatic expressions that reflect cultural norms and everyday life. For example, Americans frequently use prepositions like 'on' and 'in' when talking about time, such as 'on Monday' or 'in the morning,' highlighting the importance of punctuality and routine in American culture. Additionally, prepositional phrases are common in casual speech, enhancing friendliness and informality. Mastering prepositions not only improves grammatical accuracy but also helps you understand and participate in American social and cultural contexts with confidence.",
+  "createdAt": "2025-12-24T04:43:35.860Z"
+}

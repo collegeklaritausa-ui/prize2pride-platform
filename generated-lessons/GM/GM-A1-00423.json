@@ -1,0 +1,68 @@
+{
+  "id": "GM-A1-00423",
+  "number": 423,
+  "title": "Mastering American English Prepositions: The Building Blocks",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what prepositions are and their role in sentences",
+    "Identify common American English prepositions",
+    "Use prepositions correctly in simple sentences",
+    "Differentiate between prepositions of place, time, and direction",
+    "Improve sentence clarity and accuracy with proper preposition usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "A position or place.",
+      "example": "He is at school."
+    },
+    {
+      "word": "Direction",
+      "definition": "The path along which something moves or faces.",
+      "example": "She went toward the park."
+    },
+    {
+      "word": "Time",
+      "definition": "When an event occurs.",
+      "example": "The meeting is at 3 PM."
+    }
+  ],
+  "content": "Welcome to the world of prepositions, essential tools in American English that help us clarify relationships between people, places, and things. Think of prepositions as the glue that connects nouns and pronouns to other words in a sentence.\n\nCommon prepositions include words like 'in', 'on', 'at', 'to', 'from', 'with', 'about', 'under', 'over', and 'between'. For example:\n- Place: The cat is under the table.\n- Time: The party starts at 7 PM.\n- Direction: She is going to the store.\n\nPrepositions can be categorized into three main types:\n1. Prepositions of Place: in, on, at, under, between\n2. Prepositions of Time: in, on, at, during, before, after\n3. Prepositions of Direction: to, toward, into, onto\n\nUsing prepositions correctly makes your sentences clearer and more natural. For example, saying 'She is in the house' is correct, whereas 'She is on the house' is not.\n\nRemember, prepositions are usually followed by a noun or pronoun, called the object of the preposition. For instance, 'on the table' or 'at the park'.\n\nPractice makes perfect! Pay attention to prepositions when listening to English speakers, reading books, or watching movies. This will help you become a true GOD of American English!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'The keys are ___ the drawer.'",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: 'We will meet ___ 5 PM.'",
+      "answer": "at"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct category:\n1. under\n2. during\n3. toward\n\na. Place\nb. Time\nc. Direction",
+      "answer": {
+        "under": "a",
+        "during": "b",
+        "toward": "c"
+      }
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: 'He is sitting on the chair in the room.'",
+      "answer": "No mistake; the sentence is correct."
+    }
+  ],
+  "culturalNotes": "In American English, prepositions are used naturally in everyday conversations, whether talking about locations ('Meet me at the mall') or planning events ('The concert is on Saturday'). Americans often use prepositions casually, but it's important to learn their proper usage to sound fluent and clear. Prepositions also reflect cultural nuances, such as expressing time ('See you at noon') or movement ('He’s going to the gym'). Paying attention to how prepositions are used in American media will help you master their natural application.",
+  "createdAt": "2025-12-24T04:42:28.123Z"
+}

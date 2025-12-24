@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00406",
+  "number": 406,
+  "title": "Mastering the Art of Articles: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the rules for using definite and indefinite articles in American English.",
+    "Identify when to omit articles and recognize exceptions.",
+    "Apply correct article usage in various sentence structures.",
+    "Differentiate between specific and non-specific references using articles.",
+    "Achieve mastery in article usage to enhance clarity and professionalism in communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word that defines a noun as specific or unspecific, primarily 'a,' 'an,' or 'the' in English.",
+      "example": "She found a book on the table."
+    },
+    {
+      "word": "Definite Article",
+      "definition": "The article 'the' which specifies a particular noun.",
+      "example": "Pass me the salt, please."
+    },
+    {
+      "word": "Indefinite Article",
+      "definition": "Articles 'a' and 'an' used to refer to non-specific nouns.",
+      "example": "I saw a dog in the park."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson on Articles in American English—your ticket to mastering one of the trickiest aspects of grammar. Articles are small words but wield significant influence over meaning and clarity.\n\n**The Definite Article 'the'** is used when referring to specific, known entities or objects that are unique or previously mentioned. Examples include:\n- \"The sun rises in the east.\"\n- \"I saw the movie you recommended.\"\n\n**The Indefinite Articles 'a' and 'an'** are used when mentioning non-specific items for the first time or referring to any member of a group. Use 'a' before words that begin with a consonant sound, and 'an' before words that begin with a vowel sound:\n- \"I saw a cat in the yard.\"\n- \"She ate an apple.\"\n\n**Omission of Articles** occurs in specific contexts, such as plural nouns when talking about things in general:\n- \"Cats are playful.\"\n- \"He likes to read books.\"\n\n**Special Cases & Exceptions:**\n- Use 'the' with superlatives: \"She is the best player.\"\n- No article with proper nouns: \"John is coming over.\"\n- No article with most abstract nouns used in a general sense: \"Love is important.\"\n\nMastering articles enhances precision, making your communication clear and natural—an essential skill for any aspiring American English GOD.\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct article: I saw ___ owl in the tree.",
+      "answer": "an"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She wants ___ apple from the basket.",
+      "answer": "an"
+    },
+    {
+      "type": "Correction",
+      "question": "Identify and correct the mistake: I bought a umbrella yesterday.",
+      "answer": "an umbrella"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Write a sentence using 'the' to refer to a specific object you mentioned earlier.",
+      "answer": "I read the book you lent me."
+    },
+    {
+      "type": "True or False",
+      "question": "We do not use an article before plural nouns when talking about things in general.",
+      "answer": "True"
+    }
+  ],
+  "culturalNotes": "In American culture, precise use of articles reflects clarity and professionalism, especially in formal writing and speech. Mastery of articles demonstrates attention to detail and respect for language standards, which are highly valued in academic, business, and social contexts. Understanding when and how to use articles also helps in navigating American media, literature, and everyday conversation with confidence and authenticity.",
+  "createdAt": "2025-12-24T04:41:20.404Z"
+}

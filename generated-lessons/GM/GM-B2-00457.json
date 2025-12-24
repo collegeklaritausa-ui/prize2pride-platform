@@ -1,0 +1,73 @@
+{
+  "id": "GM-B2-00457",
+  "number": 457,
+  "title": "Mastering Prepositions: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Identify and understand the function of common prepositions in American English.",
+    "Differentiate between prepositions of place, time, and movement.",
+    "Use prepositions accurately in complex sentences and idiomatic expressions.",
+    "Resolve common prepositional errors made by upper-intermediate learners.",
+    "Apply prepositions confidently in both written and spoken American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book is *on* the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers.",
+      "example": "She sat *by the window* to enjoy the view."
+    },
+    {
+      "word": "Misuse",
+      "definition": "Incorrect use of a word or phrase, often leading to confusion or grammatical errors.",
+      "example": "Incorrect: He is good *in* playing basketball. Correct: He is good *at* playing basketball."
+    }
+  ],
+  "content": "Prepositions are small but mighty words that link nouns, pronouns, and phrases to other words within a sentence, establishing relationships of place, time, direction, and more. Mastery of prepositions is essential for clarity and sophistication in American English.\n\n**Types of Prepositions:**\n\n1. **Prepositions of Place and Position:** *on, in, at, under, over, between, beside*\n   - Example: The keys are *on* the counter.\n\n2. **Prepositions of Time:** *at, on, in, during, before, after*\n   - Example: The meeting is *at* 3 pm.\n\n3. **Prepositions of Movement/Direction:** *to, into, onto, through, toward*\n   - Example: She walked *toward* the park.\n\n**Common Challenges:**\n- Confusing *in* and *on*: *in* a city vs. *on* a street.\n- Using *at* for specific points of time and location.\n- Overusing prepositions where they are unnecessary or incorrect.\n\n**Idiomatic Expressions with Prepositions:**\n- *In charge of*: She is *in charge of* the project.\n- *Out of the blue*: Suddenly, *out of the blue*, he showed up.\n- *By way of*: We traveled *by way of* Chicago.\n\n**Prepositional Phrases and Their Usage:**\nUnderstanding how prepositional phrases function will help you craft more nuanced sentences.\n- Example: The movie *with the great soundtrack* is my favorite.\n\n**Tips for Mastery:**\n- Always learn prepositions with their common collocations.\n- Read extensively and pay attention to prepositional phrases.\n- Practice by creating sentences using different prepositions.\n\nBy mastering prepositions, you'll significantly enhance your clarity, fluency, and nuance in American English communication.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct preposition: The picture hangs ____ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Which sentence uses the preposition of time correctly?",
+      "options": [
+        "The concert is in Friday.",
+        "The concert is on Friday.",
+        "The concert is at Friday."
+      ],
+      "answer": "The concert is on Friday."
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error: She arrived at 5 o'clock in the afternoon.",
+      "answer": "No correction needed, sentence is correct."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the prepositions with their common phrases:\n1. In charge of\n2. Out of the blue\n3. By way of\nOptions:\na. She took a trip __ Chicago.\nb. He is ___ managing the team.\nc. The phone rang __ unexpectedly.",
+      "answer": {
+        "1": "b",
+        "2": "c",
+        "3": "a"
+      }
+    },
+    {
+      "type": "Creative sentence building",
+      "question": "Use the preposition 'through' in a sentence related to travel.",
+      "answer": "We drove through the mountains to reach our destination."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions often appear in idiomatic expressions and colloquial phrases that reflect everyday life, such as 'out of the blue' or 'in charge of.' Understanding these expressions will help you sound more natural and engaged in American conversations. Additionally, the American emphasis on punctuality makes prepositions of time like 'at,' 'on,' and 'in' especially important for scheduling and punctuality. Paying attention to these nuances will not only improve your grammar but also deepen your understanding of American social norms and communication styles.",
+  "createdAt": "2025-12-24T04:44:27.986Z"
+}

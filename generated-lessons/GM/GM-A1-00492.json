@@ -1,0 +1,49 @@
+{
+  "id": "GM-A1-00492",
+  "number": 492,
+  "title": "Conjunctions: Connecting Ideas Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the role of conjunctions in sentences.",
+    "Identify common coordinating conjunctions: and, but, or, nor, for, so, yet.",
+    "Use conjunctions to combine simple sentences into more complex ones.",
+    "Distinguish between coordinating and subordinating conjunctions.",
+    "Create sentences using the appropriate conjunctions to improve clarity and flow."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "She likes tea and coffee."
+    },
+    {
+      "word": "Coordinate",
+      "definition": "To link elements of equal importance using conjunctions.",
+      "example": "The team worked hard, and they succeeded."
+    }
+  ],
+  "content": "Welcome to the world of conjunctions—your key to connecting ideas smoothly! In American English, conjunctions are words that join parts of sentences to make your speech and writing clearer and more natural.\n\nThere are two main types of conjunctions: coordinating and subordinating. Today, we'll focus on coordinating conjunctions, which connect words or groups of words that are of equal importance.\n\nThe most common coordinating conjunctions are: 'and', 'but', 'or', 'nor', 'for', 'so', and 'yet'. Let's look at some examples:\n\n- She wants to go to the park, **and** she plans to bring her dog.\n- I like coffee, **but** I prefer tea.\n- Would you like apples **or** oranges?\n- He didn't see the sign, **for** he was distracted.\n- It was raining, **so** we stayed indoors.\n- She was tired, **yet** she finished her homework.\n\nUsing conjunctions helps you combine simple sentences into more complex and interesting ones. For example:\n\nSimple sentences:\n- I am hungry. I want to eat.\n\nWith conjunction:\n- I am hungry, **and** I want to eat.\n\nRemember, placing a comma before the conjunction improves the sentence's clarity.\n\nSubordinating conjunctions (like because, although, since) link dependent and independent clauses, but we'll cover those in a later lesson.\n\nPractice makes perfect! Start combining sentences using conjunctions to sound more natural and confident in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences correctly uses a coordinating conjunction?",
+      "answer": "She wants to read a book, but she is too busy."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct conjunction to complete the sentence: I like basketball, ____ I don't like soccer.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Combine these two sentences using an appropriate conjunction: 'It was cold. We went inside.'",
+      "answer": "It was cold, **so** we went inside."
+    }
+  ],
+  "culturalNotes": "In American culture, casual conversations often include conjunctions to connect ideas smoothly, making speech more natural. Using conjunctions correctly can help you sound more fluent and confident, whether you're chatting with friends, participating in meetings, or writing emails. Americans value clarity and flow in communication, so mastering conjunctions is a step toward mastering American English.",
+  "createdAt": "2025-12-24T04:46:48.970Z"
+}

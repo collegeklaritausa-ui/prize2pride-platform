@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00407",
+  "number": 407,
+  "title": "Mastering Articles: Unlock the Secrets of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the correct usage of definite and indefinite articles in American English.",
+    "Identify situations where 'a,' 'an,' and 'the' are appropriately used.",
+    "Apply article rules to enhance clarity and precision in writing and speaking.",
+    "Distinguish between specific and non-specific references using articles.",
+    "Achieve mastery in article usage to elevate language fluency to a professional level."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific, such as 'a,' 'an,' or 'the.'",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an indefinite article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to specific or known nouns.",
+      "example": "Pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "Articles 'a' and 'an,' used for non-specific or first-time mention of nouns.",
+      "example": "She adopted a cat from the shelter."
+    }
+  ],
+  "content": "Articles are small but powerful words that define the noun's specificity in a sentence. In American English, the two types of articles are the definite article 'the' and the indefinite articles 'a' and 'an.'\n\n1. **Definite Article 'the'**: Used when referring to a specific object or group that both speaker and listener are familiar with. Example: 'The sun rises in the east.'\n\n2. **Indefinite Articles 'a' and 'an'**: Used when mentioning a non-specific object or introducing a new noun. 'A' is used before words beginning with consonant sounds, while 'an' precedes vowel sounds.\n\n    - Example with 'a': 'I saw a bird in the tree.'\n\n    - Example with 'an': 'She is eating an apple.'\n\n**Special Rules and Tips:**\n- Use 'an' before words starting with a vowel sound, not necessarily a vowel letter (e.g., 'an hour,' 'an honor').\n- Do not use an article with plural nouns or uncountable nouns when referring to things in general (e.g., 'Cats are playful' instead of 'The cats are playful' unless specifying particular cats).\n- Use 'the' when both the speaker and listener know the specific thing being discussed.\n\nMastering articles requires attention to detail and familiarity with context. Proper use of articles makes your communication clearer and more natural, bringing your mastery of American English to new heights.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ elephant at the zoo.",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate article: ___ sun sets in the west.",
+      "answer": "The"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'a' before a vowel sound is correct. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the error in the following sentence: I have an idea for a new project.",
+      "answer": "No correction needed."
+    },
+    {
+      "type": "short answer",
+      "question": "When should you use 'the' instead of 'a' or 'an'?",
+      "answer": "Use 'the' when referring to a specific object or when both speaker and listener know which object is being discussed."
+    }
+  ],
+  "culturalNotes": "In American culture, specific references using 'the' often relate to well-known landmarks, institutions, or shared experiences, such as 'the White House,' 'the internet,' or 'the school.' Mastery of article usage enhances clarity and demonstrates a high level of language proficiency, which is highly valued in academic, professional, and social settings across the United States.",
+  "createdAt": "2025-12-24T04:41:23.957Z"
+}

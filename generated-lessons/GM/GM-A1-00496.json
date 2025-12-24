@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00496",
+  "number": 496,
+  "title": "Mastering Conjunctions: Building Strong Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify common coordinating conjunctions in American English.",
+    "Understand the function of conjunctions in sentence structure.",
+    "Use conjunctions correctly to connect words and phrases.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Create clear and compound sentences using conjunctions confidently."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word used to connect words, phrases, or clauses.",
+      "example": "And, but, or, so, because are common conjunctions."
+    },
+    {
+      "word": "coordinate",
+      "definition": "To connect equal parts in a sentence.",
+      "example": "The word 'and' coordinates two ideas."
+    }
+  ],
+  "content": "Welcome to the realm of conjunctions! These small but mighty words are the glue that holds your sentences together, making your speech and writing fluid and expressive. In American English, conjunctions serve to connect words, phrases, and clauses, allowing you to build complex and engaging sentences.\n\n**Types of Conjunctions:**\n- **Coordinating Conjunctions:** These connect words, phrases, or independent clauses of equal importance. The most common are **and**, **but**, **or**, **nor**, **for**, **yet**, and **so**.\n- **Subordinating Conjunctions:** These introduce dependent clauses and show the relationship between the dependent and independent parts. Examples include **because**, **although**, **since**, **if**, and **when**.\n\n**Examples:**\n- Coordinating: *I want pizza **and** soda.*\n- Subordinating: *I stayed home **because** it was raining.*\n\nUsing conjunctions correctly helps you create clear and well-structured sentences. For example, instead of saying, *I like tea. I like coffee,* you can say, *I like tea **and** coffee.*\n\nRemember, mastering conjunctions is key to becoming a fluent speaker. Practice combining ideas smoothly and confidently!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which conjunction correctly completes the sentence? 'I want to go for a walk, ___ it is raining.'",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with a suitable coordinating conjunction: 'She is both smart ___ kind.'",
+      "answer": "and"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Combine these two sentences using a conjunction: 'It was cold. We went inside.'",
+      "answer": "It was cold **so** we went inside."
+    },
+    {
+      "type": "identify the conjunction",
+      "question": "In the sentence 'I'll call you when I arrive,' what is the conjunction?",
+      "answer": "when"
+    }
+  ],
+  "culturalNotes": "In American culture, clear communication and the ability to connect ideas effectively are valued highly. Conjunctions help speakers and writers express their thoughts seamlessly, whether in casual conversations, business settings, or academic writing. Mastery of conjunctions reflects a person's ability to articulate complex ideas simply and clearly, a key aspect of effective American English communication.",
+  "createdAt": "2025-12-24T04:47:03.324Z"
+}

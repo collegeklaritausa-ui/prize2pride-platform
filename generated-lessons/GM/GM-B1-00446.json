@@ -1,0 +1,63 @@
+{
+  "id": "GM-B1-00446",
+  "number": 446,
+  "title": "Mastering American English Prepositions: Your Path to Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and importance of prepositions in American English.",
+    "Identify common prepositions used in everyday contexts.",
+    "Recognize the correct placement of prepositions in sentences.",
+    "Differentiate between related prepositions and their specific uses.",
+    "Apply prepositions accurately in both spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, plus any modifiers.",
+      "example": "Under the bright stars, we danced all night."
+    },
+    {
+      "word": "Object of a Preposition",
+      "definition": "The noun or pronoun that follows a preposition and completes its meaning.",
+      "example": "She sat beside her friend."
+    }
+  ],
+  "content": "Prepositions are small but mighty words that establish relationships in a sentence, indicating location, direction, time, and other abstract connections. In American English, prepositions are essential for clarity and precision.\n\nCommon prepositions include: in, on, at, by, with, about, for, to, from, under, over, between.\n\nExamples:\n- Location: The keys are in the drawer.\n- Direction: She is going to the store.\n- Time: The meeting is at 3 PM.\n\nPrepositional phrases add detail: \n- The cat slept under the warm blanket.\n- We traveled across the country.\n\nNote: Pay attention to prepositions that sometimes cause confusion, such as 'on' vs. 'in' (e.g., in a city vs. on a street), and ensure their correct usage based on context.\n\nRemember, prepositions often have idiomatic use in American English, so exposure and practice are key to mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'She is interested ___ learning new languages.'",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct preposition: 'The picture hangs ___ the wall.'",
+      "answer": "on"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake in this sentence: 'He arrived at the train station in time.'",
+      "answer": "Correct as is. (Note: 'at' is correct for 'train station' and 'in' is correct for 'time'.)"
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions to their typical usage:\n1. in\n2. on\n3. at\n\nA. A specific point or location\nB. An enclosed space\nC. A surface or object\n",
+      "answer": {
+        "in": "B",
+        "on": "C",
+        "at": "A"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used idiomatically, especially in everyday speech and media. For example, expressions like 'on time' (punctual), 'in charge of' (responsible), and 'at ease' (comfortable) showcase the nuanced use of prepositions. Understanding these idiomatic uses enhances natural communication and helps students sound more fluent and culturally aware.",
+  "createdAt": "2025-12-24T04:43:42.895Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00480",
+  "number": 480,
+  "title": "Mastering Prepositions: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and understand the function of common prepositions in American English.",
+    "Differentiate between prepositions of time, place, and direction.",
+    "Use prepositions correctly in both written and spoken contexts.",
+    "Recognize and correct common prepositional errors to enhance clarity.",
+    "Apply prepositional phrases effectively to add detail and nuance to communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word used to link nouns, pronouns, or phrases to other words within a sentence, indicating relationships such as direction, place, time, or introducing an object.",
+      "example": "The book is *on* the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers, functioning as a single part of speech.",
+      "example": "She arrived *before the meeting*."
+    }
+  ],
+  "content": "Prepositions are essential components of English grammar that establish relationships between different parts of a sentence. Mastery of prepositions allows you to express location, time, direction, and other relationships precisely. For example, in the sentence 'The cat is *under* the bed,' the preposition 'under' shows the relationship of the cat's position relative to the bed.\n\nCommon prepositions of place include *in, on, at, under, over, between,* and *next to.* Prepositions of time include *before, after, during, until, at, on,* and *by.* Prepositions of direction often include *to, toward, into, out of, through,* and *across.*\n\nUsing prepositions correctly involves understanding their function within a sentence and choosing the appropriate preposition to convey your intended relationship. For instance, saying \"I will meet you *at* 5 pm\" specifies a particular time, while \"I will meet you *in* the park\" indicates a location.\n\nRemember, prepositions often form prepositional phrases, which provide additional context: \"He sat *on the sofa* during the movie.\" Here, 'on the sofa' is the prepositional phrase, giving more detail about where he sat.\n\nPractice and attention to detail are key to mastering prepositions, which will elevate your American English to a mastery level.",
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct preposition to complete the sentence: 'She is sitting ___ the chair.'",
+      "answer": "on"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "question": "Fill in the blank with the appropriate preposition: 'We will travel ___ New York next week.'",
+      "answer": "to"
+    },
+    {
+      "type": "sentence_correction",
+      "question": "Identify and correct the prepositional error: 'He was born on July 4th in 1990.'",
+      "answer": "He was born on July 4th, 1990."
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct category: (1) in, (2) before, (3) toward, (4) at",
+      "answer": {
+        "in": "place",
+        "before": "time",
+        "toward": "direction",
+        "at": "place/time"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used idiomatically, which can sometimes confuse learners. For example, Americans say 'on time' (meaning punctual) rather than 'in time,' despite the literal meaning. Additionally, prepositional phrases are prominent in everyday speech, from giving directions ('Turn left *at* the corner') to scheduling ('The meeting is *at* 3 PM'). Understanding these common usages enhances both comprehension and natural expression in American English.",
+  "createdAt": "2025-12-24T04:45:59.513Z"
+}

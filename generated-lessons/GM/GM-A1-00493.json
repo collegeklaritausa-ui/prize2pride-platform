@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00493",
+  "number": 493,
+  "title": "Conjunctions: Connecting Your Sentences Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand what conjunctions are and their role in sentences",
+    "Identify common coordinating and subordinating conjunctions",
+    "Use conjunctions correctly to connect ideas and sentences",
+    "Differentiate between coordinating and subordinating conjunctions",
+    "Create sentences using a variety of conjunctions to improve clarity and flow"
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence",
+      "example": "I like apples and oranges. ('and' is a conjunction)"
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins equal parts of a sentence, such as words, phrases, or independent clauses",
+      "example": "for, and, nor, but, or, yet, so"
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause",
+      "example": "because, although, since, unless, while"
+    }
+  ],
+  "content": "Welcome to the world of conjunctions, the magic words that help you connect ideas smoothly and clearly. In American English, conjunctions are essential for making your speech and writing more natural and coherent.\n\nThere are two main types of conjunctions:\n\n1. **Coordinating Conjunctions**: These connect equal parts of a sentence. Remember the acronym FANBOYS to recall the most common ones: for, and, nor, but, or, yet, so.\n\n   - Example: I wanted to go to the park, but it started raining.\n\n2. **Subordinating Conjunctions**: These connect a dependent (subordinate) clause to an independent (main) clause. They often introduce reasons, contrasts, or conditions.\n\n   - Example: She stayed home because she was feeling sick.\n\nLet’s look at how they work:\n\n- Coordinating: I like coffee **and** tea.\n- Subordinating: I stayed indoors **because** it was raining.\n\nPracticing the use of conjunctions will help you create sentences that are more connected and meaningful. Remember, choosing the right conjunction depends on the relationship you want to express between ideas.\n\nNow, try combining your sentences using conjunctions and see how your language becomes more fluent!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "and"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "She wanted to go to the beach, ___ it was too cold outside.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Create a sentence using the subordinating conjunction 'because'.",
+      "answer": "I stayed inside because it was raining."
+    },
+    {
+      "type": "identify the conjunction",
+      "question": "In the sentence 'He studies hard so he can pass the exam', what is the conjunction?",
+      "answer": "so"
+    }
+  ],
+  "culturalNotes": "In American English, conjunctions are frequently used in everyday speech and informal writing to connect ideas quickly and naturally. Americans value clear and direct communication, so mastering conjunctions helps you express your thoughts fluently and confidently. For example, using 'but' to show contrast, as in 'I wanted to go to the game, but I was too busy,' reflects typical American conversational style.",
+  "createdAt": "2025-12-24T04:46:52.540Z"
+}

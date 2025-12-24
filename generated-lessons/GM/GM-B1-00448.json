@@ -1,0 +1,54 @@
+{
+  "id": "GM-B1-00448",
+  "number": 448,
+  "title": "Mastering Prepositions: Unlock the Power of Precise Expressions",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the role and function of prepositions in American English.",
+    "Identify common prepositions and their correct usage in sentences.",
+    "Differentiate between prepositions of place, time, and movement.",
+    "Apply prepositions accurately in both written and spoken language.",
+    "Avoid common preposition errors to sound more natural and confident."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word used to link nouns, pronouns, or phrases to other words within a sentence, indicating relationships such as location, time, or direction.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition, its object, and any modifiers, functioning together as a unit within a sentence.",
+      "example": "She sat beside her friend."
+    }
+  ],
+  "content": "Prepositions are small but mighty words that establish relationships between different parts of a sentence. They often indicate location (in, on, at), time (before, after, during), or movement (toward, into, across). Mastery of prepositions allows you to specify the details of your message with clarity and precision.\n\n**Understanding Prepositions:**\nPrepositions connect a noun or pronoun (the object) to other words, creating prepositional phrases that add context. For example, in \"The dog is under the table,\" \"under\" links the dog to the table, explaining the dog's position.\n\n**Common Categories of Prepositions:**\n- *Place:* in, on, at, beside, between, under, over\n- *Time:* before, after, during, until, since\n- *Movement:* to, into, onto, out of, through, across\n\n**Using Prepositions Correctly:**\n- Remember that prepositions are usually followed by a noun or pronoun.\n- Avoid ending sentences with prepositions in formal writing, e.g., \"the book on which I rely\" instead of \"the book I rely on.\"\n- Be aware of prepositional idioms and fixed expressions (e.g., \"by the way,\" \"on behalf of\").\n\n**Examples:**\n- Place: \"The keys are on the counter.\"\n- Time: \"We will meet after lunch.\"\n- Movement: \"She ran toward the park.\"\n\nPracticing prepositions in context helps develop natural fluency and enhances your ability to describe situations accurately.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: \nShe is interested ___ learning French.",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: \nThe children are playing ___ the yard.",
+      "answer": "in"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the preposition error: \nHe is good in basketball.",
+      "answer": "He is good at basketball."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions with their typical usage category:\n1. Before\n2. Into\n3. Beside\n4. During\n\nA. Time\nB. Movement\nC. Place",
+      "answer": "1-A, 2-B, 3-C, 4-A"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in idiomatic expressions and casual speech, making communication more expressive and natural. For example, phrases like \"in charge of,\" \"under the weather,\" or \"at the end of the day\" are common in everyday conversations. Understanding these nuances helps learners sound more authentic and culturally aware in their language use.",
+  "createdAt": "2025-12-24T04:43:50.420Z"
+}

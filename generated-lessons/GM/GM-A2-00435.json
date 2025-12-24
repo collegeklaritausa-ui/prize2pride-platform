@@ -1,0 +1,73 @@
+{
+  "id": "GM-A2-00435",
+  "number": 435,
+  "title": "Mastering Prepositions: Your Gateway to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the function of prepositions in sentences",
+    "Identify common prepositions used in American English",
+    "Use prepositions correctly in simple sentences",
+    "Differentiate between prepositions of place, time, and direction",
+    "Enhance sentence clarity and accuracy using prepositions"
+  ],
+  "vocabulary": [
+    {
+      "word": "preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "location",
+      "definition": "Where something is positioned.",
+      "example": "The cat is under the bed."
+    },
+    {
+      "word": "direction",
+      "definition": "Where something is going or moving toward.",
+      "example": "She is walking to school."
+    },
+    {
+      "word": "time",
+      "definition": "When something happens.",
+      "example": "We will meet at 3 PM."
+    },
+    {
+      "word": "prepositional phrase",
+      "definition": "A group of words that begins with a preposition and includes the object.",
+      "example": "In the morning, I like to read."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on prepositions, tiny words that make big differences in meaning. Prepositions connect nouns and pronouns to other words, giving us details about where, when, and how things happen.\n\n**Types of Prepositions:**\n- **Prepositions of Place:** in, on, under, between, beside\n- **Prepositions of Time:** at, during, before, after, on\n- **Prepositions of Direction:** to, toward, into, onto, through\n\n**Examples:**\n- Place: The keys are in the drawer.\n- Time: The meeting is at 2 PM.\n- Direction: They are going to the park.\n\n**Using Prepositions:**\n- Prepositions are always followed by a noun or pronoun called the object.\n- Prepositional phrases add details: \"On the table,\" \"Before noon.\"\n\nRemember, mastering prepositions helps your sentences become clearer and more natural in American English. Practice using different prepositions to describe where, when, and how actions happen!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The cat is ____ the sofa.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: We will meet ____ the park at 5 PM.",
+      "answer": "at"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition to its category:\n1. in\n2. before\n3. toward\n\na. Place\nb. Time\nc. Direction",
+      "answer": {
+        "1": "a",
+        "2": "b",
+        "3": "c"
+      }
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the preposition 'under'.",
+      "answer": "The puppy hid under the bed."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in everyday speech to give details about where and when activities happen. For example, Americans frequently say 'meet me at the corner' or 'see you after school.' Understanding and correctly using prepositions not only improves your grammar but also helps you connect better in social and professional situations, making your English sound more natural and fluent.",
+  "createdAt": "2025-12-24T04:43:06.233Z"
+}

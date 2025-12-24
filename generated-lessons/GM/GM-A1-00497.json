@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00497",
+  "number": 497,
+  "title": "Conjunctions: Building Strong Sentences in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify common conjunctions used in American English.",
+    "Understand the function of coordinating and subordinating conjunctions.",
+    "Use conjunctions correctly to connect words and clauses.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Create complex and compound sentences using appropriate conjunctions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses, sentences, or words.",
+      "example": "and, but, or, because"
+    },
+    {
+      "word": "Coordinate conjunction",
+      "definition": "A conjunction that connects words, phrases, or independent clauses of equal importance.",
+      "example": "for, and, nor, but, or, yet, so"
+    },
+    {
+      "word": "Subordinate conjunction",
+      "definition": "A conjunction that introduces a subordinate clause and connects it to a main clause.",
+      "example": "because, although, since, unless"
+    }
+  ],
+  "content": "In American English, conjunctions are essential tools for constructing clear and sophisticated sentences. There are two main types of conjunctions:\n\n1. **Coordinating Conjunctions**: These join two equal parts of a sentence, such as two words, phrases, or independent clauses. Remember the acronym FANBOYS to recall these: **For, And, Nor, But, Or, Yet, So**. \n\n   - Example: I wanted to go for a walk, **but** it was raining.\n   \n2. **Subordinating Conjunctions**: These connect a dependent (subordinate) clause to an independent clause, providing additional information or context.\n\n   - Examples include **because, although, since, unless, when, while**.\n\n   - Example: She stayed inside **because** it was cold outside.\n\nUsing conjunctions correctly helps you make your sentences more complex and expressive. For instance, instead of saying two simple sentences: \"I am tired. I will rest,\" you can combine them: \"I am tired **so** I will rest.**\n\nPractice using different conjunctions to see how they change the meaning and structure of your sentences. Becoming comfortable with conjunctions will make your English sound more natural and fluent.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I wanted to play outside, ___ it started raining.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Combine these two sentences using a subordinating conjunction: 'She was hungry. She ate a sandwich.'",
+      "answer": "She was hungry **because** she ate a sandwich."
+    },
+    {
+      "type": "true/false",
+      "question": "Conjunctions can only connect two words, not clauses.",
+      "answer": "False"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunctions to their type:\n1. and\n2. because\n3. or\n4. although\n\na. coordinating\nb. subordinating",
+      "answer": "1-a, 2-b, 3-a, 4-b"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conjunctions is vital for expressing ideas clearly and politely. Americans often prefer direct and concise sentences, but using conjunctions effectively allows for more nuanced communication. In informal settings, contractions and simple conjunctions make speech sound natural, while in formal writing, more complex conjunctions can elevate your language. Mastery of conjunctions will help you sound confident and articulate in both casual conversations and professional contexts.",
+  "createdAt": "2025-12-24T04:47:06.644Z"
+}

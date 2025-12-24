@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00494",
+  "number": 494,
+  "title": "Conquering Conjunctions: Your Path to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose of conjunctions in sentences.",
+    "Identify common coordinating and subordinating conjunctions.",
+    "Use conjunctions correctly to connect words, phrases, and clauses.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Create sentences that demonstrate proper conjunction usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "I like apples and oranges."
+    },
+    {
+      "word": "coordinating conjunction",
+      "definition": "A conjunction that joins equal parts of a sentence, such as words or independent clauses.",
+      "example": "for, and, nor, but, or, yet, so"
+    },
+    {
+      "word": "subordinating conjunction",
+      "definition": "A conjunction that joins a dependent clause to an independent clause.",
+      "example": "because, although, since, if, when, while"
+    }
+  ],
+  "content": "Welcome to your journey toward mastering conjunctions in American English! Conjunctions are the glue that holds your sentences together, making your speech and writing clear and fluent.\n\n**What are conjunctions?**\nConjunctions are words that connect other words, phrases, or clauses within a sentence. They help you combine ideas smoothly.\n\n**Types of conjunctions:**\n1. **Coordinating Conjunctions**: Join equal parts of a sentence.\n   - Example: \"She likes tea **and** coffee.\"\n   - List of common coordinating conjunctions: for, and, nor, but, or, yet, so\n2. **Subordinating Conjunctions**: Connect a dependent clause to an independent clause.\n   - Example: \"I stayed inside **because** it was raining.\"\n   - Common subordinating conjunctions: because, although, since, if, when, while\n\n**Using conjunctions:**\n- To add ideas: \"I want to go to the park **and** play soccer.\"\n- To contrast ideas: \"She is tired, **but** she keeps working.\"\n- To show cause and effect: \"It was late, **so** I went home early.\"\n- To introduce conditions: \"**If** it rains, we will stay indoors.\"\n\nPractice makes perfect! Try combining simple sentences using different conjunctions to express your thoughts more clearly.\n\nRemember, mastering conjunctions will elevate your ability to communicate effectively in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "and"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Choose the correct conjunction to complete the sentence: I wanted to go for a walk, ___ it was raining.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Combine these two sentences using a subordinating conjunction: 'She was hungry. She ate a sandwich.'",
+      "answer": "She was hungry **because** she ate a sandwich."
+    },
+    {
+      "type": "true/false",
+      "question": "The word 'or' is a subordinating conjunction. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "matching",
+      "question": "Match the conjunction to its type:\n1. although\n2. or\n3. because\n\nA. Coordinating\nB. Subordinating",
+      "answer": "1-B, 2-A, 3-B"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of conjunctions is vital for effective communication, especially in persuasive speech, storytelling, and professional writing. Americans value clarity and connection in language, making mastery of conjunctions an important step toward becoming a fluent speaker and writer. Understanding how to link ideas smoothly reflects the value placed on clear and engaging communication in both casual and formal settings.",
+  "createdAt": "2025-12-24T04:46:57.179Z"
+}

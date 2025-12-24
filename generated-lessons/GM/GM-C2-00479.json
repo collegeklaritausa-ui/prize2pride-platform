@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00479",
+  "number": 479,
+  "title": "Prepositions Unleashed: Mastering the Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and understand the function of common prepositions in American English.",
+    "Use prepositions correctly in sentences to convey precise meaning.",
+    "Differentiate between prepositions of time, place, and direction.",
+    "Recognize and correct common errors involving prepositions.",
+    "Apply prepositions confidently in both written and spoken American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition, its object, and any modifiers.",
+      "example": "She sat beside her friend at the concert."
+    },
+    {
+      "word": "Object of a Preposition",
+      "definition": "The noun or pronoun that follows a preposition and completes its meaning.",
+      "example": "He walked through the park."
+    }
+  ],
+  "content": "Prepositions are essential in American English for expressing relationships of time, place, direction, and other abstract connections. They act as bridges linking nouns or pronouns to other parts of the sentence, forming prepositional phrases that add clarity and detail.\n\n**Types of Prepositions:**\n- *Prepositions of Place*: in, on, at, next to, between, under, over\n  - *Example*: The keys are *on* the table.\n- *Prepositions of Time*: before, after, during, at, since, for\n  - *Example*: We will meet *after* lunch.\n- *Prepositions of Direction*: to, toward, into, out of, onto\n  - *Example*: She walked *toward* the park.\n\n**Using Prepositions Correctly:**\n- Always place the object of the preposition after the preposition.\n- Be cautious with prepositions that often cause errors, such as *in* vs. *on*:\n  - *Incorrect*: She is good in basketball.\n  - *Correct*: She is good at basketball.\n\n**Common Prepositional Phrases in American English:**\n- in charge of\n- on behalf of\n- at odds with\n- out of control\n\n**Tips for Mastery:**\n- Learn prepositions in context, not just in isolation.\n- Practice forming prepositional phrases with vivid examples.\n- Be mindful of idiomatic expressions that include prepositions.\n\nMastering prepositions enables you to communicate more precisely and sound more natural in American English, transforming your language skills from basic to divine.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence:\n\"She is interested ____ learning new languages.\"",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition:\n\"The dog is sleeping ____ the couch.\"",
+      "answer": "on"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: \"He arrived at the office in 9 a.m.\"",
+      "answer": "He arrived at the office *at* 9 a.m."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions to their correct categories:\n1. during\n2. under\n3. toward\n4. since\n\na. Place\nb. Time\nc. Direction",
+      "answer": "1-b, 2-a, 3-c, 4-b"
+    }
+  ],
+  "culturalNotes": "In American English, prepositions are often used idiomatically, shaping expressions and cultural nuances. For example, the phrase \"on the weekend\" is preferred over \"at the weekend,\" highlighting regional usage. Understanding common prepositional idioms enhances your fluency and helps you connect better with American speakers and cultural references.",
+  "createdAt": "2025-12-24T04:45:55.860Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "GM-C2-00472",
+  "number": 472,
+  "title": "Prepositions of Mastery: Unlocking the Power of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and correctly use common prepositions in various contexts.",
+    "Differentiate between prepositions of place, time, and movement.",
+    "Construct complex sentences utilizing a variety of prepositions.",
+    "Eliminate common prepositional errors in spoken and written American English.",
+    "Apply prepositions confidently in everyday conversations and formal writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "preposition",
+      "definition": "A word that shows the relationship of a noun or pronoun to another word in the sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "location",
+      "definition": "The position or place where something is situated.",
+      "example": "She sat beside her friend."
+    },
+    {
+      "word": "direction",
+      "definition": "The course along which someone or something moves.",
+      "example": "They are heading toward the park."
+    },
+    {
+      "word": "time",
+      "definition": "Indicating when something happens.",
+      "example": "We will meet after lunch."
+    },
+    {
+      "word": "movement",
+      "definition": "Indicating motion from one place to another.",
+      "example": "He ran across the street."
+    }
+  ],
+  "content": "Mastering prepositions is essential for achieving fluency and clarity in American English. Prepositions connect nouns and pronouns to other words, indicating relationships of place, time, movement, and direction.\n\n**Prepositions of Place:** These describe the position of something. Examples include: on, in, at, under, over, between, beside.\n- *Example:* The keys are **in** the drawer.\n\n**Prepositions of Time:** These specify when an event occurs. Examples include: at, on, in, during, before, after.\n- *Example:* The meeting is **at** 3 PM.\n\n**Prepositions of Movement and Direction:** These describe movement toward or away from something. Examples include: to, from, toward, across, through.\n- *Example:* She walked **toward** the window.\n\n**Common Prepositional Phrases:** Sometimes, prepositions form phrases that have specific meanings, such as: in charge of, on behalf of, out of control.\n\n**Tips for Mastery:**\n- Always identify the relationship you want to express.\n- Memorize common prepositions and their typical collocations.\n- Practice constructing sentences with varied prepositions to enhance flexibility.\n- Be cautious of preposition placement, especially in questions and complex sentences.\n\nBy understanding these categories and practicing their usage, you will elevate your command of American English to GOD-like mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: 'She is interested ___ learning new languages.'",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The cat jumped ___ the sofa and hid ___ the cushions.",
+      "answer": "on; among"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the prepositional error: 'He is good in playing tennis.'",
+      "answer": "He is good at playing tennis."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions with their appropriate categories:\n1. in\n2. during\n3. toward\n4. under\nA. Place\nB. Time\nC. Movement/Direction",
+      "answer": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "A"
+      }
+    },
+    {
+      "type": "short answer",
+      "question": "Write a sentence using the preposition 'after' related to a daily routine.",
+      "answer": "I usually go for a run after breakfast."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used idiomatically, such as 'look after' (to take care of), 'deal with' (to handle), and 'come from' (origin). Mastery of these expressions enhances both comprehension and natural communication. Additionally, Americans value directness, so precise use of prepositions can make your speech clearer and more impactful in social and professional settings.",
+  "createdAt": "2025-12-24T04:45:27.335Z"
+}

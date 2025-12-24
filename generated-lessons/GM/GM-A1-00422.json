@@ -1,0 +1,58 @@
+{
+  "id": "GM-A1-00422",
+  "number": 422,
+  "title": "Prepositions Power: Mastering the Basics of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the function of common prepositions in sentences",
+    "Identify and use basic prepositions of place and time correctly",
+    "Differentiate between correct and incorrect prepositional phrases",
+    "Practice forming sentences using prepositions accurately",
+    "Build confidence to use prepositions naturally in everyday speech"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is **on** the table."
+    },
+    {
+      "word": "Place prepositions",
+      "definition": "Prepositions that indicate location or position.",
+      "example": "in, on, under, beside, between"
+    },
+    {
+      "word": "Time prepositions",
+      "definition": "Prepositions that specify when something happens.",
+      "example": "at, on, in, before, after"
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English grammar! Today, we'll focus on prepositions—small words with big impact. Prepositions link nouns or pronouns to other parts of the sentence, providing essential details about location, time, direction, and relationships.\n\n**Common Prepositions of Place:**\n- on: The picture is on the wall.\n- in: The cookies are in the jar.\n- under: The dog is under the table.\n- beside: The chair is beside the desk.\n- between: The park is between the school and the library.\n\n**Common Prepositions of Time:**\n- at: The class starts at 9 AM.\n- on: My birthday is on Monday.\n- in: We go on vacation in July.\n- before: Finish your homework before dinner.\n- after: We will go shopping after school.\n\n**Using Prepositions Correctly:**\n- Always choose the right preposition for the context.\n- Remember that prepositions are usually followed by a noun or pronoun.\n- Example: She is **at** the door. (not to the door)\n\n**Tip:** Think about relationships and locations when selecting prepositions—they help your sentences become clear and precise.\n\nNow, practice and internalize these prepositions to speak with confidence and clarity!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The cat is ___ the sofa.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct preposition: We will meet ___ 3 PM.",
+      "answer": "at"
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions with their correct usage:\n1. in  \n2. under  \n3. on\n\nA. The shoes are ___ the bed.\nB. The keys are ___ the table.\nC. The milk is ___ the fridge.",
+      "answer": {
+        "1": "C",
+        "2": "A",
+        "3": "B"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, punctuality is valued, especially in professional and social settings. Using correct prepositions when giving directions or describing locations reflects clarity and respect for social norms. When giving directions, Americans often use prepositions like 'at,' 'on,' and 'near,' so mastering these will help you navigate conversations confidently and culturally appropriately.",
+  "createdAt": "2025-12-24T04:42:24.222Z"
+}

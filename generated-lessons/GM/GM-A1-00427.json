@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00427",
+  "number": 427,
+  "title": "Prepositions Power: Mastering Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose and function of prepositions in sentences.",
+    "Identify common prepositions used in everyday American English.",
+    "Use prepositions correctly in simple sentences.",
+    "Differentiate between prepositions of place, time, and direction.",
+    "Build confidence in incorporating prepositions accurately in speech and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is **on** the table."
+    },
+    {
+      "word": "Location",
+      "definition": "The position or place of something.",
+      "example": "She lives **near** the park."
+    },
+    {
+      "word": "Time",
+      "definition": "When something happens.",
+      "example": "We will meet **at** 3 PM."
+    },
+    {
+      "word": "Direction",
+      "definition": "The way in which something moves or points.",
+      "example": "He is walking **toward** the school."
+    }
+  ],
+  "content": "Welcome to the world of prepositions, the tiny words that hold big power in English! Prepositions link nouns or pronouns to other words, giving us information about location, time, and direction. Mastering prepositions helps make your speech clearer and more natural.\n\nCommon prepositions of place include: **on**, **in**, **under**, **next to**, **between**.\nExamples:\n- The keys are **in** the drawer.\n- The cat is **under** the table.\n\nPrepositions of time include: **at**, **on**, **in**.\nExamples:\n- The meeting is **at** 9 AM.\n- My birthday is **on** Monday.\n- We go on vacation **in** July.\n\nPrepositions of direction include: **to**, **toward**, **into**, **onto**.\nExamples:\n- She is walking **to** the store.\n- The children ran **into** the park.\n\nRemember, prepositions are followed by a noun or pronoun, which we call the object of the preposition.\n\nPractice makes perfect! Use prepositions in your daily conversations and writing to become more fluent and natural in American English.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "The picture is hanging ___ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: We will meet ___ 5 PM.",
+      "answer": "at"
+    },
+    {
+      "type": "Sentence Formation",
+      "question": "Create a sentence using the preposition 'under'.",
+      "answer": "The cat is sleeping under the bed."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the preposition to its use:\n1. in\n2. on\n3. at\nA. Location\nB. Time\nC. Specific Point",
+      "answer": "1-A, 2-B, 3-C"
+    }
+  ],
+  "culturalNotes": "Prepositions are essential in American English, especially in casual conversations, directions, and giving instructions. Americans often use prepositions in idiomatic expressions like \"on time,\" \"at the moment,\" and \"in the bus.\" Understanding their proper use helps you blend seamlessly into American social and professional environments, making your language sound natural and confident.",
+  "createdAt": "2025-12-24T04:42:41.455Z"
+}

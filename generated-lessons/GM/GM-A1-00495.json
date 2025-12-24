@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00495",
+  "number": 495,
+  "title": "Conjunctions: Linking Ideas Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify common conjunctions used in American English.",
+    "Understand the function of coordinating conjunctions.",
+    "Use conjunctions to connect ideas in sentences correctly.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Create complex and compound sentences using conjunctions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word used to connect clauses or sentences or to coordinate words in the same clause.",
+      "example": "and, but, or, so, because"
+    }
+  ],
+  "content": "Conjunctions are essential tools in American English that help us connect words, phrases, and clauses to make our sentences clearer and more interesting. There are two main types of conjunctions:\n\n1. **Coordinating Conjunctions**: These join equal parts of a sentence. The most common are **and**, **but**, **or**, **nor**, **for**, **yet**, and **so**. \n\n   - Example: I want pizza **and** pasta.\n   - Example: She is tired **but** happy.\n\n2. **Subordinating Conjunctions**: These connect a dependent clause to an independent clause, showing a relationship like cause, time, or condition.\n\n   - Example: I stayed home **because** it was raining.\n   - Example: **When** he arrived, everyone was happy.\n\nUsing conjunctions correctly makes your speaking and writing more natural and fluent. Try combining simple sentences:\n\n- I like coffee. I drink it every morning.\n\nWith a conjunction:\n\n- I like coffee **and** I drink it every morning.\n\nOr:\n\n- I wanted to go out, **but** it was too cold.\n\nRemember, mastering conjunctions helps you build stronger sentences and express complex ideas effectively!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is a coordinating conjunction?",
+      "answer": "and"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She was tired ___ she kept working late.",
+      "answer": "but"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Combine these two sentences using a conjunction: 'I want to go swimming. It is raining.'",
+      "answer": "I want to go swimming **but** it is raining."
+    },
+    {
+      "type": "identify the conjunction",
+      "question": "In the sentence 'He stayed home because he was sick,' what is the conjunction?",
+      "answer": "because"
+    },
+    {
+      "type": "write your own",
+      "question": "Write a sentence using the conjunction 'or'.",
+      "answer": "Would you like tea **or** coffee?"
+    }
+  ],
+  "culturalNotes": "In American culture, conjunctions are often used in casual conversations to connect thoughts smoothly and naturally. Mastering their use helps you sound more fluent and friendly, which is valued in social and professional settings across the United States.",
+  "createdAt": "2025-12-24T04:47:00.327Z"
+}

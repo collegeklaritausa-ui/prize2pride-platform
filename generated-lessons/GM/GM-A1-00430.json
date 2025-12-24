@@ -1,0 +1,69 @@
+{
+  "id": "GM-A1-00430",
+  "number": 430,
+  "title": "Mastering Prepositions: Your Gateway to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the role of prepositions in sentence construction.",
+    "Identify common prepositions used in American English.",
+    "Use prepositions correctly in simple sentences.",
+    "Differentiate between prepositions of time, place, and movement.",
+    "Apply prepositions confidently in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Location",
+      "definition": "The position or place of something.",
+      "example": "The store is near my house."
+    },
+    {
+      "word": "Direction",
+      "definition": "The way in which someone or something moves or faces.",
+      "example": "He is going to the park."
+    },
+    {
+      "word": "Time",
+      "definition": "When something happens.",
+      "example": "We will meet at 3 p.m."
+    }
+  ],
+  "content": "Prepositions are small words that link nouns or pronouns to other parts of the sentence, providing important details about location, time, or movement. For example, in the sentence 'The cat is under the table,' the preposition 'under' shows the location of the cat. Common prepositions in American English include 'in,' 'on,' 'at,' 'by,' 'to,' 'from,' 'with,' and 'about.'\n\nPrepositions of place tell us where something is: 'in,' 'on,' 'at,' 'beside.' For example, 'The keys are in the drawer.'\n\nPrepositions of time tell us when something happens: 'at,' 'on,' 'in.' For example, 'We have a meeting at 5 p.m.'\n\nPrepositions of movement or direction include 'to,' 'from,' 'toward,' 'through.' For example, 'She is walking to the store.'\n\nRemember, prepositions are always followed by a noun or pronoun. Practice using them to describe where, when, and how actions happen to become a master of American English grammar!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank with the correct preposition: The dog is ____ the yard.",
+      "answer": "in"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: We will meet ____ 3 p.m. today.",
+      "answer": "at"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Create a sentence using the preposition 'by' to describe a location.",
+      "answer": "The coffee shop is by the library."
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition to its correct category:\n1. in\n2. at\n3. to\n4. on\nA. Place\nB. Time\nC. Movement",
+      "answer": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "A"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in everyday conversations to specify location, time, and direction. For example, giving directions often involves prepositions like 'turn left at the corner' or 'the restaurant is across from the bank.' Understanding and using prepositions correctly helps you navigate social situations, follow instructions, and express yourself clearly in American English.",
+  "createdAt": "2025-12-24T04:42:50.784Z"
+}

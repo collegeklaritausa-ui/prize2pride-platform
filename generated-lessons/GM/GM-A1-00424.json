@@ -1,0 +1,68 @@
+{
+  "id": "GM-A1-00424",
+  "number": 424,
+  "title": "Prepositions Power: Mastering American English Foundations",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose of prepositions in sentences.",
+    "Identify common prepositions used in everyday American English.",
+    "Use prepositions correctly to describe location, time, and movement.",
+    "Construct sentences with appropriate prepositions to enhance clarity.",
+    "Gain confidence in using prepositions naturally in speaking and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book is ON the table."
+    },
+    {
+      "word": "Location",
+      "definition": "A position or place where something is situated.",
+      "example": "The keys are IN my pocket."
+    },
+    {
+      "word": "Time",
+      "definition": "When an event occurs.",
+      "example": "We will meet AT 3 PM."
+    },
+    {
+      "word": "Movement",
+      "definition": "Indicates direction or motion.",
+      "example": "She walked TO the park."
+    }
+  ],
+  "content": "Welcome to the world of prepositions! Prepositions are small words that connect nouns or pronouns to other words in a sentence, providing important details about location, time, and movement. For example, in the sentence 'The cat is UNDER the table,' the preposition 'under' shows the location of the cat relative to the table.\n\nCommon prepositions include: IN, ON, AT, TO, FROM, WITH, ABOUT, and BETWEEN. Let’s explore how to use them:\n\n- Location: 'The keys are ON the counter.' / 'She lives IN New York.'\n- Time: 'The meeting is AT 5 o’clock.' / 'We will go AFTER dinner.'\n- Movement: 'He is GOING TO the store.' / 'She ran THROUGH the park.'\n\nUsing prepositions correctly makes your speech and writing clearer and more natural. Practice by describing your daily activities using prepositions, and soon you’ll be speaking like a native!\n\nRemember, prepositions are small but mighty – mastering them will elevate your American English skills to GOD level!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: 'The dog is ____ the yard.'",
+      "answer": "in"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Complete the sentence: 'We will meet ____ 6 PM.'",
+      "answer": "at"
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Create a sentence using the preposition 'between'.",
+      "answer": "The park is between the school and the library."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the preposition to its use:\n1. ON\n2. AT\n3. TO\n\na. Indicates movement toward a place.\n\nb. Shows position on a surface.\n\nc. Specifies a specific time.",
+      "answer": {
+        "1": "b",
+        "2": "c",
+        "3": "a"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in casual speech to describe experiences and directions. For example, giving someone directions usually involves prepositions like 'go STRAIGHT ON Main Street, then turn LEFT AT the gas station.' Understanding and correctly using prepositions is essential for effective communication in daily American life, such as shopping, traveling, and socializing.",
+  "createdAt": "2025-12-24T04:42:31.449Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00429",
+  "number": 429,
+  "title": "Prepositions Power: Mastering American English Basics",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify common prepositions used in American English",
+    "Understand the function of prepositions in sentences",
+    "Use prepositions correctly in everyday conversations",
+    "Differentiate between prepositions of place, time, and movement",
+    "Create sentences confidently using appropriate prepositions"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "The position or place of something.",
+      "example": "She is at school."
+    },
+    {
+      "word": "Time",
+      "definition": "When an event happens.",
+      "example": "We will meet after lunch."
+    },
+    {
+      "word": "Movement",
+      "definition": "The act of changing position or place.",
+      "example": "He walked into the room."
+    }
+  ],
+  "content": "Welcome to your journey of becoming a GOD of American English! Today, we focus on prepositions—small words with BIG impact. Prepositions connect nouns or pronouns to other words, indicating location, time, or movement.\n\n**Types of Prepositions:**\n- **Place:** on, in, at, under, over, between, behind\n- **Time:** at, on, in, during, before, after\n- **Movement:** to, into, out of, onto, across\n\n**Examples:**\n- Place: The keys are **on** the table.\n- Time: The show starts **at** 7 PM.\n- Movement: She is walking **to** the park.\n\n**Tips:**\n- Use **at** for specific times and locations.\n- Use **in** for enclosed spaces or months/years.\n- Use **on** for surfaces and specific days.\n\nBy mastering prepositions, you'll enhance your clarity and fluency in American English conversations and writing!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The cat is ___ the box.",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "We will meet ___ Monday.",
+      "answer": "on"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition to its usage:\n1. at\n2. in\n3. on",
+      "answer": "1. specific time or place, 2. enclosed spaces or months, 3. surfaces or days"
+    },
+    {
+      "type": "sentence creation",
+      "question": "Create a sentence using the preposition 'under'.",
+      "answer": "The shoes are under the bed."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are essential for clear communication, especially in directions and scheduling. For example, giving accurate location details using 'at' or 'on' helps in everyday tasks like giving directions or planning meetings. Understanding these nuances helps you integrate smoothly into American social and professional environments.",
+  "createdAt": "2025-12-24T04:42:47.512Z"
+}

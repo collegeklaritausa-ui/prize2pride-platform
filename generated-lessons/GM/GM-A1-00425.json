@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00425",
+  "number": 425,
+  "title": "Prepositions Power: Mastering the Building Blocks of Sentences",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the role of prepositions in sentence structure",
+    "Identify common prepositions used in everyday American English",
+    "Use prepositions correctly to describe location, time, and movement",
+    "Differentiate between correct and incorrect preposition usage",
+    "Practice forming sentences with appropriate prepositions for fluency and accuracy"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "Refers to the position or place of something.",
+      "example": "The keys are in the drawer."
+    },
+    {
+      "word": "Time",
+      "definition": "Indicates when something happens.",
+      "example": "We will meet at 5 PM."
+    },
+    {
+      "word": "Movement",
+      "definition": "Describes the direction or movement of something.",
+      "example": "She walked across the street."
+    }
+  ],
+  "content": "Prepositions are small words that connect nouns or pronouns to other parts of a sentence, providing important details about location, time, or movement. In American English, prepositions are essential for clear and precise communication. Common prepositions include 'in', 'on', 'at', 'by', 'with', 'about', 'for', 'to', 'from', and 'over'.\n\nFor example:\n- Location: 'The cat is in the box.'\n- Time: 'The meeting is at 3 o'clock.'\n- Movement: 'He is going to the store.'\n\nUsing prepositions correctly helps you describe where things are, when events happen, and how actions are performed. Practice paying attention to prepositions in daily conversations and written texts to become more confident.\n\nRemember, some prepositions are used with specific words or expressions, so familiarizing yourself with common phrases will improve your mastery.",
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Choose the correct preposition: \nShe is sitting ___ the chair.",
+      "answer": "on"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank with an appropriate preposition: \nWe will meet ___ Monday.",
+      "answer": "on"
+    },
+    {
+      "type": "sentence formation",
+      "question": "Create a sentence using the preposition 'between'.",
+      "answer": "The park is between the school and the library."
+    },
+    {
+      "type": "true/false",
+      "question": "In the sentence 'He is in the car,' 'in' correctly shows location.",
+      "answer": "true"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in everyday conversation to give clear directions, schedule meetings, and describe locations. Phrases like 'meet me at the corner' or 'the party is on Saturday' are common. Understanding prepositions enhances your ability to navigate social and professional settings confidently and is essential for sounding natural in American English.",
+  "createdAt": "2025-12-24T04:42:34.524Z"
+}

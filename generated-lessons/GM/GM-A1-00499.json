@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00499",
+  "number": 499,
+  "title": "Conjunctions: Connecting Your Sentences Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify common conjunctions used in American English.",
+    "Understand the role of conjunctions in sentence structure.",
+    "Choose appropriate conjunctions to join ideas smoothly.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Create sentences using conjunctions to improve coherence."
+  ],
+  "vocabulary": [
+    {
+      "word": "Conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "I want to go to the park *and* I want to play soccer."
+    },
+    {
+      "word": "Coordinating Conjunction",
+      "definition": "A conjunction that joins two equal parts of a sentence.",
+      "example": "*But*, I am tired."
+    },
+    {
+      "word": "Subordinating Conjunction",
+      "definition": "A conjunction that introduces a dependent clause and connects it to an independent clause.",
+      "example": "I stayed home *because* it was raining."
+    }
+  ],
+  "content": "Welcome to your journey to mastering conjunctions in American English! Conjunctions are essential tools that help you connect ideas, making your speech and writing more fluent and natural.\n\nThere are two main types of conjunctions:\n\n1. *Coordinating Conjunctions:* These include *and*, *but*, *or*, *nor*, *for*, *yet*, and *so*. They connect words, phrases, or independent clauses of equal importance.\n\n   - Example: \"She likes tea *and* coffee.\"\n\n2. *Subordinating Conjunctions:* These include *because*, *although*, *since*, *unless*, *while*, and *after*. They introduce dependent clauses that provide additional information.\n\n   - Example: \"I went to bed early *because* I was tired.\"\n\nUsing conjunctions correctly makes your communication clearer and more engaging. For instance, instead of saying, \"I like swimming. I like biking,\" you can say, \"I like swimming *and* biking.\"\n\nPractice makes perfect! Try to think of two ideas and connect them using the appropriate conjunction. Remember, choosing the right conjunction helps your message flow smoothly.\n\nNow, let's see some examples:\n\n- I wanted to go outside, *but* it started raining.\n- She studies hard, *so* she passes her exams.\n- We can watch a movie, *or* we can go for a walk.\n- *Although* it was cold, we went hiking.\n- He didn't attend the party *because* he was feeling sick.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct conjunction to complete the sentence: I was hungry, ____ I made a sandwich.",
+      "answer": "so"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with an appropriate coordinating conjunction: She wanted to buy apples, ____ she didn't have enough money.",
+      "answer": "but"
+    },
+    {
+      "type": "Sentence Creation",
+      "question": "Create a sentence using the subordinating conjunction 'because'.",
+      "answer": "I stayed inside because it was raining."
+    },
+    {
+      "type": "True or False",
+      "question": "Conjunctions connect only words, not phrases or clauses.",
+      "answer": false
+    },
+    {
+      "type": "Matching",
+      "question": "Match the conjunctions with their types:\n1. and\n2. although\n3. or\n4. since\n\na. Coordinating\nb. Subordinating",
+      "answer": "1-a, 2-b, 3-a, 4-b"
+    }
+  ],
+  "culturalNotes": "In American culture, clear and effective communication is highly valued. Using conjunctions appropriately can help you sound more fluent and natural, whether you're making friends, giving presentations, or writing emails. Americans often use conjunctions to connect ideas seamlessly, reflecting their value on clarity and coherence in conversations and written language.",
+  "createdAt": "2025-12-24T04:47:14.905Z"
+}

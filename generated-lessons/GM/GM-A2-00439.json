@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00439",
+  "number": 439,
+  "title": "Prepositions Power: Mastering the Basics of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand what prepositions are and their role in sentences",
+    "Identify common prepositions used in everyday American English",
+    "Use simple prepositions correctly in sentences",
+    "Recognize the relationship between prepositions and nouns/pronouns",
+    "Improve sentence clarity by correctly applying prepositions"
+  ],
+  "vocabulary": [
+    {
+      "word": "preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "location",
+      "definition": "The position of someone or something.",
+      "example": "The cat is under the bed."
+    },
+    {
+      "word": "direction",
+      "definition": "Where someone or something is going or facing.",
+      "example": "She walks to school."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English grammar! Today, we focus on prepositions, which are tiny words with big power. Prepositions connect nouns or pronouns to other parts of the sentence, showing relationships of location, direction, time, and more.\n\nFor example:\n- Location: The keys are in my pocket.\n- Direction: He is going to the store.\n- Time: We will meet at 5 p.m.\n\nCommon prepositions include: in, on, at, under, over, between, to, from, with, about.\n\nRemember:\n- Prepositions are always followed by a noun or pronoun.\n- They help clarify where, when, or how something happens.\n\nLet's look at some simple sentences:\n- The dog sits **on** the mat.\n- She walks **to** the park.\n- The picture is **above** the sofa.\n\nMastering prepositions makes your sentences clear and natural, helping you communicate confidently in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: The book is ____ the table.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: We are going ____ the mall.",
+      "answer": "to"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence with the correct preposition:\n1. The cat is _____ the box.\n2. The children are ____ school.\n3. The picture hangs ____ the wall.",
+      "answer": "1. in\n2. at\n3. on"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are used naturally in daily conversations, media, and literature. Phrases like 'meet me at the corner' or 'the keys are in my bag' are common and help Americans communicate efficiently. Using prepositions correctly enhances your ability to understand and participate in American social interactions and media, such as movies, TV shows, and conversations.",
+  "createdAt": "2025-12-24T04:43:19.170Z"
+}

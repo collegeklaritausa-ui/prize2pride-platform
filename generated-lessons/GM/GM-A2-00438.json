@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00438",
+  "number": 438,
+  "title": "Prepositions Power: Mastering Basic Placement in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Identify common prepositions used in everyday American English",
+    "Understand the function of prepositions in sentences",
+    "Use basic prepositions correctly to describe location and time",
+    "Differentiate between similar prepositions like 'in,' 'on,' and 'at'",
+    "Apply prepositions accurately in speaking and writing"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating location, time, or direction.",
+      "example": "The book is **on** the table."
+    },
+    {
+      "word": "Location",
+      "definition": "A place or position.",
+      "example": "He lives **in** New York."
+    },
+    {
+      "word": "Time",
+      "definition": "A point or period when something happens.",
+      "example": "The meeting is **at** 3 PM."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English grammar! Today, we focus on prepositions—small words with big power. Prepositions connect nouns or pronouns to other parts of the sentence, giving us information about where, when, or how something happens.\n\n**Common Prepositions of Place:**\n- **In:** used for enclosed spaces or countries\n  - Example: The toys are **in** the box.\n- **On:** used for surfaces\n  - Example: The keys are **on** the table.\n- **At:** used for specific points or places\n  - Example: She is **at** the bus stop.\n\n**Prepositions of Time:**\n- **In:** used for months, years, centuries, long periods\n  - Example: We go on vacation **in** July.\n- **On:** used for specific days and dates\n  - Example: The party is **on** Saturday.\n- **At:** used for specific times\n  - Example: The train arrives **at** 5:30 PM.\n\nRemember, choosing the right preposition makes your sentences clear and precise. Practice using these prepositions to describe locations and times accurately, and you’ll be speaking and writing like a true American English GOD!\n",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: The cat is ____ the sofa.",
+      "answer": "on"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "We will meet ____ Monday ____ the park.",
+      "answer": "on, in"
+    },
+    {
+      "type": "Identify the mistake",
+      "question": "Identify and correct the mistake: She is at home at Saturday.",
+      "answer": "She is at home on Saturday."
+    },
+    {
+      "type": "Sentence Writing",
+      "question": "Write a sentence using the preposition 'in' to describe a location.",
+      "answer": "The flowers are in the garden."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in everyday conversations, such as giving directions ('Turn left **at** the corner') or talking about schedules ('The train leaves **at** 6 PM'). Understanding prepositions helps you navigate social settings, give clear instructions, and participate confidently in American conversations and traditions.",
+  "createdAt": "2025-12-24T04:43:16.245Z"
+}

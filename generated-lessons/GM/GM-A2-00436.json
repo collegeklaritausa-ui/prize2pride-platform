@@ -1,0 +1,58 @@
+{
+  "id": "GM-A2-00436",
+  "number": 436,
+  "title": "Prepositions Power: Mastering Basic Connections",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the definition and purpose of prepositions in sentences",
+    "Identify common prepositions used in everyday American English",
+    "Use prepositions correctly to describe location, time, and relationships",
+    "Construct simple sentences using appropriate prepositions",
+    "Avoid common mistakes with prepositions to become more fluent"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "The place where something is situated.",
+      "example": "She is at school."
+    },
+    {
+      "word": "Time",
+      "definition": "When something happens.",
+      "example": "We will meet at 3 o'clock."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on prepositions—small words that connect nouns or pronouns to other words, giving us important details about position, time, and relationships.\n\n**What are prepositions?** They are words like 'on,' 'in,' 'at,' 'under,' 'behind,' and 'between.' They help us answer questions like 'Where?' and 'When?'\n\n**Examples:**\n- Location: The cat is **under** the table.\n- Time: The meeting is **at** 5 pm.\n- Relationship: She is **friends with** Tom.\n\n**Common prepositions in American English:** 'in,' 'on,' 'at,' 'under,' 'over,' 'between,' 'behind,' 'beside,' 'near,' 'by,' 'with.'\n\n**Using prepositions correctly:**\n- To describe location: 'The keys are **in** my bag.'\n- To describe time: 'The movie starts **at** 7 pm.'\n- To describe relationships: 'He is **next to** his sister.'\n\n**Tip:** Remember that prepositions are always followed by a noun or pronoun.\n\nBy mastering prepositions, you'll be able to describe where things are and when events happen more clearly, making your English sound more natural and fluent!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: The dog is ____ the yard.",
+      "answer": "in"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "The party starts ____ 8 o'clock.",
+      "answer": "at"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the preposition to its use:\n1. In\n2. On\n3. At\n\nA. Location of a place\nB. Specific time\nC. Inside something or within boundaries",
+      "answer": {
+        "In": "C",
+        "On": "A",
+        "At": "B"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are used frequently in everyday situations—whether giving directions, talking about schedules, or describing locations. For example, Americans often say 'Meet me **at** the mall' or 'The book is **on** the shelf.' Mastering prepositions helps you understand and participate in social interactions more effortlessly, reflecting the fast-paced and location-aware nature of American life.",
+  "createdAt": "2025-12-24T04:43:09.732Z"
+}

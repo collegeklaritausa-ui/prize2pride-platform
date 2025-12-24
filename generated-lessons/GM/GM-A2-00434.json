@@ -1,0 +1,68 @@
+{
+  "id": "GM-A2-00434",
+  "number": 434,
+  "title": "Prepositions Power: Mastering Basic Prepositions in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Identify common prepositions used in American English.",
+    "Understand how to use prepositions to show location and direction.",
+    "Differentiate between correct and incorrect preposition usage.",
+    "Practice constructing sentences with prepositions accurately.",
+    "Gain confidence in using prepositions in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "location",
+      "definition": "The position or place of something.",
+      "example": "She is at the park."
+    },
+    {
+      "word": "direction",
+      "definition": "The path along which something moves or points.",
+      "example": "Turn left at the corner."
+    }
+  ],
+  "content": "Welcome to the world of prepositions! Prepositions are small words that connect nouns or pronouns to other parts of the sentence, giving us important details about location, direction, time, and relationships. In American English, common prepositions include 'in,' 'on,' 'at,' 'under,' 'over,' 'next to,' 'between,' and 'behind.'\n\nFor example, in the sentence 'The cat is under the table,' the preposition 'under' shows where the cat is.\n\nLet's look at some examples:\n- Location: The keys are in the drawer.\n- Direction: Go straight ahead and turn right.\n- Time: The meeting is at 3 PM.\n\nPrepositions help make our sentences clear and precise. Remember, a preposition is usually followed by a noun or pronoun, called the object of the preposition. For example, 'on the wall,' 'under the bridge,' 'at the store.'\n\nPractice using prepositions to describe where things are or where you are going. Think about your daily environment and try to describe it using prepositions! For example: 'My backpack is next to my chair,' or 'The ball rolled under the sofa.'",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The book is ___ the bag.",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct preposition: She is ___ the park.",
+      "answer": "at"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Make a sentence using the preposition 'next to'.",
+      "answer": "The coffee shop is next to the bank."
+    },
+    {
+      "type": "true/false",
+      "question": "Prepositions always come at the beginning of a sentence.",
+      "answer": "False"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition to its meaning:\n1. Under\n2. Between\n3. Behind\n\nA. In the back of\nB. In the space separating two objects\nC. Beneath something",
+      "answer": {
+        "1": "C",
+        "2": "B",
+        "3": "A"
+      }
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in everyday speech to describe locations and directions clearly, such as giving simple instructions ('Turn left at the stop sign') or describing a place ('Meet me at the mall'). Understanding prepositions is essential for navigating and communicating effectively in the United States. Americans value clarity and directness, which is reflected in the straightforward use of prepositions in daily conversations.",
+  "createdAt": "2025-12-24T04:43:02.702Z"
+}

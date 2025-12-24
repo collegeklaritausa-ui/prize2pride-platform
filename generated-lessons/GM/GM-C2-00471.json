@@ -1,0 +1,68 @@
+{
+  "id": "GM-C2-00471",
+  "number": 471,
+  "title": "Prepositions of Mastery: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand and identify key prepositions used in American English.",
+    "Apply prepositions correctly in complex sentences.",
+    "Distinguish between common prepositional phrases and their contextual meanings.",
+    "Enhance sentence clarity and precision through proper preposition usage.",
+    "Gain confidence to incorporate advanced prepositional structures in spoken and written American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book *on* the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition, its object, and any modifiers.",
+      "example": "She sat *next to her friend* during the concert."
+    },
+    {
+      "word": "Misuse",
+      "definition": "Incorrect use of a word or phrase, often leading to confusion.",
+      "example": "Avoid *misusing* prepositions by understanding their proper context."
+    }
+  ],
+  "content": "Prepositions are essential in American English for expressing relationships between things, places, and time. Mastery of prepositions allows you to craft clear, precise sentences that convey your message effectively.\n\nCommon prepositions include *in, on, at, by, for, with, about, under, over, through, between,* and *among.* These words connect nouns or pronouns to other parts of the sentence, providing details about location, time, direction, and more.\n\nFor example:\n- Location: The keys are *in* the drawer.\n- Time: The meeting is *at* 3 PM.\n- Direction: She walked *toward* the park.\n\nAdvanced usage involves prepositional phrases, which add depth and detail:\n- *During the storm*, we stayed inside.\n- The report *about the project* was well received.\n\nIt's crucial to avoid common errors, such as ending sentences with prepositions in formal writing or confusing prepositions with similar words. For instance, choose *between* when comparing two items: \"The choice *between* tea and coffee,\" rather than \"The choice *of* tea or coffee.\" \n\nBy practicing the correct placement and selection of prepositions, you'll communicate more precisely and elevate your mastery of American English.\n\nRemember, mastering prepositions is not just about memorization—it's about understanding their function and practicing their use in various contexts.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition for the blank: \"She is interested ___ learning new languages.\"",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: \"The picture hanging ___ the wall was painted by a famous artist.\"",
+      "answer": "on"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: \"He arrived at the station before 9:00, but he waited **for** his friend **at** the bus stop.\"",
+      "answer": "No correction needed. (This sentence is correct.)"
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositional phrase with its meaning:\nA) **under the bridge**\nB) **during the festival**\nC) **between you and me**\n\n1) In the time span of the festival\n2) Below the bridge\n3) Confidential between two people",
+      "answer": {
+        "A": "2",
+        "B": "1",
+        "C": "3"
+      }
+    },
+    {
+      "type": "short answer",
+      "question": "Explain why ending a sentence with a preposition is generally considered incorrect in formal American English.",
+      "answer": "Ending a sentence with a preposition is considered incorrect in formal American English because traditionally, prepositions should be followed by their objects within the sentence to maintain clarity and grammatical correctness. However, in informal contexts, ending with a preposition is acceptable and often more natural."
+    }
+  ],
+  "culturalNotes": "In American English, prepositions are often used flexibly in everyday speech, making sentences sound more natural and conversational. However, formal writing emphasizes correct prepositional placement to maintain professionalism. Recognizing the context—informal versus formal—is key to choosing the appropriate preposition usage. Additionally, American idiomatic expressions frequently incorporate prepositions, enriching the language and offering cultural insights, such as \"get over\" (to recover), \"look into\" (to investigate), and \"deal with\" (to handle). Mastery of prepositions enhances not just grammatical correctness but also cultural fluency in American English.",
+  "createdAt": "2025-12-24T04:45:23.585Z"
+}

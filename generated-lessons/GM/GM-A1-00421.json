@@ -1,0 +1,54 @@
+{
+  "id": "GM-A1-00421",
+  "number": 421,
+  "title": "Mastering Prepositions: Your First Step to English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the function of prepositions in American English.",
+    "Identify common prepositions used in everyday speech.",
+    "Use prepositions correctly in simple sentences.",
+    "Differentiate between prepositions of place, time, and movement.",
+    "Build confidence to incorporate prepositions naturally in conversation."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is **on** the table."
+    },
+    {
+      "word": "Location",
+      "definition": "The position or place of something.",
+      "example": "She is **at** the park."
+    },
+    {
+      "word": "Time",
+      "definition": "When something happens.",
+      "example": "We will meet **after** lunch."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on prepositions—small words that pack a big punch in sentences.\n\nPrepositions connect nouns or pronouns to other words, showing relationships like location, time, or direction. For example:\n- Location: The cat is **under** the chair.\n- Time: The class starts **at** 9 a.m.\n- Movement: She walks **to** the store.\n\nCommon prepositions include **in**, **on**, **at**, **by**, **to**, **from**, **with**, **about**, and **for**. Mastering these will help you describe where things are, when events happen, and how actions are performed.\n\nRemember:\n- Use **in** for enclosed spaces or periods: in the room, in July.\n- Use **on** for surfaces and specific days: on the table, on Monday.\n- Use **at** for specific points or times: at the corner, at 3 p.m.\n\nPractice makes perfect! Let’s see how well you understand prepositions in the exercises below.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The keys are ___ the table.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She arrived ___ the airport ___ 6 a.m.",
+      "answer": "at, at"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct usage:\n1. in\n2. on\n3. at\n\na. surfaces or specific days\nb. enclosed spaces or months\nc. specific points or times",
+      "answer": "1-b, 2-a, 3-c"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions often help convey precise information, especially in giving directions or describing locations. For example, Americans frequently specify 'on the corner' or 'at the corner' depending on the context. Understanding these subtle differences enhances clarity and helps you sound natural in conversations and writing.",
+  "createdAt": "2025-12-24T04:42:20.812Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00404",
+  "number": 404,
+  "title": "Mastering Articles: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the different types of articles: definite and indefinite",
+    "Apply the correct usage of 'a', 'an', and 'the' in various contexts",
+    "Identify common mistakes involving articles and correct them",
+    "Enhance sentence clarity and precision through proper article usage",
+    "Gain confidence in using articles naturally in both spoken and written American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word that defines a noun as specific or unspecific; includes 'a', 'an', and 'the'.",
+      "example": "In the sentence 'I saw a dog', 'a' is an indefinite article."
+    },
+    {
+      "word": "Definite Article",
+      "definition": "The article 'the' used to refer to specific nouns.",
+      "example": "Pass me the book on the table."
+    },
+    {
+      "word": "Indefinite Article",
+      "definition": "The articles 'a' and 'an' used to refer to non-specific nouns.",
+      "example": "I saw a bird in the yard."
+    }
+  ],
+  "content": "Articles are small words that define whether a noun is specific or unspecific. In American English, the two main types are the definite article 'the' and the indefinite articles 'a' and 'an'. \n\n1. Indefinite Articles ('a' and 'an')\n- Use 'a' before words that begin with a consonant sound: a dog, a university.\n- Use 'an' before words that begin with a vowel sound: an apple, an hour.\n- Note: The choice depends on pronunciation, not spelling.\n\n2. Definite Article ('the')\n- Use 'the' when referring to a specific noun both the speaker and listener know about: the car we saw yesterday.\n- Use 'the' with unique objects or when there is only one of something: the sun, the moon.\n- Use 'the' with superlatives and ordinal numbers: the best, the first.\n\n3. Common Mistakes to Avoid\n- Omitting 'the' when referring to a specific thing: 'Pass me the salt' (not 'Pass me salt' unless in casual speech).\n- Using 'a' or 'an' before plural or uncountable nouns: 'a information' (incorrect), should be 'some information'.\n\n4. Special Cases\n- When talking about general concepts, omit the article: 'Love is important.'\n- When using professions, titles, or names, articles are often omitted unless specifying: 'She is a doctor,' but 'She is the doctor in charge.'\n\nBy mastering these rules, you will enhance your clarity and fluency in American English communication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "___ sun rises in the east.",
+      "answer": "The"
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the mistake: I saw a elephant at the zoo.",
+      "answer": "I saw an elephant at the zoo."
+    },
+    {
+      "type": "sentence formation",
+      "question": "Create a sentence using 'a' before a word beginning with a consonant sound.",
+      "answer": "She adopted a cat from the shelter."
+    },
+    {
+      "type": "true/false",
+      "question": "The word 'honor' should be preceded by 'an' in American English.",
+      "answer": "True"
+    }
+  ],
+  "culturalNotes": "In American culture, articles are essential for clarity and politeness. Proper use of 'the' reflects specificity and respect, especially in formal contexts like business or academic settings. Casual speech often omits articles, but mastery of correct usage elevates your language to a professional and fluent level. Understanding cultural nuances, such as referring to prominent landmarks as 'the Statue of Liberty' or 'the White House,' helps you sound more natural and informed in conversations about American society.",
+  "createdAt": "2025-12-24T04:41:13.371Z"
+}

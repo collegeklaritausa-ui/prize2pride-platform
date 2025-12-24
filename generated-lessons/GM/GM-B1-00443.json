@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00443",
+  "number": 443,
+  "title": "Mastering Prepositions: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the role and importance of prepositions in American English.",
+    "Identify common prepositions and their correct usage in sentences.",
+    "Distinguish between similar prepositions based on context.",
+    "Apply prepositions accurately in both written and spoken language.",
+    "Avoid common prepositional errors to sound more natural and confident."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating location, direction, or time.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words that begins with a preposition and ends with a noun or pronoun, functioning as a unit within a sentence.",
+      "example": "She sat near the window."
+    },
+    {
+      "word": "Misuse",
+      "definition": "Incorrect use of a word or phrase, often leading to confusion or grammatical errors.",
+      "example": "Avoid the misuse of prepositions in formal writing."
+    }
+  ],
+  "content": "Prepositions are essential components of English grammar that connect nouns or pronouns to other words in a sentence, providing context such as location, direction, time, or relationship. Mastery of prepositions enhances clarity and fluency in your speech and writing.\n\n**Common Prepositions:**\n- Location: in, on, at, under, between, among\n- Direction: to, toward, into, onto, out of\n- Time: at, on, in, during, before, after\n- Other relationships: of, with, about, for, from\n\n**Usage Tips:**\n- Prepositions are always followed by a noun or pronoun.\n- Prepositional phrases add detail: \"The keys are *on the kitchen counter*\".\n- Be aware of common prepositional errors, such as ending sentences with a preposition (e.g., \"Where are you at?\" should be \"Where are you?\").\n\n**Examples:**\n- Correct: She arrived *at* the station *before* noon.\n- Incorrect: She arrived *the station before* noon. (Missing the preposition *at*)\n- Correct: The dog is *under* the table.\n- Incorrect: The dog is *the table under*.\n\nBy mastering prepositions, you'll be able to specify locations, durations, and relationships precisely, making your communication more effective and natural.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: \nShe is interested ___ learning new languages.",
+      "answer": "in"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with the correct preposition:\nHe walked ____ the park and sat ____ a bench.",
+      "answer": "through, on"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Identify and correct the error in this sentence:\nThe cat jumped onto the table and knocked over the vase.",
+      "answer": "Sentence is correct; no correction needed."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the preposition with its appropriate usage:\n1. In\n2. Before\n3. With\n\nA. She arrived ___ the meeting early.\nB. The picture is ___ the frame.\nC. I like coffee ___ milk.",
+      "answer": "1-C, 2-A, 3-B"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions often reflect casual speech patterns. For example, Americans frequently say \"Meet me on Main Street\" rather than \"at the main street,\" emphasizing the importance of prepositions in everyday communication. Using prepositions correctly aligns with American social norms, making your speech sound more natural and confident. Additionally, understanding regional differences—such as saying \"in the weekend\" in some dialects versus \"over the weekend\"—can help you connect better with diverse American audiences.",
+  "createdAt": "2025-12-24T04:43:32.409Z"
+}

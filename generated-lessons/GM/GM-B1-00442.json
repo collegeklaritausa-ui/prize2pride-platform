@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00442",
+  "number": 442,
+  "title": "Prepositions Unleashed: Mastering the Art of Placement in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and importance of prepositions in sentences",
+    "Identify common prepositions used in American English",
+    "Use prepositions correctly in various contexts",
+    "Differentiate between prepositions of place, time, and movement",
+    "Apply prepositions confidently to enhance speech and writing skills"
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Placement",
+      "definition": "The position of a word or phrase within a sentence.",
+      "example": "Prepositions are typically placed before their object."
+    },
+    {
+      "word": "Object of a preposition",
+      "definition": "The noun or pronoun that follows the preposition to complete its meaning.",
+      "example": "She sat beside her friend."
+    }
+  ],
+  "content": "Prepositions are small but mighty words that establish relationships between different elements in a sentence. They are essential for clarity and precision in communication. In American English, prepositions like 'in,' 'on,' 'at,' 'by,' 'with,' 'about,' and 'for' are frequently used.\n\nPrepositions of place answer questions like 'where?' Example: 'The keys are in the drawer.' Here, 'in' shows location.\n\nPrepositions of time specify when something happens. Example: 'The meeting is at 3 PM.'\n\nPrepositions of movement describe direction or motion. Example: 'She walked to the park.'\n\nRemember, prepositions are usually followed by their object, which can be a noun or pronoun. Correct placement is crucial: typically, the preposition comes before its object.\n\nCommon mistakes include ending sentences with prepositions or misusing prepositions in idiomatic expressions. For example, instead of saying 'Where are you at?', say 'Where are you?' or 'Where are you at?'\n\nPracticing with real-life sentences helps reinforce correct usage and builds confidence in mastering prepositions.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: 'She is interested ____ learning new languages.'",
+      "answer": "in"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "The cat is hiding ____ the sofa.",
+      "answer": "under"
+    },
+    {
+      "type": "Sentence correction",
+      "question": "Identify and correct the error: 'He arrived to the party late.'",
+      "answer": "He arrived at the party late."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the prepositions to their common usage:\n1. In\n2. On\n3. At\n4. By\n5. With",
+      "answer": "1. Location\n2. Surface or day/date\n3. Specific point in time or place\n4. Near or beside\n5. Accompaniment"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions often reflect casual speech patterns. For example, Americans frequently use 'on' for public transportation: 'I’m on the bus.' Additionally, idiomatic expressions, such as 'in charge of,' 'at a loss,' or 'by the way,' are common and enrich communication. Understanding these nuances helps non-native speakers sound more natural and integrated into American social contexts.",
+  "createdAt": "2025-12-24T04:43:28.882Z"
+}

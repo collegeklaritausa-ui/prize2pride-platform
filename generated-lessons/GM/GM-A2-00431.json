@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00431",
+  "number": 431,
+  "title": "Prepositions Power: Mastering Basic Relationships",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the purpose of prepositions in sentences.",
+    "Identify common prepositions used in everyday American English.",
+    "Use prepositions correctly to describe location and direction.",
+    "Construct simple sentences using appropriate prepositions.",
+    "Recognize the importance of prepositions in clear communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "in",
+      "definition": "Inside a space or area.",
+      "example": "The book is in the box."
+    },
+    {
+      "word": "on",
+      "definition": "Resting upon a surface.",
+      "example": "The cup is on the table."
+    },
+    {
+      "word": "under",
+      "definition": "Below or beneath something.",
+      "example": "The shoes are under the bed."
+    },
+    {
+      "word": "next to",
+      "definition": "Very close to or beside someone or something.",
+      "example": "The school is next to the library."
+    },
+    {
+      "word": "behind",
+      "definition": "At the back of something.",
+      "example": "The car is behind the house."
+    }
+  ],
+  "content": "Prepositions are small words that connect nouns or pronouns to other words in a sentence, showing relationships such as location, direction, or time. In American English, prepositions help clarify where something is or where it is going. For example, in the sentence 'The cat is on the sofa,' the preposition 'on' tells us the location of the cat.\n\nCommon prepositions at the elementary level include 'in,' 'on,' 'under,' 'next to,' and 'behind.' These words help students describe everyday scenes and actions clearly. Practice makes perfect: try to use these prepositions to describe your own environment. Remember, the choice of preposition depends on what you want to express about position or movement.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: The picture is ___ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "The dog is ___ the yard.",
+      "answer": "in"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition to the correct sentence:\n1. The books are ___ the shelf.\n2. The ball is ___ the box.\n3. The girl is ___ her brother.\n4. The car is ___ the tree.",
+      "answer": "1. on; 2. in; 3. next to; 4. behind"
+    }
+  ],
+  "culturalNotes": "In American culture, clarity in communication is valued, especially in directions and location descriptions. Prepositions like 'next to' are frequently used in everyday conversations to specify close proximity, such as 'The restaurant is next to the bank.' Understanding and correctly using prepositions helps with both social interactions and navigating American environments, from asking for directions to describing your surroundings.",
+  "createdAt": "2025-12-24T04:42:53.570Z"
+}

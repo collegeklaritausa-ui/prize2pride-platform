@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00476",
+  "number": 476,
+  "title": "Prepositions Unleashed: Mastering the Art of American English Precision",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and understand the function of common prepositions in American English.",
+    "Differentiate between prepositions of place, time, and direction.",
+    "Use prepositions accurately in complex sentences to enhance clarity and fluency.",
+    "Recognize and correct common prepositional errors in writing and speech.",
+    "Apply prepositions confidently to express nuanced relationships and ideas."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence, often indicating location, time, or direction.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words that begins with a preposition and includes its object and any modifiers.",
+      "example": "Under the bright lights, the performers dazzled the audience."
+    },
+    {
+      "word": "Object of a Preposition",
+      "definition": "The noun or pronoun that follows the preposition and completes its meaning.",
+      "example": "She sat beside her friend."
+    }
+  ],
+  "content": "Prepositions are essential tools in American English that help us specify relationships between different elements within a sentence. Mastery of prepositions enables you to craft clear, precise, and sophisticated sentences.\n\nPrepositions of Place: These tell us where something is located.\n- Examples: in, on, under, between, behind, beside\n- Example sentence: The keys are in my pocket.\n\nPrepositions of Time: These specify when an event occurs.\n- Examples: at, on, in, during, before, after\n- Example sentence: The meeting is scheduled for 3 PM.\n\nPrepositions of Direction: These indicate movement toward something.\n- Examples: to, into, onto, toward, through\n- Example sentence: She walked into the room.\n\nPrepositional phrases combine prepositions with their objects to add detail.\n- Example: The cat slept on the cozy cushion.\n\nCommon prepositional mistakes include confusing 'in' and 'on', or using a preposition where a different part of speech is needed. For example, saying 'She is good in math' instead of 'She is good at math.'\n\nTo elevate your mastery, practice embedding prepositional phrases within complex sentences and varying prepositions to match different contexts. Remember, prepositions are the bridges that connect ideas, time frames, and spaces in your communication.\n\nBy understanding and using prepositions skillfully, you'll unlock a new level of fluency and expressiveness in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition to complete the sentence: She is interested ____ learning new languages.",
+      "answer": "in"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: The picture hangs ____ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in the following sentence: He arrived at the morning.",
+      "answer": "He arrived in the morning."
+    },
+    {
+      "type": "Sentence Construction",
+      "question": "Construct a sentence using the preposition 'through' to describe movement.",
+      "answer": "The hikers walked through the dense forest."
+    },
+    {
+      "type": "Matching",
+      "question": "Match each preposition with its correct category:\n1. in\n2. during\n3. into\n\na. Place\nb. Time\nc. Direction",
+      "answer": "1-a, 2-b, 3-c"
+    }
+  ],
+  "culturalNotes": "In American English, prepositions often reflect everyday experiences, from navigating city streets ('drive through downtown') to scheduling ('meeting during lunch'). Understanding prepositions enhances your ability to engage naturally in conversations and comprehend American media, such as movies and news reports, where prepositional usage is both nuanced and expressive. For example, the phrase 'walked into the store' is commonly used in casual speech, emphasizing movement and immediacy. Mastery of prepositions also reveals cultural priorities, such as punctuality ('at 5 PM') and spatial awareness ('next to the post office'), integral to American social and professional interactions.",
+  "createdAt": "2025-12-24T04:45:43.698Z"
+}

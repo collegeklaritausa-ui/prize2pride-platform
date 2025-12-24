@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00458",
+  "number": 458,
+  "title": "Mastering Prepositions: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the function and importance of prepositions in American English.",
+    "Identify common prepositions used in everyday communication.",
+    "Distinguish between correct and incorrect preposition usage in sentences.",
+    "Apply prepositions accurately in complex sentence structures.",
+    "Enhance their overall grammatical mastery to sound more natural and confident."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition, its object, and any modifiers.",
+      "example": "She sat beside her friend."
+    },
+    {
+      "word": "Object of a Preposition",
+      "definition": "The noun or pronoun that follows a preposition to complete its meaning.",
+      "example": "He walked into the room."
+    }
+  ],
+  "content": "Prepositions are essential building blocks of fluent American English. They connect nouns, pronouns, or phrases to other parts of the sentence, indicating relationships such as location, direction, time, or possession. For example, in the sentence 'The keys are on the counter,' the preposition 'on' shows the location of the keys.\n\nCommon prepositions include: at, on, in, over, under, between, beside, near, during, before, after, with, about, and to. Mastery of prepositions involves understanding their correct usage within prepositional phrases and recognizing idiomatic expressions.\n\nOne common challenge is choosing the correct preposition, as many words have multiple prepositional counterparts depending on context. For example, 'interested in,' 'good at,' 'depend on.'\n\nIn complex sentences, prepositional phrases can act as modifiers, providing additional details. Example: 'She arrived **after** the meeting **ended**.'\n\nRemember, prepositions are often idiomatic; thus, exposure to authentic American English through reading, listening, and practice is crucial for mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'He's been living _____ New York since 2010.'",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate preposition: 'The cat jumped _____ the roof.'",
+      "answer": "onto"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the preposition error: 'She is good at to play the piano.'",
+      "answer": "She is good at playing the piano."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions to their common phrases:\n1. interested ____\n2. good ____\n3. depend ____\nOptions:\na. on\nb. at\nc. in",
+      "answer": "1. in, 2. at, 3. on"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in idiomatic expressions that reflect social norms and everyday life. For example, 'meet me **at** the corner' or 'we'll see you **on** Saturday.' Understanding these common phrases and their prepositional context helps non-native speakers integrate more seamlessly into American social and professional environments. Additionally, Americans tend to favor direct and clear communication, so precise preposition usage enhances clarity and confidence in conversation.",
+  "createdAt": "2025-12-24T04:44:31.532Z"
+}

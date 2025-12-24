@@ -1,0 +1,68 @@
+{
+  "id": "GM-GL-00490",
+  "number": 490,
+  "title": "Prepositions of Mastery: Ascending to God-Level Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Define and differentiate between complex prepositions and prepositional phrases used in American English.",
+    "Identify and correctly use prepositions in diverse sentence structures with precision.",
+    "Understand subtle nuances and idiomatic expressions involving prepositions.",
+    "Analyze and correct common prepositional errors in advanced contexts.",
+    "Apply prepositional mastery to enhance clarity, style, and rhetorical impact in writing and speech."
+  ],
+  "vocabulary": [
+    {
+      "word": "preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence, often indicating direction, place, time, or introducing an object.",
+      "example": "She placed the book *on* the table."
+    },
+    {
+      "word": "prepositional phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers.",
+      "example": "Under the old oak tree, children played all afternoon."
+    },
+    {
+      "word": "idiomatic prepositions",
+      "definition": "Prepositions used in fixed expressions or idioms that often deviate from literal meanings.",
+      "example": "She is *in* charge of the project."
+    }
+  ],
+  "content": "In the realm of American English, prepositions are not merely functional words; they are the glue that binds ideas with finesse. Mastery begins with understanding the core prepositions—such as *in, on, at, by, for, with, about, over, under*—and their nuanced uses.\n\nAdvanced students must recognize that prepositions can be embedded within complex prepositional phrases, which add depth and clarity to language. For example, consider the phrase *'in the wake of'*—used to denote aftermath or consequence—a sophisticated alternative to simpler expressions.\n\nMoreover, idiomatic expressions involving prepositions are integral to American speech and writing. Phrases like *'give in to'* (surrender), *'look up to'* (admire), or *'get over'* (recover) carry cultural significance and nuance.\n\nUnderstanding the subtle differences between similar prepositions is vital. For example, *'on'* versus *'upon'*—where *'upon'* adds a layer of formality or poetic tone—can alter the tone of your message.\n\nIn practice, mastering prepositions involves analyzing their role in sentence structure, recognizing idiomatic usage, and applying them correctly in both casual and formal contexts. Remember: precision in preposition use elevates your language from good to divine.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the sentence that correctly uses the preposition:\nA) She is interested *on* learning French.\nB) She is interested *in* learning French.\nC) She is interested *at* learning French.",
+      "answer": "B"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate preposition:\nHe was criticized ___ his lack of preparation.",
+      "answer": "for"
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error in the sentence:\nThey arrived at the train station before the train lefts.",
+      "answer": "They arrived at the train station before the train left."
+    },
+    {
+      "type": "matching",
+      "question": "Match the idiomatic prepositions with their meanings:\n1) Get over\n2) Look up to\n3) Give in to\n\nA) Surrender\nB) Respect or admire\nC) Recover from a setback",
+      "answer": {
+        "1": "C",
+        "2": "B",
+        "3": "A"
+      }
+    },
+    {
+      "type": "short answer",
+      "question": "Explain the difference between 'in' and 'on' when used to indicate location.",
+      "answer": "In' generally refers to an enclosed space or a general area, such as 'in the room' or 'in New York.' 'On' is used for surfaces or positions atop something, like 'on the table' or 'on the roof.' The choice depends on the spatial relationship being conveyed."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions often carry idiomatic meanings that reflect societal values and communication style. For example, the phrase *'in charge of'* signifies authority and responsibility, highlighting American emphasis on leadership and initiative. Additionally, idiomatic prepositions are prevalent in everyday speech, from casual conversations to professional settings, underscoring the importance of mastering their usage to achieve true fluency and cultural integration.",
+  "createdAt": "2025-12-24T04:46:42.849Z"
+}

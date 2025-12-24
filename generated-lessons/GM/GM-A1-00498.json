@@ -1,0 +1,49 @@
+{
+  "id": "GM-A1-00498",
+  "number": 498,
+  "title": "Conjunctions: Connecting Your Ideas Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Conjunctions",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Identify common conjunctions used in American English.",
+    "Understand the purpose of conjunctions in sentences.",
+    "Use coordinating conjunctions correctly to join words and sentences.",
+    "Differentiate between coordinating and subordinating conjunctions.",
+    "Create sentences using conjunctions to improve clarity and flow."
+  ],
+  "vocabulary": [
+    {
+      "word": "conjunction",
+      "definition": "A word that connects words, phrases, or clauses in a sentence.",
+      "example": "I like apples and oranges. ('and' is a conjunction)"
+    },
+    {
+      "word": "coordinate",
+      "definition": "To join elements of equal importance using conjunctions.",
+      "example": "She sings and dances. ('and' coordinates two actions)"
+    }
+  ],
+  "content": "Welcome to the world of conjunctions, the essential connectors that make your sentences smooth and clear! In American English, conjunctions help you combine ideas, add details, or show contrast.\n\nThere are two main types of conjunctions:\n\n1. **Coordinating Conjunctions:** These join equal parts of a sentence. The most common are **for, and, but, or, yet, so** (F.A.N.B.O.Y.S).\n\n   - Example: I want to go to the park, **but** it rains.\n   - Example: She reads books **and** watches movies.\n\n2. **Subordinating Conjunctions:** These connect a dependent clause to an independent clause, showing relationships like cause, time, or contrast.\n\n   - Examples include **because, although, since, when, if**.\n   - Example: I stayed inside **because** it was raining.\n\n**Tips for using conjunctions:**\n- Use **and** to add ideas.\n- Use **but** to show contrast.\n- Use **or** to present options.\n- Use **because** to give reasons.\n\nPracticing with these will turn you into a master of connecting ideas smoothly!\n\nLet's look at some example sentences:\n- I want coffee **or** tea.\n- She is tired, **but** happy.\n- They went home **because** it was late.\n\nRemember, the key is to choose the right conjunction to make your sentences clear and natural in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which conjunction best completes the sentence? 'I like to read ___ I don’t have much free time.'",
+      "answer": "but"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with a coordinating conjunction: 'She can watch a movie ___ she finishes her homework.'",
+      "answer": "or"
+    },
+    {
+      "type": "sentence construction",
+      "question": "Create a sentence using the conjunction 'because' to explain why you are happy.",
+      "answer": "I am happy because I received good news."
+    }
+  ],
+  "culturalNotes": "In American culture, effective communication is highly valued, especially in casual conversations and professional settings. Using conjunctions correctly helps you express ideas clearly and build strong relationships. Americans often use conjunctions to connect thoughts smoothly, whether in speech or writing, making their communication more engaging and understandable.",
+  "createdAt": "2025-12-24T04:47:11.029Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00441",
+  "number": 441,
+  "title": "Prepositions Unleashed: Mastering the Art of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Identify common prepositions used in American English sentences.",
+    "Understand the correct usage of prepositions in different contexts.",
+    "Differentiate between similar prepositions such as 'in', 'on', and 'at'.",
+    "Apply prepositions accurately in both spoken and written communication.",
+    "Enhance overall grammatical proficiency to become a true GOD of American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word used to link nouns, pronouns, or phrases to other words within a sentence, indicating relationships such as direction, place, time, or method.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers.",
+      "example": "She sat under the tree for hours."
+    },
+    {
+      "word": "Misuse",
+      "definition": "The incorrect use of a word or phrase.",
+      "example": "Misusing prepositions can lead to confusing sentences."
+    }
+  ],
+  "content": "Welcome to your journey of mastering prepositions, the connectors of American English! Prepositions are small but mighty words that show relationships between things, places, and times. They are essential for clear and precise communication.\n\nFor example, consider the sentence: 'The dog is under the table.' Here, 'under' is the preposition showing the location of the dog relative to the table.\n\nCommon prepositions include in, on, at, by, with, about, for, from, to, and of. Each preposition has specific usage rules:\n\n- 'In' is used for enclosed spaces or periods: 'She lives in New York.' / 'He will arrive in December.'\n- 'On' is used for surfaces and specific days: 'The book is on the shelf.' / 'Our meeting is on Monday.'\n- 'At' is used for specific points or locations: 'Meet me at the corner.' / 'She is good at tennis.'\n\nPrepositional phrases add detail and context: 'He walked across the street,' or 'She is interested in music.'\n\nBeware of common mistakes such as saying 'She is good in tennis' instead of 'She is good at tennis.'\n\nPractice makes perfect! Proper preposition use enhances your clarity and professionalism in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'He is waiting ___ the bus stop.'",
+      "answer": "at"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with an appropriate preposition: 'The keys are ___ the drawer.'",
+      "answer": "in"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error in the sentence: 'She is interested on painting.'",
+      "answer": "She is interested in painting."
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct usage:\n1. in\n2. on\n3. at\n\na. Specific point or location\nb. Enclosed space or period\nc. Surface or day",
+      "answer": "1-b, 2-c, 3-a"
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used precisely to convey clear and direct information, especially in professional and academic settings. Americans value clarity and specificity, so mastering prepositions helps you communicate more effectively. Additionally, idiomatic expressions with prepositions, such as 'on time' or 'at the same time,' are common in everyday speech, reflecting the cultural emphasis on punctuality and social connection.",
+  "createdAt": "2025-12-24T04:43:25.660Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "GM-A2-00432",
+  "number": 432,
+  "title": "Prepositions Power: Mastering the Basics for American English Gods",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the role of prepositions in sentences.",
+    "Identify common prepositions used in everyday American English.",
+    "Use prepositions correctly to describe location and direction.",
+    "Practice forming sentences with appropriate prepositions.",
+    "Enhance overall sentence clarity and accuracy with prepositions."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other words in a sentence.",
+      "example": "The book is on the table."
+    },
+    {
+      "word": "Location",
+      "definition": "The position of something in space.",
+      "example": "The keys are in my bag."
+    },
+    {
+      "word": "Direction",
+      "definition": "The course along which something moves or points.",
+      "example": "She is going to the park."
+    }
+  ],
+  "content": "Welcome to the world of prepositions, the small words that make big differences in American English! Prepositions connect nouns and pronouns to other parts of the sentence, providing important information about location, direction, time, and more.\n\nCommon prepositions include: in, on, at, under, over, through, to, from, with, about.\n\nExamples:\n- Location: The dog is under the table.\n- Direction: We are going to the mall.\n- Time: The meeting is at 3 PM.\n\nRemember, choosing the right preposition helps your sentences sound natural and clear. Practice with these examples:\n- The pictures are on the wall.\n- She walked through the park.\n- He is from New York.\n\nUsing prepositions correctly is a key step toward becoming a master of American English. Keep practicing to make your sentences precise and expressive!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct preposition: The cat is ____ the sofa.",
+      "answer": "on"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Fill in the blank with a suitable preposition: She is sitting ____ her friends.",
+      "answer": "with"
+    },
+    {
+      "type": "Sentence formation",
+      "question": "Create a sentence using the preposition 'under'.",
+      "answer": "The shoes are under the bed."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in everyday speech and informal writing to describe locations and movements. For example, saying 'Meet me at the corner' or 'put the book on the shelf' are common. Mastering prepositions not only improves your grammar but also helps you sound more natural and confident when communicating in American English.",
+  "createdAt": "2025-12-24T04:42:56.102Z"
+}

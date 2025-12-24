@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00445",
+  "number": 445,
+  "title": "Mastering American English Prepositions: The Path to Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the essential functions of prepositions in American English sentences.",
+    "Identify common prepositions and their correct usage in context.",
+    "Differentiate between similar prepositions based on their meanings and applications.",
+    "Apply prepositions accurately in writing and speaking to enhance clarity.",
+    "Avoid common prepositional errors to sound more natural and confident."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, plus any modifiers.",
+      "example": "She sat **next to her friend** during the movie."
+    },
+    {
+      "word": "Object of a Preposition",
+      "definition": "The noun or pronoun that follows a preposition and completes its meaning.",
+      "example": "He walked **through the park**."
+    }
+  ],
+  "content": "Prepositions are small words that pack a punch—they connect nouns or pronouns to other words in a sentence, establishing relationships such as location, direction, time, or method. Mastery of prepositions is essential for clear, natural communication in American English.\n\nFor example, consider the sentence: 'The keys are **on** the table.' Here, 'on' shows the relationship between 'keys' and 'table', indicating location.\n\nCommon prepositions include: **in, on, at, by, with, about, for, from, to, of, under, over, between, during**. Each preposition has specific uses:\n- **In** indicates something inside a space or period.\n- **On** signifies a surface.\n- **At** points to a specific location or time.\n\nPrepositions are often part of prepositional phrases, which add detail:\n- 'She arrived **after the meeting**.'\n- 'He sat **next to his brother**.'\n\nUnderstanding the object of a preposition—the noun or pronoun that follows it—is crucial. For example, in 'The gift is **for her**,' 'her' is the object.\n\nRemember, prepositions often have multiple meanings and uses, so context is key. Practice identifying and using prepositions correctly to sound more fluent and natural in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition: 'We will meet ___ 3 PM.'",
+      "answer": "at"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "She placed the picture ___ the wall.",
+      "answer": "on"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: 'He is good in playing tennis.'",
+      "answer": "He is good at playing tennis."
+    },
+    {
+      "type": "matching",
+      "question": "Match the prepositions with their typical usage:\n1. In\n2. On\n3. At\n\na. Specific point or location\nb. Inside a space or period\nc. Surface of something",
+      "answer": "1-b, 2-c, 3-a"
+    },
+    {
+      "type": "writing",
+      "question": "Write five sentences using different prepositions to describe a place or activity.",
+      "answer": "Sample answers vary; focus on correct preposition usage."
+    }
+  ],
+  "culturalNotes": "Prepositions in American English are integral to everyday conversation, from giving directions ('Turn **left at** the corner') to describing routines ('I wake up **at** 7 AM'). Americans often use prepositions idiomatically; for example, 'on time' instead of 'in time.' Understanding prepositional phrases can also help in grasping American cultural references, such as sports ('He hit a home run **in** the ninth inning') and social interactions ('Meet me **at** the park'). Mastery of prepositions will help students navigate both formal and informal settings with confidence and authenticity.",
+  "createdAt": "2025-12-24T04:43:39.508Z"
+}

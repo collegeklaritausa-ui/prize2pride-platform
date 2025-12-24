@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00447",
+  "number": 447,
+  "title": "Mastering Prepositions: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the function and importance of prepositions in American English.",
+    "Identify common prepositions and their correct usage in sentences.",
+    "Differentiate between prepositions of place, time, and movement.",
+    "Apply prepositions accurately in both written and spoken American English.",
+    "Avoid common prepositional errors that hinder clarity and fluency."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word used to link nouns, pronouns, or phrases to other words within a sentence, indicating relationships such as direction, place, time, or method.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers, that functions as a unit within a sentence.",
+      "example": "She sat **next to her friend** during the concert."
+    }
+  ],
+  "content": "Prepositions are essential in American English for expressing relationships between different elements within a sentence. They often show location (where?), time (when?), direction (where to?), and other relationships.\n\n**Common Prepositions of Place:** in, on, at, under, above, between, among, near, behind, beside.\n\n**Examples:**\n- The keys are **in** the drawer.\n- The picture hangs **on** the wall.\n- We met **at** the park.\n\n**Common Prepositions of Time:** at, on, in, during, since, for, before, after.\n\n**Examples:**\n- The meeting is **at** 3 p.m.\n- We will visit **on** Monday.\n- She has lived here **since** 2010.\n\n**Prepositions of Movement:** to, into, onto, out of, through, across.\n\n**Examples:**\n- He is going **to** the store.\n- The cat jumped **onto** the sofa.\n- They walked **through** the park.\n\n**Using Prepositions Correctly:**\n- Avoid ending sentences with prepositions in formal writing, e.g., prefer \"the reason **for which** I called\" instead of \"the reason I called.\"\n- Be mindful of prepositional idioms and fixed expressions common in American English.\n\nPractice makes perfect. Understanding when and how to use prepositions will significantly enhance your clarity and fluency in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'She is interested ___ learning new languages.'",
+      "answer": "in"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate preposition: 'We will meet ___ the restaurant at 6 PM.'",
+      "answer": "at"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct category:\n1. under\n2. during\n3. into\n\na) Time\nb) Place\nc) Movement",
+      "answer": "1-b, 2-a, 3-c"
+    },
+    {
+      "type": "short answer",
+      "question": "Rewrite the sentence correctly using a preposition: 'He walked the park.'",
+      "answer": "He walked **through** the park."
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the error: 'She looked at the picture on.'",
+      "answer": "She looked at the picture **on the wall**."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in idiomatic expressions and colloquial speech that may differ from formal grammar rules. For example, Americans frequently say, \"I'm going to the store\" instead of \"I'm going to the store\"; the preposition 'to' indicates direction. Additionally, prepositional phrases are common in everyday conversation, emphasizing relationships and spatial awareness central to American social interactions. Mastering prepositions will help you understand and participate more naturally in American communication and cultural nuances.",
+  "createdAt": "2025-12-24T04:43:46.773Z"
+}

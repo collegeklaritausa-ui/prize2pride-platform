@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00475",
+  "number": 475,
+  "title": "Mastering Prepositions: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Prepositions",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Identify and understand the function of common prepositions in American English.",
+    "Use prepositions correctly in various sentence structures.",
+    "Distinguish between similar prepositions based on context and meaning.",
+    "Apply prepositions accurately in both written and spoken American English.",
+    "Develop an intuitive sense of prepositional phrases to enhance communication skills."
+  ],
+  "vocabulary": [
+    {
+      "word": "Preposition",
+      "definition": "A word that shows the relationship between a noun or pronoun and other parts of the sentence, often indicating direction, place, time, or introducing an object.",
+      "example": "The book on the table is mine."
+    },
+    {
+      "word": "Prepositional Phrase",
+      "definition": "A group of words consisting of a preposition and its object, along with any modifiers.",
+      "example": "She arrived **after the show**."
+    },
+    {
+      "word": "Object of the Preposition",
+      "definition": "The noun or pronoun that follows a preposition and completes its meaning.",
+      "example": "He sat **next to his friend**."
+    }
+  ],
+  "content": "Prepositions are essential building blocks of clear and effective communication in American English. They establish relationships between different parts of a sentence, providing context and detail. For example, in the sentence 'The keys are **on** the counter,' the preposition 'on' links 'keys' and 'counter,' indicating location.\n\nPrepositions can be categorized based on their function:\n\n- **Place/Location:** in, on, at, beside, under, over, between\n- **Time:** before, after, during, at, since, until\n- **Direction/Movement:** to, into, onto, out of, toward, through\n- **Other relationships:** with, about, of, for, by\n\nUsing prepositions correctly involves understanding their specific relationships and choosing the most accurate one based on context. For instance, you wouldn't say 'He is good **in** math,' but rather 'He is good **at** math.'\n\nPrepositional phrases can be flexible and descriptive. They add depth to your sentences: 'She walked **along the beach**, **through the park**, and **past the old church**.'\n\nRemember, prepositions are often tricky because many look similar but have different nuances. Practice and experience are key to mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct preposition to complete the sentence: 'We will meet ____ Monday.'",
+      "answer": "on"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the appropriate preposition: 'The cat is hiding ____ the sofa.'",
+      "answer": "behind"
+    },
+    {
+      "type": "matching",
+      "question": "Match the preposition with its correct function:\n1. During\n2. Under\n3. To\n4. About",
+      "answer": {
+        "During": "Time",
+        "Under": "Place/Location",
+        "To": "Direction/Movement",
+        "About": "Other relationships"
+      }
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the error: 'She is interested for learning new languages.'",
+      "answer": "She is interested **in** learning new languages."
+    },
+    {
+      "type": "short answer",
+      "question": "Write a sentence using the prepositional phrase 'next to the park.'",
+      "answer": "The bakery is located next to the park."
+    }
+  ],
+  "culturalNotes": "In American culture, prepositions are often used in casual conversation to specify locations and times, such as saying 'Meet me **at** the mall **after** work.' Understanding these nuances helps non-native speakers integrate smoothly into social interactions. Additionally, prepositional phrases are frequently used in American idioms and expressions, enriching conversational language and idiomatic understanding.",
+  "createdAt": "2025-12-24T04:45:39.457Z"
+}
