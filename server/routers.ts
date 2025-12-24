@@ -5,6 +5,11 @@ import { publicProcedure, protectedProcedure, router } from "./_core/trpc";
 import { z } from "zod";
 import { invokeLLM } from "./_core/llm";
 import * as db from "./db";
+import { generateSpeech, generatePronunciation, generateAvatarSpeech } from "./_core/textToSpeech";
+import { generateAvatarImage, generateEducationalImage, generateVocabularyImage, generateScenarioImage, avatarTemplates } from "./_core/aiImageGenerator";
+import { createCertificateData, generateCertificate } from "./_core/certificateGenerator";
+import { createDailyGoal, updateDailyGoalProgress, calculateGoalProgress, generateWeeklyReport } from "./_core/progressTracking";
+import { createAchievementShare, createStreakShare, createCertificateShare, generateShareLinks } from "./_core/socialSharing";
 import { proficiencyLevels, lessonCategories } from "../drizzle/schema";
 
 export const appRouter = router({
@@ -389,6 +394,194 @@ const aiResponse = typeof messageContent === 'string' ? messageContent : "I'm so
 
       return { success: true, message: "Sample data seeded successfully" };
     }),
+  }),
+
+  // Text-to-Speech API
+  tts: router({
+    generateSpeech: protectedProcedure
+      .input(z.object({
+        text: z.string(),
+        voice: z.enum(['alloy', 'echo', 'fable', 'onyx', 'nova', 'shimmer']).optional(),
+        speed: z.number().min(0.25).max(4).optional()
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateSpeech(input);
+        return result;
+      }),
+
+    generatePronunciation: protectedProcedure
+      .input(z.object({ word: z.string() }))
+      .mutation(async ({ input }) => {
+        const result = await generatePronunciation(input.word);
+        return result;
+      }),
+
+    generateAvatarSpeech: protectedProcedure
+      .input(z.object({
+        text: z.string(),
+        avatarId: z.string()
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateAvatarSpeech(input.text, input.avatarId);
+        return result;
+      }),
+  }),
+
+  // AI Image Generation API
+  aiImages: router({
+    generateAvatar: protectedProcedure
+      .input(z.object({
+        avatarId: z.string(),
+        pose: z.enum(['portrait', 'teaching', 'presenting', 'thinking', 'celebrating']).optional(),
+        emotion: z.enum(['neutral', 'happy', 'encouraging', 'thoughtful', 'excited']).optional()
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateAvatarImage(
+          input.avatarId,
+          input.pose || 'portrait',
+          input.emotion || 'neutral'
+        );
+        return result;
+      }),
+
+    generateEducational: protectedProcedure
+      .input(z.object({
+        topic: z.string(),
+        level: z.enum(['A1', 'A2', 'B1', 'B2', 'C1', 'C2']),
+        category: z.string(),
+        style: z.enum(['realistic', 'illustrated', 'infographic', 'diagram']).optional()
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateEducationalImage({
+          ...input,
+          style: input.style || 'realistic'
+        });
+        return result;
+      }),
+
+    generateVocabulary: protectedProcedure
+      .input(z.object({
+        word: z.string(),
+        definition: z.string(),
+        exampleSentence: z.string(),
+        level: z.string()
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateVocabularyImage(
+          input.word,
+          input.definition,
+          input.exampleSentence,
+          input.level
+        );
+        return result;
+      }),
+
+    generateScenario: protectedProcedure
+      .input(z.object({
+        scenario: z.string(),
+        setting: z.string(),
+        mood: z.enum(['professional', 'casual', 'formal', 'relaxed']).optional()
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateScenarioImage({
+          ...input,
+          mood: input.mood || 'casual'
+        });
+        return result;
+      }),
+
+    getAvatarTemplates: publicProcedure.query(() => {
+      return Object.entries(avatarTemplates).map(([id, config]) => ({
+        id,
+        ...config
+      }));
+    }),
+  }),
+
+  // Certificates API
+  certificates: router({
+    generate: protectedProcedure
+      .input(z.object({
+        lessonTitle: z.string(),
+        level: z.string(),
+        score: z.number(),
+        xpEarned: z.number()
+      }))
+      .mutation(async ({ ctx, input }) => {
+        const certData = createCertificateData(
+          ctx.user.name || 'Learner',
+          input.lessonTitle,
+          input.level,
+          input.score,
+          input.xpEarned
+        );
+        const html = generateCertificate(certData);
+        return { certificateId: certData.certificateId, html };
+      }),
+  }),
+
+  // Daily Goals API
+  goals: router({
+    getDaily: protectedProcedure.query(async ({ ctx }) => {
+      const user = await db.getUserById(ctx.user.id);
+      const goal = createDailyGoal(ctx.user.id, user?.preferredLevel || 'A1');
+      return goal;
+    }),
+
+    updateProgress: protectedProcedure
+      .input(z.object({
+        earnedXp: z.number().optional(),
+        completedLessons: z.number().optional(),
+        reviewedVocabulary: z.number().optional(),
+        practiceMinutes: z.number().optional()
+      }))
+      .mutation(async ({ ctx, input }) => {
+        const user = await db.getUserById(ctx.user.id);
+        const currentGoal = createDailyGoal(ctx.user.id, user?.preferredLevel || 'A1');
+        const updatedGoal = updateDailyGoalProgress(currentGoal, input);
+        const progress = calculateGoalProgress(updatedGoal);
+        return { goal: updatedGoal, progress };
+      }),
+  }),
+
+  // Social Sharing API
+  sharing: router({
+    getAchievementShareLinks: protectedProcedure
+      .input(z.object({
+        achievementName: z.string(),
+        achievementDescription: z.string()
+      }))
+      .query(async ({ ctx, input }) => {
+        const content = createAchievementShare(
+          input.achievementName,
+          input.achievementDescription,
+          ctx.user.name || 'Learner'
+        );
+        return generateShareLinks(content);
+      }),
+
+    getStreakShareLinks: protectedProcedure
+      .input(z.object({ streakDays: z.number() }))
+      .query(async ({ ctx, input }) => {
+        const content = createStreakShare(input.streakDays, ctx.user.name || 'Learner');
+        return generateShareLinks(content);
+      }),
+
+    getCertificateShareLinks: protectedProcedure
+      .input(z.object({
+        lessonTitle: z.string(),
+        level: z.string(),
+        score: z.number()
+      }))
+      .query(async ({ ctx, input }) => {
+        const content = createCertificateShare(
+          input.lessonTitle,
+          input.level,
+          input.score,
+          ctx.user.name || 'Learner'
+        );
+        return generateShareLinks(content);
+      }),
   }),
 });
 

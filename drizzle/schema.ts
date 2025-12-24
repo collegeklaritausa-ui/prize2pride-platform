@@ -3,7 +3,6 @@ import { int, mysqlEnum, mysqlTable, text, timestamp, varchar, boolean, json, in
 /**
  * Core user table backing auth flow.
  */
-import { index, uniqueIndex } from "drizzle-orm/mysql-core";
 
 export const users = mysqlTable("users", {
   id: int("id").autoincrement().primaryKey(),

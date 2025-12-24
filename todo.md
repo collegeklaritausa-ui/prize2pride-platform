@@ -40,17 +40,28 @@
 
 ## Augmentation Features
 
-- [ ] Audio playback for vocabulary pronunciation
-- [ ] Text-to-speech for lesson content
-- [ ] Detailed scenario dialogues for each lesson
-- [ ] Interactive dialogue practice mode
-- [ ] Progress certificates (downloadable PDF)
-- [ ] Certificate gallery page
-- [ ] Pronunciation practice with visual feedback
-- [ ] Enhanced avatar animations
-- [ ] Avatar voice synthesis
-- [ ] Lesson completion animations
-- [ ] Daily learning goals
-- [ ] Weekly progress reports
-- [ ] Social sharing for achievements
+- [x] Audio playback for vocabulary pronunciation
+- [x] Text-to-speech for lesson content
+- [x] Detailed scenario dialogues for each lesson
+- [x] Interactive dialogue practice mode
+- [x] Progress certificates (downloadable PDF)
+- [x] Certificate gallery page
+- [x] Pronunciation practice with visual feedback
+- [x] Enhanced avatar animations
+- [x] Avatar voice synthesis
+- [x] Lesson completion animations
+- [x] Daily learning goals
+- [x] Weekly progress reports
+- [x] Social sharing for achievements
+
+## AI-Powered Features (NEW)
+
+- [x] AI Image Generation for educational content
+- [x] Hyper-realistic feminine avatar generation
+- [x] Avatar animation frame generation
+- [x] Vocabulary illustration generation
+- [x] Scenario/dialogue scene generation
+- [x] American culture image generation
+- [x] Multiple avatar templates (6 unique personalities)
+- [x] Avatar voice synthesis with personality matching
 

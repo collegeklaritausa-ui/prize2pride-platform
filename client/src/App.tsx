@@ -11,6 +11,7 @@ import LessonDetail from "./pages/LessonDetail";
 import Practice from "./pages/Practice";
 import Vocabulary from "./pages/Vocabulary";
 import Achievements from "./pages/Achievements";
+import Certificates from "./pages/Certificates";
 
 function Router() {
   return (
@@ -22,6 +23,7 @@ function Router() {
       <Route path="/practice" component={Practice} />
       <Route path="/vocabulary" component={Vocabulary} />
       <Route path="/achievements" component={Achievements} />
+      <Route path="/certificates" component={Certificates} />
       <Route path="/404" component={NotFound} />
       <Route component={NotFound} />
     </Switch>
