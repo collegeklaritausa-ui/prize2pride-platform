@@ -1,0 +1,58 @@
+{
+  "id": "GM-B1-00308",
+  "number": 308,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept of reported speech and its importance in American English.",
+    "Identify the differences between direct and indirect speech.",
+    "Learn how to convert direct speech into reported speech accurately.",
+    "Apply reporting verbs appropriately in various contexts.",
+    "Practice constructing sentences using reported speech to enhance fluency."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said that she was feeling sick."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or convey what someone else has said, such as 'say,' 'tell,' 'ask,' etc.",
+      "example": "He told me that he would arrive tomorrow."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of a verb when converting direct speech into reported speech.",
+      "example": "He said, 'I am tired.' → He said that he was tired."
+    }
+  ],
+  "content": "Welcome to the lesson on Reported Speech, a crucial aspect of American English that allows you to convey what others have said without quoting them directly. Understanding reported speech enhances your communication skills, making your conversations and writing more natural and fluent.\n\n**Direct vs. Indirect (Reported) Speech:**\n- Direct speech quotes the exact words spoken: She said, 'I'm coming.'\n- Indirect speech (reported speech) conveys the message without quoting directly: She said that she was coming.\n\n**Rules for Converting Direct to Reported Speech:**\n1. Change the tense of the verb:\n   - Present simple to past simple (e.g., 'I am hungry' → He said he was hungry)\n   2. Adjust pronouns and time expressions:\n   - 'I' becomes 'he/she,' and 'today' becomes 'that day'\n2. Use appropriate reporting verbs:\n   - 'say,' 'tell,' 'ask,' 'mention,' etc.\n\n**Examples:**\n- Direct: He said, 'I will help you.'\n- Reported: He said that he would help me.\n\n**Common Reporting Verbs and Their Usage:**\n- Say/Says: General statements.\n- Tell/Tells: When indicating who is being addressed.\n- Ask/Asks: For questions.\n- Mention: For mentioning details.\n\n**Important Note:**\n- When reporting questions, change the question form into a statement and use 'if' or 'whether' for yes/no questions. For example:\n  - Direct question: 'Are you coming?'\n  - Reported: He asked if I was coming.\n\nBy mastering reported speech, you will be able to report conversations accurately, which is essential for both casual conversations and formal communication in American English.\n\n**Practice Tip:** Always pay attention to tense shifts and pronoun changes to ensure your reported speech is grammatically correct and natural sounding.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "What is the correct reported speech for: She said, 'I am tired.'?",
+      "answer": "She said that she was tired."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "He asked, 'Are you coming today?' → He asked if ________ coming today.",
+      "answer": "I was"
+    },
+    {
+      "type": "Rewrite",
+      "question": "Convert the following direct speech into reported speech: 'They will arrive tomorrow,' she said.",
+      "answer": "She said that they would arrive the next day."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the reporting verb with its appropriate usage:\n1. Said\n2. Told\n3. Asked\n4. Mentioned\n\na. Reporting a question\nb. Giving information\nc. Giving an instruction\n\nAnswers: 1-b, 2-c, 3-a, 4-b"
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech is often used in storytelling, journalism, and everyday conversations to share information, opinions, and stories. Americans value clarity and directness, so mastering reported speech can help you communicate more effectively and confidently in both casual and professional contexts. Additionally, using appropriate reporting verbs and tense adjustments demonstrates respect and understanding of conversational nuances, which is highly appreciated in American social interactions.",
+  "createdAt": "2025-12-24T04:34:39.652Z"
+}

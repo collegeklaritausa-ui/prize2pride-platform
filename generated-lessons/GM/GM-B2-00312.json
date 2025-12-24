@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00312",
+  "number": 312,
+  "title": "Mastering Reported Speech: Speak Like an American Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the rules for transforming direct speech into reported speech in American English.",
+    "Identify key reporting verbs and their appropriate usage.",
+    "Practice converting direct quotes into reported speech with correct tense and pronoun changes.",
+    "Recognize common reporting speech patterns in American cultural contexts.",
+    "Apply reported speech accurately in both written and spoken American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone has said without quoting them directly.",
+      "example": "She said she was feeling well."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report what someone has said, such as 'said,' 'told,' 'asked,' etc.",
+      "example": "He told me he would arrive tomorrow."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the original speech when converting to reported speech.",
+      "example": "Present simple becomes past simple: 'I like pizza' → 'She said she liked pizza.'"
+    }
+  ],
+  "content": "Reported speech is a useful skill in American English that allows you to relay what someone else has said without quoting them directly. It involves transforming the original statement into a form that indicates it was spoken by someone else. When converting direct speech to reported speech, several grammatical changes occur:\n\n1. **Tense Shift:** Usually, the tense in the original speech shifts back in time. For example:\n   - Present simple → Past simple\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n   - Past simple → Past perfect (less common)\n\n2. **Pronoun Changes:** Adjust pronouns to match the perspective of the reporting speaker.\n   - \"I\" becomes \"he,\" \"she,\" or \"they.\"\n   - \"My\" becomes \"his,\" \"her,\" or \"their.\"\n\n3. **Time and Place Expressions:** Modify expressions like \"today,\" \"tomorrow,\" \"here,\" accordingly.\n   - \"Today\" becomes \"that day\"\n   - \"Tomorrow\" becomes \"the next day\" or \"the following day\"\n   - \"Here\" becomes \"there\"\n\n4. **Reporting Verbs:** Use appropriate verbs like \"said,\" \"told,\" \"asked,\" \"explained,\" etc., depending on the context.\n\n**Examples:**\n- Direct Speech: She said, \"I am going to the store.\"\n- Reported Speech: She said that she was going to the store.\n\n- Direct Speech: John asked, \"Are you coming to the party?\"\n- Reported Speech: John asked if I was coming to the party.\n\n**Note:** When the reporting verb is in the past tense, sometimes the tense of the subordinate clause also shifts, but it's not always necessary in American English.\n\nUnderstanding these rules helps achieve clarity and fluency in American English communication, especially in formal writing and storytelling.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following sentences correctly converts the direct speech into reported speech?\n\nA) She said she will go to the park.\nB) She said she would go to the park.\nC) She said she goes to the park.\nD) She said she is going to the park.",
+      "answer": "B"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Convert the direct speech to reported speech:\n\nHe said, \"I have finished my homework.\"\n\nHe said that ____________.",
+      "answer": "he had finished his homework."
+    },
+    {
+      "type": "true/false",
+      "question": "In American English reported speech, present perfect tense often shifts to past perfect.",
+      "answer": "true"
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following direct speech into reported speech:\n\n\"Are you coming to the meeting?\" she asked.",
+      "answer": "She asked if I was coming to the meeting."
+    },
+    {
+      "type": "matching",
+      "question": "Match the original direct speech with its correct reported speech form:\n\n1) \"I can't attend the party.\"           a) He said he couldn't attend the party.\n2) \"We are planning a trip.\"            b) She said she was planning a trip.\n3) \"I will call you tomorrow.\"          c) They said they would call you tomorrow.",
+      "answer": "1-a, 2-b, 3-c"
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is frequently used in journalism, storytelling, and everyday conversations to summarize or relay information. Americans value clarity and directness, so mastering reported speech enhances both professional and casual communication. When quoting or relaying statements, Americans often adapt phrases to sound natural and contextually appropriate, emphasizing sincerity and understanding. Recognizing subtle differences in tense and pronoun usage helps in delivering messages accurately, especially in diverse social and business environments across the United States.",
+  "createdAt": "2025-12-24T04:34:56.269Z"
+}

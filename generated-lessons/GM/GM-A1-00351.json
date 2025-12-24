@@ -1,0 +1,68 @@
+{
+  "id": "GM-A1-00351",
+  "number": 351,
+  "title": "Mastering Articles: The Keys to Clear Communication",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose of articles in English sentences",
+    "Identify and use the definite article 'the' correctly",
+    "Identify and use the indefinite articles 'a' and 'an' appropriately",
+    "Differentiate between when to use 'a', 'an', and 'the'",
+    "Apply articles correctly in spoken and written American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The word 'the,' used to refer to specific objects or persons.",
+      "example": "Please pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The words 'a' and 'an,' used to refer to non-specific objects or persons.",
+      "example": "I need a pen."
+    }
+  ],
+  "content": "Welcome to your journey to mastering articles in American English! Articles are small words that help us specify whether we are talking about something specific or something more general. There are three main articles:\n\n1. The Definite Article - 'the'\n   - Used when referring to a specific object or person that both the speaker and listener know about.\n   - Example: \"Can you close the door?\" (both know which door)\n\n2. The Indefinite Articles - 'a' and 'an'\n   - Used when talking about something for the first time or something unspecific.\n   - 'a' is used before words that begin with a consonant sound.\n   - Example: \"I saw a cat outside.\"\n   - 'an' is used before words that begin with a vowel sound.\n   - Example: \"She is an engineer.\"\n\n**Rules to remember:**\n- Use 'a' or 'an' when mentioning something for the first time.\n- Use 'the' when both speaker and listener know the specific thing being discussed.\n- Do not use an article when talking about things in a general sense (e.g., \"Dogs are friendly.\")\n\nBy understanding these rules, you will make your speech and writing clearer and more natural in American English. Practice by identifying and inserting the correct articles in different sentences!\n",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: 'I saw ___ dog in the park.'",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct article: 'She wants ___ apple.'",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'the' in the sentence: '___ sun is shining brightly.'",
+      "answer": "true"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article mistake: 'I need a umbrella.'",
+      "answer": "I need an umbrella."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence with the correct article:\n1. I saw ___ cat.\n2. She is ___ artist.\n3. Can you give me ___ pen?\nOptions:\na. a\nb. an\nc. the",
+      "answer": [
+        "a",
+        "an",
+        "the"
+      ]
+    }
+  ],
+  "culturalNotes": "In American culture, clarity in communication is highly valued, especially in formal and professional settings. Correct usage of articles enhances understanding and shows attention to detail. Americans often use articles in everyday speech, such as in conversations, news, and advertisements, which emphasizes the importance of mastering their correct usage for effective communication.",
+  "createdAt": "2025-12-24T04:37:50.718Z"
+}

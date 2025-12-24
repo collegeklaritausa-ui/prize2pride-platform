@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00333",
+  "number": 333,
+  "title": "Mastering Reported Speech: Speak Like a True American English GOD",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the concept and importance of reported speech in American English",
+    "Identify the differences between direct and indirect (reported) speech",
+    "Convert direct speech into reported speech accurately across various tenses",
+    "Apply reporting verbs correctly to convey different meanings and tones",
+    "Recognize common mistakes and learn best practices for mastering reported speech"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of conveying what someone else has said without quoting them directly, often using subordinate clauses.",
+      "example": "She said that she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'explain,' 'claim,' etc.",
+      "example": "He claimed that he had finished the project."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the verb in reported speech to reflect the original statement appropriately.",
+      "example": "Direct: 'I am happy.' → Reported: She said she was happy."
+    }
+  ],
+  "content": "To become a GOD of American English, mastering reported speech is essential. Reported speech allows you to relay conversations and information smoothly, whether you're recounting a friend’s story or quoting a politician. The key is understanding how to transform direct quotes into indirect ones while maintaining meaning and grammatical accuracy.\n\n**Direct vs. Indirect Speech:**\n- Direct speech quotes the exact words spoken, enclosed in quotation marks.\n  - Example: She said, \"I will call you tomorrow.\"\n- Indirect (reported) speech paraphrases the original statement without quotes.\n  - Example: She said that she would call me the next day.\n\n**Tense Shifts in Reported Speech:**\n- Usually, when converting to reported speech, tenses shift back in time (known as backshifting).\n\n| Original Tense | Reported Speech Tense |\n|----------------|----------------------|\n| Present simple | Past simple (e.g., 'I am' → 'she was') |\n| Present continuous | Past continuous |\n| Present perfect | Past perfect |\n| Past simple | Past perfect |\n| Will (future) | Would |\n\n**Reporting Verbs and Their Nuances:**\n- 'Say' and 'tell' are the most common. Use 'tell' with a direct object (e.g., 'she told me').\n- Use 'ask' for questions.\n- Modifiers like 'explain,' 'claim,' 'deny,' 'admit,' add nuance.\n\n**Examples:**\n- Direct: \"I’m coming,\" he said.\n- Reported: He said that he was coming.\n\n**Special Cases:**\n- Questions: Change word order and use 'if' or 'whether' for yes/no questions.\n  - Direct: \"Are you coming?\" → Reported: She asked if I was coming.\n- Commands: Use 'to' + base verb.\n  - Direct: \"Close the door,\" he said.\n  - Reported: He told me to close the door.\n\nPracticing these transformations will elevate your mastery, enabling you to communicate with clarity and confidence, truly making you a GOD of American English.\n\nRemember, pay attention to context, tense shifts, and reporting verbs to maintain accuracy and tone.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct reported speech form: She said, \"I am tired.\"",
+      "answer": "She said that she was tired."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert to reported speech: He asked, \"Are you coming to the party?\" → He asked ________ to the party.",
+      "answer": "if I was coming"
+    },
+    {
+      "type": "transformation",
+      "question": "Change the direct speech into reported speech: \"I will help you,\" she said.",
+      "answer": "She said that she would help me."
+    },
+    {
+      "type": "matching",
+      "question": "Match the reporting verb with its nuance:\n1. Claim\n2. Admit\n3. Deny\n4. Explain\n\nA. Confesses\nB. States something as true, sometimes skeptically\nC. Refutes or rejects\nD. Provides clarification or reasons",
+      "answer": "1-B, 2-A, 3-C, 4-D"
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is often used in journalism, politics, and everyday conversations to communicate information indirectly. Americans value clarity and politeness, so mastering the art of reporting speech helps navigate social and professional interactions smoothly. When recounting stories, Americans often adapt their tone and choice of reporting verbs to fit the context—whether formal or informal—making language more engaging and respectful. Practice reporting speech with different tones to reflect the diverse American cultural landscape.",
+  "createdAt": "2025-12-24T04:36:26.296Z"
+}

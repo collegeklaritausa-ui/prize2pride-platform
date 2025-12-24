@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00301",
+  "number": 301,
+  "title": "Mastering Reported Speech: Speak Like a Native",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept and usage of reported speech in American English",
+    "Identify the differences between direct and indirect speech",
+    "Transform direct quotations into reported speech accurately",
+    "Apply appropriate tense changes when converting to reported speech",
+    "Enhance conversational skills by accurately conveying others' statements"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "He said he was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when converting direct speech into indirect speech.",
+      "example": "He said, 'I am hungry.' → He said he was hungry."
+    },
+    {
+      "word": "Introductory Verb",
+      "definition": "A verb like 'say' or 'tell' used to introduce reported speech.",
+      "example": "She told me that she was busy."
+    }
+  ],
+  "content": "Reported speech is a fundamental aspect of American English that allows you to convey what someone else has said, often used in storytelling, news, and everyday conversations. Unlike direct speech, which quotes the exact words, reported speech paraphrases the statement and usually involves changes in tense, pronouns, and time expressions.\n\n**Key points:**\n- When transforming direct speech into reported speech, tense generally shifts back one step (present to past, past to past perfect).\n- Pronouns are adjusted to match the perspective of the reporter.\n- Time expressions like 'today,' 'tomorrow,' and 'yesterday' often change (e.g., 'today' becomes 'that day').\n\n**Examples:**\n- Direct: She said, \"I will meet you tomorrow.\"\n- Reported: She said she would meet me the next day.\n\n**Steps to convert direct to reported speech:**\n1. Identify the introductory verb (say, tell, mention).\n2. Change the tense of the verbs appropriately.\n3. Adjust pronouns and possessives.\n4. Modify time and place references if needed.\n\n**Practice converting statements:**\n- Direct: \"We are going to the park,\" John said.\n- Reported: John said they were going to the park.\n\nUsing reported speech correctly makes your communication more natural and fluent, especially when recounting conversations or news in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Convert the direct speech to reported speech: She said, 'I have finished my homework.'",
+      "answer": "She said she had finished her homework."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Complete the sentence: He told me that he ____ (be) tired after the long trip.",
+      "answer": "was"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following in reported speech: 'I will call you later,' she said.",
+      "answer": "She said she would call me later."
+    },
+    {
+      "type": "true/false",
+      "question": "In reported speech, the tense of 'will' always changes to 'would.'",
+      "answer": "True"
+    },
+    {
+      "type": "matching",
+      "question": "Match the direct speech with its correct reported version:\n1. 'They are coming tomorrow.'\n2. 'I am feeling sick.'\nA. He said he was feeling sick.\nB. They said they were coming the next day.",
+      "answer": "1-B, 2-A"
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is frequently used in journalism, storytelling, and casual conversations to relay information without quoting directly. It reflects a conversational style that values clarity and adaptability. Americans often use reported speech to share news, recount stories, or relay conversations in an engaging and accessible manner, emphasizing context and perspective.",
+  "createdAt": "2025-12-24T04:34:12.218Z"
+}

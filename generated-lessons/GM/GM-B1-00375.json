@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00375",
+  "number": 375,
+  "title": "Mastering Articles: Unlock the Power of 'A', 'An', and 'The' in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the basic rules for using definite and indefinite articles.",
+    "Differentiate between 'a', 'an', and 'the' based on context and pronunciation.",
+    "Apply correct article usage in both written and spoken American English.",
+    "Identify common mistakes with articles and learn how to avoid them.",
+    "Enhance clarity and precision in communication by mastering article usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word that defines a noun as specific or unspecific, such as 'a', 'an', or 'the'.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "Definite Article",
+      "definition": "The specific article 'the,' used when referring to a particular noun.",
+      "example": "Please pass me the salt."
+    },
+    {
+      "word": "Indefinite Article",
+      "definition": "The articles 'a' and 'an,' used when referring to any member of a group or non-specific items.",
+      "example": "I need a pen."
+    }
+  ],
+  "content": "In American English, articles are essential for providing clarity and specificity. The two types of articles are definite ('the') and indefinite ('a' and 'an').\n\n1. Using 'a' and 'an':\n- 'A' is used before words that begin with a consonant sound.\n- 'An' is used before words that begin with a vowel sound.\n\nFor example:\n- 'A cat,' because 'cat' starts with a consonant sound.\n- 'An apple,' because 'apple' starts with a vowel sound.\n\nNote: The choice depends on pronunciation, not spelling. For instance:\n- 'A university' (sounds like 'you-niversity') – use 'a'.\n- 'An hour' (starts with a silent 'h') – use 'an'.\n\n2. Using 'the':\n- 'The' specifies a particular noun known to both speaker and listener.\n- It can refer to something unique or previously mentioned.\n\nExamples:\n- 'The sun sets in the west.' (unique, known entity)\n- 'I saw a dog. The dog was barking.' (referring to a specific dog)\n\n3. Common mistakes include:\n- Omitting articles where needed.\n- Using 'a' before words that start with a vowel sound.\n- Misusing 'the' with non-specific nouns.\n\nPractice examples:\n- Choose the correct article: 'I saw ___ elephant at the zoo.'\n- Fill in the blank: 'She is ___ honest person.' (Hint: 'honest' starts with a silent 'h')\n\nBy mastering these rules, you'll enhance the clarity and professionalism of your English communication, making your speech and writing more effective and natural.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Select the correct article: ___ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I saw ___ cat on the roof.",
+      "answer": "a"
+    },
+    {
+      "type": "true or false",
+      "question": "The article 'the' is used to refer to something specific and known to both the speaker and listener. (True/False)",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the error: I found a umbrella in the car.",
+      "answer": "I found an umbrella in the car."
+    },
+    {
+      "type": "short answer",
+      "question": "When do you use 'an' instead of 'a'?",
+      "answer": "When the following word begins with a vowel sound."
+    }
+  ],
+  "culturalNotes": "In American culture, proper article usage is seen as a mark of education and professionalism. Native speakers often use articles instinctively, but non-native speakers can benefit from understanding these rules to sound more natural and confident. Articles also play a role in idiomatic expressions and common phrases, such as 'the best of the best' or 'a piece of cake,' which are frequently used in American speech and media.",
+  "createdAt": "2025-12-24T04:39:12.871Z"
+}

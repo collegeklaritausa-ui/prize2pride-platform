@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00307",
+  "number": 307,
+  "title": "Mastering Reported Speech: Speak Like a Native",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept of reported speech and its importance in American English.",
+    "Identify the differences between direct and indirect (reported) speech.",
+    "Learn how to transform direct speech into reported speech accurately.",
+    "Apply rules for tense changes, pronoun adjustments, and time expressions in reported speech.",
+    "Enhance conversational and writing skills by using reported speech confidently."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said, often used in indirect conversations or writing.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tenses when transforming direct speech into reported speech.",
+      "example": "He said, 'I am going to the store.' → He said he was going to the store."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Changing pronouns appropriately when converting direct speech to reported speech based on the speaker's perspective.",
+      "example": "John said, 'I will call you.' → John said he would call me."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words that indicate time, which often change when shifting from direct to reported speech.",
+      "example": "'Today' becomes 'that day'; 'tomorrow' becomes 'the next day.'"
+    }
+  ],
+  "content": "In American English, reported speech (also called indirect speech) allows us to convey what someone else has said without quoting them directly. This skill is essential for both everyday conversations and formal writing.\n\n**Direct Speech vs. Reported Speech:**\n- Direct speech quotes the exact words spoken, enclosed in quotation marks. (e.g., She said, 'I am hungry.')\n- Reported speech paraphrases the original words without quotes, often changing the tense, pronouns, and time expressions.\n\n**Transforming Direct Speech into Reported Speech:**\n1. **Tense Changes:** Generally, past tenses are used in reported speech:\n   - Present simple → Past simple (e.g., 'I like apples' → She said she liked apples.)\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n2. **Pronoun Adjustments:** Change pronouns to match the reporting perspective:\n   - 'I' becomes 'he' or 'she'\n   - 'You' becomes 'I' or 'we' depending on context\n3. **Time and Place Expressions:** Adjust time references:\n   - 'Today' → 'that day'\n   - 'Tomorrow' → 'the next day'\n   - 'Here' → 'there'\n\n**Examples:**\n- Direct: 'I will visit my grandmother tomorrow,' she said.\n- Reported: She said she would visit her grandmother the next day.\n\n**Practice tips:**\n- Focus on identifying the tense in the original speech.\n- Practice converting sentences with different pronouns and time expressions.\n- Remember, in American English, the main goal is clarity and natural flow.\n\nWith consistent practice, you'll master the art of reported speech and elevate your American English proficiency to GOD-like levels!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is the correct reported speech version?\nDirect: \"I am watching a movie,\" he said.",
+      "answer": "He said he was watching a movie."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Change the direct speech to reported speech:\nShe said, 'We will meet here tomorrow.'",
+      "answer": "She said they would meet there the next day."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite this sentence in reported speech:\n\"I have finished my homework,\" Tom said.",
+      "answer": "Tom said he had finished his homework."
+    },
+    {
+      "type": "True or False",
+      "question": "In reported speech, the word 'today' usually remains the same as in direct speech.",
+      "answer": false
+    },
+    {
+      "type": "Dialogue Practice",
+      "question": "Convert this direct speech into reported speech:\nPerson A: \"I can help you tomorrow.\"\nPerson B: \"Thank you!\"",
+      "answer": "Person A said they could help the next day. Person B thanked them."
+    }
+  ],
+  "culturalNotes": "In American culture, direct and indirect communication styles are valued for clarity and politeness. Using reported speech appropriately conveys respect and professionalism, especially in formal settings like business meetings or academic writing. Americans also appreciate conversational flexibility, so mastering reported speech helps you sound natural and confident whether you're sharing stories or participating in discussions.",
+  "createdAt": "2025-12-24T04:34:34.767Z"
+}

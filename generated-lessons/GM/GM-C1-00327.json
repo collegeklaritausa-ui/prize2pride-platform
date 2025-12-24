@@ -1,0 +1,64 @@
+{
+  "id": "GM-C1-00327",
+  "number": 327,
+  "title": "Mastering Reported Speech: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Comprehend advanced structures and nuances of reported speech",
+    "Transform direct speech into accurate and contextually appropriate reported speech",
+    "Identify and correct common errors in reported speech usage",
+    "Implement reporting verbs to convey tone and intention effectively",
+    "Apply reported speech skills in complex, real-world communication scenarios"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reporting verb",
+      "definition": "A verb used to introduce or convey speech, such as 'said,' 'claimed,' 'insisted,' or 'suggested.'",
+      "example": "She *claimed* she was innocent."
+    },
+    {
+      "word": "Backshift",
+      "definition": "A grammatical shift in tense when converting direct speech to reported speech, typically shifting one step backward in time.",
+      "example": "He said, 'I am happy.' → He said he *was* happy."
+    },
+    {
+      "word": "Mixed tense",
+      "definition": "Using different tenses within reported speech, often to reflect different times or aspects, which can lead to errors if not managed carefully.",
+      "example": "She told me she *had finished* the project before the deadline."
+    }
+  ],
+  "content": "To achieve mastery in reported speech, it's essential to understand its complex structures and subtle nuances. In advanced contexts, reported speech often involves shifts in tense, mood, and modality, requiring precise grammatical adjustments.\n\n**Tense Backshift:** When reporting past statements, verbs typically shift backward in tense:\n- Present simple to past simple (e.g., 'I like' → 'he said he liked')\n- Present continuous to past continuous ('I am working' → 'she said she was working')\n- Present perfect to past perfect ('I have seen' → 'he said he had seen')\n\n**Modality and Modal Verbs:** Modal verbs change to their past forms:\n- 'can' becomes 'could'\n- 'will' becomes 'would'\n- 'may' becomes 'might'\n\n**Reporting Verbs:** The choice of reporting verb influences tone and meaning. For example:\n- 'claimed' vs. 'admitted' vs. 'denied' reflect different attitudes.\n- Use 'suggested' or 'advised' when offering recommendations.\n\n**Complex Sentences and Mixed Tenses:** Be cautious of mixed tenses that can confuse the listener or reader. Keep track of original timing and context.\n\n**Examples:**\n- Direct: \"I am planning to visit New York next week,\" she said.\n- Reported: She said she was planning to visit New York the following week.\n\n- Direct: \"We have completed the project,\" the manager announced.\n- Reported: The manager announced that they had completed the project.\n\nPracticing these transformations in varied contexts will solidify your command over reported speech, making your American English more polished and authoritative.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the direct speech to reported speech:\nShe said, \"I will finish the report tomorrow.\"",
+      "answer": "She said she would finish the report the next day."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake in this reported speech:\nHe said he **has went** to the store.",
+      "answer": "He said he **had gone** to the store."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Choose the correct reporting verb:\nThey ____ that they are satisfied with the results.\n(a) said\n(b) claimed\n(c) admitted\n(d) suggested",
+      "answer": "(a) said"
+    },
+    {
+      "type": "Application",
+      "question": "Create a complex reported speech sentence from the following direct speech:\n\"I might visit Paris if I have time,\" she said to her friend.",
+      "answer": "She said to her friend that she might visit Paris if she had time."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "When converting to reported speech, which tense often remains unchanged?\n(a) Present simple\n(b) Past perfect\n(c) Future simple\n(d) Present continuous",
+      "answer": "(c) Future simple"
+    }
+  ],
+  "culturalNotes": "In American English, reported speech is often used in informal contexts like conversations, interviews, and media reporting. Americans value clarity and directness, so choosing appropriate reporting verbs and avoiding ambiguity are highly appreciated. Additionally, when conveying reports of events, Americans often adapt the tense and details to fit the current context or timeframe, which is crucial for maintaining relevance and immediacy in communication.",
+  "createdAt": "2025-12-24T04:35:59.675Z"
+}

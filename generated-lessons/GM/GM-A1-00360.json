@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00360",
+  "number": 360,
+  "title": "Mastering Articles: The Keys to Clear Communication",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the difference between definite and indefinite articles in American English.",
+    "Learn how to correctly use 'a', 'an', and 'the' in sentences.",
+    "Identify common mistakes made with articles and how to avoid them.",
+    "Apply article rules confidently in both speaking and writing.",
+    "Recognize cultural nuances related to article usage in American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to specify grammatical definiteness or indefiniteness.",
+      "example": "'a', 'an', and 'the' are articles in English."
+    },
+    {
+      "word": "definite article",
+      "definition": "An article that refers to a specific item known to the speaker and listener.",
+      "example": "The cat on the roof is mine."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "An article that refers to a non-specific item or one that is being mentioned for the first time.",
+      "example": "I saw a bird in the tree."
+    }
+  ],
+  "content": "In American English, articles are small words that come before nouns to give us more information about the noun. There are two types of articles: indefinite and definite. The indefinite articles are 'a' and 'an'. Use 'a' before words that start with a consonant sound, and 'an' before words that start with a vowel sound. For example, 'a dog', 'an apple'. The definite article is 'the'. Use 'the' when referring to a specific item that both the speaker and listener know about, like 'the car we saw yesterday'. Remember, articles are essential for clarity and flow in your sentences. For example, saying 'I saw cat' sounds incomplete, but 'I saw a cat' or 'I saw the cat' is correct and clear. Practice using articles with different nouns to become more natural in speech and writing.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article for the sentence: ___ apple a day keeps the doctor away.",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank: I saw ___ dog in the park.",
+      "answer": "a"
+    },
+    {
+      "type": "true/false",
+      "question": "True or False: 'The' is used when referring to something specific that both the speaker and listener know.",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the mistake: I want an apple and a orange.",
+      "answer": "I want an apple and an orange."
+    }
+  ],
+  "culturalNotes": "In American English, article usage can sometimes reflect cultural norms. For instance, Americans often omit 'the' with names of cities, countries, or institutions (e.g., 'she visited Paris' rather than 'she visited the Paris'). Additionally, articles are used differently in American English compared to other dialects, so mastering their correct usage helps in understanding and blending into American social and professional settings.",
+  "createdAt": "2025-12-24T04:38:21.652Z"
+}

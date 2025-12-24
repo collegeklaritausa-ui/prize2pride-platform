@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00322",
+  "number": 322,
+  "title": "Mastering Reported Speech: The Ultimate American English Guide",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Identify and transform direct speech into reported speech with accuracy.",
+    "Understand and apply the rules for backshift of tenses in reported speech.",
+    "Recognize and correctly use reporting verbs in various contexts.",
+    "Distinguish between different reporting structures, including questions and commands.",
+    "Develop the ability to adapt reported speech to maintain clarity and natural flow in American English."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Backshift",
+      "definition": "The grammatical shift in tense when converting direct speech into reported speech, usually shifting one step back in tense.",
+      "example": "He said, 'I am happy.' → He said he was happy."
+    },
+    {
+      "word": "Reporting verb",
+      "definition": "A verb used to introduce or convey what someone else has said, such as 'say,' 'tell,' 'claim,' or 'announce.'",
+      "example": "He told me that he would arrive late."
+    },
+    {
+      "word": "Question form",
+      "definition": "A sentence structure used to ask questions, which changes in reported speech into statements or indirect questions.",
+      "example": "Direct: 'Are you coming?' → Reported: She asked if I was coming."
+    },
+    {
+      "word": "Imperative",
+      "definition": "A command or request conveyed in speech that can be reported using verbs like 'ask,' 'tell,' or 'order.'",
+      "example": "Direct: 'Close the door.' → Reported: He asked me to close the door."
+    }
+  ],
+  "content": "Welcome to the advanced mastery of Reported Speech in American English! Mastering this skill transforms your communication, making it more natural and polished.\n\n**1. Transforming Direct to Reported Speech:**\n- When converting direct speech into reported speech, the tense usually shifts back (backshift). For example, present simple becomes past simple.\n- Example: She said, 'I work here.' → She said she worked there.\n\n**2. Using Reporting Verbs Effectively:**\n- Common reporting verbs include 'say,' 'tell,' 'claim,' 'announce,' 'explain,' 'admit,' and 'deny.'\n- Note: 'Tell' is typically followed by an object (someone), while 'say' can be used without.\n- Example: He told me he was busy.\n\n**3. Handling Questions:**\n- Convert question forms into indirect questions.\n- Yes/no questions: 'Are you coming?' → He asked if I was coming.\n- Wh-questions: 'Where do you live?' → She asked where I lived.\n\n**4. Reporting Commands and Requests:**\n- Use 'tell' or 'ask' with an object.\n- Example: 'Close the window,' he said. → He told me to close the window.\n- For polite requests, 'asked' + infinitive is common.\n- Example: 'Please pass the salt.' → She asked me to pass the salt.\n\n**5. Special Considerations:**\n- Avoid double backshifting if the original statement is still true.\n- Be mindful of time expressions: 'today' becomes 'that day,' 'tomorrow' becomes 'the next day,' etc.\n- Use contextual clues to maintain clarity and natural flow.\n\n**Examples in Practice:**\n- Direct: She said, 'I am going to the store.'\n- Reported: She said she was going to the store.\n- Direct: He asked, 'Do you want coffee?'\n- Reported: He asked if I wanted coffee.\n\nBy mastering these transformations, you'll speak and write with the confidence of a true GOD of American English, conveying messages naturally and accurately that resonate within the cultural fabric of the U.S.",
+  "exercises": [
+    {
+      "type": "Conversion",
+      "question": "Convert the direct speech into reported speech: 'I will call you tomorrow,' she said.",
+      "answer": "She said she would call me the next day."
+    },
+    {
+      "type": "Identify the reporting verb",
+      "question": "Choose the best reporting verb for this sentence: 'He claimed he was innocent.'",
+      "answer": "claimed"
+    },
+    {
+      "type": "Question formation",
+      "question": "Transform this direct question into reported speech: 'Are you coming to the party?'",
+      "answer": "He asked if I was coming to the party."
+    },
+    {
+      "type": "Command reporting",
+      "question": "Report this command: 'Please finish your homework,' the teacher said.",
+      "answer": "The teacher asked me to finish my homework."
+    },
+    {
+      "type": "Time expression change",
+      "question": "Change the time expression in this sentence: 'She said, 'I saw him yesterday.''",
+      "answer": "She said she had seen him the day before."
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is often used in journalism, storytelling, and casual conversations to relay information indirectly. Americans value clarity and politeness, so using appropriate reporting verbs like 'ask,' 'tell,' or 'mention' enhances respectful and natural communication. Understanding the nuances of tense backshifting and time expressions is especially important in professional settings, interviews, and reporting to maintain accuracy and cultural authenticity.",
+  "createdAt": "2025-12-24T04:35:38.523Z"
+}

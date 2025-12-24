@@ -1,0 +1,74 @@
+{
+  "id": "GM-GL-00341",
+  "number": 341,
+  "title": "Mastering Reported Speech: The Divine Art of Conveying Others' Words",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the fundamental principles of reported speech in American English.",
+    "Identify and correctly transform direct speech into reported speech across various tenses.",
+    "Master the use of reporting verbs and their nuances in different contexts.",
+    "Recognize and accurately implement changes in pronouns, time expressions, and place references.",
+    "Achieve fluency and precision in using reported speech in complex sentences and dialogues."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often involving transformation of tense, pronouns, and adverbs.",
+      "example": "He said that he was coming later."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report what someone else has said, such as 'say,' 'tell,' 'announce,' or 'explain.'",
+      "example": "She told me she would arrive early."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech to reported speech, typically moving one step back in time.",
+      "example": "He said, 'I am happy.' → He said that he was happy."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Modifying pronouns in reported speech to match the perspective of the speaker.",
+      "example": "She said, 'I will help you.' → She said that she would help me."
+    },
+    {
+      "word": "Time and Place Expressions",
+      "definition": "Words like 'today,' 'tomorrow,' 'here,' and 'this' that often change to 'that day,' 'the next day,' 'there,' and 'that' in reported speech.",
+      "example": "He said, 'I will visit you tomorrow.' → He said that he would visit me the next day."
+    }
+  ],
+  "content": "Mastering reported speech elevates your mastery of American English to divine status. Reported speech allows you to recount statements, questions, and commands with finesse, conveying information with clarity and nuance.\n\n**Transforming Direct Speech into Reported Speech:**\n- **Tense Shift:** Typically, present simple becomes past simple; present continuous becomes past continuous; present perfect becomes past perfect; and will becomes would.\n- **Pronoun Adjustment:** Change the subject pronoun to fit the context.\n- **Adverb and Time Expression Changes:** Modify words like 'today' to 'that day,' 'tomorrow' to 'the next day,' etc.\n- **Reporting Verbs:** Choose appropriate verbs like 'say,' 'tell,' 'advise,' 'explain,' depending on the context.\n\n**Examples:**\n1. Direct: She says, 'I love this song.'\n   Reported: She said that she loved that song.\n\n2. Direct: John told me, 'I am working on the project.'\n   Reported: John told me that he was working on the project.\n\n3. Direct: They will arrive tomorrow.\n   Reported: They said that they would arrive the next day.\n\n**Advanced Usage:**\nWhen dealing with questions and commands, the structure slightly differs:\n- **Questions:** Change word order to statement form.\n  - Direct: She asked, 'Are you coming?'\n  - Reported: She asked if I was coming.\n- **Commands:** Use 'tell' or 'ask' + object + to-infinitive.\n  - Direct: He said, 'Close the door.'\n  - Reported: He told me to close the door.\n\nAchieving mastery requires attentive practice, especially in recognizing subtle shifts and choosing appropriate reporting verbs to match the tone and intention of the original speech. The more you practice, the more your mastery will be god-like, exuding authority and finesse in every conversation.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech form of: She said, 'I will call you tomorrow.'",
+      "answer": "She said that she would call me the next day."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the following direct speech into reported speech: 'I am feeling sick,' he said.",
+      "answer": "He said that he was feeling sick."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Change the sentence to reported speech: 'We are planning a trip,' they announced.",
+      "answer": "They announced that they were planning a trip."
+    },
+    {
+      "type": "Dialogue Completion",
+      "question": "Complete the dialogue:\nA: 'Can you help me with this task?'\nB: __\n(Use reported speech to reply.)",
+      "answer": "He asked if I could help him with that task."
+    },
+    {
+      "type": "Identify the Error",
+      "question": "Identify and correct the mistake in this reported speech: She said that she will join us later.",
+      "answer": "She said that she would join us later."
+    }
+  ],
+  "culturalNotes": "In American culture, direct communication and clarity are highly valued, which influences the use of reported speech. Americans often prefer straightforward reporting of statements to avoid misunderstandings. Additionally, in casual contexts, reported speech may include contractions and relaxed structures, reflecting the informal communication style prevalent in American society. Mastering the nuances of reported speech not only enhances grammatical accuracy but also aligns your language with authentic American conversational practices.",
+  "createdAt": "2025-12-24T04:37:04.468Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00325",
+  "number": 325,
+  "title": "Mastering Reported Speech: Elevate Your American English Command",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the advanced structures and nuances of reported speech in American English",
+    "Distinguish between direct and indirect speech with complex sentence transformations",
+    "Apply reported speech rules to various tenses and modal verbs accurately",
+    "Identify common errors and pitfalls in reporting speech and correct them confidently",
+    "Integrate reported speech seamlessly into advanced conversational and written contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "backshift",
+      "definition": "The grammatical shift of tenses when converting direct speech into reported speech.",
+      "example": "In reported speech, 'I am happy' becomes 'He said he was happy.'"
+    },
+    {
+      "word": "mood",
+      "definition": "The grammatical feature expressing modality, such as indicative, subjunctive, or imperative, affecting how speech is reported.",
+      "example": "Reporting an imperative: 'Close the door,' becomes 'She told me to close the door.'"
+    },
+    {
+      "word": "modal verb",
+      "definition": "Auxiliary verbs that express ability, possibility, permission, or obligation, which can alter when reporting speech.",
+      "example": "He said he *might* come later."
+    },
+    {
+      "word": "tense shift",
+      "definition": "Changing the tense of verbs when transforming direct speech into reported speech, often involving backshifting.",
+      "example": "Present perfect becomes past perfect: 'I have finished' → 'He said he had finished.'"
+    }
+  ],
+  "content": "To master reported speech at an advanced level, understanding the intricate rules and exceptions is essential. When converting direct quotations into reported speech, tense backshifting is often necessary, especially if the reporting verb is in the past tense. For example, 'She said, \"I am learning American English\"' becomes 'She said that she was learning American English.' \n\nHowever, certain tense forms, such as present or future in direct speech, may remain unchanged if the reporting occurs simultaneously or if the speaker wishes to emphasize immediacy.\n\nModal verbs are also transformed: 'He said, \"I can help\"' becomes 'He said that he could help.' When reporting questions, the word order changes to a statement form, and question words like 'what,' 'where,' 'why' are preserved.\n\nAdvanced students should also pay attention to the use of conditional statements and indirect speech with complex sentences, ensuring clarity and grammatical accuracy. For example, 'He asked, \"Will you attend the party?\"' becomes 'He asked if I would attend the party.'\n\nSpecial attention is needed for sentences involving imperative moods, which are reported as infinitive constructions: 'She told him, \"Close the window\"' becomes 'She told him to close the window.'\n\nMastery involves recognizing subtle differences and applying the rules flexibly across various contexts, including reported speech in formal and informal settings, media, and storytelling.\n",
+  "exercises": [
+    {
+      "type": "transformation",
+      "question": "Convert the following direct speech into reported speech: 'They said, \"We will finish the project tomorrow.\"",
+      "answer": "They said that they would finish the project the next day."
+    },
+    {
+      "type": "identify errors",
+      "question": "Identify and correct the error in this reported speech: 'She told me that she is feeling sick yesterday.'",
+      "answer": "She told me that she was feeling sick yesterday."
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence with the correct form of the verb in reported speech: He asked, \"Can you help me?\" → He asked if I ___ help him.",
+      "answer": "could"
+    },
+    {
+      "type": "question formation",
+      "question": "Create a reported speech sentence from this question: 'What are you doing?'",
+      "answer": "She asked what I was doing."
+    },
+    {
+      "type": "imperative reporting",
+      "question": "Transform the imperative command into reported speech: 'Please send the email.'",
+      "answer": "She asked me to send the email."
+    }
+  ],
+  "culturalNotes": "In American culture, indirect and reported speech are often used to soften requests, convey politeness, and navigate formal versus informal interactions. Americans value clarity and directness but also appreciate tact and diplomacy, which are reflected in their nuanced use of reported speech in business, media, and everyday conversations. Understanding these cultural nuances enhances effective communication and demonstrates mastery of advanced American English.",
+  "createdAt": "2025-12-24T04:35:51.512Z"
+}

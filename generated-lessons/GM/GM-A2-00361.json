@@ -1,0 +1,58 @@
+{
+  "id": "GM-A2-00361",
+  "number": 361,
+  "title": "Mastering Articles: The Keys to Perfect American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic use of the articles 'a,' 'an,' and 'the.'",
+    "Differentiate between specific and non-specific nouns using articles.",
+    "Apply correct articles in simple sentences.",
+    "Recognize common mistakes with articles and how to avoid them.",
+    "Build confidence in using articles accurately in everyday speech and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word used before a noun to specify it as particular or general.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "Definite article",
+      "definition": "The article 'the,' used to refer to specific or known nouns.",
+      "example": "The dog in 'The dog is barking' refers to a specific dog."
+    },
+    {
+      "word": "Indefinite article",
+      "definition": "The articles 'a' and 'an,' used for non-specific or new nouns.",
+      "example": "I saw a cat in the yard."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on articles, the small words that make a big difference. In English, there are two types of articles: indefinite and definite.\n\n1. Indefinite Articles ('a' and 'an'):\n- Use 'a' before words that start with a consonant sound. Example: a car, a teacher.\n- Use 'an' before words that start with a vowel sound. Example: an apple, an hour.\n\n2. Definite Article ('the'):\n- Use 'the' when referring to specific or known items. Example: the book on the table, the moon.\n- 'The' can be used with singular, plural, or uncountable nouns.\n\nPractice makes perfect! Remember, using the correct article helps your listener or reader understand whether you're talking about something specific or just mentioning something in general. Let's look at some examples:\n- I want a cookie. (any cookie)\n- I want the cookie. (a specific cookie you both know about)\n\nNow, it's your turn to practice using articles correctly in sentences!",
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "question": "Complete the sentence: I saw ___ elephant at the zoo.",
+      "answer": "an"
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: ___ sun is shining today.",
+      "answer": "The"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'a' or 'an' before the word 'hour.' Is this correct? 'I will wait for a hour.'",
+      "answer": "False"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence with the correct article:\n1. ___ apple\n2. ___ university\nOptions:\na. a\nb. an\nAnswer: 1-b, 2-a"
+    }
+  ],
+  "culturalNotes": "In American culture, articles are essential for clear communication, especially in everyday conversations, media, and business. Native speakers often use 'the' to refer to familiar places, organizations, or objects, emphasizing their importance or familiarity. Mastering articles not only improves grammar but also helps you sound more natural and confident in American English settings.",
+  "createdAt": "2025-12-24T04:38:25.654Z"
+}

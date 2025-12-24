@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00317",
+  "number": 317,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the structure and rules of reported speech in American English.",
+    "Identify and correctly transform direct speech into reported speech.",
+    "Recognize common shifts in tense, pronouns, and time expressions in reported speech.",
+    "Apply reported speech in various contexts, including casual conversations and formal writing.",
+    "Avoid common mistakes and develop confidence in paraphrasing quotes and statements."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when transforming direct speech to reported speech.",
+      "example": "He said, 'I am hungry.' → He said he was hungry."
+    },
+    {
+      "word": "Pronoun Shift",
+      "definition": "Adjusting pronouns from the original speaker to the reporting speaker.",
+      "example": "They said, 'We will go.' → They said they would go."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words that refer to specific times, which often need to be changed when using reported speech.",
+      "example": "Today → That day; Tomorrow → The next day."
+    }
+  ],
+  "content": "To master reported speech in American English, you need to understand the key transformations involved. When converting direct speech into reported speech, several shifts typically occur:\n\n1. **Tense Shift:** Generally, present tense verbs change to past tense.\n   - Direct: She says, 'I like coffee.'\n   - Reported: She said she liked coffee.\n\n2. **Pronoun Shift:** Pronouns are adjusted based on the context.\n   - Direct: John said, 'I will call you.'\n   - Reported: John said he would call me.\n\n3. **Time and Place Expressions:** These need to be adapted.\n   - Direct: He said, 'I saw her yesterday.'\n   - Reported: He said he had seen her the previous day.\n\n**Examples:**\n- Direct: She told me, 'I'm going to the store.'\n- Reported: She told me she was going to the store.\n\n- Direct: They said, 'We have finished our homework.'\n- Reported: They said they had finished their homework.\n\n**Special notes:**\n- If the reporting verb is in the present or future, tense shifts may be optional.\n- Use 'say' or 'tell' depending on whether a speaker or listener is emphasized.\n- When the direct speech includes questions, change word order and use 'ask' or 'inquire.'\n\n**Questions and Commands:**\n- Questions are reported with 'ask' + question word or 'if'/'whether' for yes/no questions.\n- Commands or requests use 'tell' + object + to-infinitive.\n\n**Examples:**\n- Direct question: 'Do you like pizza?'\n- Reported: He asked if I liked pizza.\n\n- Direct command: 'Close the door.'\n- Reported: She told me to close the door.",
+  "exercises": [
+    {
+      "type": "Fill in the blank",
+      "question": "Convert the following direct speech into reported speech: She said, 'I am studying.'",
+      "answer": "She said she was studying."
+    },
+    {
+      "type": "Multiple choice",
+      "question": "Choose the correct reported speech form: He said, 'We will visit tomorrow.'",
+      "answer": "He said they would visit the next day."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence in reported speech: 'I can help you,' he said.",
+      "answer": "He said he could help me."
+    },
+    {
+      "type": "Identify the mistake",
+      "question": "Identify and correct the error: She told me she will come later.",
+      "answer": "She told me she would come later."
+    },
+    {
+      "type": "Transform",
+      "question": "Transform this question into reported speech: 'Are you coming to the party?'",
+      "answer": "She asked if I was coming to the party."
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech is often used in casual conversations, interviews, and media. Americans tend to favor clear and straightforward communication, so accurate transformation of speech enhances understanding and professionalism. When quoting someone, maintaining the original tone and intent is appreciated, especially in journalism and storytelling. Additionally, Americans value the use of 'say' and 'tell' appropriately, with 'say' used more for spoken words and 'tell' for giving information or instructions. Mastery of reported speech reflects mastery of clarity, politeness, and effective communication in American English.",
+  "createdAt": "2025-12-24T04:35:17.311Z"
+}

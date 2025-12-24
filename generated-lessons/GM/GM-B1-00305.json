@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00305",
+  "number": 305,
+  "title": "Mastering Reported Speech: Speak Like a Native",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept and usage of reported speech in American English",
+    "Identify and convert direct speech into reported speech accurately",
+    "Apply appropriate tense shifts when transforming sentences",
+    "Recognize common reporting verbs and their nuances",
+    "Improve overall fluency and confidence in conversational and written American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said she was coming to the party."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report what someone has said, like 'say', 'tell', 'ask'.",
+      "example": "He told me he was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the original speech when converting to reported speech, usually reflecting the time difference.",
+      "example": "He said, 'I am hungry' → He said he was hungry."
+    }
+  ],
+  "content": "Reported speech is a fundamental aspect of American English that allows you to convey what someone else has said without quoting them directly. It's commonly used in conversations, news reports, and storytelling to make speech more concise and indirect.\n\n**Key Rules:**\n\n1. **Reporting Verbs:** Use verbs like 'say', 'tell', 'ask', 'explain', or 'suggest' to introduce the reported speech.\n\n2. **Tense Changes:** Usually, the tense shifts back in reported speech:\n   - Present simple → Past simple\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n   - Past simple → Past perfect\n   - Will → Would\n\n3. **Pronoun and Time Expression Changes:** Adjust pronouns and time references to fit the context:\n   - 'I' becomes 'he'/'she'\n   - 'today' becomes 'that day'\n   - 'tomorrow' becomes 'the next day'\n\n**Examples:**\n\n- Direct: She said, \"I am tired.\"\n  - Reported: She said she was tired.\n\n- Direct: He asked, \"Are you coming?\"\n  - Reported: He asked if I was coming.\n\n- Direct: They said, \"We will visit tomorrow.\"\n  - Reported: They said they would visit the next day.\n\nBy mastering reported speech, you'll be able to communicate more naturally and understand others better in American English contexts, whether in casual chats or formal reports.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech for: She said, \"I can help you.\"",
+      "answer": "She said she could help me."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Convert the direct speech into reported speech: He said, \"I am studying for the test.\"",
+      "answer": "He said he was studying for the test."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Direct: \"We will go to the park,\" they said. → Reported: They said they ____ to the park.",
+      "answer": "would go"
+    },
+    {
+      "type": "Matching",
+      "question": "Match the direct speech with the correct reported speech:\n1. \"I have finished my homework.\"\n2. \"Are you hungry?\"\n3. \"I will call you tomorrow.\"\n\na) He asked if I was hungry.\n b) She said she had finished her homework.\n c) He said he would call me the next day.",
+      "answer": "1-b, 2-a, 3-c"
+    }
+  ],
+  "culturalNotes": "In American culture, direct and clear communication is valued. Reported speech often reflects the straightforward style of American English. When reporting conversations, Americans tend to be concise and focus on clarity, which is essential in business, media, and everyday interactions. Understanding how to effectively use reported speech can enhance your ability to communicate confidently and authentically in various American social and professional settings.",
+  "createdAt": "2025-12-24T04:34:27.250Z"
+}

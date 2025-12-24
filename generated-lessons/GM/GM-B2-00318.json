@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00318",
+  "number": 318,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the rules and structure of reported speech in American English.",
+    "Differentiate between direct and indirect speech with appropriate tense changes.",
+    "Practice transforming direct quotations into reported speech accurately.",
+    "Identify common reporting verbs and their nuances in American contexts.",
+    "Apply reported speech in various communicative situations to sound natural and fluent."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said that she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report what someone else has said, such as 'say', 'tell', 'ask'.",
+      "example": "He told me he would be late."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tenses when converting direct speech to reported speech.",
+      "example": "Present tense changes to past tense (e.g., 'I am happy' → 'She said she was happy')."
+    }
+  ],
+  "content": "In American English, reported speech allows us to convey what someone else has said, often indirectly. When transforming direct quotes into reported speech, the tense of the verb typically shifts back in time. For example, present simple becomes past simple, present perfect becomes past perfect, and so on. \n\n**Key Rules:**\n- Reporting verbs such as 'say', 'tell', 'ask' are commonly used.\n- When reporting questions, the sentence structure changes from question form to statement form.\n- Time expressions often need to be adjusted; for example, 'today' becomes 'that day', 'tomorrow' becomes 'the next day'.\n\n**Examples:**\n- Direct: She said, 'I am learning American English.'\n- Reported: She said that she was learning American English.\n\n**Transforming Statements:**\n- Direct: 'I will visit my friend tomorrow,' he said.\n- Reported: He said that he would visit his friend the next day.\n\n**Reporting Questions:**\n- Direct: 'Are you coming to the party?' she asked.\n- Reported: She asked if I was coming to the party.\n\n**Common Reporting Verbs and Nuances:**\n- 'Say' is neutral.\n- 'Tell' often requires an object ('He told me...').\n- 'Ask' introduces questions.\n\nUnderstanding and mastering reported speech helps you sound more natural and confident in both written and spoken American English, whether you're recounting conversations or narrating stories.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following direct speech into reported speech: She said, 'I have finished my homework.'",
+      "answer": "She said that she had finished her homework."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech version: He said, 'I will call you tomorrow.'",
+      "answer": "He said that he would call me the next day."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Transform this question into reported speech: 'Where are you going?' she asked.",
+      "answer": "She asked where I was going."
+    },
+    {
+      "type": "Short Answer",
+      "question": "What is the main tense change when converting present simple to reported speech?",
+      "answer": "Present simple changes to past simple."
+    }
+  ],
+  "culturalNotes": "In American culture, direct communication is often valued for clarity and efficiency. When using reported speech, Americans tend to focus on being concise and clear, especially in professional or casual conversations. Understanding how to appropriately shift tenses and adjust expressions can help non-native speakers sound more natural and align with American conversational norms, whether reporting a friend's story or recounting a meeting.",
+  "createdAt": "2025-12-24T04:35:21.028Z"
+}

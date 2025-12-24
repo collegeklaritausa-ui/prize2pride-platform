@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00310",
+  "number": 310,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept and usage of reported speech in American English",
+    "Identify the differences between direct and indirect (reported) speech",
+    "Convert direct speech into reported speech with correct tense and pronoun adjustments",
+    "Recognize common reporting verbs and their appropriate contexts",
+    "Apply reported speech accurately in various conversational and written contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'ask,' etc.",
+      "example": "He told me he would arrive early."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the original speech when converting to reported speech.",
+      "example": "He said, 'I am happy.' → He said he was happy."
+    }
+  ],
+  "content": "Welcome to the world of reported speech, a vital aspect of American English that allows you to relay conversations, stories, and information indirectly. When transforming direct quotes into reported speech, the key is to adjust tense, pronouns, and time expressions appropriately.\n\n**Direct speech**: He said, \"I am going to the store.\"\n**Reported speech**: He said that he was going to the store.\n\n**Key rules:**\n- Tense Shift: Present becomes past, present perfect becomes past perfect, etc.\n- Pronoun Adjustment: Change 'I' to 'he' or 'she' based on the speaker.\n- Time and place expressions: 'Today' becomes 'that day', 'now' becomes 'then'.\n\n**Common reporting verbs** include: say, tell, ask, claim, explain, suggest.\n\n*Examples:* \n- She told me she was feeling sick.\n- He asked if I was coming to the party.\n- They claimed they had finished the work.\n\nPractice converting direct speech into reported speech to build mastery. Remember, mastering these skills will help you sound more natural and confident in both casual and formal American English conversations and writing.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct reported speech for: She said, 'I will call you tomorrow.'",
+      "answer": "She said that she would call me the next day."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert to reported speech: He asked, 'Are you coming to the party?' → He asked if ____ coming to the party.",
+      "answer": "I was"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following in reported speech: 'I am studying for the exam,' said John.",
+      "answer": "John said he was studying for the exam."
+    },
+    {
+      "type": "true/false",
+      "question": "In reported speech, present perfect tense always remains the same as in direct speech. (True/False)",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is frequently used in everyday conversations, interviews, and media reporting to convey information accurately without quoting verbatim. Americans value clarity and directness, so mastering reported speech enhances your ability to communicate effectively and politely in both informal and professional settings.",
+  "createdAt": "2025-12-24T04:34:47.127Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00368",
+  "number": 368,
+  "title": "Mastering Articles: The Key to Perfect American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the difference between 'a', 'an', and 'the'.",
+    "Identify when to use indefinite and definite articles correctly.",
+    "Practice adding articles to nouns in sentences.",
+    "Recognize common mistakes with articles and avoid them.",
+    "Build confidence in speaking and writing with proper article usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the sentence 'I saw a dog,' 'a' is an article."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "Articles 'a' and 'an' used before non-specific nouns.",
+      "example": "I want an apple."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the' used before specific nouns.",
+      "example": "Pass me the book on the table."
+    }
+  ],
+  "content": "Welcome, future Gods of American English! Today, we’ll conquer the art of using articles correctly. Articles are small words—'a,' 'an,' and 'the'—but they hold big power in making your sentences clear and natural.\n\nFirst, understand that 'a' and 'an' are indefinite articles. Use 'a' before words that begin with a consonant sound, and 'an' before words that start with a vowel sound. For example:\n- a cat\n- an elephant\n\nNext, 'the' is the definite article. Use it when talking about something specific that both you and the listener know about. For example:\n- Please pass me the salt.\n\nRemember:\n- Use 'a' or 'an' when mentioning something for the first time.\n- Switch to 'the' when referring to something already introduced.\n\nPractice makes perfect! Let’s see some examples:\n- I saw a dog in the park. (any dog)\n- The dog was chasing a ball. (a specific dog that was just mentioned)\n\nBe mindful of common mistakes:\n- Saying 'a apple' instead of 'an apple'.\n- Forgetting to use 'the' when needed, like 'I saw cat.' instead of 'I saw the cat.'\n\nMastering articles will make your speech and writing sound more natural and confident. Keep practicing, and soon you'll be a true GOD of American English articles!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct article: ___ apple on the table.",
+      "answer": "an"
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "I saw ___ dog in the park.",
+      "answer": "a"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Correct the mistake: I want a orange.",
+      "answer": "I want an orange."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the sentence to the correct article: \n1. ___ car is new.\n2. ___ umbrella is wet.\nOptions:\na. a\nb. an",
+      "answer": "1. a\n2. an"
+    }
+  ],
+  "culturalNotes": "In American culture, using correct articles is essential for clear communication and shows respect for the language. Recognizing the importance of definite and indefinite articles reflects the value Americans place on clarity and precision in speech and writing. Mastery of articles also helps in understanding idiomatic expressions and cultural references that are common in American media and conversation.",
+  "createdAt": "2025-12-24T04:38:48.427Z"
+}

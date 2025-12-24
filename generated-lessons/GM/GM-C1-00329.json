@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00329",
+  "number": 329,
+  "title": "Mastering Reported Speech: Elevate Your American English Skills",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the nuanced differences between direct and reported speech in American English.",
+    " correctly transform direct quotations into reported speech with appropriate tense shifts.",
+    "Identify and apply the rules for pronoun, time, and place adjustments in reported speech.",
+    " Recognize common reporting verbs and their subtle connotations in various contexts.",
+    " Develop the ability to craft complex sentences using reported speech for advanced communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report someone else's speech, such as 'say', 'tell', 'claim', 'explain'.",
+      "example": "She **stated** her opinion clearly during the meeting."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech into reported speech, typically shifting back one tense.",
+      "example": "He said, 'I am going to the store.' → He said that he **was** going to the store."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Modifying pronouns in reported speech to match the perspective of the reporter.",
+      "example": "She asked, 'Are you coming?' → She asked if **I** was coming."
+    },
+    {
+      "word": "Time and Place Words",
+      "definition": "Words like 'today', 'here', 'next week' that often change when converting speech based on context.",
+      "example": "He said, 'I will visit you tomorrow.' → He said he would visit me **the next day**."
+    },
+    {
+      "word": "Reported Question",
+      "definition": "A question transformed from direct to indirect speech, often requiring inversion and tense adjustments.",
+      "example": "She asked, 'Do you like coffee?' → She asked if I **liked** coffee."
+    }
+  ],
+  "content": "Achieving mastery in reported speech requires understanding the subtle grammatical shifts that occur when conveying someone else's words indirectly. In American English, reported speech involves several key transformations:\n\n1. **Tense Shift:** Generally, when converting direct speech into reported speech, tenses backshift. Present simple becomes past simple, present perfect becomes past perfect, and future forms often change to 'would' + base verb.\n\nExample:\nDirect: \"I am studying late tonight.\"\nReported: He said that he **was studying** late that night.\n\n2. **Pronoun Adjustment:** Change pronouns to match the viewpoint of the reporting speaker.\n\nExample:\nDirect: \"I will call you tomorrow.\"\nReported: She said she **would** call **me** the next day.\n\n3. **Time and Place Words:** Adjust words like 'today', 'tomorrow', 'here', based on the context.\n\nExample:\nDirect: \"We are meeting here tomorrow.\"\nReported: They said they **were** meeting there the **next day**.\n\n4. **Reporting Verbs:** Select appropriate verbs such as 'say', 'tell', 'claim', 'explain', which can add nuance to the reported speech.\n\nExample:\nDirect: \"I didn't do it,\" he claimed.\nReported: He **claimed** that he **had not** done it.\n\n5. **Questions:** Convert direct questions into reported speech by using 'if' or 'whether' for yes/no questions, and rephrasing wh-questions accordingly.\n\nExample:\nDirect: \"Are you attending the concert?\"\nReported: She asked if I **was** attending the concert.\n\nAdvanced structures may involve embedding reported speech within complex sentences, using modal verbs to express possibility, necessity, or speculation.\n\nRemember, context and clarity are vital in American English. When in doubt, favor clarity over complexity to ensure your message is understood effectively.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Transform the direct speech into reported speech: 'She said, \"I will finish the project tomorrow.\"'",
+      "answer": "She said that she **would** finish the project the next day."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Change the following into reported speech: 'He asked, \"Do you like this song?\"'",
+      "answer": "He asked if I **liked** that song."
+    },
+    {
+      "type": "Sentence Rewriting",
+      "question": "Rewrite the direct speech in reported form: 'They said, \"We are moving to a new city next week.\"'",
+      "answer": "They said that they **were moving** to a new city the following week."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the reporting verb in this sentence: 'She explained that the meeting had been postponed.'",
+      "answer": "explained"
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a short paragraph using at least three different reporting verbs to relay what someone said yesterday.",
+      "answer": "Yesterday, my friend told me she **claimed** she had finished her homework early. She **admitted** she was nervous about her presentation. Later, she **explained** that she had prepared well and was confident."
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are highly valued. When reporting speech, Americans often prefer straightforward transformations that maintain the original intent and tone. Formal reporting verbs like 'assert', 'claim', or 'explain' are frequently used in professional or academic contexts, whereas 'say' and 'tell' are common in everyday conversation. Understanding nuances in reporting speech enhances the ability to navigate American social and professional interactions with confidence and precision.",
+  "createdAt": "2025-12-24T04:36:08.656Z"
+}

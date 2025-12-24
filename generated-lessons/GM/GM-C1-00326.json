@@ -1,0 +1,69 @@
+{
+  "id": "GM-C1-00326",
+  "number": 326,
+  "title": "Mastering Reported Speech: Elevate Your American English Command",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the nuances and structures of reported speech in American English",
+    "Accurately transform direct speech into reported speech across various tenses",
+    "Identify and correctly use reporting verbs to convey different meanings and tones",
+    "Recognize common mistakes in reported speech and how to avoid them",
+    "Apply advanced reported speech techniques in both formal and informal contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone has said without quoting their exact words, often involving a change in tense, pronouns, and other grammatical features.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report what someone has said, such as 'say,' 'tell,' 'advise,' 'claim,' 'suggest,' etc.",
+      "example": "He *claimed* he had finished the project."
+    },
+    {
+      "word": "Tense Backshift",
+      "definition": "The grammatical shift that occurs when changing direct speech into reported speech, often involving moving the tense back in time.",
+      "example": "Direct: 'I am happy.' → Reported: He said he *was* happy."
+    },
+    {
+      "word": "Modal Verbs",
+      "definition": "Auxiliary verbs that express necessity, possibility, permission, or ability, which may change in reported speech.",
+      "example": "Direct: 'I can help.' → Reported: She said she *could* help."
+    }
+  ],
+  "content": "Achieving mastery in reported speech requires a deep understanding of how to convey someone else's words accurately while maintaining the appropriate tone and context. In American English, reported speech often involves tense backshift, pronoun adjustments, and the selection of suitable reporting verbs. For example, when transforming direct speech into reported speech:\n\n- Tense backshift: Present simple becomes past simple, present continuous becomes past continuous, etc.\n- Pronouns change based on the perspective: 'I' becomes 'he/she/they.'\n- Time expressions may also shift: 'today' becomes 'that day,' 'tomorrow' becomes 'the next day.'\n\n**Examples:**\n\n1. Direct: \"I will see you tomorrow,\" she said.\n   Reported: She said she *would* see me *the next day*.\n\n2. Direct: \"We are planning a trip,\" they told me.\n   Reported: They told me they *were* planning a trip.\n\n3. Using different reporting verbs can alter the nuance:\n   - She *claimed* she was innocent.\n   - She *admitted* she made a mistake.\n   - He *suggested* we leave early.\n\n**Advanced points:**\n- When reporting questions, invert the word order or use 'if'/'whether' for yes/no questions.\n- For commands and requests, use 'tell,' 'ask,' or 'order' plus an infinitive.\n- Be mindful of the tone, especially in indirect speech, which can soften or intensify the original message.\n\nIn American English, informal reported speech often employs idiomatic expressions and relaxed structures, especially in spoken contexts, making it essential for students to familiarize themselves with both formal and colloquial variations.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following direct speech into reported speech: 'I am hungry,' John said.",
+      "answer": "John said he was hungry."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the reporting verb in this sentence: 'She claimed she was innocent.'",
+      "answer": "claimed"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech form: 'They said they will arrive soon.'",
+      "answer": "They said they *would* arrive soon."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "He told me that he ____ (can) help with the project.",
+      "answer": "could"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake in this reported speech: 'She said she is ready.'",
+      "answer": "She said she *was* ready."
+    }
+  ],
+  "culturalNotes": "In American culture, direct and indirect speech are widely used in everyday conversations, media, and business communication. Americans value clarity and directness, so mastering reported speech can enhance both formal and informal interactions. Understanding the contextual tone—whether polite, assertive, or casual—is essential, especially in a multicultural society where language nuances impact social dynamics. Additionally, idiomatic expressions often appear in reported speech, reflecting American humor, idioms, or regionalisms, which add flavor and authenticity to communication.",
+  "createdAt": "2025-12-24T04:35:55.586Z"
+}

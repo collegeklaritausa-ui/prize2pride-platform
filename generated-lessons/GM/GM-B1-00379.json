@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00379",
+  "number": 379,
+  "title": "Mastering Articles: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the difference between definite and indefinite articles",
+    "Apply correct use of 'a', 'an', and 'the' in various contexts",
+    "Identify common mistakes with articles and avoid them",
+    "Enhance sentence clarity and accuracy through proper article usage",
+    "Develop the ability to choose the appropriate article in both written and spoken American English"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific, such as 'a', 'an', or 'the'.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the', used to refer to specific or known nouns.",
+      "example": "Please pass me the salt."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an', used to refer to nonspecific or general nouns.",
+      "example": "I saw a movie yesterday."
+    }
+  ],
+  "content": "In American English, articles are small words that precede nouns to clarify whether we are talking about something specific or general. There are two types: definite ('the') and indefinite ('a' and 'an').\n\nThe indefinite articles 'a' and 'an' are used when mentioning something for the first time or referring to any member of a group. Use 'a' before words that start with consonant sounds (e.g., a dog, a university) and 'an' before words that start with vowel sounds (e.g., an apple, an hour).\n\nThe definite article 'the' specifies a particular noun that both the speaker and listener are familiar with. For example, 'the car' refers to a specific car known to both parties.\n\n**Examples:**\n- I saw a bird in the sky. (any bird, not specific)\n- The bird I saw was a sparrow. (a specific bird previously mentioned)\n- She wants an umbrella. (any umbrella)\n- Could you hand me the pen? (a specific pen in sight or previously mentioned)\n\nRemember, the choice of 'a' or 'an' depends on the sound that begins the next word, not necessarily the spelling. For example, 'a university' (because it sounds like 'you-niversity').\n\nPractice paying attention to context and pronunciation to master the correct use of articles, transforming your American English into a polished, fluent style.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: 'I saw ___ eagle soaring in the sky.'",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct article: 'She adopted ___ cat from the shelter.'",
+      "answer": "a"
+    },
+    {
+      "type": "true/false",
+      "question": "True or False: Use 'the' when referring to a nonspecific item for the first time.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article mistake: 'He is an best player on the team.'",
+      "answer": "He is the best player on the team."
+    }
+  ],
+  "culturalNotes": "In American culture, the proper use of articles reflects clarity and professionalism in speech and writing. Americans value directness and specificity, which articles help achieve. Mastery of articles also aids in understanding idiomatic expressions and common phrases, enhancing overall communication skills in diverse contexts—from casual conversations to formal writing.",
+  "createdAt": "2025-12-24T04:39:30.074Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00306",
+  "number": 306,
+  "title": "Mastering Reported Speech: Speak Like a Pro!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept and purpose of reported speech in American English.",
+    "Identify the rules for transforming direct speech into reported speech.",
+    "Apply correct tense and pronoun changes when converting sentences.",
+    "Recognize common reporting verbs used in everyday communication.",
+    "Practice transforming direct quotations into accurate reported speech in various contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else said without quoting their exact words.",
+      "example": "She said that she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or convey the act of reporting what someone has said.",
+      "example": "said, told, explained, mentioned"
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the original speech to reflect the time of reporting.",
+      "example": "Present becomes past (e.g., 'I am happy' → 'She said she was happy')."
+    }
+  ],
+  "content": "Welcome to the world of reported speech, a crucial skill for mastering American English. Reported speech allows you to convey what someone else has said, often in a more indirect, polite, or formal way. When transforming direct quotes into reported speech, you'll need to pay attention to several rules: \n\n1. **Change of Tense**: Usually, the tense shifts back in time. For example, 'I am hungry' becomes 'He said he was hungry.' \n2. **Pronoun Adjustment**: Change pronouns to match the reporting subject. For example, 'I' becomes 'he' or 'she' depending on the context.\n3. **Time and Place Expressions**: Adjust expressions like 'today,' 'here,' and 'now' to reflect the reporting time and location ('that day,' 'there,' 'then').\n\n**Examples:**\n- Direct speech: \"I will call you tomorrow.\"\n- Reported speech: She said she would call me the next day.\n\n**Common reporting verbs** include 'say,' 'tell,' 'explain,' and 'mention.' Remember that 'tell' is often followed by a person (e.g., 'He told me...'), while 'say' can be used more generally.\n\nLet's practice transforming sentences from direct to reported speech and vice versa to solidify your mastery.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "In reported speech, how does the sentence 'She said, 'I am tired'' typically change?",
+      "answer": "She said she was tired."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Direct: 'They will visit us tomorrow.' Reported: 'He said they ______ visit us the next day.'",
+      "answer": "would"
+    },
+    {
+      "type": "Transformation",
+      "question": "Convert the direct speech into reported speech: 'John: 'I have finished my homework.''",
+      "answer": "John said he had finished his homework."
+    },
+    {
+      "type": "Identify",
+      "question": "Identify the reporting verb in this sentence: 'Mary explained that she couldn't attend the meeting.'",
+      "answer": "explained"
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech is frequently used in everyday conversations, journalism, and professional settings. Americans value clarity and politeness, so correct use of reported speech helps convey messages accurately and respectfully. When reporting someone’s words, maintaining the original intent and tone is appreciated, especially in formal communication like interviews, news reports, and academic discussions.",
+  "createdAt": "2025-12-24T04:34:30.547Z"
+}

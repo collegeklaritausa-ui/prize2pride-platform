@@ -1,0 +1,69 @@
+{
+  "id": "GM-C2-00332",
+  "number": 332,
+  "title": "Mastering Reported Speech: Speak Like a Native!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the rules of converting direct speech into reported speech",
+    "Identify changes in tense, pronouns, and time expressions in reported speech",
+    "Practice transforming direct quotations into reported speech accurately",
+    "Recognize common reporting verbs and their nuances",
+    "Apply reported speech correctly in different contexts to sound natural"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'said', 'told', 'asked'.",
+      "example": "He **asked** if I was coming."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense when converting direct speech to reported speech.",
+      "example": "He said, 'I am happy' → He said he **was** happy."
+    },
+    {
+      "word": "Pronoun Change",
+      "definition": "Adjusting pronouns to match the perspective of the reporting speaker.",
+      "example": "She said, 'I will call you' → She said she **would** call me."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words indicating time that often change in reported speech.",
+      "example": "'Today' becomes 'that day', 'Tomorrow' becomes 'the next day'."
+    }
+  ],
+  "content": "Welcome to mastery of Reported Speech, the essential skill to sound fluent and natural in American English. When we report what someone else has said, we often need to change the original words for clarity, perspective, and grammatical correctness.\n\n**Key Rules:**\n1. **Tense Shift:** Typically, the tense of the verb in direct speech shifts back in reported speech. For example:\n- Present simple → Past simple\n- Present continuous → Past continuous\n- Present perfect → Past perfect\n- Will → Would\n\n2. **Pronoun Adjustment:** Change pronouns to match the reporting context.\n- \"I\" becomes \"he\" or \"she\"\n- \"You\" becomes \"I\" or \"we\"\n\n3. **Time and Place Expressions:** Adjust these to fit the reporting context.\n- \"Today\" → \"that day\"\n- \"Tomorrow\" → \"the next day\"\n- \"Here\" → \"there\"\n\n**Examples:**\n- Direct: She said, \"I am going to the store.\"\n- Reported: She said she **was** going to the store.\n\n- Direct: He asked, \"Are you coming to the party?\"\n- Reported: He asked if I **was** coming to the party.\n\n**Using Reporting Verbs:**\n- Common verbs include: 'say', 'tell', 'ask', 'explain', 'advise', 'suggest'.\n- Example: She **told** me she was tired.\n\n**Advanced Tips:**\n- When reporting questions, change the question form into a statement, often using 'if' or 'whether' for yes/no questions.\n- Be mindful of the tone and context to choose the most appropriate reporting verb.\n\nBy mastering these rules and practicing with real-life examples, you'll elevate your American English to GOD-level fluency in reported speech!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "In the sentence, 'He said, \"I will help you tomorrow,\" which is the correct reported speech?",
+      "answer": "He said he **would** help me the next day."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Convert to reported speech: She said, 'We are planning a trip.' → She said they ______ planning a trip.",
+      "answer": "were"
+    },
+    {
+      "type": "Transformation",
+      "question": "Change the direct speech into reported speech: 'I have finished my homework,' she said.",
+      "answer": "She said she **had finished** her homework."
+    },
+    {
+      "type": "Matching",
+      "question": "Match the original statements with their correct reported speech forms:\n1. \"Can you help me?\"\n2. \"I'm feeling sick.\"\n3. \"We will arrive tomorrow.\"\n\na) She asked if I could help her.\nb) He said he was feeling sick.\nc) They said they would arrive the next day.",
+      "answer": "1-a, 2-b, 3-c"
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are valued in communication. Using reported speech accurately helps convey messages respectfully and effectively, especially in professional and casual conversations. Americans often prefer straightforward reporting to avoid misunderstandings, making mastery of this skill essential for clear, confident interactions in various social and business contexts.",
+  "createdAt": "2025-12-24T04:36:21.672Z"
+}

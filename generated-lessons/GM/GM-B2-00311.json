@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00311",
+  "number": 311,
+  "title": "Mastering Reported Speech: Speak Like a True American English Expert",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the rules for converting direct speech into reported speech in American English.",
+    "Identify and correctly use tense shifts in reported speech.",
+    "Apply appropriate pronoun and time expression changes when transforming sentences.",
+    "Recognize common reporting verbs and their nuances.",
+    "Construct accurate reported speech sentences in various contexts to sound natural and fluent."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she was feeling sick."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of the original speech to reflect the time of reporting.",
+      "example": "He said, 'I am happy.' becomes He said he was happy."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'explain.'",
+      "example": "She explained that she couldn't attend."
+    }
+  ],
+  "content": "In American English, reported speech is an essential skill for effective communication, especially in formal and informal conversations, writing, and storytelling. When transforming direct speech into reported speech, several key rules apply:\n\n1. **Tense Shift:** Generally, the tense of the original speech shifts back in time. For example:\n   - Present simple to past simple: 'He says, \"I like coffee\"' becomes 'He said he liked coffee.'\n   - Present continuous to past continuous: 'She says, \"I am working\"' becomes 'She said she was working.'\n\n2. **Pronoun Change:** Adjust pronouns to match the reporting context:\n   - \"I\" becomes \"he\" or \"she.\"\n   - \"You\" becomes \"I\" or \"we\" depending on the speaker.\n\n3. **Time and Place Expressions:** Change expressions to reflect the reporting time:\n   - \"Today\" becomes \"that day\"\n   - \"Tomorrow\" becomes \"the next day\" or \"the following day\"\n   - \"Here\" becomes \"there\"\n\n4. **Reporting Verbs:** Choose appropriate verbs based on the context:\n   - 'Say,' 'tell,' 'explain,' 'ask,' 'suggest,' etc.\n\n**Examples:**\n- Direct: She said, \"I will visit you tomorrow.\"\n- Reported: She said she would visit me the next day.\n\n- Direct: He asked, \"Are you coming to the party?\"\n- Reported: He asked if I was coming to the party.\n\nRemember, in American English, punctuation and intonation are crucial for clarity and natural flow. Mastering reported speech will elevate your communication skills, making you sound more confident and fluent.\"",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech for the sentence: 'I am going to the store,' she said.",
+      "answer": "She said she was going to the store."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Convert the direct speech to reported speech: 'They will arrive tomorrow,' he said.",
+      "answer": "He said they would arrive the next day."
+    },
+    {
+      "type": "Sentence Transformation",
+      "question": "Transform the following: 'John said, \"I can help you now\"' into reported speech.",
+      "answer": "John said he could help me then."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the reporting verb in this sentence: 'She explained that she was busy.'",
+      "answer": "explained"
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are highly valued, especially in professional and casual communication. When using reported speech, Americans often prefer using straightforward reporting verbs like 'say' and 'tell' to keep their speech clear and unambiguous. Understanding the nuances of reported speech can help you navigate conversations, interviews, and storytelling more naturally, reflecting the confident and direct communication style typical of American culture.",
+  "createdAt": "2025-12-24T04:34:51.192Z"
+}

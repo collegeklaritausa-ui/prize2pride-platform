@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00352",
+  "number": 352,
+  "title": "Mastering Articles: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic rules of using definite and indefinite articles in American English",
+    "Identify when to use 'a,' 'an,' and 'the' in sentences",
+    "Differentiate between specific and nonspecific nouns with articles",
+    "Apply articles correctly in both spoken and written American English",
+    "Build confidence to speak and write with proper article usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to specify its grammatical definiteness or indefiniteness.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to a specific noun that is known to the speaker and listener.",
+      "example": "Pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used to refer to a nonspecific noun.",
+      "example": "I need a pen."
+    }
+  ],
+  "content": "In American English, articles are small words that come before nouns to give us more information about the noun. There are two types of articles: definite and indefinite.\n\n1. **Indefinite Articles ('a' and 'an')**:\n- Use 'a' before words that start with a consonant sound. Example: a car, a dog, a university.\n- Use 'an' before words that start with a vowel sound. Example: an apple, an hour, an honest person.\n\n2. **Definite Article ('the')**:\n- Use 'the' when talking about a specific person, place, thing, or idea that both the speaker and listener know about. Example: The movie was fantastic.\n- Use 'the' when mentioning something for the second time or when the noun is unique. Example: I saw a bird. The bird was singing.\n\n**Examples in sentences:**\n- I saw **a** cat in the yard.\n- Please take **the** umbrella from the porch.\n- She is reading **an** interesting book.\n- **The** sun rises in the east.\n\n**Quick tips:**\n- Remember, 'a' and 'an' are for nonspecific items, while 'the' points to something specific.\n- Use 'an' before words starting with a vowel sound, not necessarily a vowel letter.\n- Practice by trying to add articles to nouns you use daily.\n\nBy mastering articles, you'll make your English sound more natural and clear, helping you become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ____ dog in the park.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct article: She wants ____ apple from the basket.",
+      "answer": "an"
+    },
+    {
+      "type": "true or false",
+      "question": "The sentence 'He is reading a book.' uses the correct indefinite article.",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: I saw the cat and the dog in the yard.",
+      "answer": "No mistake; the sentence is correct."
+    },
+    {
+      "type": "short answer",
+      "question": "Provide the correct article: ____ orange on the table is fresh.",
+      "answer": "An"
+    }
+  ],
+  "culturalNotes": "In American culture, articles are used naturally in everyday speech and writing. Native speakers rarely omit or misuse articles, making correct usage a sign of fluency. When conversing or writing formally, proper article use helps convey clarity and confidence. Understanding the subtle differences in article application also helps in grasping American idioms and expressions, enriching your language experience.",
+  "createdAt": "2025-12-24T04:37:54.514Z"
+}

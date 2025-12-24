@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00347",
+  "number": 347,
+  "title": "Mastering Reported Speech: The Ultimate American English Challenge",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Translate direct speech into reported speech with perfect accuracy",
+    "Identify and apply changes in tense, pronouns, and time expressions",
+    "Distinguish between direct and indirect speech in various contexts",
+    "Use reported speech to enhance storytelling and communication skills",
+    "Analyze cultural nuances in American conversational reporting"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else said without quoting them directly.",
+      "example": "She said she would join the meeting."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of a verb when converting direct speech into indirect speech.",
+      "example": "Present tense changes to past tense: 'I am happy' becomes 'He said he was happy.'"
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Modifying pronouns to match the perspective of the reporting speaker.",
+      "example": "‘I am tired,’ he said → He said he was tired."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words that refer to time, which often change when converting speech.",
+      "example": "‘Tomorrow’ becomes ‘the next day’."
+    }
+  ],
+  "content": "Mastering reported speech is essential for elevating your American English proficiency to GOD-LEVEL. In American conversations, especially in storytelling, journalism, and professional settings, accurately conveying what others have said is crucial.\n\n**Basic Structure**: To convert direct speech into reported speech, follow these rules:\n\n1. **Tense Shift**: Most tenses shift back one step in reported speech:\n   - Present simple → Past simple\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n   - Past simple → Past perfect\n2. **Pronoun Adjustment**: Change pronouns to match the perspective of the reporter:\n   - ‘I’ → ‘he/she/they’\n   - ‘You’ → ‘I’ or ‘they’ depending on context\n3. **Time and Place Expressions**: Adjust these expressions:\n   - ‘Today’ → ‘That day’\n   - ‘Tomorrow’ → ‘The next day’\n   - ‘Here’ → ‘There’\n\n**Examples**:\n- Direct: She said, ‘I am learning American English.’\n- Reported: She said that she was learning American English.\n\n**Advanced Techniques**:\n- Use of reporting verbs like ‘claim,’ ‘explain,’ ‘admit,’ ‘deny,’ and ‘insist’ to add nuance.\n- Embedding reported speech within complex sentences for storytelling.\n\nIn American culture, reported speech often underpins storytelling, journalism, and everyday conversations. Being precise and adaptable in reporting what others say demonstrates mastery and cultural fluency.\n\nPractice regularly by transforming dialogues, speeches, and news reports into reported speech to reinforce these rules.",
+  "exercises": [
+    {
+      "type": "Conversion",
+      "question": "Convert the following direct speech into reported speech: She said, 'I will meet you at the park tomorrow.'",
+      "answer": "She said that she would meet me at the park the next day."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the tense shift in this sentence: He said, 'I am watching a movie.'",
+      "answer": "Present tense ('am watching') shifts to past tense ('was watching') in reported speech."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Change the pronoun and time expression: 'We are going to the museum today,' they said.",
+      "answer": "They said that they were going to the museum that day."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech form: He claimed / claimed that he __ (finish) his homework.",
+      "answer": "He claimed that he had finished his homework."
+    },
+    {
+      "type": "Creative Writing",
+      "question": "Write a short paragraph using reported speech to narrate a recent conversation you had with a friend.",
+      "answer": "Students will craft their own paragraph, demonstrating proper tense, pronoun, and time expression adjustments."
+    }
+  ],
+  "culturalNotes": "In American culture, storytelling and direct communication often involve reporting speech to emphasize honesty or clarify intentions. News reports, interviews, and casual conversations frequently rely on indirect speech to maintain a conversational flow and demonstrate cultural fluency. Mastery of reported speech reflects not only grammatical precision but also cultural understanding of indirect communication styles prevalent in the U.S.",
+  "createdAt": "2025-12-24T04:37:32.057Z"
+}

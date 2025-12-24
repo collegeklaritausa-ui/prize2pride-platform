@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00321",
+  "number": 321,
+  "title": "Mastering Reported Speech: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Understand the principles and structure of reported speech in American English.",
+    "Differentiate between direct and indirect speech with advanced nuances.",
+    "Apply transformations from direct to reported speech in complex sentences.",
+    "Identify and correctly use tense shifts and pronoun changes in reported speech.",
+    "Interpret cultural implications and common idiomatic expressions in reported speech contexts."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way to convey what someone else has said without quoting them directly, often involving tense and pronoun adjustments.",
+      "example": "She said that she was coming to the party."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense when converting direct speech into reported speech, typically moving back in time.",
+      "example": "He said, ‘I am tired’ becomes He said that he was tired."
+    },
+    {
+      "word": "Backshift",
+      "definition": "The process of shifting the tense in reported speech to reflect a past context.",
+      "example": "‘I will go,’ she said, becomes She said she would go."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'claim,' 'explain,' often with specific rules depending on the verb.",
+      "example": "He claimed that he knew the truth."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Modifying pronouns in reported speech to match the perspective of the reporter.",
+      "example": "‘I am busy,’ she said, becomes She said she was busy."
+    }
+  ],
+  "content": "Welcome to the advanced realm of Reported Speech, the cornerstone of sophisticated American English communication. Mastery of this topic elevates your ability to convey dialogues, narrate stories, and engage in nuanced conversation seamlessly.\n\nIn American English, reported speech often involves more than simple tense shifting; it requires sensitivity to context, idiomatic expressions, and cultural subtleties. For instance, when transforming direct speech into reported speech, consider the following principles:\n\n1. **Tense Backshift:** Usually, present tense in direct speech shifts back to past tense in reported speech (e.g., ‘I am hungry’ becomes She said she was hungry). However, when the reporting verb is in the present or future, present tenses may remain unchanged.\n\n2. **Pronoun Changes:** Adapt pronouns to reflect the perspective of the reporter (e.g., ‘I’ becomes ‘she,’ ‘we’ becomes ‘they’).\n\n3. **Time and Place Expressions:** Adjust time references accordingly (e.g., ‘today’ becomes ‘that day,’ ‘here’ becomes ‘there’).\n\n4. **Reporting Verbs:** Use varied reporting verbs to add depth and emotion, such as ‘claimed,’ ‘insisted,’ ‘admitted,’ rather than defaulting to ‘said’.\n\n**Examples:**\n- Direct: She said, ‘I will see you tomorrow.’\n- Reported: She said that she would see me the next day.\n\nComplex sentences require careful handling. For example:\n- Direct: ‘I can’t believe you did that,’ he exclaimed.\n- Reported: He exclaimed that he couldn’t believe I had done that.\n\nRemember, idiomatic expressions and cultural nuances often influence how reported speech is used in American contexts. For instance, Americans frequently use phrases like ‘He was like, ...’ to imitate speech, which can be incorporated into reported speech for authenticity.\n\nPracticing transformations with various sentence structures will solidify your mastery. Be attentive to the context and emotional tone conveyed in original statements to preserve meaning accurately.",
+  "exercises": [
+    {
+      "type": "Transformation",
+      "question": "Convert the following direct speech into reported speech: 'I'm feeling great,' she said.",
+      "answer": "She said that she was feeling great."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech version of: He said, 'I will finish the project tomorrow.'",
+      "answer": "He said that he would finish the project the next day."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "She told me, 'I can't attend the meeting.' → She told me that she ________ attend the meeting.",
+      "answer": "could not / couldn't"
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake in this reported speech: 'She said she is happy.'",
+      "answer": "She said she was happy."
+    },
+    {
+      "type": "Discussion",
+      "question": "Explain why pronoun and tense changes are crucial when converting direct speech into reported speech in American English.",
+      "answer": "Pronoun and tense changes are crucial because they ensure the reported speech accurately reflects the original statement from the reporter's perspective and the narrative's time frame. Proper adjustments maintain clarity, coherence, and cultural authenticity in American English communication."
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech often incorporates informal expressions and colloquialisms, especially in conversational contexts. The use of 'like' as a filler or quotative is common in casual speech, e.g., 'He was like, 'Whatever!'' which can be integrated into reported speech for authenticity. Additionally, Americans value directness and clarity; thus, precise tense and pronoun adjustments are appreciated in formal and informal narratives. Understanding these cultural nuances enhances your ability to communicate naturally and effectively in diverse American settings.",
+  "createdAt": "2025-12-24T04:35:34.048Z"
+}

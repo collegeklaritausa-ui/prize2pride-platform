@@ -1,0 +1,69 @@
+{
+  "id": "GM-B1-00303",
+  "number": 303,
+  "title": "Mastering Reported Speech: Speak Like a Native",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept of reported speech and its importance in American English.",
+    "Identify the rules for transforming direct speech into reported speech.",
+    "Learn how to correctly change tenses, pronouns, and time expressions in reported speech.",
+    "Practice converting direct quotations into reported speech with accuracy.",
+    "Apply reported speech in real-life conversations and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often using a reporting verb.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of verbs when transforming direct speech into reported speech.",
+      "example": "Direct: 'I am hungry.' → Reported: He said he was hungry."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Altering pronouns to match the perspective of the reporter in reported speech.",
+      "example": "Direct: 'I will call you.' → Reported: She said she would call me."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words indicating time that may need to be changed in reported speech.",
+      "example": "Today becomes that day; tomorrow becomes the next day."
+    }
+  ],
+  "content": "Reported speech is a fundamental skill in American English, allowing you to relay what others have said without quoting their exact words. When converting direct speech into reported speech, pay attention to three key areas:\n\n1. **Tense Shift:** Usually, the tense in the verb changes back in time. For example, present tense becomes past tense.\n   - Direct: \"I am going to the store,\" she said.\n   - Reported: She said she was going to the store.\n\n2. **Pronoun Adjustment:** Change pronouns to match the perspective of the reporting speaker.\n   - Direct: \"I love this song,\" he said.\n   - Reported: He said he loved that song.\n\n3. **Time and Place Expressions:** Adjust words referring to time and place to fit the context.\n   - Direct: \"I'll see you tomorrow,\" she said.\n   - Reported: She said she would see me the next day.\n\n**Example transformations:**\n- Direct: \"We are planning a trip,\" they said.\n- Reported: They said they were planning a trip.\n\n**Reporting Verbs:** Usually, verbs like 'say' and 'tell' are used. Remember that 'tell' is followed by a person, while 'say' often isn't.\n\n**Special Note:** In American English, contractions are common in both direct and reported speech, making conversations sound natural and informal.\n\nPractice this at home by converting your favorite quotes or sentences into reported speech to build confidence and mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "In reported speech, the sentence 'He said, 'I am tired'' should be transformed into:",
+      "answer": "He said he was tired."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert the direct speech to reported speech: 'She said, 'I will call you tomorrow.'",
+      "answer": "She said she would call me the next day."
+    },
+    {
+      "type": "sentence rewriting",
+      "question": "Rewrite the following into reported speech: 'They are coming to the party,' John said.",
+      "answer": "John said they were coming to the party."
+    },
+    {
+      "type": "true/false",
+      "question": "In reported speech, the word 'today' should always be changed to 'that day' regardless of the context.",
+      "answer": "False"
+    },
+    {
+      "type": "short answer",
+      "question": "Why do we change pronouns when converting direct speech to reported speech?",
+      "answer": "Because pronouns need to match the perspective of the person reporting the speech, ensuring clarity and correctness."
+    }
+  ],
+  "culturalNotes": "In American culture, direct and informal communication are valued, and contractions are commonly used in speech and writing. When reporting speech, reflecting the natural conversational tone helps maintain authenticity. Understanding these nuances aids in blending into American social and professional environments seamlessly.",
+  "createdAt": "2025-12-24T04:34:19.632Z"
+}

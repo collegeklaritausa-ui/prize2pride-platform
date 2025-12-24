@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00304",
+  "number": 304,
+  "title": "Mastering Reported Speech: Speak Like a Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept and purpose of reported speech in American English.",
+    "Identify the differences between direct and indirect (reported) speech.",
+    "Convert direct speech into reported speech accurately, paying attention to tense changes.",
+    "Use reporting verbs appropriately in various contexts.",
+    "Apply reported speech in conversations and writing to enhance clarity and professionalism."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said she was coming to the party."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'ask,' 'explain.'",
+      "example": "He explained that he was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense when converting direct speech to reported speech.",
+      "example": "Present tense becomes past tense: 'I am hungry' → She said she was hungry."
+    }
+  ],
+  "content": "In American English, reported speech is a useful grammatical tool that allows speakers and writers to relay what someone else has said without quoting them directly. It is commonly used in conversations, journalism, and formal writing.\n\n**Direct vs. Reported Speech**:\n- Direct speech quotes the exact words spoken, enclosed in quotation marks. Example: John said, \"I will help you.\"\n- Reported speech paraphrases the speaker’s words, often changing tense, pronouns, and other words. Example: John said he would help me.\n\n**Key Rules for Converting to Reported Speech**:\n1. **Pronoun Changes:** Adjust pronouns to match the perspective. \n   - Direct: \"I am tired,\" she said.\n   - Reported: She said she was tired.\n2. **Tense Changes (Tense Shift):** Generally, shift one tense back in time.\n   - Present simple → Past simple\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n   - Will → Would\n3. **Time and Place Words:** Change words like 'today,' 'tomorrow,' 'here' to fit the context.\n   - Today → That day\n   - Tomorrow → The next day\n   - Here → There\n\n**Examples**:\n- Direct: \"I am going to the store,\" he said.\n  - Reported: He said he was going to the store.\n- Direct: \"I will call you tomorrow,\" she said.\n  - Reported: She said she would call me the next day.\n\n**Using Reporting Verbs**:\nWhile 'say' and 'tell' are common, using varied verbs can add nuance:\n- 'Explain' for clarification\n- 'Ask' for questions\n- 'Suggest' for recommendations\n\n**Practice makes perfect!** Use reported speech regularly to sound more natural and confident in American English conversations and writing.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Convert the following direct speech into reported speech: 'I am watching a movie,' she said.",
+      "answer": "She said she was watching a movie."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Change the direct speech into reported speech: 'We will meet tomorrow,' they said.",
+      "answer": "They said they would meet the next day."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the sentence using reported speech: John said, 'I have finished my homework.'",
+      "answer": "John said he had finished his homework."
+    },
+    {
+      "type": "Discussion",
+      "question": "In your own words, explain why tense changes are important when using reported speech in American English.",
+      "answer": "Tense changes are important because they reflect the shift in time from when the original statement was made to when it is being reported, helping to clarify the timing and context of the statement."
+    }
+  ],
+  "culturalNotes": "In American English, reported speech is often used in journalism, interviews, and casual conversations to convey information naturally and smoothly. Americans value clarity and directness, so mastering reported speech enhances both professional and everyday communication. Be mindful of the context; in informal settings, contractions and relaxed tense usage are common, while formal writing may require precise tense and pronoun adjustments.",
+  "createdAt": "2025-12-24T04:34:23.545Z"
+}

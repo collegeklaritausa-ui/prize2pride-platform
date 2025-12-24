@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00340",
+  "number": 340,
+  "title": "Mastering Reported Speech: Speak Like an American English Guru",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Define and recognize reported speech in American English.",
+    "Transform direct speech into reported speech with correct grammatical structures.",
+    "Identify common reporting verbs used in American English.",
+    "Apply rules for tense backshift in reported speech appropriately.",
+    "Practice converting a variety of direct speech sentences into reported speech with accuracy and fluency."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of repeating or paraphrasing what someone else has said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'explain,' or 'claim.'",
+      "example": "He **claimed** he could finish the project on time."
+    },
+    {
+      "word": "Backshift",
+      "definition": "Changing the tense of the original speech to a past tense when reporting in the past.",
+      "example": "She said she **was** happy."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson in mastering reported speech, a crucial skill for fluent American English communication. Reported speech allows you to relay what others have said, transforming direct quotes into indirect, more conversational forms. Let's explore the core components:\n\n**1. Recognizing Reported Speech:**\n- Direct speech: \"I am hungry,\" she said.\n- Reported speech: She said she was hungry.\n\n**2. Structure of Reported Speech:**\n- Use a reporting verb (say, tell, explain, claim, etc.).\n- Shift the pronouns and time expressions as needed.\n- Backshift verb tenses when appropriate.\n\n**3. Tense Backshift Rules:**\n- Present simple → Past simple\n- Present continuous → Past continuous\n- Present perfect → Past perfect\n- Past simple → Past perfect\n- Future → Would + base verb\n\n**4. Common Reporting Verbs:**\n- Say, tell, ask, explain, claim, admit, suggest, warn.\n\n**5. Examples:**\n- Direct: \"I will meet you at 5,\" he said.\n- Reported: He said he would meet me at 5.\n\n**6. Special Cases:**\n- Questions: \"Are you coming?\" → He asked if I was coming.\n- Commands: \"Close the door\" → He told me to close the door.\n\nBy mastering these rules, you'll confidently convey others' messages with clarity and authentic American flair. Remember, context and tense consistency are key!\n\nNow, let's put your skills to the test with exercises and practical examples to elevate your mastery to divine levels!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech form:\nShe said, 'I am going to the store.'",
+      "answer": "She said she was going to the store."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "He told me, 'I will call you tomorrow.' → He told me he ____ call me tomorrow.",
+      "answer": "would"
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the following direct speech into reported speech:\n'We are planning a trip,' they said.",
+      "answer": "They said they were planning a trip."
+    },
+    {
+      "type": "Question",
+      "question": "How would you report the question: 'Are you coming to the party?'",
+      "answer": "He asked if I was coming to the party."
+    },
+    {
+      "type": "Command Conversion",
+      "question": "Convert the command into reported speech: 'Close the window,' she told him.",
+      "answer": "She told him to close the window."
+    }
+  ],
+  "culturalNotes": "In American English, reported speech often reflects directness and clarity. Americans value straightforward communication, so reporting verbs like 'say,' 'tell,' and 'ask' are frequently used in both formal and informal contexts. When reporting questions or commands, maintaining the tone and intention is essential. Also, understanding the context can help decide whether to backshift tenses, especially in storytelling or journalism, where precise replication of message tone and time is important. Mastery of reported speech enhances your ability to participate confidently in American conversations, news reporting, and formal debates, embodying the language mastery expected of a true God of American English.",
+  "createdAt": "2025-12-24T04:36:59.518Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00319",
+  "number": 319,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the structure and functions of reported speech in American English.",
+    "Learn how to transform direct speech into reported speech with correct tense and pronoun adjustments.",
+    "Identify common reporting verbs and appropriate contexts for their use.",
+    "Practice converting direct quotes into reported speech accurately.",
+    "Apply reported speech in real-life conversational and writing scenarios to sound natural and fluent."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often involving a change in tense, pronouns, and expressions.",
+      "example": "She said that she was tired after the long day."
+    },
+    {
+      "word": "Reporting verb",
+      "definition": "A verb used to introduce or convey what someone else has said, such as 'say,' 'tell,' 'ask,' 'advise,' or 'explain.'",
+      "example": "He told me he would be late."
+    },
+    {
+      "word": "Tense shift",
+      "definition": "The change in verb tense that occurs when transforming direct speech into reported speech, usually moving one step back in time.",
+      "example": "She said, 'I am happy.' → She said that she was happy."
+    }
+  ],
+  "content": "### Introduction to Reported Speech\nReported speech is essential for conveying conversations, thoughts, or statements indirectly. It allows you to report what someone said without quoting them exactly.\n\n### Structure of Reported Speech\n- **Reporting verb:** Introduces the reported statement (say, tell, ask, etc.).\n- **Pronoun adjustment:** Change pronouns to match the reporting context.\n- **Tense shift:** Most verb tenses move one step back in time.\n- **Time and place references:** Adjust words like 'today,' 'here,' to 'that day,' 'there,' respectively.\n\n### Examples\nDirect speech: \"I am going to the store,\" she said.\nReported speech: She said that she was going to the store.\n\nDirect speech: \"Can you help me?\" he asked.\nReported speech: He asked if I could help him.\n\n### Common Rules\n- Present simple → Past simple\n- Present continuous → Past continuous\n- Past simple → Past perfect\n- Will → Would\n- Can → Could\n- Here → There\n- Now → Then\n\n### Practice with Reporting Verbs\n- Say / Tell / Ask / Advise / Explain\n\n### Variations and Nuances\n- Questions can be reported using 'if' or 'whether.'\n- Commands and requests often use 'tell,' 'ask,' or 'order.'\n\n### Examples in Conversation\n- Direct: \"Please close the door,\" she asked.\n- Reported: She asked me to close the door.\n\n### Summary\nMastering reported speech enhances your ability to communicate more naturally and confidently in American English, whether in formal writing or casual conversations.",
+  "exercises": [
+    {
+      "type": "Transformations",
+      "question": "Convert the following direct speech into reported speech: 'I will call you tomorrow,' she said.",
+      "answer": "She said that she would call me the next day."
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech form: He said, 'I'm studying now.'",
+      "answer": "He said that he was studying then."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "They asked, 'Do you like pizza.' → They asked if I _______ pizza.",
+      "answer": "liked"
+    },
+    {
+      "type": "Identify the Reporting Verb",
+      "question": "In the sentence 'She advised me to see a doctor,' what is the reporting verb?",
+      "answer": "advised"
+    },
+    {
+      "type": "Real-life Application",
+      "question": "Write a short paragraph about a recent conversation you had, using at least three instances of reported speech.",
+      "answer": "Last weekend, I talked to my friend Lisa. She said she was planning a trip to New York. I asked if she needed any recommendations, and she told me she would love some suggestions for good restaurants. She also mentioned that she had already booked her flight."
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech often uses a friendly and informal tone, especially in casual conversations. Americans value clarity and directness, so when reporting speech, it's common to adjust the formality based on the relationship and context. When reporting questions, Americans frequently use 'if' and 'whether' and may omit auxiliary verbs in casual speech. Understanding these nuances helps in sounding natural and maintaining conversational flow in American English.",
+  "createdAt": "2025-12-24T04:35:25.288Z"
+}

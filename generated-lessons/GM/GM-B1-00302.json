@@ -1,0 +1,64 @@
+{
+  "id": "GM-B1-00302",
+  "number": 302,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the concept and purpose of reported speech in American English.",
+    "Identify the differences between direct and indirect (reported) speech.",
+    "Convert direct speech sentences into reported speech with correct tense and pronoun adjustments.",
+    "Apply reported speech rules in various contexts accurately.",
+    "Enhance overall fluency and confidence in using reported speech in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "He said that he was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the verb tense when converting direct speech into reported speech.",
+      "example": "Present tense changes to past tense in reported speech."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Changing pronouns to match the perspective of the reporting speaker.",
+      "example": "She said, 'I am hungry.' → She said that she was hungry."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'ask,' etc.",
+      "example": "He told me that he would come."
+    }
+  ],
+  "content": "In American English, reported speech is used to relay what someone else has said without quoting them directly. It transforms a direct quote into a more narrative form. For example, direct speech: 'I am coming,' becomes reported speech: She said that she was coming.\n\nKey points to master:\n- When converting direct speech to reported speech, tense typically shifts back one step in time (present to past, past perfect to past perfect, etc.).\n- Pronouns often need to be changed to reflect the perspective of the speaker.\n- Reporting verbs like 'say,' 'tell,' 'ask,' 'explain,' etc., are used to introduce the reported speech.\n\nExample conversions:\n1. Direct: 'I will visit you tomorrow,' she said.\n   Reported: She said that she would visit me the next day.\n2. Direct: 'Do you like coffee?' he asked.\n   Reported: He asked if I liked coffee.\n\nRemember:\n- Use 'that' to connect the reporting clause with the reported speech, but it can often be omitted in informal American English.\n- Questions in direct speech are transformed into statement form in reported speech, often starting with 'if' or 'whether.'\n\nPractice converting sentences to solidify your understanding and become a true GOD of American English reported speech!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "In reported speech, the sentence 'She said, 'I am tired'' becomes:",
+      "answer": "She said that she was tired."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Convert the direct speech into reported speech: 'They will arrive soon,' John said.",
+      "answer": "John said that they would arrive soon."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Change the following direct question to reported speech: 'Are you coming to the party?' she asked.",
+      "answer": "She asked if I was coming to the party."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: 'He said that he had went to the store.'",
+      "answer": "He said that he had gone to the store."
+    }
+  ],
+  "culturalNotes": "In American culture, direct and indirect communication styles are both common. Americans tend to appreciate clarity and politeness, especially when reporting or relaying information. Using reported speech appropriately can help you communicate more effectively in professional and casual contexts, such as business meetings, interviews, and everyday conversations. Mastery of this grammatical aspect reflects confidence and respect in your communication skills, aligning with the value Americans place on clear articulation of ideas.",
+  "createdAt": "2025-12-24T04:34:15.779Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00390",
+  "number": 390,
+  "title": "Mastering Articles: The Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the different types of articles in American English: definite and indefinite.",
+    "Identify when to use 'a,' 'an,' and 'the' in various contexts.",
+    "Distinguish between specific and non-specific references using articles.",
+    "Apply correct article usage in both written and spoken American English.",
+    "Avoid common article mistakes to sound more natural and fluent."
+  ],
+  "vocabulary": [
+    {
+      "word": "definite article",
+      "definition": "An article that specifies a particular noun, used with known or specific items.",
+      "example": "The dog that bit me ran away."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "An article used to refer to a non-specific or general noun.",
+      "example": "I saw a cat in the yard."
+    },
+    {
+      "word": "article",
+      "definition": "A word that accompanies a noun to indicate its reference, either specific or general.",
+      "example": "Articles include 'a,' 'an,' and 'the.'"
+    }
+  ],
+  "content": "In American English, articles are essential for clarity and specificity. There are two main types: the definite article 'the,' which points to a specific noun known to both speaker and listener, and the indefinite articles 'a' and 'an,' which refer to non-specific nouns.\n\nUse 'a' before words that begin with a consonant sound: 'a book,' 'a university.' Use 'an' before words that begin with a vowel sound: 'an apple,' 'an honor.' It's important to focus on pronunciation, not just spelling, when choosing 'a' or 'an.'\n\nThe definite article 'the' is used when both the speaker and listener know which specific item is being discussed, or when the noun has been previously mentioned. For example: 'I saw a movie yesterday. The movie was great.'\n\nArticles help us communicate precisely. Omitting or misusing them can lead to confusion or sounding unnatural. For example, saying 'I saw dog' instead of 'I saw a dog' sounds incomplete.\n\nRemember: Use 'a' or 'an' for introducing a noun for the first time, and 'the' when referring to something specific or already mentioned. Practice these rules in everyday conversation to elevate your American English mastery.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article for the blank: ___ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I saw ___ bird in the tree. It was singing loudly.",
+      "answer": "a"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'the' before a specific noun is optional. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the mistake in the following sentence: 'She adopted a dog and a cat. The dog is friendly, but a cat is shy.'",
+      "answer": "She adopted a dog and a cat. The dog is friendly, but the cat is shy."
+    },
+    {
+      "type": "short answer",
+      "question": "When should you use 'an' instead of 'a'?",
+      "answer": "Use 'an' before words that begin with a vowel sound."
+    }
+  ],
+  "culturalNotes": "In American culture, articles are used consistently in speech and writing, contributing to clear and polite communication. Native speakers often omit articles with proper nouns, such as city names or brands, but they are essential when introducing or specifying objects or people. Mastery of articles not only improves grammatical accuracy but also enhances the natural flow of speech, making your American English sound more authentic and confident.",
+  "createdAt": "2025-12-24T04:40:15.805Z"
+}

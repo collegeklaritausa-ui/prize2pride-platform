@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00313",
+  "number": 313,
+  "title": "Mastering Reported Speech: Speak Like a Native",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the rules for transforming direct speech into reported speech in American English.",
+    "Identify and correctly use tense changes in reported speech.",
+    "Apply reporting verbs appropriately based on context and nuance.",
+    "Distinguish between different reporting structures, including statements, questions, and commands.",
+    "Practice converting a variety of direct speech sentences into reported speech with accuracy and fluency."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech into reported speech.",
+      "example": "Present simple becomes past simple ('I am hungry' to 'She said she was hungry')."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say', 'tell', 'ask', 'advise'.",
+      "example": "He told me he would come later."
+    }
+  ],
+  "content": "In American English, reported speech allows us to relay what someone else has said, often in a more formal or indirect manner. When transforming direct speech into reported speech, key changes occur, especially in verb tenses, pronouns, and time expressions.\n\n**Tense Changes:** Generally, the tense shifts back in time when converting to reported speech: present simple changes to past simple, present perfect to past perfect, etc. For example:\n- Direct: 'I live in New York.'\n- Reported: She said she **lived** in New York.\n\n**Reporting Verbs:** Use 'say', 'tell', 'ask', 'explain', 'suggest', depending on context. Remember that 'tell' is usually followed by an object, e.g., 'He told me...' whereas 'say' often isn't.\n\n**Questions:** Convert direct questions into statements. Use 'ask' for yes/no questions and 'wonder' or 'if/whether' for those with question words:\n- Direct: 'Are you coming?'\n- Reported: She asked if I was coming.\n\n**Commands and Requests:** Use 'tell', 'ask', or 'advise' with an object:\n- Direct: 'Close the door!'\n- Reported: He told me to close the door.\n\n**Pronouns and Time Expressions:** Adjust pronouns and time references:\n- 'I' becomes 'he' or 'she'\n- 'Tomorrow' becomes 'the next day' or 'the following day'\n\nMastering these transformations will elevate your fluency and make your American English sound natural and confident.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is the correct reported speech for the direct sentence: 'She said, \"I will call you tomorrow\"'?",
+      "answer": "She said she would call me the next day."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert the direct question into reported speech: 'He asked, \"Are you coming to the party?\"' \n\nHe asked if I __________ to the party.",
+      "answer": "was coming"
+    },
+    {
+      "type": "rewrite",
+      "question": "Rewrite the following direct command into reported speech: 'John said, \"Please send the report by Monday.\"'",
+      "answer": "John asked me to send the report by Monday."
+    },
+    {
+      "type": "true/false",
+      "question": "In reported speech, the present perfect tense always changes to past perfect. True or false?",
+      "answer": "True"
+    },
+    {
+      "type": "short answer",
+      "question": "Provide the reported speech for: 'They said, \"We are planning a trip next week.\"'",
+      "answer": "They said they were planning a trip the following week."
+    }
+  ],
+  "culturalNotes": "In American culture, indirect speech and reporting are commonly used in both formal and informal contexts to convey information politely or diplomatically. Americans value clarity and conciseness, so mastering reported speech helps in effective communication, especially in professional settings, interviews, and everyday conversations. Understanding how to appropriately adjust time expressions and pronouns reflects cultural awareness and contributes to sounding natural and respectful.",
+  "createdAt": "2025-12-24T04:35:00.147Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "GM-GL-00344",
+  "number": 344,
+  "title": "Mastering Reported Speech: The Ultimate American English Guide for Gods",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the fundamental differences between direct and reported speech in American English.",
+    "Transform direct speech into accurate reported speech with correct tense and pronoun adjustments.",
+    "Identify and apply reporting verbs to convey different tones and intentions.",
+    "Recognize common pitfalls and exceptions in reported speech, including backshift rules and time expressions.",
+    "Demonstrate mastery by accurately converting complex sentences and maintaining original meanings."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often involving a change in tense, pronouns, and expressions.",
+      "example": "Direct: She said, 'I am happy.' \nReported: She said that she was happy."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'advise,' 'explain,' etc.",
+      "example": "He explained that he would be late."
+    },
+    {
+      "word": "Backshift",
+      "definition": "The grammatical shift of tenses when converting direct speech into reported speech, typically shifting one tense back in time.",
+      "example": "Direct: 'I will go.' \nReported: He said he would go."
+    },
+    {
+      "word": "Time Expression",
+      "definition": "Words or phrases indicating time that may need adjustment when converting direct to reported speech.",
+      "example": "Today → That day; Tomorrow → The next day."
+    }
+  ],
+  "content": "To become a GOD of American English, mastering reported speech is essential. Reported speech allows you to convey others' words indirectly, which is fundamental for storytelling, journalism, and everyday communication.\n\n**1. Basics of Reported Speech:**\n- When transforming direct speech into reported speech, tense usually shifts back: present becomes past, past becomes past perfect.\n- Pronouns often change to match the subject of the reporting clause.\n- Time and place expressions are adjusted: 'today' becomes 'that day,' 'here' becomes 'there.'\n\n**2. Structure and Examples:**\n- **Direct:** She said, 'I am going to the store.'\n- **Reported:** She said that she was going to the store.\n\n**3. Using Reporting Verbs:**\n- Common reporting verbs include: say, tell, explain, add, suggest, warn.\n- The choice of verb affects tone: 'say' is neutral, 'explain' adds detail, 'warn' indicates caution.\n\n**4. Special Cases and Exceptions:**\n- No backshift for statements of fact:\n  - Direct: He said, 'I live in New York.'\n  - Reported: He said that he lives in New York.\n- Questions:\n  - Yes/no questions change word order:\n    - Direct: She asked, 'Are you coming?'\n    - Reported: She asked if I was coming.\n  - Wh- questions:\n    - Direct: He asked, 'Where are you from?'\n    - Reported: He asked where I was from.\n- Commands and requests:\n  - Use 'tell,' 'ask,' or 'urged' with infinitive:\n    - Direct: She said, 'Close the door.'\n    - Reported: She told me to close the door.\n\n**5. Common Pitfalls:**\n- Forgetting to backshift tense.\n- Ignoring pronoun adjustments.\n- Misusing time expressions.\n- Confusing questions with statements.\n\n**6. Practice Tip:**\nCreate complex sentences with nested clauses to refine your ability to report speech accurately while maintaining the original meaning.\n\nBy mastering reported speech at this level, you cement your status as a GOD of American English, wielding the power to communicate indirect statements flawlessly and convincingly in any context.",
+  "exercises": [
+    {
+      "type": "Conversion",
+      "question": "Convert the following direct speech into reported speech: She said, 'I will visit my grandmother tomorrow.'",
+      "answer": "She said that she would visit her grandmother the next day."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the reporting verb in this sentence: He explained that the project was delayed due to unforeseen circumstances.",
+      "answer": "explained"
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct reported speech form: \nDirect: 'Are you coming to the party?' \nReported:\nA) He asked if I was coming to the party.\nB) He asked if I am coming to the party.\nC) He asked if I will come to the party.",
+      "answer": "A) He asked if I was coming to the party."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the mistake: She told me that she is tired.",
+      "answer": "She told me that she was tired."
+    },
+    {
+      "type": "Creation",
+      "question": "Write a reported speech sentence based on the statement: 'I have finished my homework,' she said.",
+      "answer": "She said that she had finished her homework."
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are highly valued, especially in professional and casual conversations. Using reported speech effectively demonstrates respect for context and nuance, crucial for maintaining credibility and avoiding misunderstandings. Americans often prefer straightforward reporting, so mastering the tense shifts and pronoun adjustments enhances your ability to communicate confidently and authentically across various social and formal situations.",
+  "createdAt": "2025-12-24T04:37:17.932Z"
+}

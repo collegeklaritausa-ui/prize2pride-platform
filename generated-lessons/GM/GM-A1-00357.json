@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00357",
+  "number": 357,
+  "title": "Mastering Articles: Unlock the Power of 'A,' 'An,' and 'The' in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic function of articles in American English.",
+    "Differentiate between indefinite articles 'a' and 'an' and the definite article 'the'.",
+    "Apply correct articles in various sentences to enhance clarity and accuracy.",
+    "Recognize common mistakes with articles and learn how to avoid them.",
+    "Develop confidence to use articles naturally in everyday communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to specify it as definite or indefinite.",
+      "example": "In the sentence, 'She saw a dog,' the word 'a' is an indefinite article."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used when referring to a non-specific item.",
+      "example": "I saw a movie last night."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used when referring to a specific item known to the listener or reader.",
+      "example": "Please pass me the salt."
+    }
+  ],
+  "content": "In American English, articles are small words that come before nouns to provide more information about the noun. There are three main articles:\n\n1. 'A' and 'An' are indefinite articles. Use 'a' before words that begin with a consonant sound, and 'an' before words that begin with a vowel sound. Example: 'a car,' 'an apple.'\n\n2. 'The' is the definite article. Use it when referring to a specific item known to both the speaker and listener. Example: 'the book on the table.'\n\nTips for choosing the correct article:\n- Use 'a' or 'an' when mentioning something for the first time.\n- Use 'the' when talking about something specific or previously mentioned.\n- Remember, the choice depends on the sound, not just the letter. For example, 'an hour' (because 'hour' starts with a vowel sound), not 'a hour.'\n\nExamples:\n- I saw a bird in the park.\n- The bird was singing loudly.\n- She wants to buy an umbrella.\n- Can you see the moon?\n\nUsing articles correctly makes your speech and writing clearer and more natural, helping you become a true GOD of American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ elephant at the zoo.",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with 'a,' 'an,' or 'the': She is eating ___ apple.",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'the' indicates a specific object. True or False?",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article mistake: I want a orange.",
+      "answer": "I want an orange."
+    }
+  ],
+  "culturalNotes": "In American culture, using the correct articles is associated with clarity and politeness. For example, Americans often specify 'the' when referring to familiar objects or places, such as 'the supermarket,' reflecting familiarity and shared understanding. Mastery of articles not only improves grammar but also helps you sound more natural and confident in everyday conversations.",
+  "createdAt": "2025-12-24T04:38:11.793Z"
+}

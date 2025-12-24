@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00364",
+  "number": 364,
+  "title": "Mastering Articles: Your First Step to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic use of the articles 'a', 'an', and 'the'.",
+    "Differentiate between indefinite and definite articles.",
+    "Identify correct article usage in simple sentences.",
+    "Practice choosing the right article in various contexts.",
+    "Build confidence to use articles accurately in speaking and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the sentence 'I saw a dog', 'a' is an article."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "An article used when referring to a non-specific object or person.",
+      "example": "Use 'a' or 'an' when the noun is not specific, e.g., 'a car'."
+    },
+    {
+      "word": "definite article",
+      "definition": "An article used when referring to a specific object or person.",
+      "example": "Use 'the' when both speaker and listener know which one is meant, e.g., 'the book on the table.'"
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English! Today, we focus on articles, essential tiny words that make your sentences clear and natural. The two types of articles are indefinite ('a' and 'an') and definite ('the').\n\n**Indefinite Articles:**\n- 'a' is used before words that begin with a consonant sound. Example: 'a dog,' 'a university' (although 'university' starts with a 'u', it sounds like 'you').\n- 'an' is used before words that begin with a vowel sound. Example: 'an apple,' 'an hour' (the 'h' is silent, so it sounds like 'our').\n\n**Definite Article:**\n- 'the' is used when talking about something specific or previously mentioned. Example: 'I saw a cat. The cat was black.'\n\n**Tips:**\n- Use 'a' or 'an' when mentioning something for the first time.\n- Use 'the' when the listener knows what you're talking about.\n- Remember pronunciation matters: 'an hour' not 'a hour'.\n\nLet's practice! Remember, mastering articles will make your English sound natural and confident.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ cat in the garden.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with 'a', 'an', or 'the': She wants ___ apple from the basket.",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'the' when both speaker and listener know which object is being talked about.",
+      "answer": "true"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence to the correct article:\n1. ___ hour\n2. ___ university\n3. ___ dog\nA. a\nB. an\nC. the",
+      "answer": "1-B, 2-A, 3-C"
+    }
+  ],
+  "culturalNotes": "In American English, articles are used carefully to convey clarity and specificity. Native speakers often skip articles with proper nouns (e.g., 'I visited New York') but use them with common nouns. Understanding article usage helps in sounding natural and avoiding misunderstandings in everyday conversation and formal writing.",
+  "createdAt": "2025-12-24T04:38:35.993Z"
+}

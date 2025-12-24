@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00370",
+  "number": 370,
+  "title": "Mastering Articles: The Keys to Clear American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the use of definite and indefinite articles in American English",
+    "Identify when to use 'a', 'an', and 'the' in sentences",
+    "Differentiate between specific and general references using articles",
+    "Apply correct article usage in speaking and writing",
+    "Build confidence in using articles accurately in everyday communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to show whether the noun refers to something specific or general.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The word 'the' used to refer to a specific item that both the speaker and listener know about.",
+      "example": "Please pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The words 'a' or 'an' used to refer to a non-specific item.",
+      "example": "I want a sandwich for lunch."
+    }
+  ],
+  "content": "Welcome to your journey towards becoming a GOD of American English! Today, we will master articles—small words with big power in making your sentences clear and correct.\n\nArticles are words that come before nouns. There are two types: definite and indefinite.\n\n1. The Definite Article 'the'\nUse 'the' when talking about something specific or already known to the listener.\n- Example: 'The cat is sleeping.' (a specific cat everyone knows about)\n\n2. The Indefinite Articles 'a' and 'an'\nUse 'a' before words that begin with a consonant sound, and 'an' before words that begin with a vowel sound.\n- Examples:\n  - 'a car' (because 'car' begins with a consonant sound)\n  - 'an apple' (because 'apple' begins with a vowel sound)\n\nRemember: the choice between 'a' and 'an' depends on sound, not letter.\n\nPractice makes perfect! Try to identify when to use 'a,' 'an,' or 'the' in different sentences. Using articles correctly will make your speech and writing more natural and understandable.\n\nCongratulations—you're on your way to mastering articles in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: ____ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I saw ____ dog in the park. ____ dog was playing fetch.",
+      "answer": "a, The"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'the' signifies a specific object both speaker and listener know about. True or False?",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article: I have an car and a umbrella.",
+      "answer": "I have a car and an umbrella."
+    }
+  ],
+  "culturalNotes": "In American culture, articles are essential in everyday communication to specify objects, places, and people. For example, when giving directions or describing a place, Americans often use 'the' to refer to well-known locations like 'the supermarket' or 'the White House.' Mastering articles helps you sound more natural and respectful in social and professional interactions, reflecting the clarity and directness valued in American English communication.",
+  "createdAt": "2025-12-24T04:38:55.186Z"
+}

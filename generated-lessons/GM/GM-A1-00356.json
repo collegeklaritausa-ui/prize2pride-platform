@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00356",
+  "number": 356,
+  "title": "Mastering Articles: The Key to Clear American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the purpose and usage of definite and indefinite articles in American English.",
+    "Identify when to use 'a,' 'an,' and 'the' in sentences.",
+    "Differentiate between specific and non-specific nouns using articles.",
+    "Apply correct article usage in both speaking and writing.",
+    "Gain confidence to speak and write with proper article usage like a true American English GOD."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "'a' and 'an' are indefinite articles; 'the' is a definite article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The word 'the' used to refer to a specific noun.",
+      "example": "I saw **the** movie you recommended."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The words 'a' or 'an' used to refer to a non-specific noun.",
+      "example": "I need **a** pen."
+    }
+  ],
+  "content": "Welcome to the world of American English articles! Articles are small words that hold big power in clarity and meaning. They tell us whether we're talking about something specific or something in general. \n\n**Indefinite Articles ('a' and 'an')**:\n- Use 'a' before words that start with a consonant sound. Example: a dog, a house.\n- Use 'an' before words that start with a vowel sound. Example: an apple, an hour.\n\n**Definite Article ('the')**:\n- Use 'the' when talking about something specific or already known to the listener. Example: Pass me **the** book on the table.\n- 'The' is also used when there is only one of something. Example: **The** sun, **the** President.\n\n**Rules & Tips:**\n- Use 'a' or 'an' when mentioning something for the first time.\n- Use 'the' when referring to something specific or previously mentioned.\n- Remember, pronunciation matters: 'an hour' (starts with a vowel sound), not 'a hour'.\n\nBy mastering articles, you will make your speech and writing clearer and more natural, just like a true American English GOD!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ cat in the garden.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct article: She wants ___ apple.",
+      "answer": "an"
+    },
+    {
+      "type": "true or false",
+      "question": "Use 'the' when talking about a general idea or something in general. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article error: I read an book about history.",
+      "answer": "I read **a** book about history."
+    },
+    {
+      "type": "short answer",
+      "question": "When do you use 'the' instead of 'a' or 'an'?",
+      "answer": "Use 'the' when referring to a specific or known noun, or something unique."
+    }
+  ],
+  "culturalNotes": "In American culture, using articles correctly is important for clear communication. Native speakers often omit articles in headlines or casual speech, but in formal writing and speech, proper use is valued. Mastering articles helps you sound more natural and confident in both professional and social settings in the U.S.",
+  "createdAt": "2025-12-24T04:38:08.508Z"
+}

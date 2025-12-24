@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00331",
+  "number": 331,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the concept and importance of reported speech in American English.",
+    "Identify the differences between direct and indirect speech.",
+    "Convert direct speech into reported speech accurately.",
+    "Apply reporting verbs correctly in various contexts.",
+    "Avoid common errors when using reported speech in conversation and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly.",
+      "example": "She said she would be here by 5 PM."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce indirect speech, such as 'said,' 'told,' 'asked,' etc.",
+      "example": "He **asked** if I was coming to the party."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of verbs when converting from direct to indirect speech.",
+      "example": "He said, 'I am busy.' → He said he **was** busy."
+    }
+  ],
+  "content": "In American English, reported speech is essential for conveying conversations, stories, and information indirectly. Unlike direct quotes, reported speech summarizes or paraphrases what someone else has said, often using reporting verbs such as 'said,' 'told,' 'asked,' 'advised,' and more. When transforming direct speech into reported speech, tense shifts are common, especially if the reporting occurs after the original statement. For example:\n\nDirect: She said, 'I am tired.'\nReported: She said she **was** tired.\n\nKey rules include:\n1. Tense shifts: Present becomes past, past becomes past perfect, etc.\n2. Pronoun changes: 'I' becomes 'she,' 'we' becomes 'they,' etc.\n3. Time and place references may change: 'today' becomes 'that day,' 'here' becomes 'there.'\n4. Reporting verbs: Use appropriate verbs based on the context, e.g., 'asked' for questions, 'advised' for suggestions.\n\nExamples:\n- Direct: He said, 'I will call you later.'\n- Reported: He said he **would** call me later.\n\nRemember: In American English, it's common to omit quotation marks in indirect speech, so focus on clarity and correctness.\n\nBy mastering reported speech, you can confidently narrate conversations and improve your spoken and written communication skills in American English.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following is the correct reported speech for: 'She is reading a book.'?",
+      "answer": "She said she **was** reading a book."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Direct: 'We will meet tomorrow.' → Reported: 'They said they ________ meet tomorrow.'",
+      "answer": "would"
+    },
+    {
+      "type": "Transformation",
+      "question": "Convert the following direct speech into reported speech: 'He asked, \"Are you coming to the party?\"'",
+      "answer": "He asked if I was coming to the party."
+    },
+    {
+      "type": "Error Correction",
+      "question": "Identify and correct the error in this reported speech: 'She told me she will be here soon.'",
+      "answer": "She told me she **would** be here soon."
+    },
+    {
+      "type": "Short answer",
+      "question": "Explain why tense shifts are necessary in reported speech in American English.",
+      "answer": "Tense shifts are necessary because reported speech often takes place after the original statement, so the tense needs to reflect the time difference, ensuring clarity and accuracy in conveying the message."
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are valued in communication. Reported speech is frequently used in journalism, storytelling, and everyday conversation to relay information politely and accurately. Understanding the flexibility and rules of reported speech helps in developing effective communication skills, whether in professional settings or casual discussions. Americans also appreciate conversational transparency, so mastering reported speech allows you to narrate events precisely while maintaining natural fluency.",
+  "createdAt": "2025-12-24T04:36:17.213Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00363",
+  "number": 363,
+  "title": "Mastering Articles: Become a God of American English!",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic use of the articles 'a', 'an', and 'the'.",
+    "Identify when to use indefinite articles ('a' and 'an') versus the definite article ('the').",
+    "Practice using articles correctly in simple sentences.",
+    "Recognize common mistakes with articles and learn how to avoid them.",
+    "Develop confidence in speaking and writing with proper article usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines whether a noun is specific or unspecific.",
+      "example": "'a' and 'an' are indefinite articles; 'the' is a definite article."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "An article used when referring to a nonspecific noun.",
+      "example": "I saw a dog in the park."
+    },
+    {
+      "word": "definite article",
+      "definition": "An article used to refer to a specific noun known to both speaker and listener.",
+      "example": "Please pass the salt."
+    }
+  ],
+  "content": "Welcome to your journey to becoming a GOD of American English articles! In English, articles are tiny words that tell us whether we're talking about something general or specific. There are three main articles:\n\n1. **'A'**: Used before words that begin with a consonant sound, to refer to a non-specific item. Example: a car, a book.\n2. **'An'**: Used before words that begin with a vowel sound, also for non-specific items. Example: an apple, an hour.\n3. **'The'**: Used when talking about a specific item that both the speaker and listener know about. Example: the sun, the teacher.\n\n**When to use each:**\n- Use 'a' or 'an' when mentioning something for the first time or talking about any member of a group.\n- Use 'the' when referring to something specific or already mentioned.\n\n**Examples:**\n- I saw a dog. (Any dog, not a specific one)\n- The dog was barking. (A specific dog already known)\n\n**Quick tip:**\n- Think of 'a' and 'an' as introducing something new.\n- Think of 'the' as pointing to something you both know about.\n\nPractice makes perfect! Soon, you'll be confidently choosing the right articles every time.\n",
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Choose the correct article: ____ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Can you see ____ cat on the roof?",
+      "answer": "the"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'a' before words that begin with a vowel sound. True or False?",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article in this sentence: I want a orange.",
+      "answer": "an orange"
+    }
+  ],
+  "culturalNotes": "In American culture, the use of articles can sometimes differ from other English-speaking countries. For example, Americans often say 'go to school' or 'in college' without 'the', whereas in British English, 'the' might be used. Understanding these subtle differences will help you sound more natural when speaking or writing American English.",
+  "createdAt": "2025-12-24T04:38:32.842Z"
+}

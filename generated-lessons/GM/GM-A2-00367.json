@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00367",
+  "number": 367,
+  "title": "Mastering Articles: The Essentials of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the difference between 'a', 'an', and 'the'.",
+    "Identify when to use indefinite versus definite articles.",
+    "Apply correct articles in simple sentences.",
+    "Recognize common mistakes with articles.",
+    "Develop confidence in using articles accurately in speech and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "Indefinite article",
+      "definition": "The articles 'a' and 'an,' used for non-specific nouns.",
+      "example": "I want an apple. (Any apple, not a specific one)"
+    },
+    {
+      "word": "Definite article",
+      "definition": "The article 'the,' used for specific nouns.",
+      "example": "Pass me the book. (A specific book both speaker and listener know about)"
+    }
+  ],
+  "content": "Welcome to the world of articles in American English! Articles are small words that come before nouns to give us more information about them. There are two types: indefinite ('a' and 'an') and definite ('the'). Use 'a' before words that start with a consonant sound and mean any one of something, like 'a cat.' Use 'an' before words that start with a vowel sound, like 'an elephant.' The definite article 'the' refers to a specific item known to both speaker and listener, such as 'the car.'\n\nExamples:\n- I saw a dog in the park.\n- She wants an orange.\n- Please open the door.\n\nRemember, don't use an article when talking about things in general, like 'Water is essential.'\n\nPractice makes perfect! Using the correct articles helps you sound more natural and clear in American English.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ bird in the tree.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with 'a', 'an', or 'the': She found ___ apple on the table.",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'the' when talking about something specific that both the speaker and listener know. (True/False)",
+      "answer": "True"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence to the correct article:\n1. I need ___ umbrella.\n2. She is reading ___ book.\n3. He wants ___ orange.\n\nOptions:\nA. an\nB. a\nC. the",
+      "answer": "1. A\n2. C\n3. B"
+    }
+  ],
+  "culturalNotes": "In American culture, using articles correctly helps convey clarity and confidence. Americans tend to be precise with language, especially in formal settings like business or education. Proper use of articles reflects good communication skills and attention to detail, which are highly valued in American society.",
+  "createdAt": "2025-12-24T04:38:45.217Z"
+}

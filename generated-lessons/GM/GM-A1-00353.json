@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00353",
+  "number": 353,
+  "title": "Mastering Articles: The Building Blocks of Clear American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the difference between definite and indefinite articles.",
+    "Identify when to use 'a', 'an', and 'the' correctly in sentences.",
+    "Apply article rules in speaking and writing confidently.",
+    "Recognize common mistakes with articles and how to avoid them.",
+    "Enhance overall clarity and professionalism in English communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the sentence 'I saw a cat,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to a specific noun.",
+      "example": "Pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used to refer to non-specific nouns.",
+      "example": "I saw a dog in the park."
+    }
+  ],
+  "content": "In American English, articles are small words that help us talk about nouns with clarity and precision. There are two types of articles: definite and indefinite. \n\n1. The Definite Article: 'the'\n- Use 'the' when referring to a specific thing or things already known to the listener or reader.\n- Example: 'Please close the door.' (a specific door that both speaker and listener know about)\n\n2. The Indefinite Articles: 'a' and 'an'\n- Use 'a' before words that start with a consonant sound.\n- Use 'an' before words that start with a vowel sound.\n- Examples:\n   - 'I saw a movie last night.' (any movie, not specific)\n   - 'She is an engineer.' (any engineer, not a specific one)\n\n**Special Rules:**\n- Use 'an' before words like 'hour' or 'honor' because they start with a vowel sound.\n- Do not use an article before plural nouns or uncountable nouns when speaking generally.\n  - Incorrect: 'I like the apples.' (when talking about apples in general)\n  - Correct: 'I like apples.'\n\nPractice makes perfect! Pay attention to sounds, not just letters, when choosing between 'a' and 'an.'",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: __ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I saw ___ dog in the park.",
+      "answer": "a"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'the' is appropriate when referring to a specific person or object already known. (True/False)",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article usage: I need an apple from the basket.",
+      "answer": "The sentence is correct."
+    },
+    {
+      "type": "short answer",
+      "question": "When should you use 'an' instead of 'a'?",
+      "answer": "Use 'an' before words that start with a vowel sound."
+    }
+  ],
+  "culturalNotes": "In American culture, clarity in communication is valued, and proper use of articles helps avoid misunderstandings. For example, specifying 'the' in conversation can demonstrate familiarity or particular knowledge, which is often appreciated in social and professional settings. Additionally, mastering articles is essential for sounding natural and confident in both formal and informal American English.",
+  "createdAt": "2025-12-24T04:37:58.383Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-C2-00338",
+  "number": 338,
+  "title": "Mastering Reported Speech: Your Path to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the structure and rules of reported speech in American English",
+    "Differentiate between direct and indirect speech with practical examples",
+    "Convert direct speech into reported speech accurately across different tenses",
+    "Identify common reporting verbs and their appropriate use",
+    "Apply reported speech in real-life conversational and writing contexts to sound natural and confident"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often involving a change in pronouns, tense, and phrasing.",
+      "example": "She said she was going to the store."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or accompany reported speech, such as 'say,' 'tell,' 'ask,' 'claim,' 'admit,' etc.",
+      "example": "He claimed that he was innocent."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense when converting direct speech to reported speech, usually moving one step back in time.",
+      "example": "Direct: 'I am happy.' → Reported: She said she was happy."
+    }
+  ],
+  "content": "Mastering reported speech is essential for effective communication in American English, especially in formal and informal conversations, journalism, and storytelling. Reported speech allows you to relay information accurately without quoting someone directly.\n\n**Basic Rules:**\n- When converting direct speech to reported speech, tense shifts typically occur:\n  - Present simple → Past simple\n  - Present continuous → Past continuous\n  - Present perfect → Past perfect\n  - Past simple → Past perfect\n- Pronouns and time expressions often need adjustment:\n  - 'I' becomes 'he' or 'she'\n  - 'Today' becomes 'that day'\n  - 'Tomorrow' becomes 'the next day' or 'the following day'\n- Use reporting verbs appropriate to the context, such as 'say,' 'tell,' 'ask,' 'explain,' etc.\n\n**Examples:**\n- Direct: \"I will call you tomorrow,\" she said.\n  - Reported: She said she would call me the next day.\n- Direct: \"Are you coming to the party?\" he asked.\n  - Reported: He asked if I was coming to the party.\n\n**Common Reporting Verbs:**\n- Say / Says / Said\n- Tell / Told\n- Ask / Asked\n- Claim / Claimed\n- Explain / Explained\n\n**Special Cases:**\n- Yes/no questions often start with 'if' or 'whether':\n  - Direct: \"Are you hungry?\" she asked.\n  - Reported: She asked if I was hungry.\n- Imperatives become 'to' + base verb:\n  - Direct: \"Close the door,\" he said.\n  - Reported: He told me to close the door.\n\nBy mastering these rules and practicing, you'll be able to transform any direct speech into natural, fluent reported speech suitable for American English contexts.",
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Choose the correct reported speech form: \nDirect: \"I am tired,\" she said.",
+      "answer": "She said she was tired."
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Convert to reported speech: \nDirect: \"We will visit the museum,\" they said.",
+      "answer": "They said they would visit the museum."
+    },
+    {
+      "type": "matching",
+      "question": "Match the direct speech with its reported speech form:\n1. \"Do you like coffee?\"\n2. \"I have finished my work.\"\nA. He asked if I liked coffee.\nB. He said he had finished his work.",
+      "answer": "1-A, 2-B"
+    },
+    {
+      "type": "short answer",
+      "question": "Rewrite the following in reported speech: \nDirect: \"Can you help me?\" she asked.",
+      "answer": "She asked if I could help her."
+    }
+  ],
+  "culturalNotes": "In American culture, reporting speech is often used in storytelling, interviews, journalism, and casual conversations. Americans value clarity and directness, so when converting speech, it's important to maintain the original intent while adapting pronouns and tenses appropriately. Using reported speech correctly enhances professionalism and demonstrates mastery of language nuances, which is highly appreciated in both academic and social settings.",
+  "createdAt": "2025-12-24T04:36:50.249Z"
+}

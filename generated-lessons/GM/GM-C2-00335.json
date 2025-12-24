@@ -1,0 +1,64 @@
+{
+  "id": "GM-C2-00335",
+  "number": 335,
+  "title": "Mastering Reported Speech: Speak Like an American English GOD",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Mastery",
+  "levelCode": "C2",
+  "objectives": [
+    "Understand the fundamental rules of converting direct speech to reported speech in American English.",
+    "Identify and correctly use tense changes when reporting statements, questions, and commands.",
+    "Apply appropriate reporting verbs to different contexts.",
+    "Recognize common mistakes and pitfalls in reported speech and learn how to avoid them.",
+    "Enhance fluency and accuracy in American English communication by mastering reported speech."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "\"She said she was tired\" (instead of \"She said, 'I am tired.'\")"
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or indicate speech, such as 'say,' 'tell,' 'ask,' 'claim,' 'explain,' etc.",
+      "example": "He *claimed* he had finished the project."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech into reported speech.",
+      "example": "Direct: \"I am hungry.\" → Reported: She said she *was* hungry."
+    }
+  ],
+  "content": "Welcome to the ultimate lesson on Reported Speech, your gateway to speaking and writing with mastery in American English. Reported speech allows you to share what someone else has said, and mastering it is crucial for effective communication.\n\n**Basic Rules:**\n- When transforming direct speech to reported speech, tense usually shifts back in time.\n- Use appropriate reporting verbs like 'say,' 'tell,' 'ask,' etc.\n- Adjust pronouns, possessives, and time references as needed.\n\n**Tense Changes in Reported Speech:**\n| Direct Speech | Reported Speech |\n|----------------|-----------------|\n| Present simple: \"I eat.\" | Past simple: She said she *ate*. |\n| Present continuous: \"I am eating.\" | Past continuous: He said he *was eating*. |\n| Past simple: \"I went.\" | Past perfect: She said she *had gone*. |\n| Will future: \"I will go.\" | Would: He said he *would go*. |\n\n**Examples:**\n- Direct: \"Do you like pizza?\" → Reported: She asked if I *liked* pizza.\n- Direct: \"Please send the report.\" → Reported: He asked me to *send* the report.\n- Direct: \"Where are you from?\" → Reported: She inquired where I *was from*.\n\n**Using Reporting Verbs:**\n- 'Say' and 'tell' are common but differ in structure:\n  - 'Say' is usually followed by what was said.\n  - 'Tell' is followed by the person being addressed.\n- For questions, use 'ask' or 'wonder.'\n- For commands or requests, use 'ask' or 'tell' with an object.\n\n**Special Cases:**\n- If the original statement is a question, the word order changes accordingly.\n- When the statement contains modal verbs, they often change (e.g., 'can' to 'could', 'will' to 'would').\n\nPracticing these rules will elevate your ability to report speech accurately, making you a true GOD of American English communication.\n\nRemember: Always consider the context to choose the correct tense and reporting verb for natural and clear communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which sentence correctly reports the direct speech? \nDirect: \"I'm tired,\" she said.",
+      "answer": "She said she was tired."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Convert to reported speech: He said, \"I will help you tomorrow.\" \nHe said he ______ help me the next day.",
+      "answer": "would"
+    },
+    {
+      "type": "Correction",
+      "question": "Identify and correct the mistake: She asked, 'Are you coming to the party?' \nReported as: She asked if I was coming to the party.",
+      "answer": "Correct as is."
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the following into reported speech: \n'Can you help me?' he asked.",
+      "answer": "He asked if I could help him."
+    },
+    {
+      "type": "Short Answer",
+      "question": "Change this direct command into reported speech: \n'Close the door,' she said.",
+      "answer": "She told me to close the door."
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are highly valued, especially in professional and casual conversations. Mastering reported speech enables effective storytelling, business communication, and everyday interactions, reflecting the straightforward and expressive nature of American English speakers. Understanding how to report speech accurately also helps in comprehension of American media, movies, and conversations, allowing learners to connect more deeply with American cultural nuances.",
+  "createdAt": "2025-12-24T04:36:35.447Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "GM-GL-00343",
+  "number": 343,
+  "title": "Mastering Reported Speech: The Ultimate Guide to American English Fluency",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the fundamental structure and rules of reported speech in American English",
+    "Identify when and how to correctly transform direct speech into reported speech",
+    "Master the changes in tense, pronouns, and time expressions during transformation",
+    "Apply reported speech in complex sentences and nested quotations",
+    "Achieve mastery to use reported speech confidently in both formal and informal contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way to express what someone else has said without quoting them directly, often by paraphrasing.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense when converting direct speech into reported speech.",
+      "example": "Present tense changes to past tense: 'I am hungry' becomes 'He said he was hungry.'"
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Changing pronouns in reported speech to match the perspective of the reporting speaker.",
+      "example": "‘I will call you’ becomes ‘He said he would call me.’"
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words indicating time that often change when converting speech, such as 'today' to 'that day.'",
+      "example": "‘We are leaving today’ becomes ‘They said they were leaving that day.’"
+    },
+    {
+      "word": "Backshifting",
+      "definition": "The grammatical practice of shifting verb tenses back when reporting speech, especially in past contexts.",
+      "example": "‘I am happy’ becomes ‘He said he was happy.’"
+    }
+  ],
+  "content": "To become a GOD of American English in the realm of reported speech, you must master the art of transforming direct quotations into indirect ones seamlessly. Reporting speech involves several key steps:\n\n1. **Identify the Reporting Verb**: Common verbs include 'say,' 'tell,' 'ask,' 'explain,' etc. Ensure you choose the appropriate verb based on context.\n\n2. **Tense Adjustment (Backshifting)**: Generally, when reporting speech about past events, shift the tense back in time:\n- Present simple → Past simple\n- Present continuous → Past continuous\n- Present perfect → Past perfect\n- Will → Would\n\n3. **Pronoun and Possessive Adjustment**: Change pronouns to match the perspective of the reporter:\n- 'I' becomes 'he'/'she'\n- 'my' becomes 'his'/'her'\n\n4. **Time and Place Expressions**: Adjust expressions like 'today,' 'tomorrow,' 'here' as needed:\n- 'today' → 'that day'\n- 'tomorrow' → 'the next day'\n- 'this' → 'that'\n\n5. **Nested Quotes & Complex Sentences**: When reporting speech that contains quotes, nest quotations carefully using appropriate punctuation.\n\n**Examples:**\n- Direct: She said, \"I am tired.\"\n- Reported: She said she was tired.\n\n- Direct: He asked, \"Are you coming?\"\n- Reported: He asked if I was coming.\n\n- Direct: John said, \"I will help you tomorrow.\"\n- Reported: John said he would help me the next day.\n\nMaster these principles, and your reported speech will be flawless, capable of capturing the nuances of American English with precision and sophistication.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Which of the following is the correct reported speech for: She said, \"I am going to the store.\"",
+      "answer": "She said she was going to the store."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Convert to reported speech: 'They will arrive tomorrow.' → He said they ______ arrive tomorrow.",
+      "answer": "would"
+    },
+    {
+      "type": "sentence transformation",
+      "question": "Transform the direct speech into reported speech: 'I have finished my work,' he said.",
+      "answer": "He said he had finished his work."
+    },
+    {
+      "type": "identify errors",
+      "question": "Identify the mistake in this reported speech: She told me she is coming tomorrow.",
+      "answer": "The verb 'is' should be 'was' because of backshifting in reported speech."
+    },
+    {
+      "type": "short answer",
+      "question": "Rewrite the following in reported speech: 'Can you help me?'",
+      "answer": "He asked if I could help him."
+    }
+  ],
+  "culturalNotes": "In American culture, reported speech is frequently used in both casual conversations and formal journalism. Americans value clarity and directness, but also appreciate polite indirectness when sharing information or quoting others. When reporting speech in media, it's common to adjust tenses and expressions to match the conversational or formal tone. Understanding nuances like backshifting and pronoun adjustments is crucial for authentic American English communication, especially in storytelling, interviews, and news reporting. Mastery of reported speech enhances credibility and demonstrates linguistic sophistication within the American cultural context.",
+  "createdAt": "2025-12-24T04:37:12.883Z"
+}

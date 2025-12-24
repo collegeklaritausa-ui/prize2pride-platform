@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00358",
+  "number": 358,
+  "title": "Mastering Articles: The Key to Clear American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the basic use of definite and indefinite articles in American English",
+    "Identify when to use 'a', 'an', and 'the' in sentences",
+    "Differentiate between specific and general references using articles",
+    "Apply correct article usage in speaking and writing",
+    "Build confidence to speak and write with proper article usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word that defines whether a noun is specific or unspecific, such as 'a,' 'an,' or 'the.'",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "Definite Article",
+      "definition": "The article 'the,' used to refer to a specific noun that is known to the speaker and listener.",
+      "example": "Please pass me the book on the table."
+    },
+    {
+      "word": "Indefinite Article",
+      "definition": "The articles 'a' and 'an,' used for non-specific or general references.",
+      "example": "I saw a bird in the garden."
+    }
+  ],
+  "content": "Articles are small words that accompany nouns to give us more information about whether we're talking about something specific or something in general. In American English, the two types of articles are the definite article 'the' and the indefinite articles 'a' and 'an.'\n\n**Indefinite Articles ('a' and 'an')**:\n- Use 'a' before words that begin with a consonant sound: 'a cat,' 'a university.'\n- Use 'an' before words that begin with a vowel sound: 'an apple,' 'an hour.'\n\n**Definite Article ('the')**:\n- Use 'the' when referring to something specific or something already mentioned: 'the sun,' 'the book I read yesterday.'\n- Use 'the' with unique objects or well-known entities: 'the Earth,' 'the President.'\n\n**Examples**:\n- I saw **a** movie last night.\n- **The** movie was exciting.\n- She wants to buy **an** umbrella.\n- **The** umbrella in the closet is broken.\n\nRemember, the choice of 'a' or 'an' depends on the sound that starts the next word, not necessarily the letter. For example, 'an hour' (because 'hour' starts with a vowel sound), but 'a university' (because 'university' starts with a consonant sound).\n\nBy mastering articles, you'll be able to communicate more clearly and naturally in American English!",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "She adopted ___ dog from the shelter.",
+      "answer": "a"
+    },
+    {
+      "type": "True or False",
+      "question": "The word 'university' should be preceded by 'a' because it starts with a 'u' sound.",
+      "answer": "False"
+    },
+    {
+      "type": "Sentence Correction",
+      "question": "Correct the article in the following sentence: I saw a eagle flying in the sky.",
+      "answer": "I saw an eagle flying in the sky."
+    }
+  ],
+  "culturalNotes": "In American culture, articles are essential for clarity and politeness. Using 'the' appropriately can show respect or familiarity, such as referring to 'the President' or 'the United States.' Proper article usage helps you sound more natural and confident in both casual conversations and formal settings.",
+  "createdAt": "2025-12-24T04:38:15.198Z"
+}

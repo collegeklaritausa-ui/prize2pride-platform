@@ -1,0 +1,64 @@
+{
+  "id": "GM-B2-00316",
+  "number": 316,
+  "title": "Mastering Reported Speech: Speak Like an American English Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the structure and rules of reported speech in American English",
+    "Identify changes in tense, pronouns, and time expressions when converting direct to reported speech",
+    "Practice transforming direct quotations into reported speech in various contexts",
+    "Recognize common mistakes and learn how to avoid them",
+    "Apply reported speech accurately in both formal and informal American English conversations"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often using a reporting verb.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense when converting direct speech into reported speech.",
+      "example": "He said, 'I am hungry.' → He said that he was hungry."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Changing pronouns to match the perspective of the reporting speaker.",
+      "example": "They said, 'We will arrive tomorrow.' → They said that they would arrive the next day."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words that indicate time, which often change in reported speech.",
+      "example": "'Today' becomes 'that day'; 'Tomorrow' becomes 'the next day.'"
+    }
+  ],
+  "content": "Reported speech is a crucial aspect of American English, allowing speakers to relay information conveyed by others. When transforming direct quotations into reported speech, several key rules apply:\n\n1. **Tense Shift:** Usually, present tense changes to past tense, past tense may shift further back, and perfect tenses may change accordingly.\n   - Example: \"I am busy,\" she said. → She said that she was busy.\n\n2. **Pronoun Adjustment:** Pronouns are changed to match the perspective of the reporter.\n   - Example: \"I will call you,\" he said. → He said that he would call me.\n\n3. **Time and Place Expressions:** Words indicating time and place often change to reflect the new context.\n   - Example: \"Today\" becomes \"that day,\" \"here\" becomes \"there.\"\n\n4. **Reporting Verbs:** Common verbs include 'say,' 'tell,' 'explain,' 'mention.' Use 'tell' when a specific object or person is involved.\n\n**Examples:**\n- Direct: John said, \"I will meet you at the park.\"\n- Reported: John said that he would meet me at the park.\n\nIn informal American English, contractions are common in spoken reported speech, such as 'she's' for 'she is' or 'they're' for 'they are.'\n\nPractice transforming direct speech into reported speech to master this skill and speak confidently like a true American English GOD!",
+  "exercises": [
+    {
+      "type": "conversion",
+      "question": "Convert the following direct speech into reported speech:\n\"I am going to the store,\" she said.",
+      "answer": "She said that she was going to the store."
+    },
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct reported speech form:\nDirect: \"We will finish the project tomorrow,\" they said.\nA) They said that they will finish the project the next day.\nB) They said that they would finish the project the next day.\nC) They said that they were finishing the project tomorrow.",
+      "answer": "B) They said that they would finish the project the next day."
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct tense and pronoun:\nHe said, \"I can help you with the report.\"\nHe said that ____ could help me with the report.",
+      "answer": "he"
+    },
+    {
+      "type": "error correction",
+      "question": "Identify and correct the mistake in this reported speech:\nShe said that she is tired.",
+      "answer": "She said that she was tired."
+    }
+  ],
+  "culturalNotes": "In American culture, informal conversations often feature contractions and relaxed language, especially when reporting speech in everyday situations. Americans value clarity and directness, so when practicing reported speech, it's important to adapt formal and informal tones appropriately. In cultural contexts like business meetings or interviews, precise tense and pronoun adjustments are essential for professionalism. Understanding the nuances of reported speech enhances your ability to participate effectively in American social and professional interactions.",
+  "createdAt": "2025-12-24T04:35:13.212Z"
+}

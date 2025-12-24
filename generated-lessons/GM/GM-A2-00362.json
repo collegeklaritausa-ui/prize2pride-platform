@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00362",
+  "number": 362,
+  "title": "Mastering Articles: The Keys to Clear American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the difference between 'a', 'an', and 'the' articles.",
+    "Identify when to use indefinite articles ('a' and 'an') in sentences.",
+    "Recognize when to use the definite article 'the'.",
+    "Apply correct article usage in speaking and writing.",
+    "Build confidence in using articles naturally in everyday conversations."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines whether a noun is specific or nonspecific.",
+      "example": "'a', 'an', and 'the' are articles in English."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "Articles 'a' and 'an' used for nonspecific objects or persons.",
+      "example": "I saw a dog in the park."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the' used for specific objects or persons.",
+      "example": "Please open the door."
+    }
+  ],
+  "content": "Welcome to your journey to mastering articles in American English! Articles are small words that give us important clues about nouns. They help specify whether we're talking about something general or something specific.\n\n**Indefinite Articles: 'a' and 'an'**\n- Use 'a' before words that begin with a consonant sound. For example: 'a cat', 'a car'.\n- Use 'an' before words that begin with a vowel sound. For example: 'an apple', 'an elephant'.\n- They are used when mentioning something for the first time or when the object is not specific.\n\n**Definite Article: 'the'**\n- Use 'the' when talking about a specific item known to the listener or reader.\n- Examples: 'the book on the table', 'the teacher in the classroom'.\n- It can be used with singular, plural, or uncountable nouns.\n\n**Quick Tips:**\n- Think of 'a' and 'an' as introducing something new.\n- Think of 'the' as pointing to something both speaker and listener know about.\n- Remember, the choice between 'a' and 'an' depends on the sound, not just the letter.\n\nLet's see some examples:\n- I saw a dog. (Any dog, not specific)\n- The dog I saw was very friendly. (A specific dog we both know about)\n- She wants an orange. (Any orange)\n- She wants the orange on the table. (A specific orange)\n\nPractice makes perfect! Use these rules to make your English clear and natural in conversations and writing.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ apple on the table.",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with 'a', 'an', or 'the': She has ___ idea for the project.",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'the' when talking about something new to the listener. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentence with the correct article:\n1. I saw ___ elephant.\n2. I want ___ umbrella.\n3. ___ sun is shining.\nOptions:\na. a\nb. an\nc. the",
+      "answer": "1. b, 2. a, 3. c"
+    }
+  ],
+  "culturalNotes": "In American culture, clarity in communication is highly valued. Using the correct articles helps ensure your message is understood. Americans often use articles naturally in speech, so practice by listening to conversations, movies, and podcasts. Remember, mastering articles not only improves your grammar but also makes your speech sound more confident and fluent!",
+  "createdAt": "2025-12-24T04:38:29.660Z"
+}

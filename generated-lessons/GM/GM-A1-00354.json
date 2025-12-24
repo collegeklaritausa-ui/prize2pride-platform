@@ -1,0 +1,64 @@
+{
+  "id": "GM-A1-00354",
+  "number": 354,
+  "title": "Mastering Articles: The Key to Clear Communication",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the difference between 'a', 'an', and 'the'.",
+    "Identify when to use indefinite and definite articles correctly.",
+    "Apply articles appropriately in sentences for clarity.",
+    "Recognize common mistakes with articles and avoid them.",
+    "Enhance overall grammatical accuracy in speaking and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to specify its definiteness or indefiniteness.",
+      "example": "'a', 'an', and 'the' are articles."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "An article used to refer to a non-specific or general item.",
+      "example": "I saw a dog in the park."
+    },
+    {
+      "word": "definite article",
+      "definition": "An article used to refer to a specific item already known to the speaker and listener.",
+      "example": "Please pass the salt."
+    }
+  ],
+  "content": "Welcome to your journey toward becoming a GOD of American English! Today, we focus on articles, simple words that make your speech and writing clearer. In English, we use three main articles: 'a', 'an', and 'the'.\n\nFirst, 'a' and 'an' are indefinite articles. Use 'a' before words that begin with a consonant sound, and 'an' before words that begin with a vowel sound. For example:\n- a car\n- an apple\n\nNext, 'the' is a definite article. It specifies a particular noun that both the speaker and listener are familiar with:\n- the book on the table\n- the Sun\n\nRemember, articles are used with singular nouns and are usually omitted with plural nouns or uncountable nouns unless specifying a particular item.\n\nExamples:\n- I saw a dog. (any dog, not specific)\n- The dog I saw was big. (a specific dog)\n- She wants an orange. (any orange)\n- Please give me the book. (a particular book)\n\nPractice makes perfect. Pay attention to the context to choose the right article, and you will speak and write with American English mastery!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ elephant at the zoo.",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "___ sun rises in the east.",
+      "answer": "The"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'a' before a vowel sound is correct.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article: I want an apple and a orange.",
+      "answer": "I want an apple and an orange."
+    },
+    {
+      "type": "short answer",
+      "question": "When do you use 'the'?",
+      "answer": "When referring to a specific noun that both the speaker and listener know about."
+    }
+  ],
+  "culturalNotes": "In American English, articles are essential for clarity and politeness. Americans often use 'the' to specify well-known landmarks, institutions, or shared knowledge, such as 'the White House' or 'the internet.' Proper use of articles reflects good education and attention to detail, which are valued traits in American communication.",
+  "createdAt": "2025-12-24T04:38:01.426Z"
+}

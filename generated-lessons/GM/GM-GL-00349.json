@@ -1,0 +1,74 @@
+{
+  "id": "GM-GL-00349",
+  "number": 349,
+  "title": "Mastering Reported Speech: The God-Level Guide to American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the advanced structures and nuances of reported speech in American English",
+    "Distinguish between direct and indirect speech with precision",
+    "Transform complex direct quotations into accurate reported speech, maintaining original meaning",
+    "Identify and correctly use tense shifts in reported speech according to context",
+    "Apply reported speech in diverse contexts to enhance fluency and credibility"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said, using subordinate clauses instead of quotation marks.",
+      "example": "She said that she was coming to the party."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech into reported speech.",
+      "example": "Present simple becomes past simple: \"I eat\" → \"He said he ate.\""
+    },
+    {
+      "word": "Backshift",
+      "definition": "The practice of shifting verb tenses backward in reported speech when the reporting verb is in a past tense.",
+      "example": "He said, \"I am busy\" → He said that he was busy."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce reported speech, such as 'say,' 'tell,' 'ask,' 'warn,' etc.",
+      "example": "He told me that he would arrive soon."
+    },
+    {
+      "word": "Modal Verbs in Reported Speech",
+      "definition": "Modal verbs often change in reported speech to reflect the original meaning and context.",
+      "example": "can → could, will → would, may → might."
+    }
+  ],
+  "content": "To become a GOD of American English in reported speech, mastery of its intricate structures and contextual applications is essential. Begin by understanding that reported speech often involves transforming direct quotations into indirect form, which typically requires tense shifts, pronoun adjustments, and sometimes modal verb modifications.\n\n**Key Principles:**\n\n1. **Tense Backshift:** When reporting past statements, verbs generally shift one tense backward:\n   - Present simple → Past simple\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n   - Will/Shall → Would\n\n2. **Pronoun and Time/Place Adjustments:** Change pronouns and time expressions to match the perspective of the reporter:\n   - \"I\" becomes \"he\" or \"she\"\n   - \"Today\" becomes \"that day\"\n   - \"Tomorrow\" becomes \"the next day\"\n\n3. **Question and Command Transformation:** Questions are introduced with 'ask' or 'wonder,' and commands with 'tell' or 'order.'\n\n**Examples:**\n- Direct: She said, \"I am tired.\" → Reported: She said that she was tired.\n- Direct: He asked, \"Are you coming?\" → Reported: He asked if I was coming.\n- Direct: John told me, \"Please close the door.\" → Reported: John asked me to close the door.\n\n**Advanced Tips:**\n- When the reporting verb is in the present or future tense, the tense shift may not be necessary.\n- For hypothetical or unreal situations, use 'could have,' 'would have,' etc.\n- Be aware of the context to determine whether to use 'say,' 'tell,' or other reporting verbs.\n\nMastering these transformations and understanding their nuances will elevate your command of American English to GOD-LEVEL excellence in reported speech.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "In reported speech, the sentence 'She said, \"I am happy\"' becomes:",
+      "answer": "She said that she was happy."
+    },
+    {
+      "type": "Fill in the blank",
+      "question": "Convert to reported speech: 'He asked, \"Do you like apples?\"' → He asked if ____ liked apples.",
+      "answer": "I"
+    },
+    {
+      "type": "Transformation",
+      "question": "Transform the direct speech into reported speech: 'They will meet us at 5 PM.'",
+      "answer": "They said that they would meet us at 5 PM."
+    },
+    {
+      "type": "True or False",
+      "question": "When converting direct speech to reported speech, the tense should always shift backward in time.",
+      "answer": "False (context-dependent; sometimes tense may stay the same if reporting in the present or future)."
+    },
+    {
+      "type": "Creative Application",
+      "question": "Create a reported speech sentence from the direct quote: 'I can help you tomorrow,' she said.",
+      "answer": "She said that she could help me the next day."
+    }
+  ],
+  "culturalNotes": "In American culture, directness and clarity are highly valued, especially in professional and casual communication. When reporting speech, Americans often prefer precise and transparent transformations to maintain the original message's intent. Additionally, understanding idiomatic expressions and colloquial nuances in reported speech can significantly enhance authentic communication and cultural fluency. Mastery over reported speech also reflects a command of interpersonal nuances, such as showing politeness or conveying skepticism, which are essential in American social interactions.",
+  "createdAt": "2025-12-24T04:37:41.456Z"
+}

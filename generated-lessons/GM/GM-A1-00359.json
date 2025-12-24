@@ -1,0 +1,59 @@
+{
+  "id": "GM-A1-00359",
+  "number": 359,
+  "title": "Mastering Articles: The Key to Fluent American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Beginner",
+  "levelCode": "A1",
+  "objectives": [
+    "Understand the difference between definite and indefinite articles",
+    "Identify when to use 'a,' 'an,' and 'the' in sentences",
+    "Apply correct article usage in speaking and writing",
+    "Recognize common mistakes with articles and avoid them",
+    "Improve overall clarity and natural flow in American English communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "Article",
+      "definition": "A word that defines a noun as specific or unspecific; includes 'a,' 'an,' and 'the.'",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an indefinite article."
+    },
+    {
+      "word": "Definite Article",
+      "definition": "The word 'the,' used to refer to specific or known nouns.",
+      "example": "Please close the door."
+    },
+    {
+      "word": "Indefinite Article",
+      "definition": "The words 'a' or 'an,' used to refer to a non-specific noun.",
+      "example": "I saw a bird in the tree."
+    }
+  ],
+  "content": "Welcome to your journey to mastering articles in American English! Articles are small words, but they have a big impact on clarity and meaning. The two main types of articles are the definite article 'the' and the indefinite articles 'a' and 'an.'\n\n1. **Definite Article ('the')**: Used when referring to a specific, known, or previously mentioned noun. Example: 'Pass me the book on the table.'\n2. **Indefinite Articles ('a' and 'an')**: Used when talking about something not specifically known to the listener.\n\n- Use 'a' before words that start with a consonant sound: 'a car,' 'a house.'\n- Use 'an' before words that start with a vowel sound: 'an apple,' 'an hour.'\n\n**Rules for using articles:**\n- Use 'a' or 'an' with singular, countable nouns when mentioning them for the first time.\n- Use 'the' when the noun is specific or has been previously mentioned.\n- Do not use an article with plural or uncountable nouns when speaking generally.\n\n**Examples:**\n- I saw a mouse in the kitchen.\n- The mouse was eating cheese.\n- She drinks coffee every morning.\n\nBy mastering these rules, you'll sound more natural and confident in your American English conversations!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "I saw ___ dog in the park.",
+      "answer": "a"
+    },
+    {
+      "type": "true/false",
+      "question": "The word 'the' is used to refer to specific or known nouns.",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Identify and correct the mistake: I saw a elephant at the zoo.",
+      "answer": "I saw an elephant at the zoo."
+    }
+  ],
+  "culturalNotes": "In American culture, speaking confidently with correct article usage is seen as a sign of education and attention to detail. Using precise articles helps in clear communication, especially when giving directions, describing objects, or sharing stories. Notice how Americans often simplify speech by using 'the' for well-known objects or places, like 'the supermarket' or 'the White House,' emphasizing familiarity or specificity.",
+  "createdAt": "2025-12-24T04:38:18.411Z"
+}

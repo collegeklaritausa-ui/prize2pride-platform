@@ -1,0 +1,64 @@
+{
+  "id": "GM-GL-00342",
+  "number": 342,
+  "title": "Mastering Reported Speech: Unleash Your American English Power",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "God-Level",
+  "levelCode": "GL",
+  "objectives": [
+    "Understand the fundamental principles of converting direct speech into reported speech in American English.",
+    "Identify and correctly use tense shifts in reported speech to maintain meaning and context.",
+    "Differentiate between various reporting verbs and their nuances.",
+    "Apply reported speech in complex sentences and questions with confidence.",
+    "Demonstrate mastery by transforming direct quotations into accurate reported speech in diverse scenarios."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or convey what someone else has said, such as 'say,' 'tell,' 'advise,' or 'explain.'",
+      "example": "She *said* she would arrive at 5 p.m."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech into reported speech, often to reflect the time difference.",
+      "example": "He said, 'I am hungry.' → He said he *was* hungry."
+    },
+    {
+      "word": "Question Form",
+      "definition": "The structure used to ask a question, which changes in reported speech from a question to a statement or yes/no question.",
+      "example": "She asked, 'Are you coming?' → She asked if I *was* coming."
+    }
+  ],
+  "content": "Achieving GOD-LEVEL mastery in reported speech requires a deep understanding of its mechanics in American English. When transforming direct statements into reported speech, pay close attention to tense shifts: present becomes past, present perfect becomes past perfect, and so forth. For example, 'I am tired' becomes 'He said he was tired.'\n\nReporting verbs add nuance—'say' and 'tell' are most common, but verbs like 'advise,' 'explain,' and 'suggest' can convey specific meanings. Remember that 'tell' typically requires an indirect object (e.g., 'She told me...'), whereas 'say' does not.\n\nQuestions and commands also transform uniquely. Yes/no questions change from 'Are you coming?' to 'He asked if I was coming.' Wh-questions such as 'Where are you going?' become 'He asked where I was going.' Commands or imperatives turn into reported speech with 'told' or 'asked,' e.g., 'Close the door' → 'He told me to close the door.'\n\nMastering these transformations empowers you to communicate with nuance, clarity, and cultural authenticity, elevating your American English proficiency to GOD-LEVEL.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following correctly converts the direct speech into reported speech? \n\"She said, 'I will call you tomorrow.'\"",
+      "answer": "She said she would call me the next day."
+    },
+    {
+      "type": "Fill in the Blank",
+      "question": "Convert this direct question into reported speech: \n\"He asked, 'Are you busy?'\"",
+      "answer": "He asked if I was busy."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Transform the command into reported speech: \n\"John said, 'Finish your homework.'\"",
+      "answer": "John told me to finish my homework."
+    },
+    {
+      "type": "True/False",
+      "question": "In reported speech, present perfect tense generally shifts to past perfect. True or False?",
+      "answer": "True"
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the reporting verb in this sentence: 'She explained that she couldn't attend the meeting.'",
+      "answer": "explained"
+    }
+  ],
+  "culturalNotes": "In American culture, direct and clear communication is valued. When reporting speech, Americans often prefer straightforward translations that reflect the original tone and intent. Using appropriate reporting verbs and tense shifts demonstrates cultural awareness and linguistic mastery. Additionally, understanding the context—whether formal or informal—is key in choosing the right structure, embodying the American value of clarity and transparency in communication.",
+  "createdAt": "2025-12-24T04:37:08.182Z"
+}

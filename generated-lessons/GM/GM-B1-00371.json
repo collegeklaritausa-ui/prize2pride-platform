@@ -1,0 +1,59 @@
+{
+  "id": "GM-B1-00371",
+  "number": 371,
+  "title": "Mastering Articles: The Key to Precise American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Intermediate",
+  "levelCode": "B1",
+  "objectives": [
+    "Understand the difference between definite and indefinite articles in American English",
+    "Identify proper usage of 'a,' 'an,' and 'the' in various contexts",
+    "Apply articles correctly in sentences to improve grammatical accuracy",
+    "Recognize common mistakes with articles and how to avoid them",
+    "Enhance overall clarity and professionalism in spoken and written communication"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to specify grammatical definiteness or indefiniteness.",
+      "example": "In the sentence 'I saw a dog,' 'a' is an indefinite article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to specific or known entities.",
+      "example": "Please pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used to refer to non-specific items.",
+      "example": "I need a pen to write."
+    }
+  ],
+  "content": "Articles are small words that define nouns as specific or unspecific. In American English, the main articles are 'a,' 'an,' and 'the.' Use 'a' before words that begin with a consonant sound when referring to a non-specific item. For example, 'a car,' 'a university.' Use 'an' before words that begin with a vowel sound for similar non-specific references, such as 'an apple,' 'an hour.' 'The' is the definite article, used when referring to a specific object or one already known to the listener, like 'the sun,' or 'the book you lent me.' Remember, pronunciation influences article choice: 'an' is used before vowel sounds regardless of spelling, like 'an honor.' Proper article usage clarifies meaning and demonstrates grammatical mastery. For example, saying 'She adopted a cat' implies any cat, while 'She adopted the cat' refers to a specific cat previously mentioned or known to both speaker and listener.",
+  "exercises": [
+    {
+      "type": "multiple-choice",
+      "question": "Choose the correct article: \"I saw ___ bird sitting on ___ tree.\"",
+      "answer": "a, the"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "question": "Fill in the blank with the correct article: \"Can you hand me ___ orange?\"",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "True or False: 'A' and 'an' are used interchangeably regardless of pronunciation.",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article usage in the sentence: \"She wants to buy a umbrella.\"",
+      "answer": "She wants to buy an umbrella."
+    }
+  ],
+  "culturalNotes": "In American culture, the correct use of articles reflects attention to detail and professionalism, especially in formal writing, business communication, and academic contexts. Misusing 'a' and 'an' can sometimes be seen as a sign of language inexperience, so mastering articles is a step toward fluency and credibility in American English. Additionally, American media often emphasizes clear pronunciation and grammatical correctness, reinforcing the importance of precise article usage for effective communication.",
+  "createdAt": "2025-12-24T04:38:58.385Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00369",
+  "number": 369,
+  "title": "Mastering Articles: The Building Blocks of American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the use of the definite article 'the' in American English.",
+    "Identify when to use the indefinite articles 'a' and 'an'.",
+    "Differentiate between specific and general references using articles.",
+    "Practice applying articles correctly in sentences.",
+    "Gain confidence in using articles in everyday communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word used before a noun to specify its definiteness or indefiniteness.",
+      "example": "In the sentence 'I saw a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to specific or known nouns.",
+      "example": "Please pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used to refer to non-specific nouns.",
+      "example": "I saw a cat outside."
+    }
+  ],
+  "content": "Welcome to your journey toward becoming a GOD of American English! Today, we focus on articles — small words with big importance.\n\nIn English, articles help us understand whether we are talking about something specific or something in general.\n\n1. The Definite Article 'the':\nUse 'the' when talking about a specific thing that both the speaker and listener know about.\n- Example: 'The dog is sleeping.' (A specific dog everyone knows about)\n\n2. The Indefinite Articles 'a' and 'an':\nUse 'a' before words that begin with a consonant sound.\n- Example: 'a car,' 'a pencil'\nUse 'an' before words that begin with a vowel sound.\n- Example: 'an apple,' 'an hour'\n\n3. When to Use Articles:\n- Use 'a' or 'an' when mentioning something for the first time.\n- Use 'the' when talking about something specific or already mentioned.\n- No article is used when speaking about things in general.\n- Example: 'I saw a bird. The bird was colorful.'\n\nRemember, mastering articles makes your speech clearer and more natural. Practice makes perfect!\n\nNow, let's move on to some exercises to test your understanding.",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article for the sentence: 'I saw ___ elephant at the zoo.'",
+      "answer": "an"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct article: 'Can you give me ___ apple?'",
+      "answer": "an"
+    },
+    {
+      "type": "true/false",
+      "question": "Use 'the' before a noun when talking about something in general. (True/False)",
+      "answer": "False"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the article mistake: 'I saw a owl in the tree.'",
+      "answer": "I saw an owl in the tree."
+    }
+  ],
+  "culturalNotes": "In American English, the use of articles often reflects clarity and specificity. For example, Americans typically say 'the mall' when referring to a well-known shopping center, emphasizing familiarity. Understanding articles helps you sound more natural and confident in everyday conversations, whether talking about popular places, foods, or objects common in American culture.",
+  "createdAt": "2025-12-24T04:38:51.654Z"
+}

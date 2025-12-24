@@ -1,0 +1,59 @@
+{
+  "id": "GM-B2-00320",
+  "number": 320,
+  "title": "Mastering Reported Speech: Speak Like an American Pro",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the concept and importance of reported speech in American English.",
+    "Identify and correctly transform direct speech into reported speech.",
+    "Learn and apply common reporting verbs and their nuances.",
+    "Recognize and adjust tense, pronouns, and time expressions in reported speech.",
+    "Gain confidence in using reported speech in conversations and writing."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting them directly, often using a reporting verb.",
+      "example": "She said that she was coming to the party."
+    },
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or convey speech, such as 'say,' 'tell,' 'claim,' 'announce.'",
+      "example": "He *claimed* he had finished the project."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when converting direct speech into reported speech, often moving one tense back in time.",
+      "example": "Direct: 'I am hungry.' → Reported: She said she *was* hungry."
+    }
+  ],
+  "content": "Reported speech is a fundamental part of American English, allowing speakers to relay conversations, thoughts, or claims from others. It often involves transforming the original statement into a subordinate clause, adjusting pronouns, verb tenses, and time expressions accordingly.\n\n**Key Points:**\n\n1. **Reporting Verbs:** Common verbs include 'say,' 'tell,' 'claim,' 'explain,' 'advise,' and 'suggest.' Choose the verb that best fits the context.\n\n2. **Structure:** \n- For direct speech: \"He said, 'I am tired.'\"\n- For reported speech: He said (that) he *was* tired.\n\n3. **Tense Shift Rules:** \n- Present simple → Past simple\n- Present continuous → Past continuous\n- Present perfect → Past perfect\n- Will → Would\nExamples:\n- Direct: \"I will call you.\"\n- Reported: She said she *would* call me.\n\n4. **Pronouns and Time Expressions:** Adjust pronouns to match the reporting person's perspective, and modify time references:\n- Today → That day\n- Tomorrow → The next day / The following day\n- Here → There\n\n**Examples:**\n- Direct: \"I am visiting my grandparents tomorrow.\"\n- Reported: He said he *was* visiting his grandparents the next day.\n\n**Practice Tips:**\n- Always check the tense after shifting.\n- Remember to include 'that' after reporting verbs, though it is optional in American English.\n- Be mindful of pronoun changes.\n\nIn American culture, reported speech is often used in journalism, storytelling, and casual conversations, making it an essential skill for clear and effective communication.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "Which of the following sentences correctly changes direct speech to reported speech?\n\nA) She said, 'I am tired.'\nB) She said that she *was* tired.\nC) She said that she *is* tired.\nD) She said, she *was* tired.",
+      "answer": "B"
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Convert the direct speech into reported speech:\n\n'We will meet at 5 PM,' he said.",
+      "answer": "He said that they *would* meet at 5 PM."
+    },
+    {
+      "type": "Rewrite",
+      "question": "Rewrite the following sentence in reported speech:\n\n'I have finished my homework,' she said.",
+      "answer": "She said that she *had* finished her homework."
+    },
+    {
+      "type": "True/False",
+      "question": "In reported speech, the pronoun 'I' from the original speech remains the same. (True/False)",
+      "answer": "False"
+    }
+  ],
+  "culturalNotes": "In American culture, direct and reported speech are commonly used in media, interviews, and everyday storytelling. Americans value clarity and brevity, so mastering reported speech helps convey information accurately and naturally. When sharing stories or quoting someone, adjusting pronouns and tenses correctly demonstrates fluency and respect for context, which are highly appreciated traits in American communication style.",
+  "createdAt": "2025-12-24T04:35:29.055Z"
+}

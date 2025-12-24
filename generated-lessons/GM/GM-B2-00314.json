@@ -1,0 +1,69 @@
+{
+  "id": "GM-B2-00314",
+  "number": 314,
+  "title": "Mastering Reported Speech: Speak Like a True American",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Upper-Intermediate",
+  "levelCode": "B2",
+  "objectives": [
+    "Understand the concept and structure of reported speech in American English.",
+    "Identify and convert direct speech into reported speech accurately.",
+    "Learn the rules for tense, pronouns, and time expressions in reported speech.",
+    "Apply reported speech in various contexts, including conversations and writing.",
+    "Develop confidence to use reported speech fluently and naturally in communication."
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported Speech",
+      "definition": "A way of expressing what someone else has said without quoting their exact words.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "Changing the tense of verbs when converting direct speech to reported speech.",
+      "example": "He said, 'I am busy.' → He said he was busy."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Modifying pronouns to match the perspective in reported speech.",
+      "example": "John said, 'I will call you.' → John said he would call me."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words that indicate time, which often change when reported, such as 'today' to 'that day'.",
+      "example": "She said, 'I saw him yesterday.' → She said she had seen him the previous day."
+    }
+  ],
+  "content": "In American English, reported speech is used to relay what someone else has said, often in indirect form. To transform direct speech into reported speech, follow these key rules:\n\n1. **Tense Shift:** Usually, the tense shifts back in time:\n   - Present simple → Past simple\n   - Present continuous → Past continuous\n   - Present perfect → Past perfect\n   - Past simple → Past perfect\n\n   *Example:* She said, 'I am hungry.' → She said she was hungry.\n\n2. **Pronoun Adjustment:** Change the pronouns to fit the reporting perspective:\n\n   *Example:* He said, 'I will visit you.' → He said he would visit me.\n\n3. **Time and Place Expressions:** Adjust expressions to match the reporting context:\n\n   *Example:* 'Today' becomes 'that day,' 'tomorrow' becomes 'the next day,' 'here' becomes 'there.'\n\n   *Example:* She said, 'I will see you here tomorrow.' → She said she would see me there the next day.\n\n4. **Questions and Commands:** For questions, use if or whether for yes/no questions and switch word order for wh-questions. For commands, use infinitives with 'told' or 'asked.'\n\n   *Examples:* \n   - Direct question: 'Are you coming?'\n   - Reported: She asked if I was coming.\n\n   - Command: 'Close the door.'\n   - Reported: He told me to close the door.\n\n**Practice Tips:**\n- Always identify the tense, pronoun, and time expressions in the original speech.\n- Practice converting sentences in different contexts for mastery.\n- Pay attention to the context to choose appropriate reporting verbs like 'say,' 'tell,' 'ask,' 'advise.'\n\nUsing reported speech accurately helps you sound more natural and confident in both spoken and written American English, especially in formal and informal contexts.",
+  "exercises": [
+    {
+      "type": "Multiple Choice",
+      "question": "In the sentence, 'She said, \"I am tired\",' what is the correct reported speech version?",
+      "answer": "She said she was tired."
+    },
+    {
+      "type": "Transformation",
+      "question": "Convert the direct speech into reported speech: 'John said, \"I will call you tomorrow.\"'",
+      "answer": "John said he would call me the next day."
+    },
+    {
+      "type": "Fill in the Blanks",
+      "question": "Change the following sentence into reported speech: 'He told her, \"I have finished my homework.\"'",
+      "answer": "He told her he had finished his homework."
+    },
+    {
+      "type": "Question Conversion",
+      "question": "Rewrite the question in reported speech: 'Are you coming to the party?'",
+      "answer": "He asked if I was coming to the party."
+    },
+    {
+      "type": "Command Reporting",
+      "question": "Convert the command into reported speech: 'Please help me with this.'",
+      "answer": "She asked me to help her with that."
+    }
+  ],
+  "culturalNotes": "In American culture, direct and indirect communication styles are prevalent. Americans often value clarity and politeness, especially in formal contexts. Using reported speech appropriately demonstrates respect and professionalism. In casual conversations, Americans may use reported speech more flexibly, sometimes omitting certain adjustments, but mastering the rules ensures clarity in all situations. Understanding time expressions is particularly important, as Americans often refer to future plans with specific days or times, so adjusting these in reported speech is essential for effective communication.",
+  "createdAt": "2025-12-24T04:35:04.476Z"
+}

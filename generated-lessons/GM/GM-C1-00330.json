@@ -1,0 +1,74 @@
+{
+  "id": "GM-C1-00330",
+  "number": 330,
+  "title": "Mastering Reported Speech: The Art of Conveying Spoken Words in American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Reported Speech",
+  "level": "Advanced",
+  "levelCode": "C1",
+  "objectives": [
+    "Identify various structures of reported speech in complex sentences",
+    "Transform direct speech into accurate reported speech with appropriate tense shifts",
+    "Recognize and correctly use reporting verbs beyond 'say' and 'tell'",
+    "Handle pronoun and time expression changes in reported speech",
+    "Apply advanced reported speech techniques in formal and informal contexts"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reporting Verb",
+      "definition": "A verb used to introduce or report speech, such as 'claim,' 'admit,' 'insist,' or 'suggest.'",
+      "example": "He *claimed* he had finished the project."
+    },
+    {
+      "word": "Tense Shift",
+      "definition": "The change in verb tense that occurs when transforming direct speech into reported speech, often reflecting the time of reporting.",
+      "example": "She said, 'I am leaving now.' → She said she *was leaving* then."
+    },
+    {
+      "word": "Backshift",
+      "definition": "A specific tense shift in reported speech where present tense changes to past tense, and other tense modifications follow.",
+      "example": "‘I will call you,’ she said. → She said she *would* call me."
+    },
+    {
+      "word": "Pronoun Adjustment",
+      "definition": "Changing pronouns appropriately when converting direct to reported speech to match the reporting context.",
+      "example": "He said, ‘I am tired.’ → He said he was tired."
+    },
+    {
+      "word": "Time Expressions",
+      "definition": "Words indicating time that often need to be adjusted in reported speech, such as 'today,' 'tomorrow,' 'yesterday.'",
+      "example": "‘I will see you tomorrow,’ she said. → She said she would see me the next day."
+    }
+  ],
+  "content": "Mastering reported speech in American English requires a nuanced understanding of tense shifts, pronoun adjustments, and the appropriate use of reporting verbs. When transforming direct speech into reported speech, the tense generally shifts backward in time: present becomes past, and perfect tenses shift to past perfect. For example, 'I am hungry,' becomes 'He said he was hungry.'\n\nBeyond basic structures, advanced speakers utilize a variety of reporting verbs to express different nuances—such as 'insist,' 'deny,' 'admit,' or 'suggest'—adding depth and clarity to narrative or dialogue.\n\nHandling pronouns requires contextual awareness. For instance, 'I' becomes 'he' or 'she,' and 'my' changes to 'his' or 'her,' depending on the subject.\n\nTime expressions also need adjustment: 'today' changes to 'that day,' 'tomorrow' becomes 'the next day,' and 'yesterday' shifts to 'the day before.'\n\nIn more complex sentences, especially with embedded clauses, maintaining clarity involves careful tense and pronoun management. For example:\n\nDirect: She said, ‘I will meet you if I finish early.’\nReported: She said she would meet me if she finished early.\n\nIn formal contexts, such as journalism or academic writing, precise use of reporting verbs and tense consistency are vital to maintain credibility and clarity.\n\nRemember that intonation, emphasis, and context influence how reported speech is understood—especially in American conversational and cultural settings, where directness and clarity are valued.\n",
+  "exercises": [
+    {
+      "type": "Transformational",
+      "question": "Convert the following direct speech into reported speech: 'I am studying for the exam,' she said.",
+      "answer": "She said she was studying for the exam."
+    },
+    {
+      "type": "Identification",
+      "question": "Identify the reporting verb in this sentence: 'He insisted that he was innocent.'",
+      "answer": "Insisted"
+    },
+    {
+      "type": "Correction",
+      "question": "Choose the correct reported speech: 'They said they will arrive tomorrow.' / 'They said they would arrive the next day.'",
+      "answer": "They said they would arrive the next day."
+    },
+    {
+      "type": "Application",
+      "question": "Rewrite this sentence in reported speech: 'We are moving to California next week,' John said.",
+      "answer": "John said they were moving to California the following week."
+    },
+    {
+      "type": "Creative",
+      "question": "Create a short dialogue using reported speech involving at least two reporting verbs other than 'say' or 'tell.'",
+      "answer": "A: Did she admit the mistake? B: Yes, she acknowledged it and suggested we work together to fix it."
+    }
+  ],
+  "culturalNotes": "In American culture, direct communication is often valued, but in formal or journalistic contexts, precise and nuanced use of reported speech is essential. Americans appreciate clarity and straightforwardness; thus, mastering the art of reporting speech enhances credibility and professionalism. Understanding the subtleties of tense changes and word choice also reflects cultural respect for accuracy and honesty in communication.",
+  "createdAt": "2025-12-24T04:36:13.285Z"
+}

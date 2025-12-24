@@ -1,0 +1,59 @@
+{
+  "id": "GM-A2-00365",
+  "number": 365,
+  "title": "Mastering Articles: The Keys to Clear American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the purpose of articles in English sentences",
+    "Differentiate between the definite article 'the' and indefinite articles 'a' and 'an'",
+    "Learn when to use 'a', 'an', and 'the' correctly in sentences",
+    "Practice identifying and choosing the correct article in context",
+    "Build confidence to speak and write with proper article usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that introduces a noun and indicates whether the noun refers to a specific or nonspecific thing.",
+      "example": "In the sentence 'I saw a dog,' 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to specific or known nouns.",
+      "example": "Pass me the book on the table."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used to refer to nonspecific nouns.",
+      "example": "She wants to buy a car."
+    }
+  ],
+  "content": "In American English, articles are small words that help us specify nouns. There are three articles: 'a,' 'an,' and 'the.' \n\n1. The indefinite articles 'a' and 'an' are used when talking about something for the first time or something unspecific. \n- Use 'a' before words that begin with a consonant sound: a dog, a car, a university.\n- Use 'an' before words that begin with a vowel sound: an apple, an hour, an elephant.\n\n2. The definite article 'the' is used when talking about something specific or already known to the listener. \n- Example: I saw the dog you mentioned.\n\n3. Remember, the choice between 'a' and 'an' depends on the sound, not necessarily the letter. For instance, 'honor' starts with a silent 'h,' so you say 'an honor.' \n\nLet's see some examples:\n- I saw a bird in the park.\n- Can you pass me an orange?\n- The sun is shining today.\n\nPracticing these rules will help your speech and writing sound natural and clear!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ cat in the yard.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with 'a', 'an', or 'the': She is reading ___ interesting book.",
+      "answer": "an"
+    },
+    {
+      "type": "identify",
+      "question": "Identify the article in the sentence: 'He wants to buy a new house.'",
+      "answer": "'a'"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Fix the mistake: I saw an eagle flying in a sky.",
+      "answer": "I saw an eagle flying in the sky."
+    }
+  ],
+  "culturalNotes": "In American culture, clear and correct use of articles is often associated with good education and professionalism. Americans value directness and clarity in communication, making proper article usage essential for effective speaking and writing. When giving directions or describing objects, Americans typically use specific articles to be precise and polite, especially in formal contexts like business or academia.",
+  "createdAt": "2025-12-24T04:38:39.071Z"
+}

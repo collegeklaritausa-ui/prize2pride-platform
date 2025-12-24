@@ -1,0 +1,64 @@
+{
+  "id": "GM-A2-00366",
+  "number": 366,
+  "title": "Mastering Articles: The Keys to American English",
+  "category": "Grammar Mastery",
+  "categoryCode": "GM",
+  "topic": "Articles",
+  "level": "Elementary",
+  "levelCode": "A2",
+  "objectives": [
+    "Understand the basic use of definite and indefinite articles in American English.",
+    "Identify when to use 'a,' 'an,' and 'the' in sentences.",
+    "Differentiate between specific and general references using articles.",
+    "Apply rules for using articles with singular and plural nouns.",
+    "Improve overall fluency and accuracy in spoken and written English by mastering article usage."
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "A word that defines a noun as specific or unspecific.",
+      "example": "In the phrase 'a dog,' the word 'a' is an article."
+    },
+    {
+      "word": "definite article",
+      "definition": "The article 'the,' used to refer to specific or known nouns.",
+      "example": "Please close the door."
+    },
+    {
+      "word": "indefinite article",
+      "definition": "The articles 'a' and 'an,' used to refer to non-specific nouns.",
+      "example": "I saw a cat in the yard."
+    }
+  ],
+  "content": "In American English, articles are words that provide important information about nouns. There are two types: definite ('the') and indefinite ('a' and 'an').\n\n1. Indefinite Articles:\n- 'a' is used before words that begin with a consonant sound: a car, a house.\n- 'an' is used before words that begin with a vowel sound: an apple, an hour.\n\n2. Definite Article:\n- 'the' is used when referring to something specific or already known to the listener/reader: the book on the table, the teacher.\n\n3. Rules and Tips:\n- Use 'a' or 'an' when mentioning something for the first time.\n- Use 'the' when talking about something specific or previously mentioned.\n- Do not use an article with plural nouns when talking about things in general: Dogs are friendly.\n- Use 'the' with unique objects: the sun, the moon.\n\nExamples:\n- I saw a movie yesterday.\n- The movie was interesting.\n- She has an idea.\n- He found the keys.\n\nRemember, pronunciation matters—choose 'a' or 'an' based on the sound that begins the next word, not necessarily the letter.\n\nBy mastering articles, you'll speak and write more clearly and naturally in American English!",
+  "exercises": [
+    {
+      "type": "multiple choice",
+      "question": "Choose the correct article: I saw ___ dog in the park.",
+      "answer": "a"
+    },
+    {
+      "type": "fill in the blank",
+      "question": "Fill in the blank with the correct article: ___ apple a day keeps the doctor away.",
+      "answer": "An"
+    },
+    {
+      "type": "true/false",
+      "question": "Use of 'the' is correct in the sentence: I read the book you gave me.",
+      "answer": "True"
+    },
+    {
+      "type": "sentence correction",
+      "question": "Correct the mistake: She wants a orange.",
+      "answer": "She wants an orange."
+    },
+    {
+      "type": "matching",
+      "question": "Match the sentences with the correct article usage:\n1. I saw ___ cat.\n2. ___ sun is bright today.\nOptions:\na) a\nb) the",
+      "answer": "1. a\n2. the"
+    }
+  ],
+  "culturalNotes": "In American culture, articles are often used to express familiarity or specificity. For example, Americans might say 'the White House' to refer to the actual building, emphasizing its uniqueness. Understanding the proper use of articles helps you sound more natural and confident in everyday conversations, whether you're talking about common objects like 'a car' or specific places like 'the library.' Mastery of this small but mighty part of speech enhances your clarity and connection with American English speakers.",
+  "createdAt": "2025-12-24T04:38:42.390Z"
+}
