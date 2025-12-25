@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00029",
+  "title": "Zero Article: When to Omit 'the' and 'a'",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Zero Article",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Zero Article at Beginner level",
+    "Apply Zero Article in real conversations",
+    "Build confidence with Zero Article",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "zero article",
+      "definition": "leaving out 'the' or 'a'",
+      "example": "I like coffee."
+    },
+    {
+      "word": "mass noun",
+      "definition": "uncountable noun",
+      "example": "Water, sugar."
+    },
+    {
+      "word": "plural noun",
+      "definition": "more than one",
+      "example": "Books, cars."
+    },
+    {
+      "word": "general statement",
+      "definition": "talking about everything",
+      "example": "Dogs are friendly."
+    },
+    {
+      "word": "proper noun",
+      "definition": "name of a person or place",
+      "example": "John, London."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Zero Article.",
+    "explanation": "In this lesson, you will learn about Zero Article at the Beginner level.",
+    "examples": [
+      "Example of Zero Article usage."
+    ],
+    "tips": [
+      "Practice Zero Article daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct form: '___ water is essential.'",
+      "options": [
+        "The",
+        "A",
+        ""
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "___ students should study regularly.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe your daily routine without using articles.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Zero article usage reflects natural American English speech, especially when discussing general truths or common objects.",
+  "hostAvatar": "instructor-james",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:24.817Z"
+}

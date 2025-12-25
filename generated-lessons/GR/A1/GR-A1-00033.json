@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00033",
+  "title": "Coordinating Conjunctions: Connecting Ideas",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Conjunctions Coordinating",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Conjunctions Coordinating at Beginner level",
+    "Apply Conjunctions Coordinating in real conversations",
+    "Build confidence with Conjunctions Coordinating",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "and",
+      "definition": "Connects two similar ideas. Example: I like tea and coffee.",
+      "example": ""
+    },
+    {
+      "word": "but",
+      "definition": "Shows contrast. Example: I want to go, but I am tired.",
+      "example": ""
+    },
+    {
+      "word": "or",
+      "definition": "Provides options. Example: Do you want coffee or tea?",
+      "example": ""
+    },
+    {
+      "word": "so",
+      "definition": "Indicates result. Example: It was cold, so I wore a coat.",
+      "example": ""
+    },
+    {
+      "word": "yet",
+      "definition": "Shows contrast; similar to but. Example: It was late, yet I stayed out.",
+      "example": ""
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Conjunctions Coordinating.",
+    "explanation": "In this lesson, you will learn about Conjunctions Coordinating at the Beginner level.",
+    "examples": [
+      "Example of Conjunctions Coordinating usage."
+    ],
+    "tips": [
+      "Practice Conjunctions Coordinating daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct conjunction: I like apples ____ bananas.",
+      "options": [
+        "and",
+        "but",
+        "or"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "She was tired, ____ she kept working.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Combine these two sentences: I am hungry. I will eat.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Using coordinating conjunctions is common in American speech and writing, helping connect ideas smoothly and naturally.",
+  "hostAvatar": "guide-maya",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:33.885Z"
+}

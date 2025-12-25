@@ -1,0 +1,95 @@
+{
+  "id": "GR-A1-00001",
+  "title": "Master Present Simple Tense",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Present Simple",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Present Simple at Beginner level",
+    "Apply Present Simple in real conversations",
+    "Build confidence with Present Simple",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "eat",
+      "definition": "consume food",
+      "example": "I eat breakfast every morning."
+    },
+    {
+      "word": "play",
+      "definition": "engage in activity",
+      "example": "She plays soccer on weekends."
+    },
+    {
+      "word": "go",
+      "definition": "move from one place to another",
+      "example": "They go to school by bus."
+    },
+    {
+      "word": "work",
+      "definition": "perform a task",
+      "example": "He works at a bank."
+    },
+    {
+      "word": "study",
+      "definition": "learn through reading or practice",
+      "example": "We study English daily."
+    }
+  ],
+  "content": {
+    "introduction": "The Present Simple tense describes routines, facts, and habits. It is used for actions that happen regularly or are always true.",
+    "explanation": "Use the base form of the verb for I, you, we, they. Add -s or -es for he, she, it. This tense is essential for daily routines and facts. Pay attention to spelling rules for third person singular.",
+    "examples": [
+      "She reads books every night.",
+      "They travel to New York often.",
+      "I like coffee in the morning."
+    ],
+    "tips": [
+      "Remember to add -s for he, she, it.",
+      "Use adverbs like always, never, sometimes with this tense."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence is in Present Simple?",
+      "options": [
+        "She is eating.",
+        "They play soccer.",
+        "He was working.",
+        "I am studying."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "He _____ (work) at a hospital.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe your daily routine using Present Simple tense.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Present Simple is often used in American English to talk about daily routines, reflecting the busy lifestyle of Americans.",
+  "hostAvatar": "coach-sophia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:40.173Z"
+}

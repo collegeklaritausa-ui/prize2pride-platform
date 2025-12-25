@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00008",
+  "title": "Exploring Future Continuous Tense",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Future Continuous",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Future Continuous at Beginner level",
+    "Apply Future Continuous in real conversations",
+    "Build confidence with Future Continuous",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "will be",
+      "definition": "Will be + verb-ing to show ongoing future action",
+      "example": "I will be working at 5 pm."
+    },
+    {
+      "word": "tomorrow",
+      "definition": "Next day",
+      "example": "She will be traveling tomorrow."
+    },
+    {
+      "word": "during",
+      "definition": "Throughout a period",
+      "example": "He will be studying during the weekend."
+    },
+    {
+      "word": "while",
+      "definition": "At the same time as",
+      "example": "They will be watching TV while cooking."
+    },
+    {
+      "word": "progress",
+      "definition": "Development or movement forward",
+      "example": "I will be making progress on my project."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Future Continuous.",
+    "explanation": "In this lesson, you will learn about Future Continuous at the Beginner level.",
+    "examples": [
+      "Example of Future Continuous usage."
+    ],
+    "tips": [
+      "Practice Future Continuous daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I will be cooking dinner at 7 pm.",
+        "I will cook dinner at 7 pm.",
+        "I will cook dinner at 7 pm."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "They ____ (study) during the meeting.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe what you will be doing at a specific future time.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Future Continuous is often used in American movies and TV to depict characters engaged in activities at specific future moments.",
+  "hostAvatar": "mentor-olivia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:49.761Z"
+}

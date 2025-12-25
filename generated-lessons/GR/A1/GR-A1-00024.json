@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00024",
+  "title": "Reporting Statements in Speech",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Reported Speech Statements",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Reported Speech Statements at Beginner level",
+    "Apply Reported Speech Statements in real conversations",
+    "Build confidence with Reported Speech Statements",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported speech",
+      "definition": "Conveying what someone else has said.",
+      "example": "She said she was tired."
+    },
+    {
+      "word": "Direct speech",
+      "definition": "Exact words spoken.",
+      "example": "She said, 'I am tired.'"
+    },
+    {
+      "word": "Reporting verb",
+      "definition": "Verb used to introduce reported speech.",
+      "example": "said, told."
+    },
+    {
+      "word": "Backshift",
+      "definition": "Changing verb tenses when reporting.",
+      "example": "present to past."
+    },
+    {
+      "word": "Quotation marks",
+      "definition": "Punctuation used in direct speech.",
+      "example": "'Hello!'"
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Reported Speech Statements.",
+    "explanation": "In this lesson, you will learn about Reported Speech Statements at the Beginner level.",
+    "examples": [
+      "Example of Reported Speech Statements usage."
+    ],
+    "tips": [
+      "Practice Reported Speech Statements daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Convert to reported speech: 'I am hungry,' she said.",
+      "options": [
+        "She said she was hungry.",
+        "She said she is hungry.",
+        "She said she is hungry."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "He said, 'I will call you.' → He said he ____ (call) me.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Tell a story about something someone said to you today using reported speech.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Reported speech is vital in American journalism and storytelling, helping relay conversations accurately and professionally.",
+  "hostAvatar": "professor-emma",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:16.519Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00018",
+  "title": "Might Expresses Uncertainty Carefully",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Modal Verbs Might",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Modal Verbs Might at Beginner level",
+    "Apply Modal Verbs Might in real conversations",
+    "Build confidence with Modal Verbs Might",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Uncertainty",
+      "definition": "Not knowing for sure.",
+      "example": "I am uncertain about the plan."
+    },
+    {
+      "word": "Possibility",
+      "definition": "Something that could happen.",
+      "example": "It might rain."
+    },
+    {
+      "word": "Hesitation",
+      "definition": "Uncertainty or reluctance.",
+      "example": "She hesitated before answering."
+    },
+    {
+      "word": "Speculate",
+      "definition": "To guess about something.",
+      "example": "I might go to the party."
+    },
+    {
+      "word": "Probability",
+      "definition": "Likelihood of something happening.",
+      "example": "It might be true."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Modal Verbs Might.",
+    "explanation": "In this lesson, you will learn about Modal Verbs Might at the Beginner level.",
+    "examples": [
+      "Example of Modal Verbs Might usage."
+    ],
+    "tips": [
+      "Practice Modal Verbs Might daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence shows uncertainty?",
+      "options": [
+        "She will come.",
+        "She might come.",
+        "She can come."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "It ____ rain later. (Use 'might')",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a plan using 'might' to show uncertainty.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "In American English, 'might' is often used to soften statements and express polite uncertainty.",
+  "hostAvatar": "professor-emma",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:07.738Z"
+}

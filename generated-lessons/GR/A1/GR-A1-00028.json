@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00028",
+  "title": "Indefinite Articles 'a' and 'an' Basics",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Articles Indefinite",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Articles Indefinite at Beginner level",
+    "Apply Articles Indefinite in real conversations",
+    "Build confidence with Articles Indefinite",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "indefinite",
+      "definition": "not specific",
+      "example": "A dog, an apple."
+    },
+    {
+      "word": "article",
+      "definition": "a word before nouns",
+      "example": "'A' or 'an'."
+    },
+    {
+      "word": "noun",
+      "definition": "a person, place, or thing",
+      "example": "Car, idea."
+    },
+    {
+      "word": "vowel",
+      "definition": "a, e, i, o, u",
+      "example": "An apple."
+    },
+    {
+      "word": "consonant",
+      "definition": "other letters",
+      "example": "A cat."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Articles Indefinite.",
+    "explanation": "In this lesson, you will learn about Articles Indefinite at the Beginner level.",
+    "examples": [
+      "Example of Articles Indefinite usage."
+    ],
+    "tips": [
+      "Practice Articles Indefinite daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Select the correct article: 'I saw ___ umbrella.'",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "She is ___ honest person.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe an object using 'a' or 'an'.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Indefinite articles are essential for introducing new nouns in American English conversations and writing.",
+  "hostAvatar": "tutor-lily",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:24.817Z"
+}

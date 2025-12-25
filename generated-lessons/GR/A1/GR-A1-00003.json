@@ -1,0 +1,95 @@
+{
+  "id": "GR-A1-00003",
+  "title": "Learn Past Simple for Completed Actions",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Past Simple",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Past Simple at Beginner level",
+    "Apply Past Simple in real conversations",
+    "Build confidence with Past Simple",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "visited",
+      "definition": "went to a place",
+      "example": "I visited the museum yesterday."
+    },
+    {
+      "word": "watched",
+      "definition": "looked at something for a period",
+      "example": "She watched a movie last night."
+    },
+    {
+      "word": "played",
+      "definition": "engaged in a game or sport",
+      "example": "They played basketball on Saturday."
+    },
+    {
+      "word": "cooked",
+      "definition": "prepared food",
+      "example": "We cooked dinner together."
+    },
+    {
+      "word": "travelled",
+      "definition": "went on a journey",
+      "example": "He travelled to California last summer."
+    }
+  ],
+  "content": {
+    "introduction": "Past Simple describes actions completed at a specific time in the past. It is formed by adding -ed for regular verbs.",
+    "explanation": "Regular verbs add -ed; irregular verbs change forms (go → went). Use time expressions like yesterday, last week, ago. This tense is used for stories and past experiences.",
+    "examples": [
+      "I visited New York last year.",
+      "She watched a documentary yesterday.",
+      "They played soccer last weekend."
+    ],
+    "tips": [
+      "Learn irregular past forms by heart.",
+      "Use specific past time expressions for clarity."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence is in Past Simple?",
+      "options": [
+        "He is eating.",
+        "She will go.",
+        "They played football.",
+        "I am watching TV."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "We ____ (finish) our homework yesterday.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Tell about a memorable event from last year.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Past Simple is used frequently in American storytelling to share experiences and past events.",
+  "hostAvatar": "guide-maya",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:40.174Z"
+}

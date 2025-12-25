@@ -1,0 +1,86 @@
+{
+  "id": "GR-A1-00014",
+  "title": "Mixed Conditionals: Past and Present Effects",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Mixed Conditionals",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Mixed Conditionals at Beginner level",
+    "Apply Mixed Conditionals in real conversations",
+    "Build confidence with Mixed Conditionals",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "mixed",
+      "definition": "combining different types of conditionals",
+      "example": "If I had studied, I would be confident now."
+    },
+    {
+      "word": "present result",
+      "definition": "current situation caused by past",
+      "example": "I am tired because I didn't sleep well."
+    },
+    {
+      "word": "past condition",
+      "definition": "a past situation affecting the present",
+      "example": "If I had trained, I would be strong now."
+    },
+    {
+      "word": "effect",
+      "definition": "result of a condition",
+      "example": "Her success is due to her hard work."
+    },
+    {
+      "word": "unreal",
+      "definition": "not real or unlikely",
+      "example": "If I had more time, I would travel."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Mixed Conditionals.",
+    "explanation": "In this lesson, you will learn about Mixed Conditionals at the Beginner level.",
+    "examples": [
+      "Example of Mixed Conditionals usage."
+    ],
+    "tips": [
+      "Practice Mixed Conditionals daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence: a) If I had studied, I am smarter now. b) If I had studied, I would be smarter now.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "If they ____ (leave) earlier, they would be here now.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a decision you regret and how it affects you today.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Mixed conditionals are useful in American English for discussing how past choices impact present life.",
+  "hostAvatar": "mentor-olivia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:58.717Z"
+}

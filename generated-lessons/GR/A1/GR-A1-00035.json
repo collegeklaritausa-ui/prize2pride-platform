@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00035",
+  "title": "Defining Relative Clauses: Essential Details",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Relative Clauses Defining",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Relative Clauses Defining at Beginner level",
+    "Apply Relative Clauses Defining in real conversations",
+    "Build confidence with Relative Clauses Defining",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "who",
+      "definition": "Refers to people. Example: The teacher who teaches math.",
+      "example": ""
+    },
+    {
+      "word": "which",
+      "definition": "Refers to objects or animals. Example: The book which I bought.",
+      "example": ""
+    },
+    {
+      "word": "that",
+      "definition": "Refers to people or things. Example: The car that is red.",
+      "example": ""
+    },
+    {
+      "word": "whose",
+      "definition": "Shows possession. Example: The girl whose bike is new.",
+      "example": ""
+    },
+    {
+      "word": "where",
+      "definition": "Refers to places. Example: The city where I was born.",
+      "example": ""
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Relative Clauses Defining.",
+    "explanation": "In this lesson, you will learn about Relative Clauses Defining at the Beginner level.",
+    "examples": [
+      "Example of Relative Clauses Defining usage."
+    ],
+    "tips": [
+      "Practice Relative Clauses Defining daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct word: The movie ____ I watched last night was fun.",
+      "options": [
+        "that",
+        "which",
+        "who"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "The student ____ won the award is very talented.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a person or place using a defining relative clause.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Relative clauses are common in American English for giving important details, especially in formal and written contexts.",
+  "hostAvatar": "instructor-james",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:33.885Z"
+}

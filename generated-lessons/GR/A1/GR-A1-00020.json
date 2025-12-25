@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00020",
+  "title": "Should for Advice and Expectations",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Modal Verbs Should",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Modal Verbs Should at Beginner level",
+    "Apply Modal Verbs Should in real conversations",
+    "Build confidence with Modal Verbs Should",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Advice",
+      "definition": "Guidance or recommendations.",
+      "example": "You should see a doctor."
+    },
+    {
+      "word": "Expectation",
+      "definition": "A belief that something will happen.",
+      "example": "You should arrive by 5."
+    },
+    {
+      "word": "Recommendation",
+      "definition": "A suggestion to do something.",
+      "example": "You should try this restaurant."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or responsibility.",
+      "example": "You should finish your work."
+    },
+    {
+      "word": "Moral duty",
+      "definition": "An ethical obligation.",
+      "example": "You should tell the truth."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Modal Verbs Should.",
+    "explanation": "In this lesson, you will learn about Modal Verbs Should at the Beginner level.",
+    "examples": [
+      "Example of Modal Verbs Should usage."
+    ],
+    "tips": [
+      "Practice Modal Verbs Should daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence gives advice?",
+      "options": [
+        "You should call her.",
+        "You can call her.",
+        "You might call her."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "You ____ see a doctor if you're sick. (Use 'should')",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Give a polite suggestion using 'should'.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "In American English, 'should' is commonly used for polite advice, showing care and concern in everyday conversations.",
+  "hostAvatar": "mentor-olivia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:07.738Z"
+}

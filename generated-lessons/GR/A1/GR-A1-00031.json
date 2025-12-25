@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00031",
+  "title": "Prepositions of Place: Where Is It?",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Prepositions Place",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Prepositions Place at Beginner level",
+    "Apply Prepositions Place in real conversations",
+    "Build confidence with Prepositions Place",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "in",
+      "definition": "Inside a space or area. Example: The book is in the bag.",
+      "example": ""
+    },
+    {
+      "word": "on",
+      "definition": "Touching the surface. Example: The pen is on the table.",
+      "example": ""
+    },
+    {
+      "word": "under",
+      "definition": "Below or beneath something. Example: The shoes are under the bed.",
+      "example": ""
+    },
+    {
+      "word": "beside",
+      "definition": "Next to or alongside. Example: Sit beside me.",
+      "example": ""
+    },
+    {
+      "word": "between",
+      "definition": "In the middle of two objects. Example: The park is between the school and the library.",
+      "example": ""
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Prepositions Place.",
+    "explanation": "In this lesson, you will learn about Prepositions Place at the Beginner level.",
+    "examples": [
+      "Example of Prepositions Place usage."
+    ],
+    "tips": [
+      "Practice Prepositions Place daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Where is the book? It is ____ the table.",
+      "options": [
+        "in",
+        "on",
+        "under"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "The picture is ____ the wall.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe where your favorite chair is in your room.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Prepositions are vital in American English for giving clear directions and descriptions, especially in maps, signs, and daily conversations.",
+  "hostAvatar": "coach-sophia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:33.885Z"
+}

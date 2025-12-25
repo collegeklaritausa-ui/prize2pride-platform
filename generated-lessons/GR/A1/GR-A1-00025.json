@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00025",
+  "title": "Forming and Using Reported Questions",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Reported Speech Questions",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Reported Speech Questions at Beginner level",
+    "Apply Reported Speech Questions in real conversations",
+    "Build confidence with Reported Speech Questions",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Reported questions",
+      "definition": "Questions conveyed indirectly.",
+      "example": "He asked if I was coming."
+    },
+    {
+      "word": "Direct question",
+      "definition": "Exact question asked directly.",
+      "example": "Are you coming?"
+    },
+    {
+      "word": "Question word",
+      "definition": "Word introducing a question.",
+      "example": "who, what, where."
+    },
+    {
+      "word": "Inversion",
+      "definition": "Reversing word order in questions.",
+      "example": "Are you?"
+    },
+    {
+      "word": "Tense shift",
+      "definition": "Changing tense in reported questions.",
+      "example": "Was → were."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Reported Speech Questions.",
+    "explanation": "In this lesson, you will learn about Reported Speech Questions at the Beginner level.",
+    "examples": [
+      "Example of Reported Speech Questions usage."
+    ],
+    "tips": [
+      "Practice Reported Speech Questions daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Convert to reported question: 'Are you ready?'",
+      "options": [
+        "He asked if I was ready.",
+        "He asked if I am ready.",
+        "He asked if I am ready."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "She asked, 'Where is the store?' → She asked where the ____ was.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Ask someone about their weekend using a reported question.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Reported questions are essential in American business and journalism for polite, indirect inquiries and interviews.",
+  "hostAvatar": "coach-sophia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:16.519Z"
+}

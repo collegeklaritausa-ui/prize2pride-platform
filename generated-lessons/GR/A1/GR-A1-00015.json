@@ -1,0 +1,86 @@
+{
+  "id": "GR-A1-00015",
+  "title": "Modal Verb 'Can' for Ability and Possibility",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Modal Verbs Can",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Modal Verbs Can at Beginner level",
+    "Apply Modal Verbs Can in real conversations",
+    "Build confidence with Modal Verbs Can",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "can",
+      "definition": "expresses ability or possibility",
+      "example": "I can swim."
+    },
+    {
+      "word": "ability",
+      "definition": "skill or competence",
+      "example": "She has the ability to sing."
+    },
+    {
+      "word": "possibility",
+      "definition": "something that might happen",
+      "example": "It can rain today."
+    },
+    {
+      "word": "permission",
+      "definition": "approval to do something",
+      "example": "Can I go outside?"
+    },
+    {
+      "word": "request",
+      "definition": "asking for permission",
+      "example": "Can you help me?"
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Modal Verbs Can.",
+    "explanation": "In this lesson, you will learn about Modal Verbs Can at the Beginner level.",
+    "examples": [
+      "Example of Modal Verbs Can usage."
+    ],
+    "tips": [
+      "Practice Modal Verbs Can daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence: a) I can to swim. b) I can swim.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "He ____ (can) drive a car.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe something you can do well.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Using 'can' is common in American English for everyday abilities, permissions, and possibilities, making conversations polite and clear.",
+  "hostAvatar": "guide-maya",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:58.717Z"
+}

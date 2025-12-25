@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00016",
+  "title": "Understanding Could for Possibility",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Modal Verbs Could",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Modal Verbs Could at Beginner level",
+    "Apply Modal Verbs Could in real conversations",
+    "Build confidence with Modal Verbs Could",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Possibility",
+      "definition": "The chance that something might happen.",
+      "example": "There is a possibility of rain."
+    },
+    {
+      "word": "Guess",
+      "definition": "To form an opinion without enough information.",
+      "example": "I guess it will rain."
+    },
+    {
+      "word": "Permission",
+      "definition": "Approval to do something.",
+      "example": "You could ask your teacher."
+    },
+    {
+      "word": "Option",
+      "definition": "A choice available.",
+      "example": "You could choose the blue or red."
+    },
+    {
+      "word": "Uncertain",
+      "definition": "Not sure about something.",
+      "example": "I'm uncertain about the time."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Modal Verbs Could.",
+    "explanation": "In this lesson, you will learn about Modal Verbs Could at the Beginner level.",
+    "examples": [
+      "Example of Modal Verbs Could usage."
+    ],
+    "tips": [
+      "Practice Modal Verbs Could daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence shows possibility?",
+      "options": [
+        "She can swim.",
+        "She could swim.",
+        "She will swim."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "It ____ rain later. (Use 'could')",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Say a sentence using 'could' to suggest a possibility.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Americans often use 'could' for polite suggestions, making conversations more courteous and friendly.",
+  "hostAvatar": "tutor-lily",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:07.738Z"
+}

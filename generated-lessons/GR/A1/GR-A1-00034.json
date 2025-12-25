@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00034",
+  "title": "Subordinating Conjunctions: Complex Sentences",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Conjunctions Subordinating",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Conjunctions Subordinating at Beginner level",
+    "Apply Conjunctions Subordinating in real conversations",
+    "Build confidence with Conjunctions Subordinating",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "because",
+      "definition": "Gives a reason. Example: I stayed home because it rained.",
+      "example": ""
+    },
+    {
+      "word": "although",
+      "definition": "Shows contrast. Example: Although it was cold, we went out.",
+      "example": ""
+    },
+    {
+      "word": "when",
+      "definition": "Indicates time. Example: Call me when you arrive.",
+      "example": ""
+    },
+    {
+      "word": "if",
+      "definition": "Shows condition. Example: If it rains, we stay inside.",
+      "example": ""
+    },
+    {
+      "word": "while",
+      "definition": "Shows simultaneous actions. Example: She listened while he spoke.",
+      "example": ""
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Conjunctions Subordinating.",
+    "explanation": "In this lesson, you will learn about Conjunctions Subordinating at the Beginner level.",
+    "examples": [
+      "Example of Conjunctions Subordinating usage."
+    ],
+    "tips": [
+      "Practice Conjunctions Subordinating daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct word: I stay home ____ it rains.",
+      "options": [
+        "because",
+        "if",
+        "although"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "She didn't go to the party ____ she was sick.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Explain why you like or dislike a hobby using a subordinating conjunction.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Subordinating conjunctions are essential in American English for expressing complex ideas and detailed reasoning in speech and writing.",
+  "hostAvatar": "tutor-lily",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:33.885Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "GR-A1-00002",
+  "title": "Understand Present Continuous Tense",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Present Continuous",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Present Continuous at Beginner level",
+    "Apply Present Continuous in real conversations",
+    "Build confidence with Present Continuous",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "running",
+      "definition": "moving quickly on foot",
+      "example": "He is running in the park."
+    },
+    {
+      "word": "reading",
+      "definition": "looking at and understanding written words",
+      "example": "She is reading a book now."
+    },
+    {
+      "word": "eating",
+      "definition": "consuming food currently",
+      "example": "They are eating dinner."
+    },
+    {
+      "word": "working",
+      "definition": "performing work at this moment",
+      "example": "I am working on a project."
+    },
+    {
+      "word": "playing",
+      "definition": "engaged in a game or sport",
+      "example": "The kids are playing outside."
+    }
+  ],
+  "content": {
+    "introduction": "The Present Continuous tense describes actions happening right now or temporary situations. It uses am, is, are + verb-ing.",
+    "explanation": "Use 'am' with I, 'is' with he, she, it, and 'are' with you, we, they. Add -ing to the verb root. It emphasizes ongoing actions or future plans. Be aware of spelling changes like 'run' to 'running'.",
+    "examples": [
+      "She is studying for her exam.",
+      "They are watching a movie.",
+      "I am cooking dinner."
+    ],
+    "tips": [
+      "Use contractions like I'm, he's, they're in spoken English.",
+      "Combine with time expressions like now, at the moment."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence is in Present Continuous?",
+      "options": [
+        "He plays tennis.",
+        "She is sleeping.",
+        "We go shopping.",
+        "I study every day."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "They ____ (dance) at the party now.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe what you are doing right now.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "In American culture, Present Continuous is common in casual speech to describe current activities and plans.",
+  "hostAvatar": "mentor-olivia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:40.174Z"
+}

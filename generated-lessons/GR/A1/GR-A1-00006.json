@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00006",
+  "title": "Mastering Past Perfect Tense",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Past Perfect",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Past Perfect at Beginner level",
+    "Apply Past Perfect in real conversations",
+    "Build confidence with Past Perfect",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "had",
+      "definition": "Past tense of have",
+      "example": "She had finished her homework."
+    },
+    {
+      "word": "before",
+      "definition": "Earlier than something else",
+      "example": "I ate before I went out."
+    },
+    {
+      "word": "already",
+      "definition": "Previously; before now",
+      "example": "They had already left."
+    },
+    {
+      "word": "yet",
+      "definition": "Up to now",
+      "example": "Had you seen her yet?"
+    },
+    {
+      "word": "never",
+      "definition": "At no time in the past",
+      "example": "He had never traveled abroad."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Past Perfect.",
+    "explanation": "In this lesson, you will learn about Past Perfect at the Beginner level.",
+    "examples": [
+      "Example of Past Perfect usage."
+    ],
+    "tips": [
+      "Practice Past Perfect daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She had gone before I arrived.",
+        "She has gone before I arrived.",
+        "She had gone before I arrived."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "I ____ (finish) my homework before dinner.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a time when you had completed something before another event.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Past Perfect is common in storytelling, especially in American history narratives and personal stories, to show sequences clearly.",
+  "hostAvatar": "professor-emma",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:49.761Z"
+}

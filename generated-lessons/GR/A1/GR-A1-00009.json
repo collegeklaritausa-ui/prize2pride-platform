@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00009",
+  "title": "Using Future Perfect Tense Correctly",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Future Perfect",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Future Perfect at Beginner level",
+    "Apply Future Perfect in real conversations",
+    "Build confidence with Future Perfect",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "will have",
+      "definition": "Future perfect tense auxiliary",
+      "example": "She will have finished by then."
+    },
+    {
+      "word": "done",
+      "definition": "Completed",
+      "example": "The work is done."
+    },
+    {
+      "word": "by",
+      "definition": "Before a specific time",
+      "example": "By next week, I will have completed it."
+    },
+    {
+      "word": "finished",
+      "definition": "Completed activity",
+      "example": "He will have finished his homework."
+    },
+    {
+      "word": "expect",
+      "definition": "Think something will happen",
+      "example": "I expect you will have arrived."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Future Perfect.",
+    "explanation": "In this lesson, you will learn about Future Perfect at the Beginner level.",
+    "examples": [
+      "Example of Future Perfect usage."
+    ],
+    "tips": [
+      "Practice Future Perfect daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He will have finished his work by then.",
+        "He will finished his work by then.",
+        "He will have finish his work by then."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "They ____ (complete) the project by Friday.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Predict what you will have achieved by the end of this year.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Future Perfect is used in American business and academic contexts to emphasize completion deadlines and project milestones.",
+  "hostAvatar": "guide-maya",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:49.761Z"
+}

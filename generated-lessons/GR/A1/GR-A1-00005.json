@@ -1,0 +1,95 @@
+{
+  "id": "GR-A1-00005",
+  "title": "Master Present Perfect Tense",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Present Perfect",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Present Perfect at Beginner level",
+    "Apply Present Perfect in real conversations",
+    "Build confidence with Present Perfect",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "have eaten",
+      "definition": "consumed food at some point",
+      "example": "I have eaten lunch already."
+    },
+    {
+      "word": "have visited",
+      "definition": "been to a place",
+      "example": "We have visited the museum."
+    },
+    {
+      "word": "have finished",
+      "definition": "completed an activity",
+      "example": "She has finished her homework."
+    },
+    {
+      "word": "have seen",
+      "definition": "observed or experienced",
+      "example": "They have seen that movie."
+    },
+    {
+      "word": "have done",
+      "definition": "completed tasks",
+      "example": "I have done my chores."
+    }
+  ],
+  "content": {
+    "introduction": "Present Perfect connects past actions to the present. It describes experiences, changes, or completed actions relevant now. Use 'have' or 'has' + past participle.",
+    "explanation": "Use 'have' with I, you, we, they; 'has' with he, she, it. Past participle forms are regular (-ed) or irregular. Often used with 'already', 'yet', 'ever', 'never'.",
+    "examples": [
+      "I have visited Paris.",
+      "She has finished her work.",
+      "They have never seen snow."
+    ],
+    "tips": [
+      "Use 'yet' in questions or negatives.",
+      "Connect past actions to the present with this tense."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence is Present Perfect?",
+      "options": [
+        "I visited New York.",
+        "I have visited New York.",
+        "I will visit New York.",
+        "I am visiting New York."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "She ____ (finish) her project already.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Share an experience you have had recently using Present Perfect.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Present Perfect is common in American English to discuss life experiences and connections to the present moment.",
+  "hostAvatar": "instructor-james",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:40.174Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00027",
+  "title": "Using Definite Articles 'the' Correctly",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Articles Definite",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Articles Definite at Beginner level",
+    "Apply Articles Definite in real conversations",
+    "Build confidence with Articles Definite",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "article",
+      "definition": "a word used before nouns",
+      "example": "'The' is a definite article."
+    },
+    {
+      "word": "noun",
+      "definition": "a person, place, or thing",
+      "example": "Book, city, teacher."
+    },
+    {
+      "word": "specific",
+      "definition": "clearly identified",
+      "example": "The sun, the teacher."
+    },
+    {
+      "word": "context",
+      "definition": "surrounding information",
+      "example": "In context, 'the' specifies."
+    },
+    {
+      "word": "reference",
+      "definition": "mentioning something",
+      "example": "Referring to the book."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Articles Definite.",
+    "explanation": "In this lesson, you will learn about Articles Definite at the Beginner level.",
+    "examples": [
+      "Example of Articles Definite usage."
+    ],
+    "tips": [
+      "Practice Articles Definite daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I saw a sun.",
+        "I saw the sun.",
+        "I saw sun."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "___ moon looks beautiful tonight.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a place using 'the' correctly.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Using 'the' correctly helps in clear communication, especially in American English where specificity is valued.",
+  "hostAvatar": "guide-maya",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:24.817Z"
+}

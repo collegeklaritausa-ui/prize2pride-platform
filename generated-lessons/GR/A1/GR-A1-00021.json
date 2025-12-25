@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00021",
+  "title": "Understanding Present Passive Voice",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Passive Voice Present",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Passive Voice Present at Beginner level",
+    "Apply Passive Voice Present in real conversations",
+    "Build confidence with Passive Voice Present",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Passive voice",
+      "definition": "A sentence where the object receives the action.",
+      "example": "The cake is eaten by the children."
+    },
+    {
+      "word": "Subject",
+      "definition": "The doer of the action.",
+      "example": "The teacher."
+    },
+    {
+      "word": "Object",
+      "definition": "The receiver of the action.",
+      "example": "The letter."
+    },
+    {
+      "word": "Verb 'to be'",
+      "definition": "Auxiliary verb used in passive constructions.",
+      "example": "is, are."
+    },
+    {
+      "word": "Past participle",
+      "definition": "Verb form used in passive sentences.",
+      "example": "written, eaten."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Passive Voice Present.",
+    "explanation": "In this lesson, you will learn about Passive Voice Present at the Beginner level.",
+    "examples": [
+      "Example of Passive Voice Present usage."
+    ],
+    "tips": [
+      "Practice Passive Voice Present daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct passive form: 'The dog ____ chased by the boy.'",
+      "options": [
+        "is",
+        "was",
+        "are"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "The books ____ (read) by students.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe what is being done in your classroom now using passive voice.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Passive voice is frequently used in formal reports and news articles in American English to emphasize actions over actors.",
+  "hostAvatar": "guide-maya",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:16.519Z"
+}

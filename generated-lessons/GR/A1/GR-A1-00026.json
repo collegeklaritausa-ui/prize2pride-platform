@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00026",
+  "title": "Mastering Reported Speech Commands",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Reported Speech Commands",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Reported Speech Commands at Beginner level",
+    "Apply Reported Speech Commands in real conversations",
+    "Build confidence with Reported Speech Commands",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "tell",
+      "definition": "to inform someone",
+      "example": "She told me to sit down."
+    },
+    {
+      "word": "say",
+      "definition": "to speak words",
+      "example": "He said to wait here."
+    },
+    {
+      "word": "ask",
+      "definition": "to request information",
+      "example": "They asked me to help."
+    },
+    {
+      "word": "command",
+      "definition": "an order given",
+      "example": "The teacher commanded silence."
+    },
+    {
+      "word": "request",
+      "definition": "a polite demand",
+      "example": "She requested to leave early."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Reported Speech Commands.",
+    "explanation": "In this lesson, you will learn about Reported Speech Commands at the Beginner level.",
+    "examples": [
+      "Example of Reported Speech Commands usage."
+    ],
+    "tips": [
+      "Practice Reported Speech Commands daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct reported speech: 'He said, \"Close the door\"' ->",
+      "options": [
+        "He told me to close the door.",
+        "He said to close the door.",
+        "He asked me to close the door."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "Convert: 'Please sit here,' she said. -> She ______ me to sit there.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Practice giving a command and reporting it to a partner.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Reporting commands politely is common in American workplaces and schools to ensure clarity and respect.",
+  "hostAvatar": "mentor-olivia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:24.817Z"
+}

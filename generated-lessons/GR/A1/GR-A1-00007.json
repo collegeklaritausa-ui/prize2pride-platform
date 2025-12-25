@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00007",
+  "title": "Understanding Future Simple Tense",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Future Simple",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Future Simple at Beginner level",
+    "Apply Future Simple in real conversations",
+    "Build confidence with Future Simple",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "will",
+      "definition": "Expresses future intention",
+      "example": "I will call you tomorrow."
+    },
+    {
+      "word": "shall",
+      "definition": "Formal future intention (mainly UK)",
+      "example": "We shall see what happens."
+    },
+    {
+      "word": "soon",
+      "definition": "In a short time from now",
+      "example": "She will arrive soon."
+    },
+    {
+      "word": "tomorrow",
+      "definition": "Next day",
+      "example": "They will visit tomorrow."
+    },
+    {
+      "word": "predict",
+      "definition": "Say what will happen",
+      "example": "I predict it will rain."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Future Simple.",
+    "explanation": "In this lesson, you will learn about Future Simple at the Beginner level.",
+    "examples": [
+      "Example of Future Simple usage."
+    ],
+    "tips": [
+      "Practice Future Simple daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I will go to the store tomorrow.",
+        "I go to the store tomorrow.",
+        "I am going to the store tomorrow."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "He ____ (call) you later.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe what you will do this weekend.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Future Simple is widely used in American culture for promises, plans, and predictions, especially in everyday conversations and media.",
+  "hostAvatar": "coach-sophia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:49.761Z"
+}

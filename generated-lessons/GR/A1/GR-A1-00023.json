@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00023",
+  "title": "Using Future Passive Voice Effectively",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Passive Voice Future",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Passive Voice Future at Beginner level",
+    "Apply Passive Voice Future in real conversations",
+    "Build confidence with Passive Voice Future",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Future passive",
+      "definition": "Passive form referring to upcoming actions.",
+      "example": "The package will be delivered tomorrow."
+    },
+    {
+      "word": "Will",
+      "definition": "Auxiliary verb indicating future tense.",
+      "example": "will, shall."
+    },
+    {
+      "word": "Be",
+      "definition": "Auxiliary verb used in passive constructions.",
+      "example": "be."
+    },
+    {
+      "word": "Past participle",
+      "definition": "Verb form used after 'will be'.",
+      "example": "sent, built."
+    },
+    {
+      "word": "Forecast",
+      "definition": "Prediction or expectation about future events.",
+      "example": "The weather forecast predicts rain."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Passive Voice Future.",
+    "explanation": "In this lesson, you will learn about Passive Voice Future at the Beginner level.",
+    "examples": [
+      "Example of Passive Voice Future usage."
+    ],
+    "tips": [
+      "Practice Passive Voice Future daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct form: 'The project ____ completed next month.'",
+      "options": [
+        "will be",
+        "is",
+        "was"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "The package ____ (send) tomorrow.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe what will be done in your community in the future using passive voice.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Future passive is common in American business and government announcements to focus on upcoming actions and plans.",
+  "hostAvatar": "instructor-james",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:16.519Z"
+}

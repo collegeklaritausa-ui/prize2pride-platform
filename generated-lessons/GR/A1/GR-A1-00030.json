@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00030",
+  "title": "Prepositions of Time Simplified",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Prepositions Time",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Prepositions Time at Beginner level",
+    "Apply Prepositions Time in real conversations",
+    "Build confidence with Prepositions Time",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "preposition",
+      "definition": "a word showing relationship",
+      "example": "on, in, at."
+    },
+    {
+      "word": "preposition of time",
+      "definition": "shows when something happens",
+      "example": "at 3 pm."
+    },
+    {
+      "word": "specific",
+      "definition": "exact time or date",
+      "example": "on Monday."
+    },
+    {
+      "word": "general",
+      "definition": "broad time periods",
+      "example": "in the morning."
+    },
+    {
+      "word": "phrase",
+      "definition": "group of words",
+      "example": "at the weekend."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Prepositions Time.",
+    "explanation": "In this lesson, you will learn about Prepositions Time at the Beginner level.",
+    "examples": [
+      "Example of Prepositions Time usage."
+    ],
+    "tips": [
+      "Practice Prepositions Time daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct preposition: 'We will meet ___ noon.'",
+      "options": [
+        "at",
+        "in",
+        "on"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "Her appointment is ___ Tuesday.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe your weekly schedule using prepositions of time.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Prepositions of time are essential in American English for scheduling and expressing dates accurately.",
+  "hostAvatar": "professor-emma",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:24.817Z"
+}

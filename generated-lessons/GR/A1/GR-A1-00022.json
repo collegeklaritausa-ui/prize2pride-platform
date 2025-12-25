@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00022",
+  "title": "Master Past Passive Voice Usage",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Passive Voice Past",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Passive Voice Past at Beginner level",
+    "Apply Passive Voice Past in real conversations",
+    "Build confidence with Passive Voice Past",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Past passive",
+      "definition": "Passive form in the past tense.",
+      "example": "The movie was watched by many."
+    },
+    {
+      "word": "Simple past",
+      "definition": "Verb tense indicating completed actions.",
+      "example": "walked, cooked."
+    },
+    {
+      "word": "By phrase",
+      "definition": "Indicates the doer of the action.",
+      "example": "by the teacher."
+    },
+    {
+      "word": "Past participle",
+      "definition": "Verb form used with 'was' or 'were'.",
+      "example": "done, seen."
+    },
+    {
+      "word": "Passive construction",
+      "definition": "Sentence structure emphasizing the action's recipient.",
+      "example": "The cake was baked by Mom."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Passive Voice Past.",
+    "explanation": "In this lesson, you will learn about Passive Voice Past at the Beginner level.",
+    "examples": [
+      "Example of Passive Voice Past usage."
+    ],
+    "tips": [
+      "Practice Passive Voice Past daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Select the correct form: 'The report ____ prepared yesterday.'",
+      "options": [
+        "was",
+        "were",
+        "is"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "The movie ____ (release) last year.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Tell about a past event using passive voice.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "American news reports frequently utilize past passive to describe events objectively, emphasizing actions over actors.",
+  "hostAvatar": "tutor-lily",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:16.519Z"
+}

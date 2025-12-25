@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00017",
+  "title": "May for Permission and Possibility",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Modal Verbs May",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Modal Verbs May at Beginner level",
+    "Apply Modal Verbs May in real conversations",
+    "Build confidence with Modal Verbs May",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Permission",
+      "definition": "Approval to do something.",
+      "example": "May I leave early?"
+    },
+    {
+      "word": "Possibility",
+      "definition": "Something that might happen.",
+      "example": "It may snow today."
+    },
+    {
+      "word": "Formal",
+      "definition": "Official or proper.",
+      "example": "May I ask a question?"
+    },
+    {
+      "word": "Uncertain",
+      "definition": "Not definite or sure.",
+      "example": "She may come later."
+    },
+    {
+      "word": "Request",
+      "definition": "Asking for something politely.",
+      "example": "May I borrow your book?"
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Modal Verbs May.",
+    "explanation": "In this lesson, you will learn about Modal Verbs May at the Beginner level.",
+    "examples": [
+      "Example of Modal Verbs May usage."
+    ],
+    "tips": [
+      "Practice Modal Verbs May daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence is a polite request?",
+      "options": [
+        "Can I go?",
+        "May I go?",
+        "Should I go?"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "It ____ snow tomorrow. (Use 'may')",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Ask for permission using 'may' in a sentence.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Using 'may' in polite requests reflects American politeness and respect, especially in formal or professional settings.",
+  "hostAvatar": "instructor-james",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:07.738Z"
+}

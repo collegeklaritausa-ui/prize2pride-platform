@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00019",
+  "title": "Must for Necessity and Strong Advice",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Modal Verbs Must",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Modal Verbs Must at Beginner level",
+    "Apply Modal Verbs Must in real conversations",
+    "Build confidence with Modal Verbs Must",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "Necessity",
+      "definition": "Something that is needed.",
+      "example": "You must finish your homework."
+    },
+    {
+      "word": "Obligation",
+      "definition": "A duty or requirement.",
+      "example": "Employees must wear uniforms."
+    },
+    {
+      "word": "Strong advice",
+      "definition": "A firm suggestion.",
+      "example": "You must see this movie."
+    },
+    {
+      "word": "Mandatory",
+      "definition": "Required by rules.",
+      "example": "Masks are mandatory indoors."
+    },
+    {
+      "word": "Deduction",
+      "definition": "A conclusion based on evidence.",
+      "example": "He must be tired."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Modal Verbs Must.",
+    "explanation": "In this lesson, you will learn about Modal Verbs Must at the Beginner level.",
+    "examples": [
+      "Example of Modal Verbs Must usage."
+    ],
+    "tips": [
+      "Practice Modal Verbs Must daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence shows obligation?",
+      "options": [
+        "You should study.",
+        "You must study.",
+        "You can study."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "He ____ be tired, based on his yawn. (Use 'must')",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Make a sentence with 'must' to give strong advice.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Americans often use 'must' for rules or strong recommendations, especially in safety and health contexts.",
+  "hostAvatar": "coach-sophia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:07.738Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "GR-A1-00004",
+  "title": "Identify Past Continuous Actions",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Past Continuous",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Past Continuous at Beginner level",
+    "Apply Past Continuous in real conversations",
+    "Build confidence with Past Continuous",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "was reading",
+      "definition": "was engaged in reading",
+      "example": "I was reading when you called."
+    },
+    {
+      "word": "were playing",
+      "definition": "were engaged in playing",
+      "example": "They were playing football."
+    },
+    {
+      "word": "was working",
+      "definition": "was performing work",
+      "example": "She was working late."
+    },
+    {
+      "word": "was sleeping",
+      "definition": "was in sleep state",
+      "example": "He was sleeping during the storm."
+    },
+    {
+      "word": "were watching",
+      "definition": "were viewing something",
+      "example": "We were watching TV."
+    }
+  ],
+  "content": {
+    "introduction": "Past Continuous describes actions ongoing at a specific moment in the past. It uses was/were + verb-ing.",
+    "explanation": "Use 'was' with I, he, she, it; 'were' with you, we, they. It shows background actions or interrupted events. Remember to add -ing to the verb.",
+    "examples": [
+      "I was reading when you arrived.",
+      "They were playing outside yesterday.",
+      "She was working all afternoon."
+    ],
+    "tips": [
+      "Use with 'when' or 'while' for two actions happening simultaneously.",
+      "Focus on the background action in storytelling."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Which sentence is Past Continuous?",
+      "options": [
+        "He was cooking.",
+        "She has cooked.",
+        "They will cook.",
+        "I cooked yesterday."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "We ____ (study) when the power went out.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe what you were doing yesterday at 3 PM.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Past Continuous is often used in American storytelling to set scenes or describe ongoing past actions.",
+  "hostAvatar": "tutor-lily",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:40.174Z"
+}

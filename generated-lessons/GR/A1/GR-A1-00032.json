@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00032",
+  "title": "Prepositions of Movement: Moving Around",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Prepositions Movement",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Prepositions Movement at Beginner level",
+    "Apply Prepositions Movement in real conversations",
+    "Build confidence with Prepositions Movement",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "to",
+      "definition": "Indicates movement toward a destination. Example: I go to school.",
+      "example": ""
+    },
+    {
+      "word": "into",
+      "definition": "Entering inside. Example: She walked into the room.",
+      "example": ""
+    },
+    {
+      "word": "onto",
+      "definition": "Moving to a surface. Example: The bird flew onto the branch.",
+      "example": ""
+    },
+    {
+      "word": "out of",
+      "definition": "Moving from inside to outside. Example: He ran out of the house.",
+      "example": ""
+    },
+    {
+      "word": "toward",
+      "definition": "In the direction of. Example: He is walking toward the park.",
+      "example": ""
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Prepositions Movement.",
+    "explanation": "In this lesson, you will learn about Prepositions Movement at the Beginner level.",
+    "examples": [
+      "Example of Prepositions Movement usage."
+    ],
+    "tips": [
+      "Practice Prepositions Movement daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "He is walking ____ the door.",
+      "options": [
+        "into",
+        "onto",
+        "out of"
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "The cat jumped ____ the box.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe how you go from your house to school.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Understanding movement prepositions helps in giving directions, an important skill in American culture for navigation and instruction.",
+  "hostAvatar": "mentor-olivia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:35:33.885Z"
+}

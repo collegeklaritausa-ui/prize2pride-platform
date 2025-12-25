@@ -1,0 +1,86 @@
+{
+  "id": "GR-A1-00013",
+  "title": "Third Conditionals for Past Regrets",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Conditionals Third",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Conditionals Third at Beginner level",
+    "Apply Conditionals Third in real conversations",
+    "Build confidence with Conditionals Third",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "if",
+      "definition": "introducing a past hypothetical",
+      "example": "If I had studied, I would have passed."
+    },
+    {
+      "word": "had",
+      "definition": "past perfect tense",
+      "example": "She had left before I arrived."
+    },
+    {
+      "word": "would have",
+      "definition": "used for past hypothetical results",
+      "example": "They would have come if invited."
+    },
+    {
+      "word": "regret",
+      "definition": "feeling sorry about past actions",
+      "example": "I regret not going to the party."
+    },
+    {
+      "word": "past perfect",
+      "definition": "verb tense for actions before another past event",
+      "example": "He had finished the work."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Conditionals Third.",
+    "explanation": "In this lesson, you will learn about Conditionals Third at the Beginner level.",
+    "examples": [
+      "Example of Conditionals Third usage."
+    ],
+    "tips": [
+      "Practice Conditionals Third daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence: a) If I had seen her, I would have spoken. b) If I saw her, I would have spoken.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "If he ____ (know) about the meeting, he would have attended.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Talk about something you wish you had done last year.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Third conditionals are used in American English to express regret or reflect on past mistakes and missed opportunities.",
+  "hostAvatar": "coach-sophia",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:58.717Z"
+}

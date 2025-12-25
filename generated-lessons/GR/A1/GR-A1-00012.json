@@ -1,0 +1,86 @@
+{
+  "id": "GR-A1-00012",
+  "title": "Second Conditionals for Hypothetical Situations",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Conditionals Second",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Conditionals Second at Beginner level",
+    "Apply Conditionals Second in real conversations",
+    "Build confidence with Conditionals Second",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "if",
+      "definition": "introduces a hypothetical condition",
+      "example": "If I were rich, I would travel the world."
+    },
+    {
+      "word": "would",
+      "definition": "indicates a hypothetical result",
+      "example": "I would buy a house."
+    },
+    {
+      "word": "past simple",
+      "definition": "verb tense for past actions",
+      "example": "She went to the store."
+    },
+    {
+      "word": "hypothetical",
+      "definition": "not real, imagined",
+      "example": "If I had a million dollars..."
+    },
+    {
+      "word": "imagine",
+      "definition": "to think of something not real",
+      "example": "Imagine you could fly."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Conditionals Second.",
+    "explanation": "In this lesson, you will learn about Conditionals Second at the Beginner level.",
+    "examples": [
+      "Example of Conditionals Second usage."
+    ],
+    "tips": [
+      "Practice Conditionals Second daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence: a) If I was you, I would apologize. b) If I were you, I would apologize.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "If she ____ (have) more time, she would travel.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a situation you would do if you were famous.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Second conditionals are often used in American English for expressing wishes, dreams, or regrets about the present or future.",
+  "hostAvatar": "professor-emma",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:58.717Z"
+}

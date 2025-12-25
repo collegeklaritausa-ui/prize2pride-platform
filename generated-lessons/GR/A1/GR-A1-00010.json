@@ -1,0 +1,91 @@
+{
+  "id": "GR-A1-00010",
+  "title": "Conditionals Zero: Facts and Truths",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Conditionals Zero",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Conditionals Zero at Beginner level",
+    "Apply Conditionals Zero in real conversations",
+    "Build confidence with Conditionals Zero",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "if",
+      "definition": "Condition introducing word",
+      "example": "If it rains, the ground gets wet."
+    },
+    {
+      "word": "present",
+      "definition": "Current time",
+      "example": "The present tense."
+    },
+    {
+      "word": "truth",
+      "definition": "Fact or reality",
+      "example": "Water boils at 100°C."
+    },
+    {
+      "word": "always",
+      "definition": "At all times",
+      "example": "She always drinks coffee."
+    },
+    {
+      "word": "fact",
+      "definition": "Something true",
+      "example": "The sun rises in the east."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Conditionals Zero.",
+    "explanation": "In this lesson, you will learn about Conditionals Zero at the Beginner level.",
+    "examples": [
+      "Example of Conditionals Zero usage."
+    ],
+    "tips": [
+      "Practice Conditionals Zero daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct zero conditional sentence:",
+      "options": [
+        "If you heat water, it boils.",
+        "If you will heat water, it boils.",
+        "If you heat water, it will boil."
+      ],
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "If you ____ (study), you learn more.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a fact or routine you follow every day.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "Zero Conditional is frequently used in American education and safety instructions to state facts and rules clearly.",
+  "hostAvatar": "tutor-lily",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:49.761Z"
+}

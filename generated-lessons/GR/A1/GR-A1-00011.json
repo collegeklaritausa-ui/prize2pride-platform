@@ -1,0 +1,86 @@
+{
+  "id": "GR-A1-00011",
+  "title": "Mastering First Conditionals for Real Situations",
+  "category": {
+    "code": "GR",
+    "name": "Grammar Foundations",
+    "icon": "📚"
+  },
+  "topic": "Conditionals First",
+  "level": {
+    "code": "A1",
+    "name": "Beginner"
+  },
+  "objectives": [
+    "Understand Conditionals First at Beginner level",
+    "Apply Conditionals First in real conversations",
+    "Build confidence with Conditionals First",
+    "Master common patterns",
+    "Achieve fluency in usage"
+  ],
+  "vocabulary": [
+    {
+      "word": "if",
+      "definition": "used to introduce a condition",
+      "example": "If it rains, we will stay inside."
+    },
+    {
+      "word": "will",
+      "definition": "expresses future intent",
+      "example": "I will call you tomorrow."
+    },
+    {
+      "word": "present simple",
+      "definition": "verb tense for habits or facts",
+      "example": "She works every day."
+    },
+    {
+      "word": "possible",
+      "definition": "likely to happen",
+      "example": "It's possible it will snow."
+    },
+    {
+      "word": "condition",
+      "definition": "a situation that must be true",
+      "example": "If you study, you will pass."
+    }
+  ],
+  "content": {
+    "introduction": "Welcome to this lesson on Conditionals First.",
+    "explanation": "In this lesson, you will learn about Conditionals First at the Beginner level.",
+    "examples": [
+      "Example of Conditionals First usage."
+    ],
+    "tips": [
+      "Practice Conditionals First daily for best results."
+    ]
+  },
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence: a) If it rains, I will stay home. b) If it rains, I stay home.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 10
+    },
+    {
+      "type": "fill_blank",
+      "question": "If she ____ (be) tired, she will rest.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 15
+    },
+    {
+      "type": "speaking",
+      "question": "Describe a plan you will do if it is sunny tomorrow.",
+      "correctAnswer": "",
+      "explanation": "",
+      "xpReward": 20
+    }
+  ],
+  "culturalNote": "First conditionals are common in American English for making plans, giving advice, and expressing future possibilities.",
+  "hostAvatar": "instructor-james",
+  "estimatedMinutes": 10,
+  "xpReward": 50,
+  "createdAt": "2025-12-25T02:34:58.717Z"
+}
