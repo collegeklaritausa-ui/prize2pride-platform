@@ -1,0 +1,422 @@
+# Prize2Pride Platform - Kubernetes Deployment Manifests
+# For Manus Managed Kubernetes Service
+
+---
+# Namespace
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: prize2pride
+  labels:
+    app: prize2pride
+    environment: production
+
+---
+# ConfigMap for Application Configuration
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: prize2pride-config
+  namespace: prize2pride
+data:
+  NODE_ENV: "production"
+  LOG_LEVEL: "info"
+  VITE_API_URL: "https://api.prize2pride.com"
+  VITE_APP_URL: "https://prize2pride.com"
+  DATABASE_POOL_SIZE: "20"
+  CACHE_TTL: "3600"
+  FEATURE_SPEECH_RECOGNITION: "true"
+  FEATURE_VIDEO_LESSONS: "true"
+  FEATURE_MOBILE_APP: "true"
+
+---
+# Secret for Sensitive Data (referenced from Manus Vault)
+apiVersion: v1
+kind: Secret
+metadata:
+  name: prize2pride-secrets
+  namespace: prize2pride
+type: Opaque
+stringData:
+  DATABASE_URL: "mysql://user:password@tidb.manus-cloud.internal:3306/prize2pride?ssl=true"
+  JWT_SECRET: "${MANUS_VAULT_JWT_SECRET}"
+  SESSION_SECRET: "${MANUS_VAULT_SESSION_SECRET}"
+  OPENAI_API_KEY: "${MANUS_VAULT_OPENAI_API_KEY}"
+  S3_ACCESS_KEY_ID: "${MANUS_VAULT_S3_ACCESS_KEY}"
+  S3_SECRET_ACCESS_KEY: "${MANUS_VAULT_S3_SECRET_KEY}"
+
+---
+# Backend Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: prize2pride-backend
+  namespace: prize2pride
+  labels:
+    app: prize2pride
+    component: backend
+spec:
+  replicas: 3
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  selector:
+    matchLabels:
+      app: prize2pride
+      component: backend
+  template:
+    metadata:
+      labels:
+        app: prize2pride
+        component: backend
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port: "9090"
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - prize2pride
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: backend
+          image: registry.manus-cloud.internal/prize2pride/backend:3.0.0
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 3000
+              protocol: TCP
+            - name: metrics
+              containerPort: 9090
+              protocol: TCP
+          envFrom:
+            - configMapRef:
+                name: prize2pride-config
+            - secretRef:
+                name: prize2pride-secrets
+          resources:
+            requests:
+              cpu: 500m
+              memory: 512Mi
+            limits:
+              cpu: 1000m
+              memory: 1Gi
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: http
+            initialDelaySeconds: 15
+            periodSeconds: 20
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: http
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 2
+          securityContext:
+            runAsNonRoot: true
+            runAsUser: 1001
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop:
+                - ALL
+          volumeMounts:
+            - name: tmp
+              mountPath: /tmp
+      volumes:
+        - name: tmp
+          emptyDir: {}
+      securityContext:
+        fsGroup: 1001
+      serviceAccountName: prize2pride-backend
+
+---
+# Backend Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: prize2pride-backend
+  namespace: prize2pride
+  labels:
+    app: prize2pride
+    component: backend
+spec:
+  type: ClusterIP
+  selector:
+    app: prize2pride
+    component: backend
+  ports:
+    - name: http
+      port: 80
+      targetPort: 3000
+      protocol: TCP
+    - name: metrics
+      port: 9090
+      targetPort: 9090
+      protocol: TCP
+
+---
+# Frontend Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: prize2pride-frontend
+  namespace: prize2pride
+  labels:
+    app: prize2pride
+    component: frontend
+spec:
+  replicas: 3
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  selector:
+    matchLabels:
+      app: prize2pride
+      component: frontend
+  template:
+    metadata:
+      labels:
+        app: prize2pride
+        component: frontend
+    spec:
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - prize2pride
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: frontend
+          image: registry.manus-cloud.internal/prize2pride/frontend:3.0.0
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 80
+              protocol: TCP
+          resources:
+            requests:
+              cpu: 250m
+              memory: 256Mi
+            limits:
+              cpu: 500m
+              memory: 512Mi
+          livenessProbe:
+            httpGet:
+              path: /
+              port: http
+            initialDelaySeconds: 10
+            periodSeconds: 20
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /
+              port: http
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 2
+          securityContext:
+            runAsNonRoot: true
+            runAsUser: 101
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop:
+                - ALL
+          volumeMounts:
+            - name: cache
+              mountPath: /var/cache/nginx
+            - name: run
+              mountPath: /var/run
+      volumes:
+        - name: cache
+          emptyDir: {}
+        - name: run
+          emptyDir: {}
+      securityContext:
+        fsGroup: 101
+
+---
+# Frontend Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: prize2pride-frontend
+  namespace: prize2pride
+  labels:
+    app: prize2pride
+    component: frontend
+spec:
+  type: ClusterIP
+  selector:
+    app: prize2pride
+    component: frontend
+  ports:
+    - name: http
+      port: 80
+      targetPort: 80
+      protocol: TCP
+
+---
+# Ingress for External Access
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: prize2pride-ingress
+  namespace: prize2pride
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/rate-limit: "100"
+    nginx.ingress.kubernetes.io/proxy-body-size: "50m"
+spec:
+  ingressClassName: nginx
+  tls:
+    - hosts:
+        - prize2pride.com
+        - www.prize2pride.com
+        - api.prize2pride.com
+      secretName: prize2pride-tls
+  rules:
+    - host: prize2pride.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: prize2pride-frontend
+                port:
+                  number: 80
+    - host: www.prize2pride.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: prize2pride-frontend
+                port:
+                  number: 80
+    - host: api.prize2pride.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: prize2pride-backend
+                port:
+                  number: 80
+
+---
+# Horizontal Pod Autoscaler for Backend
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: prize2pride-backend-hpa
+  namespace: prize2pride
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: prize2pride-backend
+  minReplicas: 3
+  maxReplicas: 10
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type: Utilization
+          averageUtilization: 80
+
+---
+# Horizontal Pod Autoscaler for Frontend
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: prize2pride-frontend-hpa
+  namespace: prize2pride
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: prize2pride-frontend
+  minReplicas: 3
+  maxReplicas: 10
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70
+
+---
+# ServiceAccount for Backend
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: prize2pride-backend
+  namespace: prize2pride
+
+---
+# NetworkPolicy for Security
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: prize2pride-network-policy
+  namespace: prize2pride
+spec:
+  podSelector:
+    matchLabels:
+      app: prize2pride
+  policyTypes:
+    - Ingress
+    - Egress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              name: ingress-nginx
+  egress:
+    - to:
+        - namespaceSelector: {}
+      ports:
+        - protocol: TCP
+          port: 443
+        - protocol: TCP
+          port: 3306
+        - protocol: TCP
+          port: 6379
