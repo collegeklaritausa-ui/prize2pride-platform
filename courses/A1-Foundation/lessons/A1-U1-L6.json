@@ -1,0 +1,535 @@
+{
+  "id": "A1-U1-L6",
+  "unitNumber": 1,
+  "lessonNumber": 6,
+  "level": "A1",
+  "title": "Colors Around Us: Speak and See America in Color!",
+  "subtitle": "Basic Colors and Color Phrases for Everyday American English",
+  "duration": 60,
+  "overview": {
+    "description": "This lesson introduces basic color vocabulary and simple phrases using colors in American English. Learners will recognize, say, and use colors in common contexts, building confidence to describe objects and surroundings.",
+    "objectives": [
+      "Identify and pronounce 8 basic color words correctly in American English.",
+      "Use simple sentences to describe colors of common objects.",
+      "Understand and respond to simple color-related questions.",
+      "Apply color vocabulary in practical, everyday situations.",
+      "Recognize cultural references to colors in American contexts."
+    ],
+    "prerequisites": [
+      "Basic English alphabet knowledge",
+      "Familiarity with simple nouns (e.g., objects, clothing)",
+      "Basic greetings and introductions"
+    ],
+    "keySkills": [
+      "Vocabulary building",
+      "Pronunciation and listening",
+      "Basic sentence formation",
+      "Speaking and comprehension"
+    ]
+  },
+  "warmUp": {
+    "title": "Color Hunt",
+    "activity": "Students quickly find objects around them or in pictures that match color words spoken by the teacher.",
+    "duration": 5,
+    "instructions": [
+      "Teacher says a color word aloud.",
+      "Students look around the room or at pictures to spot an object of that color.",
+      "Students say the object name and color aloud, e.g., 'Red apple.'",
+      "Repeat with different colors to energize the class."
+    ]
+  },
+  "presentation": {
+    "introduction": "Colors are everywhere in America—from the bright red of a fire truck to the blue of the sky. Knowing color words helps you describe things and communicate clearly. Today, we’ll learn the names of common colors and how to use them in simple sentences.",
+    "mainContent": [
+      {
+        "section": "Basic Color Vocabulary",
+        "content": "We will learn eight basic colors: red, blue, yellow, green, black, white, orange, and pink. Each color has a special pronunciation in American English. Practice saying each clearly.",
+        "examples": [
+          {
+            "sentence": "The apple is red.",
+            "explanation": "Simple subject + verb + color adjective + noun structure."
+          },
+          {
+            "sentence": "I have a blue shirt.",
+            "explanation": "Uses color to describe clothing, common in everyday speech."
+          }
+        ],
+        "tips": [
+          "Listen carefully to American pronunciation of colors; for example, 'orange' ends with a soft 'j' sound.",
+          "Use colors to describe objects you see daily to remember words better.",
+          "Colors often come before nouns in English sentences."
+        ]
+      },
+      {
+        "section": "Using Colors in Questions and Answers",
+        "content": "Learn how to ask and answer questions about color using 'What color is...?' and 'It is...'.",
+        "examples": [
+          {
+            "sentence": "What color is the car?",
+            "explanation": "Standard question format for asking about color."
+          },
+          {
+            "sentence": "It is white.",
+            "explanation": "Simple answer using the pronoun 'It' and the color adjective."
+          }
+        ],
+        "tips": [
+          "Remember to use 'is' for singular objects.",
+          "Practice asking about colors you see in American settings, like flags or sports team gear."
+        ]
+      }
+    ],
+    "visualAids": [
+      "Color flashcards with color name and a matching colored object (e.g., red apple)",
+      "Photos of American cultural items showing colors (e.g., red fire truck, green park, blue jeans)",
+      "Simple charts showing color words with pronunciation guides"
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "red",
+      "pronunciation": "/rɛd/",
+      "partOfSpeech": "adjective",
+      "definition": "The color of blood or ripe strawberries.",
+      "example": "The stop sign is red.",
+      "collocations": [
+        "red apple",
+        "red shirt",
+        "red light"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "green",
+        "blue"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "blue",
+      "pronunciation": "/bluː/",
+      "partOfSpeech": "adjective",
+      "definition": "The color of the sky on a clear day.",
+      "example": "She is wearing a blue jacket.",
+      "collocations": [
+        "blue sky",
+        "blue jeans",
+        "blue eyes"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "red",
+        "yellow"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "yellow",
+      "pronunciation": "/ˈjɛloʊ/",
+      "partOfSpeech": "adjective",
+      "definition": "The color of a banana or the sun.",
+      "example": "The school bus is yellow.",
+      "collocations": [
+        "yellow flower",
+        "yellow bus",
+        "yellow light"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "blue",
+        "black"
+      ],
+      "register": "neutral",
+      "frequency": "medium"
+    },
+    {
+      "word": "green",
+      "pronunciation": "/ɡrin/",
+      "partOfSpeech": "adjective",
+      "definition": "The color of grass or leaves.",
+      "example": "The park has green trees.",
+      "collocations": [
+        "green grass",
+        "green light",
+        "green shirt"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "red",
+        "brown"
+      ],
+      "register": "neutral",
+      "frequency": "medium"
+    },
+    {
+      "word": "black",
+      "pronunciation": "/blæk/",
+      "partOfSpeech": "adjective",
+      "definition": "The darkest color, like the night sky without stars.",
+      "example": "He has a black dog.",
+      "collocations": [
+        "black shoes",
+        "black car",
+        "black coffee"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "white"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "white",
+      "pronunciation": "/waɪt/",
+      "partOfSpeech": "adjective",
+      "definition": "The color of snow or milk.",
+      "example": "The walls are white.",
+      "collocations": [
+        "white shirt",
+        "white snow",
+        "white house"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "black"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "orange",
+      "pronunciation": "/ˈɔːrɪndʒ/",
+      "partOfSpeech": "adjective",
+      "definition": "The color of the fruit called an orange.",
+      "example": "She has an orange backpack.",
+      "collocations": [
+        "orange juice",
+        "orange pumpkin",
+        "orange traffic cone"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "blue",
+        "green"
+      ],
+      "register": "neutral",
+      "frequency": "medium"
+    },
+    {
+      "word": "pink",
+      "pronunciation": "/pɪŋk/",
+      "partOfSpeech": "adjective",
+      "definition": "A light red color, often associated with flowers or clothing.",
+      "example": "He bought a pink shirt.",
+      "collocations": [
+        "pink flower",
+        "pink dress",
+        "pink balloon"
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "blue",
+        "green"
+      ],
+      "register": "neutral",
+      "frequency": "medium"
+    }
+  ],
+  "grammar": {
+    "focus": "Using Colors as Adjectives",
+    "explanation": "Colors in English are adjectives and usually come before the noun they describe. They do not change form for singular or plural nouns.",
+    "formula": "Subject + verb + color adjective + noun (e.g., The car is red.)",
+    "examples": [
+      {
+        "correct": "The shirt is blue.",
+        "incorrect": "The shirt is blues.",
+        "explanation": "Colors as adjectives do not have plural forms."
+      },
+      {
+        "correct": "I see a green tree.",
+        "incorrect": "I see a greenly tree.",
+        "explanation": "Colors are adjectives, not adverbs; do not add '-ly'."
+      }
+    ],
+    "exceptions": [
+      "When colors are used as nouns (e.g., 'Blue is my favorite color'), they can be singular."
+    ],
+    "practice": [
+      "The ball is ___. (Fill with correct color)",
+      "She has a ___ car.",
+      "What color is your ___?"
+    ]
+  },
+  "practice": {
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "instructions": "Choose the correct color word to complete the sentence.",
+        "questions": [
+          {
+            "question": "The American flag has the colors red, white, and ___.",
+            "options": [
+              "green",
+              "blue",
+              "pink",
+              "orange"
+            ],
+            "answer": "blue",
+            "explanation": "The US flag colors are red, white, and blue."
+          },
+          {
+            "question": "A school bus in America is usually ___.",
+            "options": [
+              "yellow",
+              "black",
+              "red",
+              "white"
+            ],
+            "answer": "yellow",
+            "explanation": "School buses are commonly yellow in the US."
+          },
+          {
+            "question": "The grass in a park is ___.",
+            "options": [
+              "blue",
+              "green",
+              "pink",
+              "orange"
+            ],
+            "answer": "green",
+            "explanation": "Grass is green."
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "type": "fill_blank",
+        "instructions": "Fill in the blank with the correct color word.",
+        "questions": [
+          {
+            "question": "The fire truck is ___.",
+            "answer": "red",
+            "explanation": "Fire trucks are usually red."
+          },
+          {
+            "question": "The snow is ___.",
+            "answer": "white",
+            "explanation": "Snow is white."
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "type": "matching",
+        "instructions": "Match the color word to the correct object.",
+        "questions": [
+          {
+            "question": "Match 'blue' to:",
+            "options": [
+              "Sky",
+              "Banana",
+              "Pumpkin",
+              "Apple"
+            ],
+            "answer": "Sky",
+            "explanation": "The sky is blue."
+          },
+          {
+            "question": "Match 'orange' to:",
+            "options": [
+              "Grass",
+              "Pumpkin",
+              "Cloud",
+              "Car"
+            ],
+            "answer": "Pumpkin",
+            "explanation": "Pumpkins are orange."
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "type": "multiple_choice",
+        "instructions": "Choose the correct sentence.",
+        "questions": [
+          {
+            "question": "Which sentence is correct?",
+            "options": [
+              "The flowers are pink.",
+              "The flowers is pink.",
+              "The flowers are pinks.",
+              "The flowers pink are."
+            ],
+            "answer": "The flowers are pink.",
+            "explanation": "Subject-verb agreement and correct adjective use."
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "type": "fill_blank",
+        "instructions": "Answer the question with a complete sentence.",
+        "questions": [
+          {
+            "question": "What color is the American flag?",
+            "answer": "It is red, white, and blue.",
+            "explanation": "Use colors to answer the question correctly."
+          }
+        ],
+        "difficulty": "medium"
+      }
+    ],
+    "interactiveActivities": [
+      {
+        "name": "Color Role-Play",
+        "type": "role-play",
+        "description": "Students practice asking and answering questions about colors using everyday American objects.",
+        "steps": [
+          "Pair up students.",
+          "Student A asks: 'What color is your hat?'",
+          "Student B answers using a color word, e.g., 'It is black.'",
+          "Switch roles and repeat with different objects.",
+          "Use real or picture objects typical in American culture (e.g., baseball cap, basketball)."
+        ],
+        "materials": [
+          "Pictures or real objects of common American items",
+          "Color flashcards"
+        ]
+      },
+      {
+        "name": "American Colors Bingo",
+        "type": "game",
+        "description": "Students listen to color words and mark matching colors on their bingo cards.",
+        "steps": [
+          "Distribute bingo cards with color names or colored squares.",
+          "Teacher calls out colors randomly.",
+          "Students mark the color if they have it.",
+          "First to get a line shouts 'Bingo!' and practices saying the colors aloud."
+        ],
+        "materials": [
+          "Bingo cards with colors",
+          "Markers or pencils"
+        ]
+      }
+    ]
+  },
+  "production": {
+    "speakingTask": {
+      "title": "Describe Your Favorite Object",
+      "description": "Students describe the color of their favorite object using simple sentences.",
+      "prompts": [
+        "What color is your favorite shirt?",
+        "What color is your backpack?",
+        "Describe the color of an American flag."
+      ],
+      "evaluationCriteria": [
+        "Correct pronunciation of color words.",
+        "Use of simple sentences with correct word order.",
+        "Confidence and clarity in speaking."
+      ]
+    },
+    "writingTask": {
+      "title": "My Colorful Day",
+      "description": "Students write 50-100 words describing the colors they see during a day in an American city or town.",
+      "prompt": "Write about at least 5 things you see and their colors.",
+      "wordCount": {
+        "min": 50,
+        "max": 100
+      },
+      "evaluationCriteria": [
+        "Use of at least 5 color words correctly.",
+        "Simple sentence structure.",
+        "Spelling and punctuation."
+      ]
+    }
+  },
+  "review": {
+    "keyPoints": [
+      "Colors are adjectives and come before nouns.",
+      "Basic American English color words include red, blue, yellow, green, black, white, orange, and pink.",
+      "Ask questions using 'What color is...?' and answer with 'It is...'.",
+      "Colors do not change for singular or plural nouns.",
+      "Colors are important for describing everyday objects and cultural items in America."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Using plural form for colors (e.g., 'reds' instead of 'red')",
+        "correction": "Use 'red' as an adjective without plural form.",
+        "explanation": "Colors as adjectives do not have plural forms."
+      },
+      {
+        "mistake": "Putting colors after nouns (e.g., 'shirt blue')",
+        "correction": "Place colors before nouns (e.g., 'blue shirt').",
+        "explanation": "Adjectives in English come before the noun they describe."
+      },
+      {
+        "mistake": "Adding '-ly' to colors (e.g., 'greenly')",
+        "correction": "Use the color adjective without '-ly'.",
+        "explanation": "Colors are adjectives, not adverbs."
+      }
+    ],
+    "selfAssessment": [
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "The car is red.",
+          "The car red is.",
+          "The car are red.",
+          "The car is reds."
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What color is the American flag? (Choose the best answer)",
+        "options": [
+          "It is red, white, and blue.",
+          "It is green and pink.",
+          "It is orange.",
+          "It is yellow and black."
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  "extension": {
+    "additionalResources": [
+      {
+        "title": "Colors in American English",
+        "type": "video",
+        "description": "A fun animated video teaching color words and their pronunciation in American English."
+      },
+      {
+        "title": "American Flag Colors Explained",
+        "type": "article",
+        "description": "A short article about the meaning of colors in the American flag."
+      },
+      {
+        "title": "Color Flashcard App",
+        "type": "app",
+        "description": "An interactive app for practicing color words and matching objects."
+      }
+    ],
+    "challengeActivities": [
+      "Create a color diary for a week, noting colors seen in American settings.",
+      "Describe famous American landmarks using color vocabulary.",
+      "Watch an American movie or TV show and list all colors you notice."
+    ],
+    "realWorldApplication": "Use color words to shop, describe clothes, or give directions in the US. For example, 'I want the red jacket' or 'Turn left at the yellow building.' This helps in daily life and cultural integration.",
+    "culturalNotes": "In America, colors often have cultural meanings: red can mean stop or danger, green means go or nature, and blue is a common color for sports teams and police uniforms. Understanding these helps in communication and cultural awareness."
+  },
+  "metadata": {
+    "avatarId": "tutor-lily",
+    "category": "Hello, America!",
+    "tags": [
+      "A1",
+      "Colors",
+      "Hello, America!"
+    ],
+    "xpReward": 50,
+    "estimatedCompletionTime": 60,
+    "createdAt": "2025-12-26T19:58:39.561Z",
+    "version": "2.0"
+  }
+}

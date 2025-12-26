@@ -1,0 +1,143 @@
+{
+  "id": "A1-U3-L4",
+  "unitNumber": 3,
+  "lessonNumber": 4,
+  "level": "A1",
+  "title": "Abilities",
+  "subtitle": "Unit 3: About Me",
+  "duration": 60,
+  "overview": {
+    "description": "This lesson covers Abilities at the A1 level, helping you build essential American English skills.",
+    "objectives": [
+      "Understand key concepts of Abilities",
+      "Apply Abilities in practical situations",
+      "Build confidence using Abilities in conversation",
+      "Recognize common patterns and expressions",
+      "Practice through interactive exercises"
+    ],
+    "prerequisites": [
+      "Completion of previous lessons",
+      "Basic understanding of prior concepts"
+    ],
+    "keySkills": [
+      "Listening",
+      "Speaking",
+      "Reading",
+      "Writing"
+    ]
+  },
+  "warmUp": {
+    "title": "Quick Activation",
+    "activity": "Think about your experience with Abilities",
+    "duration": 5,
+    "instructions": [
+      "Take a moment to recall related vocabulary",
+      "Think of situations where you might use this",
+      "Prepare questions you have about the topic"
+    ]
+  },
+  "presentation": {
+    "introduction": "Welcome to this lesson on Abilities. By the end of this session, you will have a solid understanding of how to use these concepts in real American English conversations.",
+    "mainContent": [
+      {
+        "section": "Core Concepts",
+        "content": "Let's explore the fundamental aspects of Abilities in American English.",
+        "examples": [
+          {
+            "sentence": "Example sentence demonstrating the concept.",
+            "explanation": "This shows how native speakers use this in everyday conversation."
+          }
+        ],
+        "tips": [
+          "Practice regularly",
+          "Listen to native speakers",
+          "Don't be afraid to make mistakes"
+        ]
+      }
+    ],
+    "visualAids": [
+      "Diagrams showing key relationships",
+      "Charts comparing usage patterns"
+    ]
+  },
+  "vocabulary": [],
+  "grammar": null,
+  "practice": {
+    "exercises": [],
+    "interactiveActivities": [
+      {
+        "name": "Partner Practice",
+        "type": "role-play",
+        "description": "Practice using Abilities with a partner",
+        "steps": [
+          "Review the key expressions",
+          "Take turns practicing",
+          "Give each other feedback"
+        ],
+        "materials": [
+          "Lesson vocabulary list",
+          "Practice prompts"
+        ]
+      }
+    ]
+  },
+  "production": {
+    "speakingTask": {
+      "title": "Real-World Speaking",
+      "description": "Use Abilities in a realistic scenario",
+      "prompts": [
+        "Describe a situation using the lesson vocabulary",
+        "Explain your thoughts on the topic"
+      ],
+      "evaluationCriteria": [
+        "Accuracy",
+        "Fluency",
+        "Appropriate vocabulary use"
+      ]
+    },
+    "writingTask": {
+      "title": "Written Expression",
+      "description": "Write about Abilities",
+      "prompt": "Write a short paragraph using the vocabulary and concepts from this lesson.",
+      "wordCount": {
+        "min": 50,
+        "max": 150
+      },
+      "evaluationCriteria": [
+        "Grammar accuracy",
+        "Vocabulary usage",
+        "Coherence"
+      ]
+    }
+  },
+  "review": {
+    "keyPoints": [
+      "Key concept 1 about Abilities",
+      "Key concept 2 about Abilities",
+      "Key concept 3 about Abilities"
+    ],
+    "commonMistakes": [],
+    "selfAssessment": []
+  },
+  "extension": {
+    "additionalResources": [],
+    "challengeActivities": [
+      "Advanced practice with native content"
+    ],
+    "realWorldApplication": "Use these skills in everyday American English conversations.",
+    "culturalNotes": "Understanding Abilities is important for effective communication in American culture."
+  },
+  "metadata": {
+    "avatarId": "tutor-lily",
+    "category": "About Me",
+    "tags": [
+      "A1",
+      "Abilities",
+      "About Me"
+    ],
+    "xpReward": 50,
+    "estimatedCompletionTime": 60,
+    "createdAt": "2025-12-26T20:10:04.582Z",
+    "version": "2.0"
+  }
+}

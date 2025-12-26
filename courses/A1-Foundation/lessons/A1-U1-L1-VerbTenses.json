@@ -1,0 +1,132 @@
+{
+  "id": "A1-U1-L1-VerbTenses",
+  "level": "A1",
+  "unitNumber": 1,
+  "lessonNumber": 1,
+  "title": "Mastering Verb Tenses: The Path to American English Fluency",
+  "subtitle": "Unit 1: Hello, America!",
+  "duration": 60,
+  "xpReward": 100,
+  "avatarId": "nova",
+  "category": "grammar",
+  "objectives": [
+    "<b>Identify and distinguish</b> between all major verb tenses in American English.",
+    "<b>Correctly conjugate verbs</b> in simple, continuous, perfect, and perfect continuous tenses.",
+    "<b>Apply appropriate verb tenses</b> in different contexts to express accurate time frames.",
+    "<b>Recognize common errors</b> in tense usage and learn how to avoid them.",
+    "<b>Enhance fluency and confidence</b> in speaking and writing."
+  ],
+  "objectivesArabic": "تحديد جميع أزمنة الأفعال في الإنجليزية الأمريكية والتمييز بينها، واستخدامها بشكل صحيح في الكلام والكتابة لزيادة الطلاقة والثقة.",
+  "content": "<h2 style=\"color:#2c3e50;\">🎓 Mastering Verb Tenses: The Path to American English Fluency</h2>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">📘 Core Content</h3>\n\n<p style=\"color:#8b0000;\">\n<b>Explanation:</b> In American English, mastering verb tenses is essential for clear and precise communication.\nEnglish has <b>twelve primary verb tenses</b>, divided into four main groups.\n</p>\n\n<p style=\"color:#154360;\">\n<b>الشرح بالعربية:</b><br>\nإتقان أزمنة الأفعال في الإنجليزية الأمريكية ضروري للتواصل الواضح والدقيق.\nتحتوي اللغة الإنجليزية على <b>12 زمناً أساسياً</b> مقسمة إلى أربع مجموعات.\n</p>\n\n<hr>\n\n<h3 style=\"color:#2874a6;\">🕒 1. Present Tenses (الحاضر)</h3>\n<ul>\n  <li><b>Simple Present:</b> <i>I work</i>  \n  <span style=\"color:#154360;\">– أنا أعمل</span></li>\n\n  <li><b>Present Continuous:</b> <i>I am working</i>  \n  <span style=\"color:#154360;\">– أنا أعمل الآن</span></li>\n\n  <li><b>Present Perfect:</b> <i>I have worked</i>  \n  <span style=\"color:#154360;\">– لقد عملت</span></li>\n\n  <li><b>Present Perfect Continuous:</b> <i>I have been working</i>  \n  <span style=\"color:#154360;\">– كنت أعمل وما زلت</span></li>\n</ul>\n\n<hr>\n\n<h3 style=\"color:#2874a6;\">⏳ 2. Past Tenses (الماضي)</h3>\n<ul>\n  <li><b>Simple Past:</b> <i>I worked</i>  \n  <span style=\"color:#154360;\">– عملت</span></li>\n\n  <li><b>Past Continuous:</b> <i>I was working</i>  \n  <span style=\"color:#154360;\">– كنت أعمل</span></li>\n\n  <li><b>Past Perfect:</b> <i>I had worked</i>  \n  <span style=\"color:#154360;\">– كنت قد عملت</span></li>\n\n  <li><b>Past Perfect Continuous:</b> <i>I had been working</i>  \n  <span style=\"color:#154360;\">– كنت أعمل لفترة قبل حدث آخر</span></li>\n</ul>\n\n<hr>\n\n<h3 style=\"color:#2874a6;\">🚀 3. Future Tenses (المستقبل)</h3>\n<ul>\n  <li><b>Simple Future:</b> <i>I will work</i>  \n  <span style=\"color:#154360;\">– سأعمل</span></li>\n\n  <li><b>Future Continuous:</b> <i>I will be working</i>  \n  <span style=\"color:#154360;\">– سأكون أعمل</span></li>\n\n  <li><b>Future Perfect:</b> <i>I will have worked</i>  \n  <span style=\"color:#154360;\">– سأكون قد عملت</span></li>\n\n  <li><b>Future Perfect Continuous:</b> <i>I will have been working</i>  \n  <span style=\"color:#154360;\">– سأكون أعمل لفترة زمنية</span></li>\n</ul>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">🧠 Understanding Usage</h3>\n\n<p style=\"color:#8b0000;\">\n<b>Key Insight:</b><br>\n• <b>Simple tenses</b> → facts & habits<br>\n• <b>Continuous tenses</b> → actions in progress<br>\n• <b>Perfect tenses</b> → completed actions with time connection<br>\n• <b>Perfect continuous tenses</b> → duration of actions\n</p>\n\n<p style=\"color:#154360;\">\n<b>الخلاصة بالعربية:</b><br>\nالأزمنة البسيطة للحقائق، والمستمرة للأحداث الجارية، \nوالكاملة للأفعال المنتهية، والكاملة المستمرة للمدة الزمنية.\n</p>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">✍️ Example Sentences</h3>\n<ul>\n  <li><b>Present Simple:</b> She writes emails every day.</li>\n  <li><b>Present Continuous:</b> She is writing an email now.</li>\n  <li><b>Past Perfect:</b> She had written the report before the meeting.</li>\n  <li><b>Future Perfect:</b> She will have finished the project by next week.</li>\n</ul>",
+  "culturalNotes": "<p style=\"color:#8b0000;\">\nIn American culture, verb tense accuracy reflects clarity, professionalism, and respect for time.\nCorrect tense usage is essential in business, education, and everyday communication.\n</p>\n\n<p style=\"color:#154360;\">\nفي الثقافة الأمريكية، الدقة في استخدام الأزمنة تعكس الاحترافية والوضوح واحترام الوقت،\nوهي مهارة أساسية في العمل والحياة اليومية.\n</p>",
+  "vocabulary": [
+    {
+      "word": "Verb Tense",
+      "definition": "A form of a verb that shows when an action happens",
+      "example": "The verb tense tells us if the action is in the past, present, or future.",
+      "translation": "زمن الفعل"
+    },
+    {
+      "word": "Conjugate",
+      "definition": "To change a verb form according to tense, person, or number",
+      "example": "You need to conjugate the verb 'to be' correctly: I am, you are, he is.",
+      "translation": "تصريف الفعل"
+    },
+    {
+      "word": "Simple Present",
+      "definition": "A tense used for habits, facts, and general truths",
+      "example": "I work every day. The sun rises in the east.",
+      "translation": "المضارع البسيط"
+    },
+    {
+      "word": "Present Continuous",
+      "definition": "A tense used for actions happening right now",
+      "example": "I am working on my homework right now.",
+      "translation": "المضارع المستمر"
+    },
+    {
+      "word": "Present Perfect",
+      "definition": "A tense connecting past actions to the present",
+      "example": "I have worked here for five years.",
+      "translation": "المضارع التام"
+    },
+    {
+      "word": "Simple Past",
+      "definition": "A tense used for completed actions in the past",
+      "example": "I worked yesterday.",
+      "translation": "الماضي البسيط"
+    },
+    {
+      "word": "Future Tense",
+      "definition": "A tense used for actions that will happen",
+      "example": "I will work tomorrow.",
+      "translation": "المستقبل"
+    },
+    {
+      "word": "Duration",
+      "definition": "The length of time something continues",
+      "example": "The duration of the meeting was two hours.",
+      "translation": "المدة الزمنية"
+    }
+  ],
+  "materials": [
+    "Interactive exercises",
+    "Sentence-building tasks",
+    "Contextual quizzes",
+    "Multilingual explanations (EN / AR)"
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Which tense is used for actions happening right now?",
+      "options": ["Simple Present", "Present Continuous", "Present Perfect", "Simple Past"],
+      "correctAnswer": 1,
+      "explanation": "Present Continuous is used for actions happening at the moment of speaking.",
+      "xpReward": 10
+    },
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "question": "She ___ (write) emails every day.",
+      "correctAnswer": "writes",
+      "explanation": "Simple Present is used for habitual actions. Third person singular adds 's'.",
+      "xpReward": 10
+    },
+    {
+      "id": 3,
+      "type": "fill_blank",
+      "question": "I ___ (work) on this project since Monday.",
+      "correctAnswer": "have been working",
+      "explanation": "Present Perfect Continuous is used for actions that started in the past and continue to the present.",
+      "xpReward": 15
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Which sentence uses the Past Perfect correctly?",
+      "options": [
+        "I had finished my homework before dinner.",
+        "I have finished my homework before dinner.",
+        "I finished my homework before dinner.",
+        "I was finishing my homework before dinner."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Past Perfect (had + past participle) is used for an action completed before another past action.",
+      "xpReward": 15
+    },
+    {
+      "id": 5,
+      "type": "speaking",
+      "question": "Describe your daily routine using at least three different verb tenses.",
+      "sampleAnswer": "Every morning, I wake up at 7 AM (Simple Present). Right now, I am learning English (Present Continuous). By next year, I will have improved my skills significantly (Future Perfect).",
+      "xpReward": 25
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-12-26T20:00:00.000Z",
+    "version": "3.0",
+    "author": "Prize2Pride Platform",
+    "tags": ["grammar", "verb tenses", "A1", "beginner", "bilingual"]
+  }
+}

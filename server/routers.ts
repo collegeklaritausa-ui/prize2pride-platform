@@ -425,6 +425,21 @@ const aiResponse = typeof messageContent === 'string' ? messageContent : "I'm so
         const result = await generateAvatarSpeech(input.text, input.avatarId);
         return result;
       }),
+
+    generateLessonAudio: publicProcedure
+      .input(z.object({
+        content: z.string().min(1).max(4096),
+        avatarId: z.string().optional().default('nova')
+      }))
+      .mutation(async ({ input }) => {
+        const result = await generateSpeech({
+          text: input.content,
+          voice: 'nova',
+          speed: 1.0,
+          model: 'tts-1-hd'
+        });
+        return result;
+      }),
   }),
 
   // AI Image Generation API

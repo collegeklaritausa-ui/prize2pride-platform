@@ -1,0 +1,553 @@
+{
+  "id": "A1-U2-L10",
+  "unitNumber": 2,
+  "lessonNumber": 10,
+  "level": "A1",
+  "title": "Everyday Activities: Speak About Your Day with Confidence",
+  "subtitle": "Basic phrases and vocabulary for daily life activities in American English",
+  "duration": 60,
+  "overview": {
+    "description": "In this lesson, learners will explore common daily activities and practice simple phrases used in everyday American English conversations. The focus is on building vocabulary and sentence structures that help learners describe their routines and understand others with ease.",
+    "objectives": [
+      "Identify and use 8-10 common daily activity vocabulary words",
+      "Form simple present tense sentences describing daily routines",
+      "Ask and answer basic questions about daily activities",
+      "Understand and use time expressions related to daily life",
+      "Build confidence in speaking about personal daily activities"
+    ],
+    "prerequisites": [
+      "Basic knowledge of English alphabet and pronunciation",
+      "Familiarity with simple greetings and introductions",
+      "Understanding of basic present tense verb forms (I am, you are)"
+    ],
+    "keySkills": [
+      "Vocabulary building",
+      "Simple sentence construction",
+      "Listening and speaking practice",
+      "Cultural awareness of American daily life"
+    ]
+  },
+  "warmUp": {
+    "title": "Daily Activity Brainstorm",
+    "activity": "Students quickly name activities they do every day in their own language or English if possible. This warms up their thinking about daily routines and prepares them for vocabulary learning.",
+    "duration": 5,
+    "instructions": [
+      "Ask students to think about what they do every day from morning to night.",
+      "Have students say or write down as many activities as they can in one minute.",
+      "Share some examples aloud as a class.",
+      "Introduce the idea that today’s lesson will help them talk about these activities in English."
+    ]
+  },
+  "presentation": {
+    "introduction": "Daily life activities are part of everyone's routine, and talking about them helps you connect with others in everyday American settings. Today, we will learn key words and simple phrases to describe what you do during your day—from waking up to going to bed.",
+    "mainContent": [
+      {
+        "section": "Common Daily Activities Vocabulary",
+        "content": "We will learn words for common activities like waking up, eating breakfast, going to work or school, cooking, watching TV, and going to bed. These words help you describe your day clearly.",
+        "examples": [
+          {
+            "sentence": "I wake up at 7 a.m.",
+            "explanation": "Simple present tense to talk about routine."
+          },
+          {
+            "sentence": "She eats breakfast at 8 o'clock.",
+            "explanation": "Shows habitual actions with time."
+          }
+        ],
+        "tips": [
+          "Use simple present tense to talk about routines.",
+          "Say the time using ‘at’ + time for specific activities.",
+          "Practice pronunciation of activity verbs ending in -ing for ongoing actions."
+        ]
+      },
+      {
+        "section": "Asking and Answering Simple Questions",
+        "content": "Learn how to ask about daily activities politely and give short, clear answers. For example, 'What do you do in the morning?' and 'I go to work.'",
+        "examples": [
+          {
+            "sentence": "What do you do after school?",
+            "explanation": "Question using 'do' to ask about routines."
+          },
+          {
+            "sentence": "I watch TV in the evening.",
+            "explanation": "Short answer with subject + verb + time phrase."
+          }
+        ],
+        "tips": [
+          "Use question words like 'What' and 'When' to learn about others’ routines.",
+          "Answer with full sentences to practice grammar and vocabulary."
+        ]
+      }
+    ],
+    "visualAids": [
+      "Picture chart of daily activities with images showing waking up, eating, working, playing, and sleeping.",
+      "Clock images to practice telling time and associating activities with specific times.",
+      "Simple conversation bubbles with sample questions and answers."
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "wake up",
+      "pronunciation": "/weɪk ʌp/",
+      "partOfSpeech": "phrasal verb",
+      "definition": "To stop sleeping and become awake",
+      "example": "I wake up at 6 a.m. every day.",
+      "collocations": [
+        "wake up early",
+        "wake up late"
+      ],
+      "synonyms": [
+        "get up"
+      ],
+      "antonyms": [
+        "fall asleep"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "eat",
+      "pronunciation": "/iːt/",
+      "partOfSpeech": "verb",
+      "definition": "To put food in your mouth and chew it",
+      "example": "She eats breakfast at 7:30 a.m.",
+      "collocations": [
+        "eat breakfast",
+        "eat lunch",
+        "eat dinner"
+      ],
+      "synonyms": [
+        "consume",
+        "have food"
+      ],
+      "antonyms": [],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "go to work",
+      "pronunciation": "/ɡoʊ tu wɜrk/",
+      "partOfSpeech": "verb phrase",
+      "definition": "To travel to your job or place of employment",
+      "example": "He goes to work by bus.",
+      "collocations": [
+        "go to work early",
+        "go to work late"
+      ],
+      "synonyms": [
+        "commute to work"
+      ],
+      "antonyms": [
+        "leave work"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "study",
+      "pronunciation": "/ˈstʌdi/",
+      "partOfSpeech": "verb",
+      "definition": "To learn or review information, often at school",
+      "example": "They study English every day.",
+      "collocations": [
+        "study hard",
+        "study English"
+      ],
+      "synonyms": [
+        "learn",
+        "review"
+      ],
+      "antonyms": [],
+      "register": "neutral",
+      "frequency": "medium"
+    },
+    {
+      "word": "watch TV",
+      "pronunciation": "/wɑtʃ tiˈvi/",
+      "partOfSpeech": "verb phrase",
+      "definition": "To look at a television program",
+      "example": "I watch TV in the evening.",
+      "collocations": [
+        "watch TV shows",
+        "watch TV news"
+      ],
+      "synonyms": [
+        "view television"
+      ],
+      "antonyms": [],
+      "register": "neutral",
+      "frequency": "high"
+    },
+    {
+      "word": "cook",
+      "pronunciation": "/kʊk/",
+      "partOfSpeech": "verb",
+      "definition": "To prepare food by heating it",
+      "example": "She cooks dinner at 6 p.m.",
+      "collocations": [
+        "cook dinner",
+        "cook lunch"
+      ],
+      "synonyms": [
+        "prepare food"
+      ],
+      "antonyms": [],
+      "register": "neutral",
+      "frequency": "medium"
+    },
+    {
+      "word": "clean",
+      "pronunciation": "/kliːn/",
+      "partOfSpeech": "verb",
+      "definition": "To make something free of dirt",
+      "example": "We clean the house on weekends.",
+      "collocations": [
+        "clean the room",
+        "clean the kitchen"
+      ],
+      "synonyms": [
+        "tidy",
+        "wash"
+      ],
+      "antonyms": [
+        "dirty"
+      ],
+      "register": "neutral",
+      "frequency": "medium"
+    },
+    {
+      "word": "go to bed",
+      "pronunciation": "/ɡoʊ tu bɛd/",
+      "partOfSpeech": "verb phrase",
+      "definition": "To lie down to sleep",
+      "example": "I go to bed at 10 p.m.",
+      "collocations": [
+        "go to bed early",
+        "go to bed late"
+      ],
+      "synonyms": [
+        "sleep",
+        "rest"
+      ],
+      "antonyms": [
+        "wake up"
+      ],
+      "register": "neutral",
+      "frequency": "high"
+    }
+  ],
+  "grammar": {
+    "focus": "Simple Present Tense for Daily Routines",
+    "explanation": "We use the simple present tense to talk about habits, routines, and facts. For most verbs, we add -s or -es for he/she/it in the positive form.",
+    "formula": "Subject + base verb (I/you/we/they) OR Subject + verb + s/es (he/she/it)",
+    "examples": [
+      {
+        "correct": "She wakes up at 7 a.m.",
+        "incorrect": "She wake up at 7 a.m.",
+        "explanation": "Add -s for he/she/it in simple present."
+      },
+      {
+        "correct": "I eat breakfast at 8 o'clock.",
+        "incorrect": "I eats breakfast at 8 o'clock.",
+        "explanation": "'I' always uses the base verb without -s."
+      }
+    ],
+    "exceptions": [
+      "The verb 'have' becomes 'has' for he/she/it.",
+      "Use 'do' or 'does' for questions and negatives."
+    ],
+    "practice": [
+      "He (go) to work every day.",
+      "They (watch) TV in the evening.",
+      "I (clean) my room on Saturdays.",
+      "She (cook) dinner after work."
+    ]
+  },
+  "practice": {
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "instructions": "Choose the correct verb form for the sentence.",
+        "questions": [
+          {
+            "question": "She ___ breakfast at 7 a.m.",
+            "options": [
+              "eat",
+              "eats",
+              "eated",
+              "eating"
+            ],
+            "answer": "eats",
+            "explanation": "For 'she', add -s to the verb in simple present."
+          },
+          {
+            "question": "I ___ TV in the evening.",
+            "options": [
+              "watch",
+              "watches",
+              "watched",
+              "watching"
+            ],
+            "answer": "watch",
+            "explanation": "'I' uses the base verb without -s."
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "type": "fill_blank",
+        "instructions": "Complete the sentences with the correct form of the verb in parentheses.",
+        "questions": [
+          {
+            "question": "He ___ (go) to work by car.",
+            "options": [],
+            "answer": "goes",
+            "explanation": "Add -es for 'he' in simple present."
+          },
+          {
+            "question": "They ___ (study) English every day.",
+            "options": [],
+            "answer": "study",
+            "explanation": "'They' uses the base verb."
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "type": "matching",
+        "instructions": "Match the activity with the correct time phrase.",
+        "questions": [
+          {
+            "question": "Match each activity to when it usually happens.",
+            "options": [
+              "wake up",
+              "eat dinner",
+              "go to bed",
+              "watch TV"
+            ],
+            "answer": [
+              "in the morning",
+              "in the evening",
+              "at night",
+              "in the evening"
+            ],
+            "explanation": "Common times for these activities."
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "type": "multiple_choice",
+        "instructions": "Choose the best answer to complete the question.",
+        "questions": [
+          {
+            "question": "___ do you wake up?",
+            "options": [
+              "What",
+              "Where",
+              "When",
+              "Who"
+            ],
+            "answer": "When",
+            "explanation": "'When' is used to ask about time."
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "type": "fill_blank",
+        "instructions": "Write the correct form of the verb and time phrase.",
+        "questions": [
+          {
+            "question": "I ___ (go) to bed ___ 10 p.m.",
+            "options": [],
+            "answer": "go / at",
+            "explanation": "'I go' is simple present; use 'at' before specific times."
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "type": "multiple_choice",
+        "instructions": "Select the correct question form.",
+        "questions": [
+          {
+            "question": "___ she watch TV after dinner?",
+            "options": [
+              "Do",
+              "Does",
+              "Is",
+              "Are"
+            ],
+            "answer": "Does",
+            "explanation": "'Does' is used with he/she/it in questions."
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "type": "fill_blank",
+        "instructions": "Complete with the correct verb form.",
+        "questions": [
+          {
+            "question": "They (clean) the house on Saturdays.",
+            "options": [],
+            "answer": "clean",
+            "explanation": "'They' uses the base verb."
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "type": "matching",
+        "instructions": "Match the question to the correct answer.",
+        "questions": [
+          {
+            "question": "Match the questions with answers.",
+            "options": [
+              "What time do you wake up?",
+              "When do you eat lunch?",
+              "Where do you work?"
+            ],
+            "answer": [
+              "I wake up at 7 a.m.",
+              "I eat lunch at noon.",
+              "I work at a store."
+            ],
+            "explanation": "Matching appropriate question-answer pairs."
+          }
+        ],
+        "difficulty": "medium"
+      }
+    ],
+    "interactiveActivities": [
+      {
+        "name": "Daily Routine Role-Play",
+        "type": "role-play",
+        "description": "Students pair up and ask each other about their daily routines using learned vocabulary and simple present tense.",
+        "steps": [
+          "Review question and answer phrases as a class.",
+          "In pairs, take turns asking 'What do you do in the morning?' and similar questions.",
+          "Answer using complete sentences, e.g., 'I eat breakfast at 8 a.m.'",
+          "Switch roles and repeat.",
+          "Share some dialogues with the class."
+        ],
+        "materials": [
+          "Role-play cards with questions and time prompts",
+          "Visual daily routine chart for reference"
+        ]
+      }
+    ]
+  },
+  "production": {
+    "speakingTask": {
+      "title": "Describe Your Daily Routine",
+      "description": "Students will speak for 1-2 minutes describing their own daily activities using vocabulary and simple present tense.",
+      "prompts": [
+        "What time do you wake up?",
+        "What do you eat for breakfast?",
+        "Do you go to work or school?",
+        "What do you do in the evening?",
+        "What time do you go to bed?"
+      ],
+      "evaluationCriteria": [
+        "Use of simple present tense verbs correctly",
+        "Accurate use of daily activity vocabulary",
+        "Clear pronunciation and sentence structure",
+        "Ability to answer follow-up questions"
+      ]
+    },
+    "writingTask": {
+      "title": "My Daily Activities Paragraph",
+      "description": "Write a short paragraph describing your daily routine using at least 5 vocabulary words from today’s lesson.",
+      "prompt": "Write about what you do every day from morning to night. Use simple sentences and time phrases.",
+      "wordCount": {
+        "min": 50,
+        "max": 100
+      },
+      "evaluationCriteria": [
+        "Use of simple present tense",
+        "Inclusion of vocabulary words related to daily activities",
+        "Coherent and clear sentence structure",
+        "Correct spelling and punctuation"
+      ]
+    }
+  },
+  "review": {
+    "keyPoints": [
+      "Simple present tense is used for daily routines and habits.",
+      "Add -s or -es for he, she, it in positive sentences.",
+      "Use question words like 'What' and 'When' to ask about activities.",
+      "Common daily activities vocabulary helps describe routines clearly.",
+      "Practice speaking and writing helps build confidence."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "She go to work at 8 a.m.",
+        "correction": "She goes to work at 8 a.m.",
+        "explanation": "Add -es for 'she' in simple present tense."
+      },
+      {
+        "mistake": "I watches TV every day.",
+        "correction": "I watch TV every day.",
+        "explanation": "'I' uses the base verb without -s."
+      },
+      {
+        "mistake": "When you wake up?",
+        "correction": "When do you wake up?",
+        "explanation": "Use 'do' for questions in simple present."
+      }
+    ],
+    "selfAssessment": [
+      {
+        "question": "Which sentence is correct?",
+        "options": [
+          "He eat breakfast at 7 a.m.",
+          "He eats breakfast at 7 a.m.",
+          "He eating breakfast at 7 a.m.",
+          "He eated breakfast at 7 a.m."
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "extension": {
+    "additionalResources": [
+      {
+        "title": "Daily Routines in American English",
+        "type": "video",
+        "description": "A short video showing common American daily activities with subtitles."
+      },
+      {
+        "title": "American English Time Telling App",
+        "type": "app",
+        "description": "An interactive app to practice telling time and associating activities."
+      },
+      {
+        "title": "Simple Present Tense Exercises",
+        "type": "article",
+        "description": "Practice exercises focused on simple present tense for daily routines."
+      }
+    ],
+    "challengeActivities": [
+      "Write a diary entry describing your day using new vocabulary and time expressions.",
+      "Interview a partner about their daily routine and report back to the class.",
+      "Create a daily schedule chart using American time formats (12-hour clock with a.m./p.m.)."
+    ],
+    "realWorldApplication": "Talking about your daily activities helps you make friends, join conversations, and manage appointments in American settings such as school, work, or community events.",
+    "culturalNotes": "In American culture, sharing your daily routine is a common way to build connections and small talk. Americans often ask about work, meals, and free time to learn more about others."
+  },
+  "metadata": {
+    "avatarId": "tutor-lily",
+    "category": "Daily Life",
+    "tags": [
+      "A1",
+      "Activities",
+      "Daily Life"
+    ],
+    "xpReward": 50,
+    "estimatedCompletionTime": 60,
+    "createdAt": "2025-12-26T20:07:23.296Z",
+    "version": "2.0"
+  }
+}
