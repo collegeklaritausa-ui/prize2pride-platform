@@ -18,6 +18,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Separator } from "@/components/ui/separator";
 import { trpc } from "@/lib/trpc";
 import { toast } from "sonner";
+import AmosPlayer from "@/components/AmosPlayer";
 import {
   Play,
   Pause,
@@ -109,6 +110,34 @@ export default function LessonViewer() {
   // UI state
   const [activeTab, setActiveTab] = useState("content");
   const [showTranslation, setShowTranslation] = useState(false);
+  const [showAmos, setShowAmos] = useState(false);
+  const [amosData, setAmosData] = useState<any>(null);
+  const [isAmosLoading, setIsAmosLoading] = useState(false);
+
+  const amosMutation = trpc.amos.orchestrate.useMutation({
+    onSuccess: (data) => {
+      setAmosData(data);
+      setShowAmos(true);
+      setIsAmosLoading(false);
+    },
+    onError: (err) => {
+      toast.error("Failed to launch AMOS: " + err.message);
+      setIsAmosLoading(false);
+    }
+  });
+
+  const handleLaunchAmos = () => {
+    setIsAmosLoading(true);
+    amosMutation.mutate({
+      lessonId: lessonData.id,
+      lessonTitle: lessonData.title,
+      lessonContent: lessonData.content.replace(/<[^>]*>/g, ''), // Strip HTML for TTS
+      avatarId: lessonData.avatarId,
+      avatarImagePath: `/avatars/${lessonData.avatarId}.png`,
+      language: 'en',
+      studioTheme: 'casino-gold'
+    });
+  };
   const [currentExercise, setCurrentExercise] = useState(0);
   const [exerciseAnswers, setExerciseAnswers] = useState<Record<number, number | string>>({});
   const [exerciseResults, setExerciseResults] = useState<Record<number, boolean>>({});
@@ -408,10 +437,22 @@ Correct tense usage is essential in business, education, and everyday communicat
                 </div>
               </div>
             </div>
-            <div className="flex items-center gap-3">
+            <div className="flex flex-col items-end gap-3">
               <div className="w-16 h-16 rounded-full bg-white/20 flex items-center justify-center">
                 <GraduationCap className="h-8 w-8" />
               </div>
+              <Button
+                onClick={handleLaunchAmos}
+                disabled={isAmosLoading}
+                className="bg-white text-primary hover:bg-white/90 border-0 shadow-lg font-bold"
+              >
+                {isAmosLoading ? (
+                  <Loader2 className="w-4 h-4 mr-2 animate-spin" />
+                ) : (
+                  <Sparkles className="w-4 h-4 mr-2" />
+                )}
+                Launch AMOS
+              </Button>
             </div>
           </div>
         </motion.div>
@@ -865,6 +906,22 @@ Correct tense usage is essential in business, education, and everyday communicat
           </p>
         </div>
       </div>
+
+      {/* AMOS Multimedia Experience Modal */}
+      <AnimatePresence>
+        {showAmos && amosData && (
+          <AmosPlayer
+            videoUrl={amosData.output.videoUrl}
+            audioUrl={amosData.output.audioUrl}
+            subtitles={amosData.output.subtitles}
+            lessonTitle={lessonData.title}
+            lessonLevel={lessonData.level}
+            avatarName={lessonData.avatarId}
+            themeConfig={amosData.theme}
+            onClose={() => setShowAmos(false)}
+          />
+        )}
+      </AnimatePresence>
     </DashboardLayout>
   );
 }

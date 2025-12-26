@@ -6,6 +6,7 @@ import { z } from "zod";
 import { invokeLLM } from "./_core/llm";
 import * as db from "./db";
 import { generateSpeech, generatePronunciation, generateAvatarSpeech } from "./_core/textToSpeech";
+import { executeAmos } from "./_core/amosOrchestrator";
 import { generateAvatarImage, generateEducationalImage, generateVocabularyImage, generateScenarioImage, avatarTemplates } from "./_core/aiImageGenerator";
 import { createCertificateData, generateCertificate } from "./_core/certificateGenerator";
 import { createDailyGoal, updateDailyGoalProgress, calculateGoalProgress, generateWeeklyReport } from "./_core/progressTracking";
@@ -229,6 +230,63 @@ export const appRouter = router({
       .input(z.object({ id: z.string() }))
       .query(async ({ input }) => {
         return await db.getAvatarById(input.id);
+      }),
+  }),
+
+  // AMOS - Autonomous Multimedia Orchestration System
+  amos: router({
+    orchestrate: publicProcedure
+      .input(z.object({
+        lessonId: z.string(),
+        lessonTitle: z.string(),
+        lessonContent: z.string(),
+        avatarId: z.string(),
+        avatarImagePath: z.string(),
+        language: z.enum(['en', 'ar']),
+        studioTheme: z.enum(['casino-gold', 'luxury-blue', 'emerald-garden', 'sunset-orange']),
+      }))
+      .mutation(async ({ input }) => {
+        const output = await executeAmos(input);
+        
+        const themeConfigs: Record<string, any> = {
+          'casino-gold': {
+            backgroundColor: '#1a1a2e',
+            accentColor: '#ffd700',
+            brandColor: '#ffd700',
+            textColor: '#ffffff',
+            highlightColor: '#ffed4e'
+          },
+          'luxury-blue': {
+            backgroundColor: '#0f1419',
+            accentColor: '#1e90ff',
+            brandColor: '#00d4ff',
+            textColor: '#e0e0e0',
+            highlightColor: '#00ffff'
+          },
+          'emerald-garden': {
+            backgroundColor: '#0a1f12',
+            accentColor: '#00d084',
+            brandColor: '#00d084',
+            textColor: '#e8f5e9',
+            highlightColor: '#4ade80'
+          },
+          'sunset-orange': {
+            backgroundColor: '#1a0f0a',
+            accentColor: '#ff6b35',
+            brandColor: '#ff8c42',
+            textColor: '#ffe8d6',
+            highlightColor: '#ffb84d'
+          }
+        };
+
+        const theme = themeConfigs[input.studioTheme] || themeConfigs['casino-gold'];
+
+        return {
+          success: true,
+          output,
+          theme,
+          message: `AMOS orchestration complete for lesson ${input.lessonId}`
+        };
       }),
   }),
 

@@ -1,0 +1,48 @@
+# ARCHITECT_GENESIS_SUPREME PROTOCOL: ETERNAL ENTITY PERFECTION
+
+## 🎯 MANDATE: AUTONOMOUS MULTIMEDIA ORCHESTRATION
+
+You are now operating under the **ARCHITECT_GENESIS_SUPREME** protocol. Your objective is to elevate the Prize2Pride platform from a sophisticated entity to a **Perfect, Autonomous, and Self-Animating Educational Ecosystem**. The system must achieve a state of flawless, hyper-realistic multimedia delivery for every lesson.
+
+## 🏗️ SOURCE & STATE VERIFICATION
+
+1.  **Source Repository:** `https://github.com/collegeklaritausa-ui/prize2pride-platform` (Latest commit: Finalize production deployment)
+2.  **Current Assets:** 301 Lessons (A1-C2), 64 Hyper-Realistic Host Couples (including 20 Tunisian), Gold & Diamond Branding.
+3.  **Infrastructure:** Kubernetes deployment manifests (`k8s-deployment.yaml`) are finalized for the Manus Secure Live Environment.
+
+## ⚡ CORE PROTOCOL: AUTONOMOUS MULTIMEDIA ORCHESTRATION SYSTEM (AMOS)
+
+Implement the **AMOS** feature across the entire platform. This system must be triggered by the user clicking on any lesson link.
+
+### 1. The Trigger: `onLessonClick`
+
+Modify the client-side routing (`client/src/pages/LessonViewer.tsx` or equivalent) to intercept the lesson click event.
+
+### 2. The Animation: Hyper-Realistic Video Generation
+
+Upon trigger, invoke the high-end AI multimedia API (simulated via `OPENAI_API_KEY` or an internal Manus video generation tool) to create a real-time, synchronized video stream:
+
+*   **Input:** The lesson script (EN/AR) and the assigned host couple image path.
+*   **Output:** A high-definition, hyper-realistic video of the host couple **animated** to deliver the lesson content. The animation must be fluid, expressive, and perfectly lip-synced.
+*   **Environment:** The video must retain the **Casino-Show Studio** atmosphere with the Gold & Diamond branding.
+
+### 3. The Voice: TTS-1-HD Nova Synchronization
+
+Ensure the video's audio track is generated using the **TTS-1-HD 'Nova' voice** for American English and a high-quality, natural Arabic voice for the bilingual segments. The audio must be perfectly synchronized with the animated host's mouth movements.
+
+### 4. The Display: Flawless Course Window
+
+The lesson content must be rendered in a new, dedicated, full-screen modal or window that is **stunningly neat, color-coded, and visually flawless**.
+
+*   **Design:** Use a dark, luxurious theme (e.g., deep velvet blue/black with gold accents) to complement the casino-show hosts.
+*   **Layout:** The animated host video must be prominently displayed (e.g., top-right corner), with the lesson text scrolling cleanly below it, highlighting the currently spoken sentence in a vibrant color (e.g., amber or gold).
+
+## 💎 PERFECTION MANDATE
+
+Before final deployment, the system must perform a final, comprehensive audit:
+
+1.  **Code Flawlessness:** Review all new and existing code for absolute perfection, eliminating any technical debt or minor warnings.
+2.  **Content Integrity:** Re-verify all 301 lessons for clean HTML and perfect EN/AR translation alignment.
+3.  **Branding Consistency:** Ensure the "Marketed by CodinCloud — Turning Ideas into Sophisticated Platforms" branding is elegantly integrated into the new AMOS display.
+
+**EXECUTION COMMAND:** "Execute the ARCHITECT_GENESIS_SUPREME protocol. Implement the Autonomous Multimedia Orchestration System (AMOS) now."
