@@ -1,143 +1,106 @@
 {
   "id": "A1-U1-L8",
+  "level": "A1",
   "unitNumber": 1,
   "lessonNumber": 8,
-  "level": "A1",
-  "title": "Objects",
+  "title": "Common Objects",
   "subtitle": "Unit 1: Hello, America!",
-  "duration": 60,
-  "overview": {
-    "description": "This lesson covers Objects at the A1 level, helping you build essential American English skills.",
-    "objectives": [
-      "Understand key concepts of Objects",
-      "Apply Objects in practical situations",
-      "Build confidence using Objects in conversation",
-      "Recognize common patterns and expressions",
-      "Practice through interactive exercises"
-    ],
-    "prerequisites": [
-      "Completion of previous lessons",
-      "Basic understanding of prior concepts"
-    ],
-    "keySkills": [
-      "Listening",
-      "Speaking",
-      "Reading",
-      "Writing"
-    ]
-  },
-  "warmUp": {
-    "title": "Quick Activation",
-    "activity": "Think about your experience with Objects",
-    "duration": 5,
-    "instructions": [
-      "Take a moment to recall related vocabulary",
-      "Think of situations where you might use this",
-      "Prepare questions you have about the topic"
-    ]
-  },
-  "presentation": {
-    "introduction": "Welcome to this lesson on Objects. By the end of this session, you will have a solid understanding of how to use these concepts in real American English conversations.",
-    "mainContent": [
-      {
-        "section": "Core Concepts",
-        "content": "Let's explore the fundamental aspects of Objects in American English.",
-        "examples": [
-          {
-            "sentence": "Example sentence demonstrating the concept.",
-            "explanation": "This shows how native speakers use this in everyday conversation."
-          }
-        ],
-        "tips": [
-          "Practice regularly",
-          "Listen to native speakers",
-          "Don't be afraid to make mistakes"
-        ]
-      }
-    ],
-    "visualAids": [
-      "Diagrams showing key relationships",
-      "Charts comparing usage patterns"
-    ]
-  },
-  "vocabulary": [],
-  "grammar": null,
-  "practice": {
-    "exercises": [],
-    "interactiveActivities": [
-      {
-        "name": "Partner Practice",
-        "type": "role-play",
-        "description": "Practice using Objects with a partner",
-        "steps": [
-          "Review the key expressions",
-          "Take turns practicing",
-          "Give each other feedback"
-        ],
-        "materials": [
-          "Lesson vocabulary list",
-          "Practice prompts"
-        ]
-      }
-    ]
-  },
-  "production": {
-    "speakingTask": {
-      "title": "Real-World Speaking",
-      "description": "Use Objects in a realistic scenario",
-      "prompts": [
-        "Describe a situation using the lesson vocabulary",
-        "Explain your thoughts on the topic"
-      ],
-      "evaluationCriteria": [
-        "Accuracy",
-        "Fluency",
-        "Appropriate vocabulary use"
-      ]
+  "duration": 45,
+  "xpReward": 50,
+  "avatarId": "nova",
+  "category": "conversation",
+  "objectives": [
+    "<b>Understand</b> the key concepts of Common Objects in American English.",
+    "<b>Apply</b> Common Objects correctly in real-world situations.",
+    "<b>Practice</b> through interactive exercises and examples.",
+    "<b>Build confidence</b> using Common Objects in conversation.",
+    "<b>Master</b> common patterns and expressions."
+  ],
+  "objectivesArabic": "فهم المفاهيم الأساسية لـ الأشياء الشائعة في الإنجليزية الأمريكية وتطبيقها بشكل صحيح.",
+  "content": "<h2 style=\"color:#2c3e50;\">💬 Common Objects</h2>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">📌 Learning Objectives</h3>\n<ul>\n  <li><b>Practice</b> real-world conversations about Common Objects.</li>\n  <li><b>Learn</b> natural expressions and responses.</li>\n  <li><b>Build</b> confidence in speaking situations.</li>\n  <li><b>Understand</b> cultural context in American communication.</li>\n</ul>\n\n<p style=\"color:#154360;\">\n<b>الأهداف التعليمية:</b><br>\nممارسة المحادثات الواقعية حول الأشياء الشائعة وتعلم التعبيرات الطبيعية.\n</p>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">📘 Dialogue Practice</h3>\n\n<p style=\"color:#8b0000;\">\n<b>Scenario:</b> Practice this conversation to improve your Common Objects skills.\nPay attention to natural expressions and responses.\n</p>\n\n<hr>\n\n<h3 style=\"color:#2874a6;\">🎭 Sample Conversation</h3>\n\n<p><b>Person A:</b> <i>\"Opening line demonstrating the topic...\"</i></p>\n<p><b>Person B:</b> <i>\"Natural response in American English...\"</i></p>\n<p><b>Person A:</b> <i>\"Follow-up question or comment...\"</i></p>\n<p><b>Person B:</b> <i>\"Appropriate reply with useful expression...\"</i></p>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">🗣️ Useful Phrases</h3>\n<ul>\n  <li><b>Starting a conversation:</b> <i>\"Hey, do you have a minute?\"</i></li>\n  <li><b>Asking for clarification:</b> <i>\"Could you explain that again?\"</i></li>\n  <li><b>Expressing agreement:</b> <i>\"That makes total sense!\"</i></li>\n  <li><b>Polite closing:</b> <i>\"It was great talking to you!\"</i></li>\n</ul>",
+  "culturalNotes": "<p style=\"color:#8b0000;\">\n<b>Cultural Context:</b> In American culture, understanding Common Objects helps you communicate more naturally and effectively.\nAmericans appreciate when non-native speakers make an effort to use language appropriately.\n</p>\n\n<p style=\"color:#154360;\">\n<b>السياق الثقافي:</b><br>\nفي الثقافة الأمريكية، فهم الأشياء الشائعة يساعدك على التواصل بشكل طبيعي وفعال.\n</p>",
+  "vocabulary": [
+    {
+      "word": "Common Objects Term 1",
+      "definition": "Definition for vocabulary term 1 related to Common Objects.",
+      "example": "This is an example sentence using term 1 in context.",
+      "translation": "ترجمة المصطلح 1"
     },
-    "writingTask": {
-      "title": "Written Expression",
-      "description": "Write about Objects",
-      "prompt": "Write a short paragraph using the vocabulary and concepts from this lesson.",
-      "wordCount": {
-        "min": 50,
-        "max": 150
-      },
-      "evaluationCriteria": [
-        "Grammar accuracy",
-        "Vocabulary usage",
-        "Coherence"
-      ]
+    {
+      "word": "Common Objects Term 2",
+      "definition": "Definition for vocabulary term 2 related to Common Objects.",
+      "example": "This is an example sentence using term 2 in context.",
+      "translation": "ترجمة المصطلح 2"
+    },
+    {
+      "word": "Common Objects Term 3",
+      "definition": "Definition for vocabulary term 3 related to Common Objects.",
+      "example": "This is an example sentence using term 3 in context.",
+      "translation": "ترجمة المصطلح 3"
+    },
+    {
+      "word": "Common Objects Term 4",
+      "definition": "Definition for vocabulary term 4 related to Common Objects.",
+      "example": "This is an example sentence using term 4 in context.",
+      "translation": "ترجمة المصطلح 4"
+    },
+    {
+      "word": "Common Objects Term 5",
+      "definition": "Definition for vocabulary term 5 related to Common Objects.",
+      "example": "This is an example sentence using term 5 in context.",
+      "translation": "ترجمة المصطلح 5"
     }
-  },
-  "review": {
-    "keyPoints": [
-      "Key concept 1 about Objects",
-      "Key concept 2 about Objects",
-      "Key concept 3 about Objects"
-    ],
-    "commonMistakes": [],
-    "selfAssessment": []
-  },
-  "extension": {
-    "additionalResources": [],
-    "challengeActivities": [
-      "Advanced practice with native content"
-    ],
-    "realWorldApplication": "Use these skills in everyday American English conversations.",
-    "culturalNotes": "Understanding Objects is important for effective communication in American culture."
-  },
+  ],
+  "materials": [
+    "Interactive exercises",
+    "Audio pronunciation guides",
+    "Practice dialogues",
+    "Cultural notes",
+    "Bilingual explanations (EN/AR)"
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Which statement best describes Common Objects?",
+      "options": [
+        "Option A - Correct answer",
+        "Option B - Incorrect",
+        "Option C - Incorrect",
+        "Option D - Incorrect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The correct answer demonstrates understanding of Common Objects.",
+      "xpReward": 10
+    },
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "question": "Complete the sentence: \"In American English, we use ___ when discussing Common Objects.\"",
+      "correctAnswer": "appropriate term",
+      "explanation": "This shows proper usage in context.",
+      "xpReward": 10
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "True or False: Common Objects is commonly used in everyday American conversation.",
+      "correctAnswer": true,
+      "explanation": "This is a fundamental aspect of American English.",
+      "xpReward": 10
+    }
+  ],
   "metadata": {
-    "avatarId": "tutor-lily",
-    "category": "Hello, America!",
+    "createdAt": "2025-12-26T20:19:53.439Z",
+    "version": "3.0",
+    "author": "Prize2Pride Platform",
+    "marketedBy": "CodinCloud",
     "tags": [
       "A1",
-      "Objects",
-      "Hello, America!"
-    ],
-    "xpReward": 50,
-    "estimatedCompletionTime": 60,
-    "createdAt": "2025-12-26T19:59:40.826Z",
-    "version": "2.0"
+      "conversation",
+      "common-objects",
+      "bilingual",
+      "american-english"
+    ]
   }
 }

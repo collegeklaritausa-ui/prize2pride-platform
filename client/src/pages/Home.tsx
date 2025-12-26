@@ -23,6 +23,7 @@ import {
 import { Link } from "wouter";
 import { getLoginUrl } from "@/const";
 import { motion } from "framer-motion";
+import FounderSection from "@/components/FounderSection";
 
 const fadeInUp = {
   initial: { opacity: 0, y: 20 },
@@ -158,8 +159,18 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* Hero Section */}
-      <section className="pt-32 pb-20 gradient-hero relative overflow-hidden">
+      {/* Hero Section with Founder Background */}
+      <section className="pt-32 pb-20 relative overflow-hidden min-h-[90vh]">
+        {/* Founder Classroom Background */}
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ 
+            backgroundImage: 'url(/images/founder-classroom-poster.png)',
+            filter: 'brightness(0.3)'
+          }}
+        />
+        {/* Gradient Overlay */}
+        <div className="absolute inset-0 bg-gradient-to-b from-background/80 via-background/60 to-background" />
         {/* Decorative elements */}
         <div className="absolute top-20 right-10 w-72 h-72 bg-secondary/30 rounded-full blur-3xl" />
         <div className="absolute bottom-10 left-10 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />
@@ -348,6 +359,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Founder Section */}
+      <FounderSection />
 
       {/* CTA Section */}
       <section className="py-24 gradient-navy text-white">

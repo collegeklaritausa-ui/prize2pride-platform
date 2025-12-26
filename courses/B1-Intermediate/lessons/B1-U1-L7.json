@@ -1,0 +1,145 @@
+{
+  "id": "B1-U1-L7",
+  "level": "B1",
+  "unitNumber": 1,
+  "lessonNumber": 7,
+  "title": "Relative Clauses",
+  "subtitle": "Unit 1: Advanced Grammar",
+  "duration": 55,
+  "xpReward": 75,
+  "avatarId": "nova",
+  "category": "grammar",
+  "objectives": [
+    "<b>Understand</b> the key concepts of Relative Clauses in American English.",
+    "<b>Apply</b> Relative Clauses correctly in real-world situations.",
+    "<b>Practice</b> through interactive exercises and examples.",
+    "<b>Build confidence</b> using Relative Clauses in conversation.",
+    "<b>Master</b> common patterns and expressions."
+  ],
+  "objectivesArabic": "فهم المفاهيم الأساسية لـ Relative Clauses في الإنجليزية الأمريكية وتطبيقها بشكل صحيح.",
+  "content": "<h2 style=\"color:#2c3e50;\">🎓 Relative Clauses</h2>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">📌 Learning Objectives</h3>\n<ul>\n  <li><b>Understand</b> the core concepts of Relative Clauses in American English.</li>\n  <li><b>Apply</b> Relative Clauses correctly in speaking and writing.</li>\n  <li><b>Recognize</b> common patterns and usage in real conversations.</li>\n  <li><b>Practice</b> through interactive exercises and examples.</li>\n</ul>\n\n<p style=\"color:#154360;\">\n<b>الأهداف التعليمية:</b><br>\nفهم المفاهيم الأساسية لـ Relative Clauses في الإنجليزية الأمريكية وتطبيقها بشكل صحيح.\n</p>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">📘 Core Content</h3>\n\n<p style=\"color:#8b0000;\">\n<b>Explanation:</b> In American English, mastering Relative Clauses is essential for clear communication.\nThis lesson will guide you through the key concepts and practical applications.\n</p>\n\n<p style=\"color:#154360;\">\n<b>الشرح بالعربية:</b><br>\nإتقان Relative Clauses ضروري للتواصل الواضح في الإنجليزية الأمريكية.\n</p>\n\n<hr>\n\n<h3 style=\"color:#2874a6;\">📝 Key Points</h3>\n<ul>\n  <li><b>Point 1:</b> Understanding the basic structure and rules.</li>\n  <li><b>Point 2:</b> Common usage patterns in everyday conversation.</li>\n  <li><b>Point 3:</b> Exceptions and special cases to remember.</li>\n  <li><b>Point 4:</b> Practice strategies for mastery.</li>\n</ul>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">✍️ Example Sentences</h3>\n<ul>\n  <li><b>Example 1:</b> <i>This demonstrates the concept in action.</i></li>\n  <li><b>Example 2:</b> <i>Here's another practical application.</i></li>\n  <li><b>Example 3:</b> <i>Notice how native speakers use this naturally.</i></li>\n</ul>\n\n<hr>\n\n<h3 style=\"color:#1f618d;\">🧠 Pro Tips</h3>\n<p style=\"color:#8b0000;\">\n<b>Remember:</b> Practice makes perfect! Use these structures in your daily conversations\nto build muscle memory and confidence.\n</p>",
+  "culturalNotes": "<p style=\"color:#8b0000;\">\n<b>Cultural Context:</b> In American culture, understanding Relative Clauses helps you communicate more naturally and effectively.\nAmericans appreciate when non-native speakers make an effort to use language appropriately.\n</p>\n\n<p style=\"color:#154360;\">\n<b>السياق الثقافي:</b><br>\nفي الثقافة الأمريكية، فهم Relative Clauses يساعدك على التواصل بشكل طبيعي وفعال.\n</p>",
+  "vocabulary": [
+    {
+      "word": "Relative Clauses Term 1",
+      "definition": "Definition for vocabulary term 1 related to Relative Clauses.",
+      "example": "This is an example sentence using term 1 in context.",
+      "translation": "ترجمة المصطلح 1"
+    },
+    {
+      "word": "Relative Clauses Term 2",
+      "definition": "Definition for vocabulary term 2 related to Relative Clauses.",
+      "example": "This is an example sentence using term 2 in context.",
+      "translation": "ترجمة المصطلح 2"
+    },
+    {
+      "word": "Relative Clauses Term 3",
+      "definition": "Definition for vocabulary term 3 related to Relative Clauses.",
+      "example": "This is an example sentence using term 3 in context.",
+      "translation": "ترجمة المصطلح 3"
+    },
+    {
+      "word": "Relative Clauses Term 4",
+      "definition": "Definition for vocabulary term 4 related to Relative Clauses.",
+      "example": "This is an example sentence using term 4 in context.",
+      "translation": "ترجمة المصطلح 4"
+    },
+    {
+      "word": "Relative Clauses Term 5",
+      "definition": "Definition for vocabulary term 5 related to Relative Clauses.",
+      "example": "This is an example sentence using term 5 in context.",
+      "translation": "ترجمة المصطلح 5"
+    },
+    {
+      "word": "Relative Clauses Term 6",
+      "definition": "Definition for vocabulary term 6 related to Relative Clauses.",
+      "example": "This is an example sentence using term 6 in context.",
+      "translation": "ترجمة المصطلح 6"
+    },
+    {
+      "word": "Relative Clauses Term 7",
+      "definition": "Definition for vocabulary term 7 related to Relative Clauses.",
+      "example": "This is an example sentence using term 7 in context.",
+      "translation": "ترجمة المصطلح 7"
+    }
+  ],
+  "materials": [
+    "Interactive exercises",
+    "Audio pronunciation guides",
+    "Practice dialogues",
+    "Cultural notes",
+    "Bilingual explanations (EN/AR)"
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Which statement best describes Relative Clauses?",
+      "options": [
+        "Option A - Correct answer",
+        "Option B - Incorrect",
+        "Option C - Incorrect",
+        "Option D - Incorrect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The correct answer demonstrates understanding of Relative Clauses.",
+      "xpReward": 10
+    },
+    {
+      "id": 2,
+      "type": "fill_blank",
+      "question": "Complete the sentence: \"In American English, we use ___ when discussing Relative Clauses.\"",
+      "correctAnswer": "appropriate term",
+      "explanation": "This shows proper usage in context.",
+      "xpReward": 10
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "True or False: Relative Clauses is commonly used in everyday American conversation.",
+      "correctAnswer": true,
+      "explanation": "This is a fundamental aspect of American English.",
+      "xpReward": 10
+    },
+    {
+      "id": 4,
+      "type": "matching",
+      "question": "Match the terms with their definitions.",
+      "pairs": [
+        {
+          "term": "Term 1",
+          "definition": "Definition 1"
+        },
+        {
+          "term": "Term 2",
+          "definition": "Definition 2"
+        },
+        {
+          "term": "Term 3",
+          "definition": "Definition 3"
+        }
+      ],
+      "xpReward": 15
+    },
+    {
+      "id": 5,
+      "type": "speaking",
+      "question": "Describe Relative Clauses using at least three complete sentences.",
+      "sampleAnswer": "Sample answer demonstrating proper usage of Relative Clauses in American English.",
+      "xpReward": 20
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-12-26T20:19:53.459Z",
+    "version": "3.0",
+    "author": "Prize2Pride Platform",
+    "marketedBy": "CodinCloud",
+    "tags": [
+      "B1",
+      "grammar",
+      "relative-clauses",
+      "bilingual",
+      "american-english"
+    ]
+  }
+}
