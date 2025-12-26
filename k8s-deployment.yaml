@@ -38,7 +38,7 @@ metadata:
   namespace: prize2pride
 type: Opaque
 stringData:
-  DATABASE_URL: "mysql://user:password@tidb.manus-cloud.internal:3306/prize2pride?ssl=true"
+  DATABASE_URL: "mysql://prize2pride_user:secure_prod_key@tidb-cluster.manus-cloud.internal:3306/prize2pride?ssl=true"
   JWT_SECRET: "${MANUS_VAULT_JWT_SECRET}"
   SESSION_SECRET: "${MANUS_VAULT_SESSION_SECRET}"
   OPENAI_API_KEY: "${MANUS_VAULT_OPENAI_API_KEY}"
