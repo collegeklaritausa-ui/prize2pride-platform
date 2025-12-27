@@ -13,6 +13,7 @@ import { createDailyGoal, updateDailyGoalProgress, calculateGoalProgress, genera
 import { createAchievementShare, createStreakShare, createCertificateShare, generateShareLinks } from "./_core/socialSharing";
 import { proficiencyLevels, lessonCategories } from "../drizzle/schema";
 import { subscriptionRouter } from "./routers/subscription";
+import { getAllLessonsFromFiles, getLessonByIdFromFiles } from "./lessonFileLoader";
 
 export const appRouter = router({
   system: systemRouter,
@@ -50,31 +51,65 @@ export const appRouter = router({
   lessons: router({
     list: publicProcedure
       .input(z.object({
-        level: z.enum(proficiencyLevels).optional(),
-        category: z.enum(lessonCategories).optional(),
+        level: z.string().optional(),
+        category: z.string().optional(),
       }).optional())
       .query(async ({ input }) => {
-        return await db.getAllLessons(input);
+        // Try database first
+        const dbLessons = await db.getAllLessons(input as any);
+        if (dbLessons && dbLessons.length > 0) return dbLessons;
+        
+        // Fallback to file loader for direct publishing
+        return await getAllLessonsFromFiles(input);
       }),
 
     getById: publicProcedure
       .input(z.object({ id: z.number() }))
       .query(async ({ input }) => {
+        // Try database first
         const [lesson, content, exercises] = await Promise.all([
           db.getLessonById(input.id),
           db.getLessonContent(input.id),
           db.getLessonExercises(input.id),
         ]);
 
-        if (!lesson) return null;
+        if (lesson) return { lesson, content, exercises };
         
-        return { lesson, content, exercises };
+        // Fallback to file loader
+        const fileLesson = await getLessonByIdFromFiles(input.id);
+        if (!fileLesson) return null;
+        
+        return {
+          lesson: {
+            id: fileLesson.id,
+            title: fileLesson.title,
+            description: fileLesson.description,
+            level: fileLesson.level,
+            category: fileLesson.category,
+            duration: fileLesson.duration,
+            xpReward: fileLesson.xpReward,
+            avatarId: fileLesson.avatarId,
+            isPublished: true
+          },
+          content: {
+            content: fileLesson.content,
+            objectives: fileLesson.objectives,
+            culturalNotes: fileLesson.culturalNotes
+          },
+          exercises: fileLesson.exercises,
+          vocabulary: fileLesson.vocabulary
+        };
       }),
 
     getRecommended: protectedProcedure
       .input(z.object({ limit: z.number().default(5) }).optional())
       .query(async ({ ctx, input }) => {
-        return await db.getRecommendedLessons(ctx.user.id, input?.limit || 5);
+        const dbRecommended = await db.getRecommendedLessons(ctx.user.id, input?.limit || 5);
+        if (dbRecommended && dbRecommended.length > 0) return dbRecommended;
+        
+        // Fallback to file loader
+        const allLessons = await getAllLessonsFromFiles();
+        return allLessons.slice(0, input?.limit || 5);
       }),
 
     // Admin: Create lesson
@@ -174,7 +209,13 @@ export const appRouter = router({
     list: publicProcedure
       .input(z.object({ level: z.enum(proficiencyLevels).optional() }).optional())
       .query(async ({ input }) => {
-        return await db.getAllVocabulary(input?.level);
+        const dbVocab = await db.getAllVocabulary(input?.level);
+        if (dbVocab && dbVocab.length > 0) return dbVocab;
+        
+        // Fallback to file loader
+        const allLessons = await getAllLessonsFromFiles({ level: input?.level });
+        const vocab = allLessons.flatMap(l => l.vocabulary || []);
+        return vocab.slice(0, 50); // Limit for performance
       }),
 
     getUserVocabulary: protectedProcedure.query(async ({ ctx }) => {
@@ -427,236 +468,8 @@ const aiResponse = typeof messageContent === 'string' ? messageContent : "I'm so
         await db.createVocabulary(vocab);
       }
 
-      // Seed avatars
-      const sampleAvatars = [
-        { id: "emma", name: "Emma", personality: "Friendly and patient American English teacher from California. Uses casual, encouraging language.", specialty: "Daily Conversation" },
-        { id: "james", name: "James", personality: "Professional business consultant from New York. Formal yet approachable communication style.", specialty: "Business English" },
-        { id: "sophia", name: "Sophia", personality: "Enthusiastic travel blogger who loves sharing stories. Uses vivid descriptions and travel vocabulary.", specialty: "Travel English" },
-        { id: "michael", name: "Michael", personality: "Academic professor with expertise in clear explanations. Patient and thorough in teaching.", specialty: "Academic English" },
-      ];
-
-      for (const avatar of sampleAvatars) {
-        await db.createAvatar(avatar);
-      }
-
-      // Seed achievements
-      const sampleAchievements = [
-        { name: "First Steps", description: "Complete your first lesson", xpReward: 50, requirement: JSON.stringify({ type: "lessons_completed", count: 1 }), category: "lessons" as const },
-        { name: "Dedicated Learner", description: "Complete 10 lessons", xpReward: 200, requirement: JSON.stringify({ type: "lessons_completed", count: 10 }), category: "lessons" as const },
-        { name: "Vocabulary Builder", description: "Add 50 words to your flashcard collection", xpReward: 100, requirement: JSON.stringify({ type: "vocabulary_added", count: 50 }), category: "vocabulary" as const },
-        { name: "Week Warrior", description: "Maintain a 7-day learning streak", xpReward: 150, requirement: JSON.stringify({ type: "streak", count: 7 }), category: "streak" as const },
-        { name: "Level Up", description: "Reach level 5", xpReward: 250, requirement: JSON.stringify({ type: "level", count: 5 }), category: "level" as const },
-      ];
-
-      for (const achievement of sampleAchievements) {
-        await db.createAchievement(achievement);
-      }
-
-      return { success: true, message: "Sample data seeded successfully" };
+      return { success: true };
     }),
-  }),
-
-  // Text-to-Speech API
-  tts: router({
-    generateSpeech: protectedProcedure
-      .input(z.object({
-        text: z.string(),
-        voice: z.enum(['alloy', 'echo', 'fable', 'onyx', 'nova', 'shimmer']).optional(),
-        speed: z.number().min(0.25).max(4).optional()
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateSpeech(input);
-        return result;
-      }),
-
-    generatePronunciation: protectedProcedure
-      .input(z.object({ word: z.string() }))
-      .mutation(async ({ input }) => {
-        const result = await generatePronunciation(input.word);
-        return result;
-      }),
-
-    generateAvatarSpeech: protectedProcedure
-      .input(z.object({
-        text: z.string(),
-        avatarId: z.string()
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateAvatarSpeech(input.text, input.avatarId);
-        return result;
-      }),
-
-    generateLessonAudio: publicProcedure
-      .input(z.object({
-        content: z.string().min(1).max(4096),
-        avatarId: z.string().optional().default('nova')
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateSpeech({
-          text: input.content,
-          voice: 'nova',
-          speed: 1.0,
-          model: 'tts-1-hd'
-        });
-        return result;
-      }),
-  }),
-
-  // AI Image Generation API
-  aiImages: router({
-    generateAvatar: protectedProcedure
-      .input(z.object({
-        avatarId: z.string(),
-        pose: z.enum(['portrait', 'teaching', 'presenting', 'thinking', 'celebrating']).optional(),
-        emotion: z.enum(['neutral', 'happy', 'encouraging', 'thoughtful', 'excited']).optional()
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateAvatarImage(
-          input.avatarId,
-          input.pose || 'portrait',
-          input.emotion || 'neutral'
-        );
-        return result;
-      }),
-
-    generateEducational: protectedProcedure
-      .input(z.object({
-        topic: z.string(),
-        level: z.enum(['A1', 'A2', 'B1', 'B2', 'C1', 'C2']),
-        category: z.string(),
-        style: z.enum(['realistic', 'illustrated', 'infographic', 'diagram']).optional()
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateEducationalImage({
-          ...input,
-          style: input.style || 'realistic'
-        });
-        return result;
-      }),
-
-    generateVocabulary: protectedProcedure
-      .input(z.object({
-        word: z.string(),
-        definition: z.string(),
-        exampleSentence: z.string(),
-        level: z.string()
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateVocabularyImage(
-          input.word,
-          input.definition,
-          input.exampleSentence,
-          input.level
-        );
-        return result;
-      }),
-
-    generateScenario: protectedProcedure
-      .input(z.object({
-        scenario: z.string(),
-        setting: z.string(),
-        mood: z.enum(['professional', 'casual', 'formal', 'relaxed']).optional()
-      }))
-      .mutation(async ({ input }) => {
-        const result = await generateScenarioImage({
-          ...input,
-          mood: input.mood || 'casual'
-        });
-        return result;
-      }),
-
-    getAvatarTemplates: publicProcedure.query(() => {
-      return Object.entries(avatarTemplates).map(([id, config]) => ({
-        id,
-        ...config
-      }));
-    }),
-  }),
-
-  // Certificates API
-  certificates: router({
-    generate: protectedProcedure
-      .input(z.object({
-        lessonTitle: z.string(),
-        level: z.string(),
-        score: z.number(),
-        xpEarned: z.number()
-      }))
-      .mutation(async ({ ctx, input }) => {
-        const certData = createCertificateData(
-          ctx.user.name || 'Learner',
-          input.lessonTitle,
-          input.level,
-          input.score,
-          input.xpEarned
-        );
-        const html = generateCertificate(certData);
-        return { certificateId: certData.certificateId, html };
-      }),
-  }),
-
-  // Daily Goals API
-  goals: router({
-    getDaily: protectedProcedure.query(async ({ ctx }) => {
-      const user = await db.getUserById(ctx.user.id);
-      const goal = createDailyGoal(ctx.user.id, user?.preferredLevel || 'A1');
-      return goal;
-    }),
-
-    updateProgress: protectedProcedure
-      .input(z.object({
-        earnedXp: z.number().optional(),
-        completedLessons: z.number().optional(),
-        reviewedVocabulary: z.number().optional(),
-        practiceMinutes: z.number().optional()
-      }))
-      .mutation(async ({ ctx, input }) => {
-        const user = await db.getUserById(ctx.user.id);
-        const currentGoal = createDailyGoal(ctx.user.id, user?.preferredLevel || 'A1');
-        const updatedGoal = updateDailyGoalProgress(currentGoal, input);
-        const progress = calculateGoalProgress(updatedGoal);
-        return { goal: updatedGoal, progress };
-      }),
-  }),
-
-  // Social Sharing API
-  sharing: router({
-    getAchievementShareLinks: protectedProcedure
-      .input(z.object({
-        achievementName: z.string(),
-        achievementDescription: z.string()
-      }))
-      .query(async ({ ctx, input }) => {
-        const content = createAchievementShare(
-          input.achievementName,
-          input.achievementDescription,
-          ctx.user.name || 'Learner'
-        );
-        return generateShareLinks(content);
-      }),
-
-    getStreakShareLinks: protectedProcedure
-      .input(z.object({ streakDays: z.number() }))
-      .query(async ({ ctx, input }) => {
-        const content = createStreakShare(input.streakDays, ctx.user.name || 'Learner');
-        return generateShareLinks(content);
-      }),
-
-    getCertificateShareLinks: protectedProcedure
-      .input(z.object({
-        lessonTitle: z.string(),
-        level: z.string(),
-        score: z.number()
-      }))
-      .query(async ({ ctx, input }) => {
-        const content = createCertificateShare(
-          input.lessonTitle,
-          input.level,
-          input.score,
-          ctx.user.name || 'Learner'
-        );
-        return generateShareLinks(content);
-      }),
   }),
 });
 
