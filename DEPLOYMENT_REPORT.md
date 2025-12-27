@@ -111,3 +111,131 @@ Beautiful 20-year-old couples in traditional elegant Tunisian attire including:
 ---
 
 **Marketed by CodinCloud — Turning Ideas into Sophisticated Platforms**
+
+
+---
+
+# 🆕 Enhancement Update - December 27, 2025
+
+## ✨ NEW FEATURES ADDED
+
+**Commit:** `41c63be`  
+**Status:** ✅ PUSHED TO GITHUB
+
+---
+
+## 📦 6-Tier Subscription System
+
+| Tier | Price/Month | Daily Limit | Key Features |
+|------|-------------|-------------|--------------|
+| **Freemium** | $0 | 1 Hour | A1 Lessons, Basic Vocabulary |
+| **Bronze** | $5 | 8 Hours | A1-A2 Lessons, Progress Tracking |
+| **Silver** | $10 | 16 Hours | A1-B1 Lessons, AI Conversations |
+| **Gold** | $50 | Unlimited | A1-B2 Lessons, Premium Hosts, Certificates |
+| **Diamond** | $50 | Unlimited | All Lessons, All 64 Hosts, Extended Tutoring |
+| **VIP Millionaire** | $100 | Unlimited | Everything + 24/7 Support, Gold Certificates |
+
+---
+
+## 🎨 New Components
+
+### 1. Stunning Pricing Page (`/pricing`)
+- Animated hero section with floating particles
+- 6 beautifully designed subscription cards
+- Monthly/Yearly billing toggle (17% savings)
+- Feature comparison for each tier
+- FAQ accordion section
+- Call-to-action with Gold recommendation
+
+### 2. LuxuryLessonViewer Component
+- Dark luxurious theme with gold & diamond accents
+- Host couple avatar display with speaking indicator
+- Audio waveform visualization
+- Section-by-section navigation
+- Progress tracking with animated progress bar
+- Keyboard navigation (Arrow keys, Space, Escape)
+- Settings panel for playback customization
+- Bilingual EN/AR support with RTL
+
+### 3. AutonomousLearning Component
+- Real-time usage tracking display
+- Daily limit visualization
+- Smart lesson recommendations
+- Vocabulary review reminders
+- Learning streak tracking
+- Auto-play settings
+- Voice speed control
+- Daily goal progress
+
+### 4. CoursesGallery Page
+- Level-based color coding (A1-C2)
+- Animated course cards with hover effects
+- Filter by level and category
+- Search functionality
+- Grid/List view toggle
+- Progress indicators per course
+
+---
+
+## 🎨 Level Color Scheme
+
+| Level | Theme | Gradient |
+|-------|-------|----------|
+| A1 | Beginner | Emerald/Teal |
+| A2 | Elementary | Blue/Indigo |
+| B1 | Intermediate | Violet/Purple |
+| B2 | Upper Intermediate | Orange/Amber |
+| C1 | Advanced | Pink/Rose |
+| C2 | Mastery | Gold/Yellow |
+
+---
+
+## 🗄️ Database Updates
+
+### New Tables
+- `subscription_packages` - Subscription tier configurations
+- `payment_transactions` - Payment history tracking
+- `usage_logs` - Daily usage logging
+
+### Updated User Fields
+- `subscriptionTier`, `subscriptionStatus`
+- `dailyUsageMinutes`, `lastUsageResetDate`
+- `stripeCustomerId`, `stripeSubscriptionId`
+
+---
+
+## 🔌 New API Endpoints
+
+| Endpoint | Description |
+|----------|-------------|
+| `subscription.getPackages` | Get all subscription packages |
+| `subscription.getMySubscription` | Get user's subscription status |
+| `subscription.checkAccess` | Check content access permissions |
+| `subscription.logUsage` | Log usage time |
+| `subscription.upgradeSubscription` | Upgrade subscription |
+| `subscription.cancelSubscription` | Cancel subscription |
+
+---
+
+## 📁 Files Added
+
+```
+client/src/pages/Pricing.tsx
+client/src/pages/CoursesGallery.tsx
+client/src/components/LuxuryLessonViewer.tsx
+client/src/components/AutonomousLearning.tsx
+server/routers/subscription.ts
+scripts/seed-subscriptions.ts
+```
+
+---
+
+## 🚀 Next Steps
+
+1. **Stripe Integration** - Connect Stripe API for payment processing
+2. **Database Migration** - Run `pnpm drizzle-kit push`
+3. **Seed Subscriptions** - Run `npx tsx scripts/seed-subscriptions.ts`
+
+---
+
+**Marketed by CodinCloud — Turning Ideas into Sophisticated Platforms**
