@@ -12,9 +12,11 @@ import { createCertificateData, generateCertificate } from "./_core/certificateG
 import { createDailyGoal, updateDailyGoalProgress, calculateGoalProgress, generateWeeklyReport } from "./_core/progressTracking";
 import { createAchievementShare, createStreakShare, createCertificateShare, generateShareLinks } from "./_core/socialSharing";
 import { proficiencyLevels, lessonCategories } from "../drizzle/schema";
+import { subscriptionRouter } from "./routers/subscription";
 
 export const appRouter = router({
   system: systemRouter,
+  subscription: subscriptionRouter,
   
   auth: router({
     me: publicProcedure.query(opts => opts.ctx.user),

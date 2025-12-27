@@ -15,6 +15,7 @@ import Certificates from "./pages/Certificates";
 import Courses from "./pages/Courses";
 import CourseDetail from "./pages/CourseDetail";
 import LessonViewer from "./pages/LessonViewer";
+import Pricing from "./pages/Pricing";
 
 function Router() {
   return (
@@ -30,6 +31,7 @@ function Router() {
       <Route path="/vocabulary" component={Vocabulary} />
       <Route path="/achievements" component={Achievements} />
       <Route path="/certificates" component={Certificates} />
+      <Route path="/pricing" component={Pricing} />
       <Route path="/404" component={NotFound} />
       <Route component={NotFound} />
     </Switch>

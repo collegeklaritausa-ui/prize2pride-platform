@@ -1,4 +1,4 @@
-import { int, mysqlEnum, mysqlTable, text, timestamp, varchar, boolean, json, index, uniqueIndex } from "drizzle-orm/mysql-core";
+import { int, mysqlEnum, mysqlTable, text, timestamp, varchar, boolean, json, index, uniqueIndex, decimal } from "drizzle-orm/mysql-core";
 
 /**
  * Core user table backing auth flow.
@@ -20,10 +20,90 @@ export const users = mysqlTable("users", {
   streak: int("streak").default(0).notNull(),
   lastActivityDate: timestamp("lastActivityDate"),
   preferredLevel: mysqlEnum("preferredLevel", ["A1", "A2", "B1", "B2", "C1", "C2"]).default("A1"),
+  // Subscription fields
+  subscriptionTier: mysqlEnum("subscriptionTier", ["freemium", "bronze", "silver", "gold", "diamond", "vip_millionaire"]).default("freemium").notNull(),
+  subscriptionStatus: mysqlEnum("subscriptionStatus", ["active", "cancelled", "expired", "past_due"]).default("active").notNull(),
+  subscriptionStartDate: timestamp("subscriptionStartDate"),
+  subscriptionEndDate: timestamp("subscriptionEndDate"),
+  stripeCustomerId: varchar("stripeCustomerId", { length: 255 }),
+  stripeSubscriptionId: varchar("stripeSubscriptionId", { length: 255 }),
+  // Usage tracking
+  dailyUsageMinutes: int("dailyUsageMinutes").default(0).notNull(),
+  lastUsageResetDate: timestamp("lastUsageResetDate"),
 });
 
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
+
+/**
+ * Subscription packages
+ */
+export const subscriptionPackages = mysqlTable("subscription_packages", {
+  id: int("id").autoincrement().primaryKey(),
+  name: varchar("name", { length: 64 }).notNull().unique(),
+  displayName: varchar("displayName", { length: 128 }).notNull(),
+  tier: mysqlEnum("tier", ["freemium", "bronze", "silver", "gold", "diamond", "vip_millionaire"]).notNull().unique(),
+  priceMonthly: decimal("priceMonthly", { precision: 10, scale: 2 }).notNull(),
+  priceYearly: decimal("priceYearly", { precision: 10, scale: 2 }),
+  dailyLimitMinutes: int("dailyLimitMinutes").notNull(), // -1 for unlimited
+  features: json("features").notNull(), // JSON array of feature strings
+  description: text("description"),
+  badgeColor: varchar("badgeColor", { length: 32 }),
+  iconName: varchar("iconName", { length: 64 }),
+  stripePriceIdMonthly: varchar("stripePriceIdMonthly", { length: 255 }),
+  stripePriceIdYearly: varchar("stripePriceIdYearly", { length: 255 }),
+  isPopular: boolean("isPopular").default(false).notNull(),
+  isActive: boolean("isActive").default(true).notNull(),
+  sortOrder: int("sortOrder").default(0).notNull(),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+});
+
+export type SubscriptionPackage = typeof subscriptionPackages.$inferSelect;
+export type InsertSubscriptionPackage = typeof subscriptionPackages.$inferInsert;
+
+/**
+ * Payment transactions
+ */
+export const paymentTransactions = mysqlTable("payment_transactions", {
+  id: int("id").autoincrement().primaryKey(),
+  userId: int("userId").notNull(),
+  packageId: int("packageId").notNull(),
+  stripePaymentIntentId: varchar("stripePaymentIntentId", { length: 255 }),
+  stripeInvoiceId: varchar("stripeInvoiceId", { length: 255 }),
+  amount: decimal("amount", { precision: 10, scale: 2 }).notNull(),
+  currency: varchar("currency", { length: 3 }).default("USD").notNull(),
+  status: mysqlEnum("status", ["pending", "succeeded", "failed", "refunded"]).default("pending").notNull(),
+  paymentMethod: varchar("paymentMethod", { length: 64 }),
+  billingPeriod: mysqlEnum("billingPeriod", ["monthly", "yearly"]).default("monthly").notNull(),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+}, (table) => ({
+  userIdIdx: index("payment_transactions_userId_idx").on(table.userId),
+  statusIdx: index("payment_transactions_status_idx").on(table.status),
+}));
+
+export type PaymentTransaction = typeof paymentTransactions.$inferSelect;
+export type InsertPaymentTransaction = typeof paymentTransactions.$inferInsert;
+
+/**
+ * Usage logs for tracking daily usage
+ */
+export const usageLogs = mysqlTable("usage_logs", {
+  id: int("id").autoincrement().primaryKey(),
+  userId: int("userId").notNull(),
+  sessionType: mysqlEnum("sessionType", ["lesson", "chat", "practice", "vocabulary"]).notNull(),
+  durationMinutes: int("durationMinutes").notNull(),
+  lessonId: int("lessonId"),
+  metadata: json("metadata"),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+}, (table) => ({
+  userIdIdx: index("usage_logs_userId_idx").on(table.userId),
+  createdAtIdx: index("usage_logs_createdAt_idx").on(table.createdAt),
+}));
+
+export type UsageLog = typeof usageLogs.$inferSelect;
+export type InsertUsageLog = typeof usageLogs.$inferInsert;
 
 /**
  * Proficiency levels for lessons
@@ -69,6 +149,8 @@ export const lessons = mysqlTable("lessons", {
   xpReward: int("xpReward").default(50).notNull(),
   order: int("order").default(0).notNull(),
   isPublished: boolean("isPublished").default(true).notNull(),
+  isPremium: boolean("isPremium").default(false).notNull(), // Premium content flag
+  requiredTier: mysqlEnum("requiredTier", ["freemium", "bronze", "silver", "gold", "diamond", "vip_millionaire"]).default("freemium"),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
   updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
 }, (table) => ({
@@ -278,3 +360,9 @@ export const avatars = mysqlTable("avatars", {
 
 export type Avatar = typeof avatars.$inferSelect;
 export type InsertAvatar = typeof avatars.$inferInsert;
+
+/**
+ * Subscription tier enum for type safety
+ */
+export const subscriptionTiers = ["freemium", "bronze", "silver", "gold", "diamond", "vip_millionaire"] as const;
+export type SubscriptionTier = typeof subscriptionTiers[number];
